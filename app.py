@@ -34,7 +34,7 @@ def add_to_cart(item_name, quantity):
 def clear_bin():
     cart.clear()
     empty_md = "### Cart Items\nYour cart is empty."
-    return empty_md#str(cart)
+    return empty_md#str(cart) ok
 
 
 # Function to get relevant images
