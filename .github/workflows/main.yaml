@@ -100,13 +100,13 @@ jobs:
           ECR_REPOSITORY: ${{ secrets.ECR_REPOSITORY_NAME }}
           IMAGE_TAG: latest
         run: |
-         docker run -d -p 7860:7860 --name=binsenseai -e 'AWS_ACCESS_KEY_ID=${{ secrets.AWS_ACCESS_KEY_ID }}' -e 'AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}' -e 'AWS_REGION=${{ secrets.AWS_REGION }}'  $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+         docker run -d -p 7860:7860 --name=binsenseai-ml -e 'AWS_ACCESS_KEY_ID=${{ secrets.AWS_ACCESS_KEY_ID }}' -e 'AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}' -e 'AWS_REGION=${{ secrets.AWS_REGION }}'  $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
       - name: Copy file resnet34
         run: |
-          docker cp  /home/ubuntu/model/resnet34_siamese_best.pth.tar binsenseai:/app/src/binsenseai/components/object_verification/snapshots/resnet34_siamese_best.pth.tar
+          docker cp  /home/ubuntu/model/resnet34_siamese_best.pth.tar binsenseai-ml:/app/src/binsenseai/components/object_verification/snapshots/resnet34_siamese_best.pth.tar
       - name: Copy file resnet50
         run: |
-          docker cp  /home/ubuntu/model/resnet50_best.pth.tar binsenseai:/app/src/binsenseai/components/object_quantity_verification/snapshots/resnet50_best.pth.tar 
+          docker cp  /home/ubuntu/model/resnet50_best.pth.tar binsenseai-ml:/app/src/binsenseai/components/object_quantity_verification/snapshots/resnet50_best.pth.tar 
 
       - name: Clean previous images and containers
         run: |

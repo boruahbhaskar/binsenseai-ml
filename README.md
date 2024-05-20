@@ -134,12 +134,47 @@ export MLFLOW_TRACKING_PASSWORD=
 	sudo usermod -aG docker ubuntu
 
 	newgrp docker
+
+	check whether Docker have successfully installed or not by executing 
+	
+	docker --version
 	
 # 6. Configure EC2 as self-hosted runner:
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
+    # Download 
+
+	# Create a folder
+		$ mkdir actions-runner && cd actions-runner
+	
+	# Download the latest runner package
+		$ curl -o actions-runner-linux-x64-2.316.1.tar.gz -L https://github.com/actions/runner/releases/download/v2.316.1/actions-runner-linux-x64-2.316.1.tar.gz
+ 	
+	# Optional: Validate the hash
+		$ echo "d62de2400eeeacd195db91e2ff011bfb646cd5d85545e81d8f78c436183e09a8  actions-runner-linux-x64-2.316.1.tar.gz" | shasum -a 256 -c
+		
+	# Extract the installer
+		$ tar xzf ./actions-runner-linux-x64-2.316.1.tar.gz
+
+
+
+	## Configure 
+
+	# Create the runner and start the configuration experience
+		$ ./config.sh --url https://github.com/boruahbhaskar/binsenseai-ml --token AD3DCOLGTJLTRNLUTCL7NNTGJNRPC
+
+	Once you paste the configure command and execute it will ask for a runner. Press enter and then write self-hosted. After few steps keep on pressing Enter 	
+	
+	# Last step, run it! It will connect EC2 with Github. Our Ci/CD is Set here.
+
+		$ ./run.sh	
 
 # 7. Setup github secrets:
+
+	Setting AWS Secrets in Github
+	Now We’ll need to Setup AWS Secrets with github.for that go Secrets & Variables & click on Actions.
+	Click on new repository Secrets
+
 
     AWS_ACCESS_KEY_ID=
 
@@ -152,8 +187,22 @@ export MLFLOW_TRACKING_PASSWORD=
     ECR_REPOSITORY_NAME = binsenseai
 
 
+
 # 8. Start the EC2 instance and connect to EC2 through Terminal
 
+   
+		# Copy models to EC2 instance
+		mkdir model
+
+
+		cd to folder where key is located or  ~/Downloads/my-key-pair.pem 
+
+		# chmod 400 /path/to/your-key-pair.pem
+
+
+		scp -i "bb-aws-account.pem" ~/Machine_Learning/projects/model/resnet34_siamese_best.pth.tar ubuntu@ec2-34-207-108-195.compute-1.amazonaws.com:/home/ubuntu/model
+
+		scp -i "bb-aws-account.pem" ~/Machine_Learning/projects/model/resnet50_best.pth.tar ubuntu@ec2-34-207-108-195.compute-1.amazonaws.com:/home/ubuntu/model
 
 
 # 9. Run the docker instance using below command from EC2 instance
