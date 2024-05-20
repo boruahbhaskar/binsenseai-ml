@@ -34,7 +34,7 @@ def add_to_cart(item_name, quantity):
 def clear_bin():
     cart.clear()
     empty_md = "### Cart Items\nYour cart is empty."
-    return empty_md#str(cart) test
+    return empty_md, empty_md  # Return updated cart_text and added_item_display values
 
 
 # Function to get relevant images
@@ -79,11 +79,13 @@ with gr.Blocks() as app:
         item_input = gr.Dropdown(label="Item Name", choices=items)
         quantity_input = gr.Number(label="Quantity")
         add_button = gr.Button("Add to Bin")
+        clear_button = gr.Button("Clear Bin")  # Add a clear bin button
         
     cart_text = gr.Textbox(label="Added Items", value="", visible=False)    
     added_item_display =  gr.Markdown(label="Added Items to Bin - ")
     add_button.click(add_to_cart, inputs=[item_input, quantity_input], outputs=[cart_text,added_item_display])
-    
+    clear_button.click(clear_bin, outputs=[cart_text, added_item_display])  # Clear bin button click event
+
     # cart_markdown = gr.Markdown()
     # clear_button = gr.Button("Clear Bin")
     # clear_button.click(clear_bin, outputs=[cart_markdown])
