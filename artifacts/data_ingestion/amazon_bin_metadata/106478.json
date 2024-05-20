@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0425257029": {
+            "asin": "0425257029",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Robert Asprin's Myth-Fits (Myth-Adventures)",
+            "normalizedName": "Robert Asprin's Myth-Fits (Myth-Adventures)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01AL5BONA": {
+            "asin": "B01AL5BONA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "The Ultimate Concealed Carry CCW Leather Gun Belt - Basket Weave Pattern -1 1/2 inch Premium Full Grain Leather Belt - Handmade in the USA! Brown Size 40",
+            "normalizedName": "The Ultimate Concealed Carry CCW Leather Gun Belt - Basket Weave Pattern -1 1/2 inch Premium Full Grain Leather Belt - Handmade in the USA! Brown Size 40",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6699999994381444
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01C3LEE9G": {
+            "asin": "B01C3LEE9G",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Nikon COOLPIX B500 Digital Camera (Red)",
+            "normalizedName": "Nikon COOLPIX B500 Digital Camera (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

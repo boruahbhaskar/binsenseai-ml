@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007Z7SIFA": {
+            "asin": "B007Z7SIFA",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "RadioShack\u00ae VHS Videotape Rewinder",
+            "normalizedName": "RadioShack\u00ae VHS Videotape Rewinder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00L9EP4YI": {
+            "asin": "B00L9EP4YI",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Amazon Echo - R",
+            "normalizedName": "Amazon Echo - R",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

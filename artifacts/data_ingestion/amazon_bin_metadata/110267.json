@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0534582842": {
+            "asin": "0534582842",
+            "height": {
+                "unit": "IN",
+                "value": 0.79921259761
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.29921258894
+            },
+            "name": "Principles of Instructional Design",
+            "normalizedName": "Principles of Instructional Design",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6500277537128
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.4015747956
+            }
+        },
+        "B00OJOCDJO": {
+            "asin": "B00OJOCDJO",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Snap on 922261  2000 Lumens LED Work Light",
+            "normalizedName": "Snap on 922261  2000 Lumens LED Work Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B014EFRB4O": {
+            "asin": "B014EFRB4O",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Bell Super 2 MIPS Helmet - Women's Matte Gunmetal Shimmer Medium",
+            "normalizedName": "Bell Super 2 MIPS Helmet - Women's Matte Gunmetal Shimmer Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

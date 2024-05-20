@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0075W8E4A": {
+            "asin": "B0075W8E4A",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Coby Kyros 10.1-Inch Android 4.0 8 GB 16:9 Capacitive Multi-Touchscreen Widescreen Internet Tablet with Built-In Camera, Black MID1042-8",
+            "normalizedName": "Coby Kyros 10.1-Inch Android 4.0 8 GB 16:9 Capacitive Multi-Touchscreen Widescreen Internet Tablet with Built-In Camera, Black MID1042-8",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

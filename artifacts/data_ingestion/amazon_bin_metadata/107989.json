@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CDRJ3FG": {
+            "asin": "B00CDRJ3FG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Karen Pryor Clicker Training Terry Ryan Clik Stik for Pet Training",
+            "normalizedName": "Karen Pryor Clicker Training Terry Ryan Clik Stik for Pet Training",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B011DF475Y": {
+            "asin": "B011DF475Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Beachbody Performance - Energize (Pre-Workout Formula)",
+            "normalizedName": "Beachbody Performance - Energize (Pre-Workout Formula)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B012HNDS4C": {
+            "asin": "B012HNDS4C",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "TDK D60 IEC I / Type 1 High Output Audio Cassette.",
+            "normalizedName": "TDK D60 IEC I / Type 1 High Output Audio Cassette.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01EHIP38O": {
+            "asin": "B01EHIP38O",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "iPhone 6s Plus case, Geekmart Clear Soft TPU Cartoon Design Cover Case 5.5 inch (Spider Man))",
+            "normalizedName": "iPhone 6s Plus case, Geekmart Clear Soft TPU Cartoon Design Cover Case 5.5 inch (Spider Man))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

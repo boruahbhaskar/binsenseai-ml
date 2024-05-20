@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00322FNPK": {
+            "asin": "B00322FNPK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778001
+            },
+            "name": "Garden of Life Vitamin Code 50 & Wiser Women's Multi, 240 Capsules",
+            "normalizedName": "Garden of Life Vitamin Code 50 & Wiser Women's Multi, 240 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B004BNC5PU": {
+            "asin": "B004BNC5PU",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Dahle 133 Personal Rotary Pencil Sharpener with Automatic Cutting System, 3.5'' Height, 3.5'' Width, 3'' Length",
+            "normalizedName": "Dahle 133 Personal Rotary Pencil Sharpener with Automatic Cutting System, 3.5'' Height, 3.5'' Width, 3'' Length",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B014502QVG": {
+            "asin": "B014502QVG",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Malida Soft Touch Electric Can Opener Gift Pack Includes 1 Free Bottle and 1 Jar openers.",
+            "normalizedName": "Malida Soft Touch Electric Can Opener Gift Pack Includes 1 Free Bottle and 1 Jar openers.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01DP5OL24": {
+            "asin": "B01DP5OL24",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "iPhone 6s Plus Wallet Case, FLYEE\u00ae Magnetic Detachable Wallet Case 2 in 1 Folio Flip Premium PU Leather Cover Card Holder for Apple iPhone 6/6s Plus 5.5 Inch-Blue",
+            "normalizedName": "iPhone 6s Plus Wallet Case, FLYEE\u00ae Magnetic Detachable Wallet Case 2 in 1 Folio Flip Premium PU Leather Cover Card Holder for Apple iPhone 6/6s Plus 5.5 Inch-Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

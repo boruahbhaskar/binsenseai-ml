@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004T395J6": {
+            "asin": "B004T395J6",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5039369992
+            },
+            "name": "Bob's Red Mill Sweet White Rice Flour - 24 oz",
+            "normalizedName": "Bob's Red Mill Sweet White Rice Flour - 24 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.322773572
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4881889718
+            }
+        },
+        "B005DKKBUG": {
+            "asin": "B005DKKBUG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",
+            "normalizedName": "Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00X1INBQS": {
+            "asin": "B00X1INBQS",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Method Squirt and Mop Wood Floor Cleaner Refill, Almond, 68 Ounce",
+            "normalizedName": "Method Squirt and Mop Wood Floor Cleaner Refill, Almond, 68 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.6699999960837815
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01DN0AJXQ": {
+            "asin": "B01DN0AJXQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Queen, Blue Hydrangea)",
+            "normalizedName": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Queen, Blue Hydrangea)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

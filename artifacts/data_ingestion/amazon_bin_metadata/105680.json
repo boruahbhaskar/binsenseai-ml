@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001AVSIOI": {
+            "asin": "B001AVSIOI",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Master Lock 1469DAT 5/8\" Heavy Duty Receiver Lock",
+            "normalizedName": "Master Lock 1469DAT 5/8\" Heavy Duty Receiver Lock",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B018ZQOI76": {
+            "asin": "B018ZQOI76",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "iPhone 6 Plus / iPhone 6S Plus Case, Nspire Cam Shell hard exterior soft protective interior Dual layer absorbs shock from drops scratch resistant (iPhone 6 Case / iPhone 6S Case 4.7\") (Black)",
+            "normalizedName": "iPhone 6 Plus / iPhone 6S Plus Case, Nspire Cam Shell hard exterior soft protective interior Dual layer absorbs shock from drops scratch resistant (iPhone 6 Case / iPhone 6S Case 4.7\") (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

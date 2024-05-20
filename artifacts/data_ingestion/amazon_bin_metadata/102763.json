@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QXJX3QK": {
+            "asin": "B00QXJX3QK",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Accord AMFRRBMA410 Manhattan Floor Register, 4-Inch x 10-Inch(Duct Opening Measurements), Light Oil-Rubbed Bronze",
+            "normalizedName": "Accord AMFRRBMA410 Manhattan Floor Register, 4-Inch x 10-Inch(Duct Opening Measurements), Light Oil-Rubbed Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00VEAA6U4": {
+            "asin": "B00VEAA6U4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Wilton Christmas Cookie Boxes, 4-Pack",
+            "normalizedName": "4-Pack Wilton Christmas Cookie Boxes,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

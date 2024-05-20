@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004YMY5": {
+            "asin": "B00004YMY5",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Fellowes 72112 Desktop Organizer, 11 Sections, Wire, 9\" x 11-3/8\" x 8\", Black",
+            "normalizedName": "Fellowes 72112 Desktop Organizer, 11 Sections, Wire, 9\" x 11-3/8\" x 8\", Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149988260642299
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991227998
+            }
+        },
+        "B000P9TQCY": {
+            "asin": "B000P9TQCY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.59842518094
+            },
+            "name": "Oneida Commerical Medium Cookie Sheet",
+            "normalizedName": "Oneida Commerical Medium Cookie Sheet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8500311177992
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.59842518604
+            }
+        },
+        "B00YU4CNBG": {
+            "asin": "B00YU4CNBG",
+            "height": {
+                "unit": "IN",
+                "value": 3.4645669256
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3937007768
+            },
+            "name": "Bluedio BS-3 (Camel) Portable Bluetooth Wireless Stereo Speaker with Microphone for Calls,White",
+            "normalizedName": "Bluedio BS-3 (Camel) Portable Bluetooth Wireless Stereo Speaker with Microphone for Calls,White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1605081144235547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6141732216
+            }
+        },
+        "B01HED8S18": {
+            "asin": "B01HED8S18",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Vinosen Double Walled Glass Tumbler with Strainer & Stainless Steal Infuser | Tea, Herb, Coffee, (Green)",
+            "normalizedName": "Vinosen Double Walled Glass Tumbler with Strainer & Stainless Steal Infuser | Tea, Herb, Coffee, (Green)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9399999983731342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

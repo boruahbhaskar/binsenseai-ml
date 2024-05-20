@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004A6OBFA": {
+            "asin": "B004A6OBFA",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Aerobie Pro Flying Ring, Soft Rubber Edged, 13 Inch Diameter (3 Pack)",
+            "normalizedName": "(3 Pack) Aerobie Pro Flying Ring, Soft Rubber Edged, 13 Inch Diameter",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862
+            }
+        },
+        "B006ZBB5X4": {
+            "asin": "B006ZBB5X4",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "ICUP a Christmas Story Leg Lamp Molded Ceramic Mug, 40 oz, Clear",
+            "normalizedName": "ICUP a Christmas Story Leg Lamp Molded Ceramic Mug, 40 oz, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

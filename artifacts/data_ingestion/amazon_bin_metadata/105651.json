@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CIECDEM": {
+            "asin": "B00CIECDEM",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "SUBWAY Gift Card $25",
+            "normalizedName": "SUBWAY Gift Card $25",
+            "quantity": 30,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 30
+}

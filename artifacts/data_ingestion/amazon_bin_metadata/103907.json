@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DKKBUG": {
+            "asin": "B005DKKBUG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",
+            "normalizedName": "Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00TLRT3YC": {
+            "asin": "B00TLRT3YC",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Dungeons & Dragons: Temple of Elemental Evil",
+            "normalizedName": "Dungeons & Dragons: Temple of Elemental Evil",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

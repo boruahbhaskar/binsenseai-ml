@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CQ857YS": {
+            "asin": "B00CQ857YS",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Nugenix Natural Testosterone Booster Capsules, 90 Count",
+            "normalizedName": "Nugenix Natural Testosterone Booster Capsules, 90 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

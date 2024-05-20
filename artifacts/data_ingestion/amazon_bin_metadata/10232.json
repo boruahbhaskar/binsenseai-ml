@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M1VMTLE": {
+            "asin": "B00M1VMTLE",
+            "height": {
+                "unit": "IN",
+                "value": 3.7795275552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "BlenderBottle Classic Loop Top Shaker Bottle, Pink, 28 Ounce",
+            "normalizedName": "BlenderBottle Classic Loop Top Shaker Bottle, Pink, 28 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        },
+        "B01DPGYPE2": {
+            "asin": "B01DPGYPE2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Cross Tech2 Captain America Ballpoint Pen (AT0652SD-10)",
+            "normalizedName": "Cross Tech2 Captain America Ballpoint Pen (AT0652SD-10)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

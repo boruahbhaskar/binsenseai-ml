@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VE54VI": {
+            "asin": "B002VE54VI",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Delphi FA10003 Fuel Pump Wiring Harness",
+            "normalizedName": "Delphi FA10003 Fuel Pump Wiring Harness",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00ZWBKCRS": {
+            "asin": "B00ZWBKCRS",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Goege Adjustable Postpartum Girdle Back Support Postpartum Postnatal Abdomen Recoery Belly Pelvic Slimming Belt for Women and Maternity",
+            "normalizedName": "Goege Adjustable Postpartum Girdle Back Support Postpartum Postnatal Abdomen Recoery Belly Pelvic Slimming Belt for Women and Maternity",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B01BFKWTQG": {
+            "asin": "B01BFKWTQG",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "AT-A-GLANCE Academic Year Weekly / Monthly Appointment Book / Planner, July 2016 - July 2017, 4-3/8\"x6-1/4\", Black (793-300A)",
+            "normalizedName": "AT-A-GLANCE Academic Year Weekly / Monthly Appointment Book / Planner, July 2016 - July 2017, 4-3/8\"x6-1/4\", Black (793-300A)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

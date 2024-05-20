@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0053T4PHC": {
+            "asin": "B0053T4PHC",
+            "height": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Bose Companion 20 Multimedia Speaker System",
+            "normalizedName": "Bose Companion 20 Multimedia Speaker System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.76
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.023622036
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

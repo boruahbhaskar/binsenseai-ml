@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016NIEIAU": {
+            "asin": "B016NIEIAU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Plugged Crown Series Headphones, White/Rose",
+            "normalizedName": "Plugged Crown Series Headphones, White/Rose",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000TO0BQ": {
+            "asin": "B0000TO0BQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "StarTech.com 1 Port PCI 10/100/1000 32 Bit Gigabit Ethernet Network Adapter Card (ST1000BT32)",
+            "normalizedName": "StarTech.com 1 Port PCI 10/100/1000 32 Bit Gigabit Ethernet Network Adapter Card (ST1000BT32)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601897719786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B00JNZ7VNW": {
+            "asin": "B00JNZ7VNW",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Tanors Ceramic Coffee Dripper",
+            "normalizedName": "Tanors Ceramic Coffee Dripper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B0141KPE50": {
+            "asin": "B0141KPE50",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Cable Matters 5-Pack, Gold Plated 3.5mm Stereo to 2-RCA Male to Female Adapter",
+            "normalizedName": "5-Pack Cable Matters , Gold Plated 3.5mm Stereo to 2-RCA Male to Female Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01AVTNNSA": {
+            "asin": "B01AVTNNSA",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Pepper Bell White D151DF (White) 50 Heirloom Seeds by David's Garden Seeds",
+            "normalizedName": "Pepper Bell White D151DF (White) 50 Heirloom Seeds by David's Garden Seeds",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

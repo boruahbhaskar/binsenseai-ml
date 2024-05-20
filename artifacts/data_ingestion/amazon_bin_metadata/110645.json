@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01FVS4JHK": {
+            "asin": "B01FVS4JHK",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Turbot 3D VR Virtual Reality Headset Glasses with Adjustable Straps for 3D Movies/Games",
+            "normalizedName": "Turbot 3D VR Virtual Reality Headset Glasses with Adjustable Straps for 3D Movies/Games",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

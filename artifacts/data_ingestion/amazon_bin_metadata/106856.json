@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XJRTA8Y": {
+            "asin": "B00XJRTA8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "JustNile Kids Basic Color Round 12-inch Wall Clock - Baby Pink",
+            "normalizedName": "JustNile Kids Basic Color Round 12-inch Wall Clock - Baby Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

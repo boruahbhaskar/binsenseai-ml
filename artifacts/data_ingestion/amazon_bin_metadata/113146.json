@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001HH4OIE": {
+            "asin": "B001HH4OIE",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Newborn U-Lite Non-Drip Super Smooth Rod Frameless Caulking Gun, 1/10 Gallon Cartridge, 10:1 Thrust Ratio",
+            "normalizedName": "Newborn U-Lite Non-Drip Super Smooth Rod Frameless Caulking Gun, 1/10 Gallon Cartridge, 10:1 Thrust Ratio",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01AJTR67G": {
+            "asin": "B01AJTR67G",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "WALI Bullet Dummy Fake Surveillance Security CCTV Dome Camera Indoor Outdoor W/record LED Light + Warning Security Alert Sticker Decals WL-TC-B4, 4 Pack",
+            "normalizedName": "4 Pack WALI Bullet Dummy Fake Surveillance Security CCTV Dome Camera Indoor Outdoor W/record LED Light + Warning Security Alert Sticker Decals WL-TC-B4,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.149999996519849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B01CUSC0T8": {
+            "asin": "B01CUSC0T8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Stainless Steel Water Bottle - Insulated - Gorgeous Gift Box Included - Hot 24 hours - Cold 12 hours - 17 oz",
+            "normalizedName": "Stainless Steel Water Bottle - Insulated - Gorgeous Gift Box Included - Hot 24 hours - Cold 12 hours - 17 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452686
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

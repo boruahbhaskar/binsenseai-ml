@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OCJYTKM": {
+            "asin": "B00OCJYTKM",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Bed Head Roll Call Bubble Hairsetter, 10 Count",
+            "normalizedName": "Bed Head Roll Call Bubble Hairsetter, 10 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B015C44CVG": {
+            "asin": "B015C44CVG",
+            "height": {
+                "unit": "IN",
+                "value": 2.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.5
+            },
+            "name": "Match Men's Slim Fit Straight Leg Casual Pants (38, 8036 Camel)",
+            "normalizedName": "Match Men's Slim Fit Straight Leg Casual Pants (38, 8036 Camel)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        },
+        "B015WRL7RK": {
+            "asin": "B015WRL7RK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Solna Concept 5 Piece Stainless Steel Knives Set with Magnetic Wooden Block - Silver",
+            "normalizedName": "Solna Concept 5 Piece Stainless Steel Knives Set with Magnetic Wooden Block - Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.649999996100553
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

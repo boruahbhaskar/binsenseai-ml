@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001K3A96G": {
+            "asin": "B001K3A96G",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Marathon 10x1.75\" Semi-Pneumatic Tire on Wheel",
+            "normalizedName": "Marathon 10x1.75\" Semi-Pneumatic Tire on Wheel",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B004AO4ALC": {
+            "asin": "B004AO4ALC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Galco KT212B King Tuck IWB Holster",
+            "normalizedName": "Galco KT212B King Tuck IWB Holster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

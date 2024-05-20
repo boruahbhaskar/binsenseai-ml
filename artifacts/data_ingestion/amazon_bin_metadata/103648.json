@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B7BRXLA": {
+            "asin": "B00B7BRXLA",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Cottonelle Fresh Care Flushable Cleansing Cloths, 504 Cloths",
+            "normalizedName": "Cottonelle Fresh Care Flushable Cleansing Cloths, 504 Cloths",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00N1NFW2Y": {
+            "asin": "B00N1NFW2Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9921259761
+            },
+            "name": "One Piece SCultures BIG Banpresto Figure Colosseum 3 Vol.2 Kinemon Banpresto Japan",
+            "normalizedName": "One Piece SCultures BIG Banpresto Figure Colosseum 3 Vol.2 Kinemon Banpresto Japan",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0802540581176683
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9448818837
+            }
+        },
+        "B01F2Z464I": {
+            "asin": "B01F2Z464I",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Crayola Arts & Crafts Paint Kit",
+            "normalizedName": "Crayola Arts & Crafts Paint Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.449999997945453
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

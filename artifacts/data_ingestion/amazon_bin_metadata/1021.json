@@ -1,0 +1,69 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DBDPOZ4": {
+            "asin": "B00DBDPOZ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236220472438
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.826771653543307
+            },
+            "name": "Xbox One Play and Charge Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.485012026093647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.590551181102362
+            }
+        },
+        "B00IZYG26O": {
+            "asin": "B00IZYG26O",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8999999999999995
+            },
+            "name": "Qifull Qt10 Qi Wireless Charger & Receiver Set for Samsung Galaxy Note 2 /N7100 (Black) (Wireless Charging Pad and Receiver Included)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        },
+        "B00Q30P8IK": {
+            "asin": "B00Q30P8IK",
+            "height": {
+                "unit": "IN",
+                "value": 3.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.8
+            },
+            "name": "Bluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999999999999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1021.jpg"
+}

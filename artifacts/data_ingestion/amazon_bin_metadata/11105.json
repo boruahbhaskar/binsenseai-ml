@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004BDO6YI": {
+            "asin": "B004BDO6YI",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Martin TS1232 Spur Gear, 20\u00b0 Pressure Angle, High Carbon Steel, Inch, 12 Pitch, 3/4\" Bore, 2.833\" OD, 1.000\" Face Width, 32 Teeth",
+            "normalizedName": "Martin TS1232 Spur Gear, 20\u00b0 Pressure Angle, High Carbon Steel, Inch, 12 Pitch, 3/4\" Bore, 2.833\" OD, 1.000\" Face Width, 32 Teeth",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00YCL88N4": {
+            "asin": "B00YCL88N4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "MLB Philadelphia Phillies Team Logo Baseball, Official, White",
+            "normalizedName": "MLB Philadelphia Phillies Team Logo Baseball, Official, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B0178GE900": {
+            "asin": "B0178GE900",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "LG Nexus 5X Unlocked Smartphone - Black 32GB (US Warranty)",
+            "normalizedName": "LG Nexus 5X Unlocked Smartphone - Black 32GB (US Warranty)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

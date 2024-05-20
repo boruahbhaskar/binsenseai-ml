@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P73B1E4": {
+            "asin": "B00P73B1E4",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "Samsung SSD 850 EVO 500GB, MZ-75E500B_EU",
+            "normalizedName": "Samsung SSD 850 EVO 500GB, MZ-75E500B_EU",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645547144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B00U8K89ZK": {
+            "asin": "B00U8K89ZK",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "bbq factory\u00ae Replacement Cast Iron Cooking Grid Porcelain coated (4-pack) for Select Gas Grill Models By Chargriller,Jenn-air, Vermont Castings Gas Grill and Others",
+            "normalizedName": "bbq factory\u00ae Replacement Cast Iron Cooking Grid Porcelain coated (4-pack) for Select Gas Grill Models By Chargriller,Jenn-air, Vermont Castings Gas Grill and Others",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 17.99999998490537
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B013TD2NTA": {
+            "asin": "B013TD2NTA",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Edushape Marbulous Marble Run - 82 Pieces + 50 Marbles!! (Total 132 Pc Set) Sturdy Setups with Clear Step-by-step Illustrated Instructions in Four Different Skills Levels!!!",
+            "normalizedName": "Edushape Marbulous Marble Run - 82 Pieces + 50 Marbles!! (Total 132 Pc Set) Sturdy Setups with Clear Step-by-step Illustrated Instructions in Four Different Skills Levels!!!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.549999997023003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

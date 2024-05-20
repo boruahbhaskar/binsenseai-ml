@@ -1,0 +1,48 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1400319269": {
+            "asin": "1400319269",
+            "height": {
+                "unit": "IN",
+                "value": 0.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6
+            },
+            "name": "The Creation Answer Book",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8
+            }
+        },
+        "B00QT7AZIK": {
+            "asin": "B00QT7AZIK",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Garden of Life Raw Fit Protein Powder, Vanilla, 420 Gram",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1037.jpg"
+}

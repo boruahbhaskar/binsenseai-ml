@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ATSOD7O": {
+            "asin": "B00ATSOD7O",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "1 Hoover WindTunnel HEPA Filter Designed To Fit Hoover Vacuum WindTunnel Models S3755, S3765, S3755045, S3765040, S3755080, Compare to Hoover HEPA Final Filter part # 59134050, Designed and Engineered by Crucial Vacuum",
+            "normalizedName": "1 Hoover WindTunnel HEPA Filter Designed To Fit Hoover Vacuum WindTunnel Models S3755, S3765, S3755045, S3765040, S3755080, Compare to Hoover HEPA Final Filter part # 59134050, Designed and Engineered by Crucial Vacuum",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B016OV18U4": {
+            "asin": "B016OV18U4",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Sea Star \u00ae Halloween Decoration Battery Operated LED Fairy String Lights for home (3D Pumpkin)",
+            "normalizedName": "Sea Star \u00ae Halloween Decoration Battery Operated LED Fairy String Lights for home (3D Pumpkin)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

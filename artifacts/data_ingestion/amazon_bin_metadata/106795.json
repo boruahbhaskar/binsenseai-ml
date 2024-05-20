@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ECZZDOC": {
+            "asin": "B00ECZZDOC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Hub City PB251URX1/2 Pillow Block Mounted Bearing, Normal Duty, High Shaft Height, Relube, Setscrew Locking Collar, Narrow Inner Race, Cast Iron Housing, 1/2\" Bore, 1.38\" Length Through Bore, 1.188\" Base To Height",
+            "normalizedName": "Hub City PB251URX1/2 Pillow Block Mounted Bearing, Normal Duty, High Shaft Height, Relube, Setscrew Locking Collar, Narrow Inner Race, Cast Iron Housing, 1/2\" Bore, 1.38\" Length Through Bore, 1.188\" Base To Height",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B011I5ZTIS": {
+            "asin": "B011I5ZTIS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "ORICO Tool Free USB 3.0 External Enclosure for 2.5-Inch SATA HDD/SSD (7mm & 9.5mm) - Black (2599US3)",
+            "normalizedName": "ORICO Tool Free USB 3.0 External Enclosure for 2.5-Inch SATA HDD/SSD (7mm & 9.5mm) - Black (2599US3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11999999989936912
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01BF0T9NM": {
+            "asin": "B01BF0T9NM",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Qiyun Set of 2 2016 Hot Wheels 119 Side Ripper Red 246 Sting Rod Yellow",
+            "normalizedName": "Set of 2 Qiyun 2016 Hot Wheels 119 Side Ripper Red 246 Sting Rod Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01G7SZOF4": {
+            "asin": "B01G7SZOF4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "for LG G Stylo 2 & LG LS775 phone case, Metallic Chic Slim Fit Heavy Duty Protection with Card slot in Black",
+            "normalizedName": "for LG G Stylo 2 & LG LS775 phone case, Metallic Chic Slim Fit Heavy Duty Protection with Card slot in Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

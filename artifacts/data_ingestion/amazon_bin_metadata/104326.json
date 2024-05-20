@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HKMXTO": {
+            "asin": "B000HKMXTO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Rothco Canvas Parachute Cargo Bag, Olive Drab",
+            "normalizedName": "Rothco Canvas Parachute Cargo Bag, Olive Drab",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        },
+        "B00HVCMCNI": {
+            "asin": "B00HVCMCNI",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Bebe au Lait Premium Muslin Nursing Cover, Soleil",
+            "normalizedName": "Bebe au Lait Premium Muslin Nursing Cover, Soleil",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B00HY0NXJ4": {
+            "asin": "B00HY0NXJ4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "SoHo Collection, Grand Central Station 7 pieces Diaper Bag set *Limited time offer !* (Black)",
+            "normalizedName": "SoHo Collection, Grand Central Station 7 pieces Diaper Bag set *Limited time offer !* (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B011MIV3EU": {
+            "asin": "B011MIV3EU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Playskool Heroes Marvel Super Hero Adventures Ultimate Super Hero Set",
+            "normalizedName": "Playskool Heroes Marvel Super Hero Adventures Ultimate Super Hero Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZYN9AG8": {
+            "asin": "B00ZYN9AG8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "12-PC Solid Color Gift Bags, Matt Laminated, Hot Pink Color",
+            "normalizedName": "12-PC Solid Color Gift Bags, Matt Laminated, Hot Pink Color",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H2ZPMFE": {
+            "asin": "B00H2ZPMFE",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Blistex Nurture & Nourish Lip Protectant, SPF 15 (Pack of 4)",
+            "normalizedName": "(Pack of 4) Blistex Nurture & Nourish Lip Protectant, SPF 15",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00LAA77PA": {
+            "asin": "B00LAA77PA",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Covergirl Lipslicks Smoochies Sizzle Lip Gloss - Glisten Up (Pack of 2)",
+            "normalizedName": "(Pack of 2) Covergirl Lipslicks Smoochies Sizzle Lip Gloss - Glisten Up",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00OILMEI8": {
+            "asin": "B00OILMEI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Swingline Stapler, Optima 40, Compact, Low Force, 40 Sheets, Black/Silver (S7087842)",
+            "normalizedName": "Swingline Stapler, Optima 40, Compact, Low Force, 40 Sheets, Black/Silver (S7087842)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01AWAGZA6": {
+            "asin": "B01AWAGZA6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Kingway 5 Pack Replacement Ink Cartridge for HP 564XL HP 564 for HP Photosmart 6520 5520 7525 6510 7510 D7560 C410a C510a Printer (1BK+1PBK+1C+1M+1Y)",
+            "normalizedName": "5 Pack Kingway Replacement Ink Cartridge for HP 564XL HP 564 for HP Photosmart 6520 5520 7525 6510 7510 D7560 C410a C510a Printer (1BK+1PBK+1C+1M+1Y)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

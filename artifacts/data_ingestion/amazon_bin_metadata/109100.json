@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005F6NSKI": {
+            "asin": "B005F6NSKI",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Compatible Hitachi 50VF820 100 Watt TV Lamp Replacement",
+            "normalizedName": "Compatible Hitachi 50VF820 100 Watt TV Lamp Replacement",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00KNK0M1O": {
+            "asin": "B00KNK0M1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "normalizedName": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01CCOI5EE": {
+            "asin": "B01CCOI5EE",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "FDA TEST APPROVED 2016 Professional 10 Pcs Soft Oval Toothbrush Makeup Brush Sets Foundation Brushes Cream Contour Powder Blush Concealer Brush Makeup Cosmetics Tool Set",
+            "normalizedName": "FDA TEST APPROVED 2016 Professional 10 Pcs Soft Oval Toothbrush Makeup Brush Sets Foundation Brushes Cream Contour Powder Blush Concealer Brush Makeup Cosmetics Tool Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

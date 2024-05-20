@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004HIZFPQ": {
+            "asin": "B004HIZFPQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "THE Garden Gnome 10\"",
+            "normalizedName": "THE Garden Gnome 10\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B007Z50ENQ": {
+            "asin": "B007Z50ENQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Blue Classic Army Messenger Heavy Weight Shoulder Bag",
+            "normalizedName": "Blue Classic Army Messenger Heavy Weight Shoulder Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291278
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00G9DNO28": {
+            "asin": "B00G9DNO28",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Ball\u00ae 1 Quart Wide-mouth Canning Jar (32 Oz.)",
+            "normalizedName": "Ball\u00ae 1 Quart Wide-mouth Canning Jar (32 Oz.)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

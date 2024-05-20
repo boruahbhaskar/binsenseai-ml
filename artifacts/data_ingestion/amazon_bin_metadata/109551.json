@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M9G5Y8Q": {
+            "asin": "B00M9G5Y8Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "AmazonBasics Mini DisplayPort (Thunderbolt) to DVI Adapter",
+            "normalizedName": "AmazonBasics Mini DisplayPort (Thunderbolt) to DVI Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B01EGD2AAY": {
+            "asin": "B01EGD2AAY",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Yogi Organic Detox Tea, 16 ct (Pack of 2)",
+            "normalizedName": "(Pack of 2) Yogi Organic Detox Tea, 16 ct",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

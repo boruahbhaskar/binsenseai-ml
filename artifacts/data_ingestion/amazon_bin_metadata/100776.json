@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1118277554": {
+            "asin": "1118277554",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "Where am I Wearing?: A Global Tour to the Countries, Factories, and People That Make Our Clothes",
+            "normalizedName": "Where am I Wearing?: A Global Tour to the Countries, Factories, and People That Make Our Clothes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B00PKKN12E": {
+            "asin": "B00PKKN12E",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Toy Storage Box Bin Organizer Collapsible, Bird- 100% Money Back Guarantee",
+            "normalizedName": "Toy Storage Box Bin Organizer Collapsible, Bird- 100% Money Back Guarantee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        },
+        "B00S745NCQ": {
+            "asin": "B00S745NCQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Baja Precious - Grapeseed Oil, 1 Gallon",
+            "normalizedName": "Baja Precious - Grapeseed Oil, 1 Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

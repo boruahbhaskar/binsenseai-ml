@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008OGZFIO": {
+            "asin": "B008OGZFIO",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Allure Home Creations Ogi Geo Tooth Brush Holder",
+            "normalizedName": "Allure Home Creations Ogi Geo Tooth Brush Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00ROPMLY2": {
+            "asin": "B00ROPMLY2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "[iPhone 6/6S] Slim Wallet Case - Card Holder for Up to 8 Cards and Cash - Quickdraw by HUSKK - [QDPH6BN] - Ballistic Nylon Leather Black",
+            "normalizedName": "[iPhone 6/6S] Slim Wallet Case - Card Holder for Up to 8 Cards and Cash - Quickdraw by HUSKK - [QDPH6BN] - Ballistic Nylon Leather Black",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

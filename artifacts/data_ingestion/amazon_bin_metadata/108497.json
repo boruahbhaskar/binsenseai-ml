@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002IKLOAA": {
+            "asin": "B002IKLOAA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Polaris K13 Vac-Sweep All Purpose Zipper Pool Cleaner Replacement Bag for 280",
+            "normalizedName": "Polaris K13 Vac-Sweep All Purpose Zipper Pool Cleaner Replacement Bag for 280",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B015UQUOMW": {
+            "asin": "B015UQUOMW",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Weightlifting Gloves w/ Washable Ladies Gym Workout Crossfit Driving Gloves Women Weightlifting Gloves Men/women (Black, S)",
+            "normalizedName": "Weightlifting Gloves w/ Washable Ladies Gym Workout Crossfit Driving Gloves Women Weightlifting Gloves Men/women (Black, S)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1599999998658255
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01943RRWM": {
+            "asin": "B01943RRWM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Disney/Pixar Cars Lightning McQueen Vehicle",
+            "normalizedName": "Disney/Pixar Cars Lightning McQueen Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01A6SQ2PM": {
+            "asin": "B01A6SQ2PM",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Sanzo&reg; 100W LED Chip Energy Saving Lamp Bulb High Power Warm White",
+            "normalizedName": "Sanzo&reg; 100W LED Chip Energy Saving Lamp Bulb High Power Warm White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

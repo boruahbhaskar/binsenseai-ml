@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JH8M2D4": {
+            "asin": "B00JH8M2D4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Fisher-Price Loving Family Sister Figure",
+            "normalizedName": "Fisher-Price Loving Family Sister Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B0178WDRIO": {
+            "asin": "B0178WDRIO",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.749999990055
+            },
+            "name": "TaoTronics Dog Desheding Tool, Dog Shedding Brush, Cat Undercoat Rake, Pet Comb, 3-in-1 Grooming Kit for Dogs and Cats",
+            "normalizedName": "TaoTronics Dog Desheding Tool, Dog Shedding Brush, Cat Undercoat Rake, Pet Comb, 3-in-1 Grooming Kit for Dogs and Cats",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

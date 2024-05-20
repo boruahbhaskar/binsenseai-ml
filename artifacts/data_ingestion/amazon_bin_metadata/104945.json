@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006QB1RPY": {
+            "asin": "B006QB1RPY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "ASUS RT-N66U Dual-Band Wireless-N900 Gigabit Router",
+            "normalizedName": "ASUS RT-N66U Dual-Band Wireless-N900 Gigabit Router",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B009T45XNM": {
+            "asin": "B009T45XNM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Nerf N-Strike Elite: Stryfe Blaster, Colors may Vary",
+            "normalizedName": "Nerf N-Strike Elite: Stryfe Blaster, Colors may Vary",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        },
+        "B00YNNI4BW": {
+            "asin": "B00YNNI4BW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Under Cabinet 21 LED Light Set - 3 Panel Deluxe Kit, Pure White",
+            "normalizedName": "Under Cabinet 21 LED Light Set - 3 Panel Deluxe Kit, Pure White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

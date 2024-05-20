@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IBU4KCK": {
+            "asin": "B00IBU4KCK",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "YinArts Giant Inflatable Bowling Set",
+            "normalizedName": "YinArts Giant Inflatable Bowling Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00U3E1B7Y": {
+            "asin": "B00U3E1B7Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Invisible Lace Part Closure -- #2 Natural Brown--",
+            "normalizedName": "Invisible Lace Part Closure -- #2 Natural Brown--",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B019407ERI": {
+            "asin": "B019407ERI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988065999
+            },
+            "name": "Packing Tape Gun and Packing Tape Value Bundle. Comes With 1 BMG-2 Tape Dispenser and 6 Rolls of Midtape Packing Tape.",
+            "normalizedName": "Packing Tape Gun and Packing Tape Value Bundle. Comes With 1 BMG-2 Tape Dispenser and 6 Rolls of Midtape Packing Tape.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B01CY6Q3HQ": {
+            "asin": "B01CY6Q3HQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "HCE LED Backup Camera and Monitor Kit For Car, Waterproof High Definition Color Wide Viewing Angle License Plate Car Rear View Camera with 7 Infrared Night Vision LED",
+            "normalizedName": "HCE LED Backup Camera and Monitor Kit For Car, Waterproof High Definition Color Wide Viewing Angle License Plate Car Rear View Camera with 7 Infrared Night Vision LED",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

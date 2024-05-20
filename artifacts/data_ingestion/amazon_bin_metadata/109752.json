@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009O94W3E": {
+            "asin": "B009O94W3E",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "DEWALT DW088K Self-Leveling Cross Line Laser",
+            "normalizedName": "DEWALT DW088K Self-Leveling Cross Line Laser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B0161YMM3Q": {
+            "asin": "B0161YMM3Q",
+            "height": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Giro Montaro MIPS Helmet Matte Flame/White/Titanium, L",
+            "normalizedName": "Giro Montaro MIPS Helmet Matte Flame/White/Titanium, L",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

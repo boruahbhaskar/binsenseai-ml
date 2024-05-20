@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007P94PU": {
+            "asin": "B0007P94PU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "name": "Educational Insights Hot Dots Math Flashcards Division",
+            "normalizedName": "Educational Insights Hot Dots Math Flashcards Division",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01CY5DYQK": {
+            "asin": "B01CY5DYQK",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Fiery Youth Blue Glass Roller Bottles with Stainless Steel Roller Balls,Useful for Aromatherapy PerfumesAand Lip Balms, Solid Blue Glass, 6 Bottle Set,10ml\uff0cEssential Oils Glass Roll on Bottle",
+            "normalizedName": "Fiery Youth Blue Glass Roller Bottles with Stainless Steel Roller Balls,Useful for Aromatherapy PerfumesAand Lip Balms, Solid Blue Glass, 6 Bottle Set,10ml\uff0cEssential Oils Glass Roll on Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

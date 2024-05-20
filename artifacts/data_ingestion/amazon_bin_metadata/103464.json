@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011Q0QLDM": {
+            "asin": "B011Q0QLDM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Glitter and Gold Party Fans Rosettes",
+            "normalizedName": "Glitter and Gold Party Fans Rosettes",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

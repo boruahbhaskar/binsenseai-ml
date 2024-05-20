@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012E3KH12": {
+            "asin": "B012E3KH12",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.299999981334
+            },
+            "name": "Quiksilver Men's Schoolie Backpack, Black, One Size",
+            "normalizedName": "Quiksilver Men's Schoolie Backpack, Black, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            }
+        },
+        "B01H0KX4GO": {
+            "asin": "B01H0KX4GO",
+            "height": {
+                "unit": "IN",
+                "value": 7.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.3
+            },
+            "name": "XSPC Raystorm Pro Photon D5 AX360 WaterCooling Kit",
+            "normalizedName": "XSPC Raystorm Pro Photon D5 AX360 WaterCooling Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

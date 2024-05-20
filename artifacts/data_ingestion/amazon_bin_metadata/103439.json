@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01B65I77K": {
+            "asin": "B01B65I77K",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Barbie Fashionista Tall Blonde Doll with 2 Additional Outfits, Blue Print",
+            "normalizedName": "Barbie Fashionista Tall Blonde Doll with 2 Additional Outfits, Blue Print",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01GH779I0": {
+            "asin": "B01GH779I0",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "CREATIVE DESIGN Solar Spotlight, Outdoor Garden Landscape Lighting, 350\u00b0 Angle Adjustable Waterproof Wall Light Security Light with Auto On/Off (Black)",
+            "normalizedName": "CREATIVE DESIGN Solar Spotlight, Outdoor Garden Landscape Lighting, 350\u00b0 Angle Adjustable Waterproof Wall Light Security Light with Auto On/Off (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

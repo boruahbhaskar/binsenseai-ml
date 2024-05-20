@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005RRBGYA": {
+            "asin": "B005RRBGYA",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Cuisinart CPM-100 EasyPop Hot Air Popcorn Maker, Red",
+            "normalizedName": "Cuisinart CPM-100 EasyPop Hot Air Popcorn Maker, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B00PDN5L30": {
+            "asin": "B00PDN5L30",
+            "height": {
+                "unit": "IN",
+                "value": 1.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.1
+            },
+            "name": "Match Men's Slim Fit Straight Leg Casual Pants(34, 8032 Coffee)",
+            "normalizedName": "Match Men's Slim Fit Straight Leg Casual Pants(34, 8032 Coffee)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.7
+            }
+        },
+        "B00V6WZ7WW": {
+            "asin": "B00V6WZ7WW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Dr. Teal's Salt, Pre and Post Workout, 3 Pound",
+            "normalizedName": "Dr. Teal's Salt, Pre and Post Workout, 3 Pound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

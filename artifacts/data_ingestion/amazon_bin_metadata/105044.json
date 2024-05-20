@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0057FSSCU": {
+            "asin": "B0057FSSCU",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Armour Banner Sausages Easy Open, 10.5 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Armour Banner Sausages Easy Open, 10.5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B016J97WXS": {
+            "asin": "B016J97WXS",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Disney Star Wars Millennium Falcon Serving Platter",
+            "normalizedName": "Disney Star Wars Millennium Falcon Serving Platter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ULPVPI": {
+            "asin": "B000ULPVPI",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Head Super Comp Overgrip (White)",
+            "normalizedName": "Head Super Comp Overgrip (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01DIFF7NI": {
+            "asin": "B01DIFF7NI",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Hotel Quality Waffle Weave 100% Cotton Shower Curtain - 72\" Wide x 72\" Long - Black",
+            "normalizedName": "Hotel Quality Waffle Weave 100% Cotton Shower Curtain - 72\" Wide x 72\" Long - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

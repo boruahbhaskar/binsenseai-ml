@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009QAPKL4": {
+            "asin": "B009QAPKL4",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Ortho Snake B Gon Snake Repellent Granules, 2-Pound (Not Sold in AK)",
+            "normalizedName": "Ortho Snake B Gon Snake Repellent Granules, 2-Pound (Not Sold in AK)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00DVNLRSM": {
+            "asin": "B00DVNLRSM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "BEYOND Osteo Fx POWDER - 357g Canister",
+            "normalizedName": "BEYOND Osteo Fx POWDER - 357g Canister",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B0116MGM98": {
+            "asin": "B0116MGM98",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Jumbo Toy Storage Hammock [Also XL Size] for Kids Stuffed Animals, Pool Toys, Sports Gear, Towels, Bedding. Corner Net and Bin Organizer. Top Quality, Suits Any Decor, Easy Install, Machine Washable",
+            "normalizedName": "Jumbo Toy Storage Hammock [Also XL Size] for Kids Stuffed Animals, Pool Toys, Sports Gear, Towels, Bedding. Corner Net and Bin Organizer. Top Quality, Suits Any Decor, Easy Install, Machine Washable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01EEVKNNO": {
+            "asin": "B01EEVKNNO",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "[2-PACK]-Mr Shield For ZTE Avid Plus [Tempered Glass] Screen Protector with Lifetime Replacement Warranty",
+            "normalizedName": "[2-PACK]-Mr Shield For ZTE Avid Plus [Tempered Glass] Screen Protector with Lifetime Replacement Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.599999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

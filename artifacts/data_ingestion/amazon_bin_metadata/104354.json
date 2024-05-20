@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0041FVR9I": {
+            "asin": "B0041FVR9I",
+            "height": {
+                "unit": "IN",
+                "value": 1.749999998215
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Flying Fisherman San Jose Polarized Sunglasses (Copper Frame, Amber Lenses)",
+            "normalizedName": "Flying Fisherman San Jose Polarized Sunglasses (Copper Frame, Amber Lenses)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00T3WQNS4": {
+            "asin": "B00T3WQNS4",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Magic Vida Bamboo Jar Salt Box with Lid Laser-Etched Salt Herbs Spices Jewelry Container Storage Round Bamboo Box with Butterfly Pattern (Butterfly)",
+            "normalizedName": "Magic Vida Bamboo Jar Salt Box with Lid Laser-Etched Salt Herbs Spices Jewelry Container Storage Round Bamboo Box with Butterfly Pattern (Butterfly)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01BFNZTM4": {
+            "asin": "B01BFNZTM4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "iPhone 6 and 6(S) ONLY. Bright LED Lighting (Dimmable) Cell Phone Case by iPrimio \u00ae. Great for Selfies. Facetime. Flashlight. (PINK)",
+            "normalizedName": "iPhone 6 and 6(S) ONLY. Bright LED Lighting (Dimmable) Cell Phone Case by iPrimio \u00ae. Great for Selfies. Facetime. Flashlight. (PINK)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01G8FBGDA": {
+            "asin": "B01G8FBGDA",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Solar Copper Wire lights Fairy String,eTopxizu 10M/33Ft 100leds Waterproof Starry D\u00e9cor Rope Lights Decorative Lamp,Outdoor LED String Lights Garden Xmas wedding Christmas strip Lights Blue",
+            "normalizedName": "Solar Copper Wire lights Fairy String,eTopxizu 10M/33Ft 100leds Waterproof Starry D\u00e9cor Rope Lights Decorative Lamp,Outdoor LED String Lights Garden Xmas wedding Christmas strip Lights Blue",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

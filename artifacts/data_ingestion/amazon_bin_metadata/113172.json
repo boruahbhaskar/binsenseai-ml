@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0166Y7L46": {
+            "asin": "B0166Y7L46",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Yumbox Illustrated (6-compartment Rocket Design) Bento Food Tray (Yumbox Outer Leakproof Shell Not Included)",
+            "normalizedName": "Yumbox Illustrated (6-compartment Rocket Design) Bento Food Tray (Yumbox Outer Leakproof Shell Not Included)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

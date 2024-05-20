@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001IWONL6": {
+            "asin": "B001IWONL6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Evriholder Avo Saver Avocado Holder",
+            "normalizedName": "Evriholder Avo Saver Avocado Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B004FUJ5NE": {
+            "asin": "B004FUJ5NE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Red Sea Reef Foundation Test Kit - Calcium, Alkalinity & Magnesium",
+            "normalizedName": "Red Sea Reef Foundation Test Kit - Calcium, Alkalinity & Magnesium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B008ATAIUU": {
+            "asin": "B008ATAIUU",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "EDUP EP-B3502 Wireless Car Bluetooth Music Receiver Stereo Output A2DP For Phone Ipod 3.5mm",
+            "normalizedName": "EDUP EP-B3502 Wireless Car Bluetooth Music Receiver Stereo Output A2DP For Phone Ipod 3.5mm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B019INP3HE": {
+            "asin": "B019INP3HE",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Iphone 6/Iphone 6s Screen Protector, Klearlook Edge-to-Edge Full Coverage Anti-Glare Tempered Glass Screen Protector+ Matt Back Film for Apple Iphone 6/Iphone 6s [White Frame]",
+            "normalizedName": "Iphone 6/Iphone 6s Screen Protector, Klearlook Edge-to-Edge Full Coverage Anti-Glare Tempered Glass Screen Protector+ Matt Back Film for Apple Iphone 6/Iphone 6s [White Frame]",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

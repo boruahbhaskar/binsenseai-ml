@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009ASXZHI": {
+            "asin": "B009ASXZHI",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "SE JT3405DS 25Pc Doming Punch & Dapping Block Set with a Wood Stand",
+            "normalizedName": "SE JT3405DS 25Pc Doming Punch & Dapping Block Set with a Wood Stand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01AWGZXHQ": {
+            "asin": "B01AWGZXHQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "DC Super Hero Girls Wonder Woman 12\" Action Doll",
+            "normalizedName": "DC Super Hero Girls Wonder Woman 12\" Action Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

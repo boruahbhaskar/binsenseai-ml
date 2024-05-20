@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LIRSYYI": {
+            "asin": "B00LIRSYYI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Apple Magsafe Power Adapter 45w with 'L' Style Connector",
+            "normalizedName": "Apple Magsafe Power Adapter 45w with 'L' Style Connector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00X7JUN0I": {
+            "asin": "B00X7JUN0I",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "WenTop 5050-300-RGB-IP65+44K+6AUS Waterproof LED Strip Lights Kit with 44key and 12V",
+            "normalizedName": "WenTop 5050-300-RGB-IP65+44K+6AUS Waterproof LED Strip Lights Kit with 44key and 12V",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3099999989014464
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01DW9H30U": {
+            "asin": "B01DW9H30U",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Dive Knife - Scuba Diving Tactical Knife with Leg Strap and Secure Sheath - PGM 440C Stainless Steel Diving Knife",
+            "normalizedName": "Dive Knife - Scuba Diving Tactical Knife with Leg Strap and Secure Sheath - PGM 440C Stainless Steel Diving Knife",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

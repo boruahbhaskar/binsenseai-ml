@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012ZTI1VS": {
+            "asin": "B012ZTI1VS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "[Qualcomm Certified]Aukey Quick Charge 2.0 18W Power-All USB Car Charger Adapter for iPhone 6, iPhone 6 Plus,Samsung Galaxy S6, S6 Edge, and more(2.4A for Android, 2.0A for iPhone and iPad;FREE Extra Long 3.3FT Micro USB Cord Cable)- Black",
+            "normalizedName": "[Qualcomm Certified]Aukey Quick Charge 2.0 18W Power-All USB Car Charger Adapter for iPhone 6, iPhone 6 Plus,Samsung Galaxy S6, S6 Edge, and more(2.4A for Android, 2.0A for iPhone and iPad;FREE Extra Long 3.3FT Micro USB Cord Cable)- Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B017T419ZY": {
+            "asin": "B017T419ZY",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Harmony Linens Bed Sheet Set - 1800 Double Brushed Microfiber Bedding - 4 Piece (Full, Beige)",
+            "normalizedName": "Harmony Linens Bed Sheet Set - 1800 Double Brushed Microfiber Bedding - 4 Piece (Full, Beige)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B01A8EMGKY": {
+            "asin": "B01A8EMGKY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Supershop\u00ae Ultrasonic Humidifier Air Purifier Aroma Diffuser, Mini Electric Aromatherapy Essential oil Diffuser Whisper-Quiet Cool Mist Humidifier Auto Shut Off (white)",
+            "normalizedName": "Supershop\u00ae Ultrasonic Humidifier Air Purifier Aroma Diffuser, Mini Electric Aromatherapy Essential oil Diffuser Whisper-Quiet Cool Mist Humidifier Auto Shut Off (white)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033389
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.549999994339
+            }
+        },
+        "B01CBV42NG": {
+            "asin": "B01CBV42NG",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "WWE Easter Egg Decorating Kit",
+            "normalizedName": "WWE Easter Egg Decorating Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

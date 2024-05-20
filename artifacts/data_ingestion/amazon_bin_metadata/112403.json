@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FBW7CNA": {
+            "asin": "B00FBW7CNA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Fisher-Price Rattle and Rock Maracas Musical Toy",
+            "normalizedName": "Fisher-Price Rattle and Rock Maracas Musical Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B016L6GWE4": {
+            "asin": "B016L6GWE4",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "Kensun&reg; Multi-Use Tire Inflator Portable Car Air Compressor",
+            "normalizedName": "Kensun&reg; Multi-Use Tire Inflator Portable Car Air Compressor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

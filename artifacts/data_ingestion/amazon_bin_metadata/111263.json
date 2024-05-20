@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MPIGQB2": {
+            "asin": "B00MPIGQB2",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Portable Charger RAVPower 13000mAh (Powerful 5V / 4.5A Dual USB Output) Power Bank External Battery Pack with iSmart Technology for Most Smartphones and Tablets - White",
+            "normalizedName": "Portable Charger RAVPower 13000mAh (Powerful 5V / 4.5A Dual USB Output) Power Bank External Battery Pack with iSmart Technology for Most Smartphones and Tablets - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01BBL38PK": {
+            "asin": "B01BBL38PK",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Verbatim 256 GB Store 'n' Go Vx400 USB 3.0 Flash Drive, Silver 47691",
+            "normalizedName": "Verbatim 256 GB Store 'n' Go Vx400 USB 3.0 Flash Drive, Silver 47691",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999897918628691
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PCZJYWS": {
+            "asin": "B00PCZJYWS",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Bungalow 23 Blueberry Lemon Drop, 750 ml",
+            "normalizedName": "Bungalow 23 Blueberry Lemon Drop, 750 ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01DPUFUDI": {
+            "asin": "B01DPUFUDI",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "12-Pc. Rustic Melamine Dinnerware Set",
+            "normalizedName": "12-Pc. Rustic Melamine Dinnerware Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.34999999551354
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H8PT1U": {
+            "asin": "B000H8PT1U",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Rothco Desert Tan Speedlace Jungle Boot, 12",
+            "normalizedName": "Rothco Desert Tan Speedlace Jungle Boot, 12",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987658
+            }
+        },
+        "B011NQ2BCY": {
+            "asin": "B011NQ2BCY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "H.Versailtex Vintage Rustic Style Printed Design Room Darkening Blackout Curtain Panels with Antique Grommet Top,Set of 1 Panel,W52 x L63 inch-Taupe and Sage Floral",
+            "normalizedName": "Set of 1 H.Versailtex Vintage Rustic Style Printed Design Room Darkening Blackout Curtain Panels with Antique Grommet Top, Panel,W52 x L63 inch-Taupe and Sage Floral",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

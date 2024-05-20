@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VK6TKO": {
+            "asin": "B000VK6TKO",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Newman's Own Organics Chicken & Salmon Formula for Cats, 5.5-Ounce Cans (Pack of 24)",
+            "normalizedName": "(Pack of 24) Newman's Own Organics Chicken & Salmon Formula for Cats, 5.5-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005Y70W": {
+            "asin": "B00005Y70W",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "King of the Royal Mounted",
+            "normalizedName": "King of the Royal Mounted",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B0043K8LWW": {
+            "asin": "B0043K8LWW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Caged Animal [Blu-Ray]",
+            "normalizedName": "Caged Animal [Blu-Ray]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

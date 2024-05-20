@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R1DE0XC": {
+            "asin": "B00R1DE0XC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Kuuk Silicone Popsicle Ice Molds (4 Pack)",
+            "normalizedName": "(4 Pack) Kuuk Silicone Popsicle Ice Molds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00WHLJIQM": {
+            "asin": "B00WHLJIQM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "WEme 2-in-1 USB-C to 3 Ports USB 3.0 Hub With Gigabit Ethernet Adapter and LAN Wired Network Converter for Type-C Devices New Macbook 2016, ChromeBook Pixel With 0.98ft / 30cm cable (Unibody Aluminum)",
+            "normalizedName": "WEme 2-in-1 USB-C to 3 Ports USB 3.0 Hub With Gigabit Ethernet Adapter and LAN Wired Network Converter for Type-C Devices New Macbook 2016, ChromeBook Pixel With 0.98ft / 30cm cable (Unibody Aluminum)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

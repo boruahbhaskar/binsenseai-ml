@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0373211627": {
+            "asin": "0373211627",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Walk the Edge (Thunder Road)",
+            "normalizedName": "Walk the Edge (Thunder Road)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00IU2B9NM": {
+            "asin": "B00IU2B9NM",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "USB OUTLET MULTIPLIER (INCLUDES 6 SOCKETS AND 2 USB PORTS)",
+            "normalizedName": "USB OUTLET MULTIPLIER (INCLUDES 6 SOCKETS AND 2 USB PORTS)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7795275552
+            }
+        },
+        "B00J2SU880": {
+            "asin": "B00J2SU880",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Patio Misting System (MC/520)",
+            "normalizedName": "Patio Misting System (MC/520)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

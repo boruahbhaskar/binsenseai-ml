@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GR9OIQ": {
+            "asin": "B000GR9OIQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Old Spice High Endurance Pure Sport Scent Men's Body Wash 18 Fl Oz (Pack of 6)",
+            "normalizedName": "(Pack of 6) Old Spice High Endurance Pure Sport Scent Men's Body Wash 18 Fl Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01BFNZTM4": {
+            "asin": "B01BFNZTM4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "iPhone 6 and 6(S) ONLY. Bright LED Lighting (Dimmable) Cell Phone Case by iPrimio \u00ae. Great for Selfies. Facetime. Flashlight. (PINK)",
+            "normalizedName": "iPhone 6 and 6(S) ONLY. Bright LED Lighting (Dimmable) Cell Phone Case by iPrimio \u00ae. Great for Selfies. Facetime. Flashlight. (PINK)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

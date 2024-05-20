@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008A3TEA6": {
+            "asin": "B008A3TEA6",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Nylabone Dura Chew Medium Bacon and Chicken Flavored Bone Dog Chew Toy, Twin Pack",
+            "normalizedName": "Nylabone Dura Chew Medium Bacon and Chicken Flavored Bone Dog Chew Toy, Twin Pack",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B010MVVIF2": {
+            "asin": "B010MVVIF2",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "ULTRA LIGHT SPEED Jump Rope for Double Unders - Versatile Cable Speed Rope *w/FREE eBook* : : Fully Adjustable Length for All Sizes (Black Handles/Blue Cable)",
+            "normalizedName": "ULTRA LIGHT SPEED Jump Rope for Double Unders - Versatile Cable Speed Rope *w/FREE eBook* : : Fully Adjustable Length for All Sizes (Black Handles/Blue Cable)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        },
+        "B01EA5U0Q4": {
+            "asin": "B01EA5U0Q4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "TTLIFE Ultra-Slim QI Wireless Charger Pad For Samsung Galaxy S6/SONY Xperia and other Other Qi compliant device",
+            "normalizedName": "TTLIFE Ultra-Slim QI Wireless Charger Pad For Samsung Galaxy S6/SONY Xperia and other Other Qi compliant device",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

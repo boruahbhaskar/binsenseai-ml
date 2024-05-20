@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001JTJFO8": {
+            "asin": "B001JTJFO8",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "Planets Discovery Classic Accents\u00ae Variety Pack",
+            "normalizedName": "Planets Discovery Classic Accents\u00ae Variety Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        },
+        "B00CEBJGD0": {
+            "asin": "B00CEBJGD0",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Deadwood: Season 1",
+            "normalizedName": "Deadwood: Season 1",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960303572697
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B00I0DI0Z6": {
+            "asin": "B00I0DI0Z6",
+            "height": {
+                "unit": "IN",
+                "value": 2.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5
+            },
+            "name": "Quest Nutrition Protein Bar, Cookies & Cream, 21g Protein, 2.12oz Bar, 12 Count",
+            "normalizedName": "Quest Nutrition Protein Bar, Cookies & Cream, 21g Protein, 2.12oz Bar, 12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

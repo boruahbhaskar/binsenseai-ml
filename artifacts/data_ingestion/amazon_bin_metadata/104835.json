@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FRVOPI": {
+            "asin": "B000FRVOPI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "R&M Teddy Bear 3\" Cookie Cutter in Durable, Economical, Tinplated Steel",
+            "normalizedName": "R&M Teddy Bear 3\" Cookie Cutter in Durable, Economical, Tinplated Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B000GG2HOU": {
+            "asin": "B000GG2HOU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "L'Oreal Paris Sublime Bronze Self-Tanning Body Towelettes, 6 Count",
+            "normalizedName": "L'Oreal Paris Sublime Bronze Self-Tanning Body Towelettes, 6 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01BZXVULI": {
+            "asin": "B01BZXVULI",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Sound Intone Universal Noise Isolating Headphones with Microphone - Golden",
+            "normalizedName": "Sound Intone Universal Noise Isolating Headphones with Microphone - Golden",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1449356354": {
+            "asin": "1449356354",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Lean Customer Development: Building Products Your Customers Will Buy",
+            "normalizedName": "Lean Customer Development: Building Products Your Customers Will Buy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B004DIZY7O": {
+            "asin": "B004DIZY7O",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Chef-mate Country Sausage Gravy, 6lb 9oz",
+            "normalizedName": "Chef-mate Country Sausage Gravy, 6lb 9oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01BEMF94E": {
+            "asin": "B01BEMF94E",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            },
+            "name": "HusKitchen Stainless Steel Food Storage Container , Snack Container , Children and Adults",
+            "normalizedName": "HusKitchen Stainless Steel Food Storage Container , Snack Container , Children and Adults",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

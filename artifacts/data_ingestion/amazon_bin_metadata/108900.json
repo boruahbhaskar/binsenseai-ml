@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "143368912X": {
+            "asin": "143368912X",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Unashamed",
+            "normalizedName": "Unashamed",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B000065U6Q": {
+            "asin": "B000065U6Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.09842519573
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.29921259098
+            },
+            "name": "The Lord of the Rings - The Fellowship of the Ring [VHS]",
+            "normalizedName": "The Lord of the Rings - The Fellowship of the Ring [VHS]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.500008410216
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.20078739729
+            }
+        },
+        "B00T8HPF24": {
+            "asin": "B00T8HPF24",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Kensun All-in-One LED Headlight Conversion Kit with Cree Bulbs - 9006 (HB4) - 30W 3000LM x2",
+            "normalizedName": "Kensun All-in-One LED Headlight Conversion Kit with Cree Bulbs - 9006 (HB4) - 30W 3000LM x2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

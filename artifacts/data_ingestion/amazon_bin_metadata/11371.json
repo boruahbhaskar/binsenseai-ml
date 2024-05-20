@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ARRPIES": {
+            "asin": "B01ARRPIES",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Dromida Ominus FPV UAV RTF Quadcopter, Red",
+            "normalizedName": "Dromida Ominus FPV UAV RTF Quadcopter, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

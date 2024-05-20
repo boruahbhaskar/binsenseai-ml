@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00172I61A": {
+            "asin": "B00172I61A",
+            "height": {
+                "unit": "IN",
+                "value": 5.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Mario Badescu The Executive Collection for Men",
+            "normalizedName": "Mario Badescu The Executive Collection for Men",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9
+            }
+        },
+        "B017LKVGBS": {
+            "asin": "B017LKVGBS",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Pioneer AVH-X4800BS 7\" Motorized DVD Receiver",
+            "normalizedName": "Pioneer AVH-X4800BS 7\" Motorized DVD Receiver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

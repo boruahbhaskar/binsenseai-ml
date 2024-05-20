@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C2R54QY": {
+            "asin": "B00C2R54QY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "NyGuard Insect Growth Regulator 140ml Tip and Pour Bottle, Kills Fleas, Roachs and Flying Insects",
+            "normalizedName": "NyGuard Insect Growth Regulator 140ml Tip and Pour Bottle, Kills Fleas, Roachs and Flying Insects",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.68
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B0186T37S8": {
+            "asin": "B0186T37S8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "QI Wireless Charging Pad, Seneo QI Mobile Phone Wireless Charger for Google Nexus 4, Nokia Lumia 920, Lg g3, Samsung Galaxy S3 and iphone 6 6S (NEED Receiver)",
+            "normalizedName": "QI Wireless Charging Pad, Seneo QI Mobile Phone Wireless Charger for Google Nexus 4, Nokia Lumia 920, Lg g3, Samsung Galaxy S3 and iphone 6 6S (NEED Receiver)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

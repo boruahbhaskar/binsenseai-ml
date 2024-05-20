@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0039PL908": {
+            "asin": "B0039PL908",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Lutron Lutron DV-603PG-LA Diva 600-Watt 3-Way Eco-Dim Dimmer, Light Almond",
+            "normalizedName": "Lutron Lutron DV-603PG-LA Diva 600-Watt 3-Way Eco-Dim Dimmer, Light Almond",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B007T0W5CA": {
+            "asin": "B007T0W5CA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "RCA Digital Alarm Clock with Large 1.4\" Display",
+            "normalizedName": "RCA Digital Alarm Clock with Large 1.4\" Display",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

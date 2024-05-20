@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PLUIR2C": {
+            "asin": "B00PLUIR2C",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "DenTek Fresh Clean Floss Pick, 75 Count",
+            "normalizedName": "DenTek Fresh Clean Floss Pick, 75 Count",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00QL8KUH8": {
+            "asin": "B00QL8KUH8",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Wet Brush Hair Brush, Safari-Giraffe",
+            "normalizedName": "Wet Brush Hair Brush, Safari-Giraffe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B014EPFBS2": {
+            "asin": "B014EPFBS2",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "[2 Pack]HKYH Solar Fence Light With Bracket White 3 LED Solar Gutter Lights 2nd Generation Night Utility Security Light for Indoor Outdoor Permanent or Portable for House, Fence, Garden, Shed, Stairs",
+            "normalizedName": "2 Pack [ ]HKYH Solar Fence Light With Bracket White 3 LED Solar Gutter Lights 2nd Generation Night Utility Security Light for Indoor Outdoor Permanent or Portable for House, Fence, Garden, Shed, Stairs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01EESQ214": {
+            "asin": "B01EESQ214",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "eCyber iPhone 6/6S 4.7\" Phone Case Ultra Thin Slim Fit Full body Rugged Heavy Duty Series Hybrid Armor Shock-Absorption Defender Shield Bumper (Silver for iPhone 6/6S)",
+            "normalizedName": "eCyber iPhone 6/6S 4.7\" Phone Case Ultra Thin Slim Fit Full body Rugged Heavy Duty Series Hybrid Armor Shock-Absorption Defender Shield Bumper (Silver for iPhone 6/6S)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

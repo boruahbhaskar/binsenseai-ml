@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007R6TR2W": {
+            "asin": "B007R6TR2W",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Keurig Donut Shop Coconut Mocha 18 K CUP PACKS,0.34oz",
+            "normalizedName": "Keurig Donut Shop Coconut Mocha 18 K CUP PACKS,0.34oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

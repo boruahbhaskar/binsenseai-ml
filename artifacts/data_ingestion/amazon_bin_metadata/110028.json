@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IWZNED0": {
+            "asin": "B00IWZNED0",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Holy Bears, Teddy Bear, 8\" Approx Stuffed Animal, Black and White Soccer Athletes Bear. Similarly, If Anyone Competes As an Athlete He Does Not Receive the Victor's Crown Unless He Competes According to the Rules. - 2 Timothy 2:5.",
+            "normalizedName": "Holy Bears, Teddy Bear, 8\" Approx Stuffed Animal, Black and White Soccer Athletes Bear. Similarly, If Anyone Competes As an Athlete He Does Not Receive the Victor's Crown Unless He Competes According to the Rules. - 2 Timothy 2:5.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00K4XHHA4": {
+            "asin": "B00K4XHHA4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Classic Graduation Luncheon Napkins, 20ct",
+            "normalizedName": "Classic Graduation Luncheon Napkins, 20ct",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00R041BAW": {
+            "asin": "B00R041BAW",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "NFL Super Bowl Champions XLIX: New England Patriots",
+            "normalizedName": "NFL Super Bowl Champions XLIX: New England Patriots",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

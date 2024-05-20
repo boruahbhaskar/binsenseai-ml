@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OV2KDLO": {
+            "asin": "B00OV2KDLO",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "iPhone 6S Case ( 4.7 inches), OOFIT iPhone 6 Life Quote Case - Life Begins One Jesus Becomes The Reason You Live It",
+            "normalizedName": "iPhone 6S Case ( 4.7 inches), OOFIT iPhone 6 Life Quote Case - Life Begins One Jesus Becomes The Reason You Live It",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00VXRY8ZC": {
+            "asin": "B00VXRY8ZC",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "All Natural Non toxic Insect Killer Spray by Killer Green - 16 oz. - Kills on cockroaches, Ants, Mosquitos, Spiders. !00% Money Back Guarantee - Safe for People, Plants and Pets",
+            "normalizedName": "All Natural Non toxic Insect Killer Spray by Killer Green - 16 oz. - Kills on cockroaches, Ants, Mosquitos, Spiders. !00% Money Back Guarantee - Safe for People, Plants and Pets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01GKDQUAO": {
+            "asin": "B01GKDQUAO",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "Overwatch Heroes Keychain Reaper Tracer Widowmaker Winston Key Ring Holder (Reaper)",
+            "normalizedName": "Overwatch Heroes Keychain Reaper Tracer Widowmaker Winston Key Ring Holder (Reaper)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

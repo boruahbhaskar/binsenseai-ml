@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002D0JX8": {
+            "asin": "B0002D0JX8",
+            "height": {
+                "unit": "IN",
+                "value": 7.124999985465
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Chauvet Hurricane 700 Fog Machine",
+            "normalizedName": "Chauvet Hurricane 700 Fog Machine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.599999995303891
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.374999984955
+            }
+        },
+        "B00NY421UG": {
+            "asin": "B00NY421UG",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Dixie Cold Paper Cups, 5 oz. (450 ct.)",
+            "normalizedName": "Dixie Cold Paper Cups, 5 oz. (450 ct.)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

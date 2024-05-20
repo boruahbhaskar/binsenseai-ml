@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KLE93K8": {
+            "asin": "B00KLE93K8",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Toto TS112FL53#BN TS112FL51#BN Classic Series Multiple Spray 2 GPM Aero Handshower,  Brushed Nickel",
+            "normalizedName": "Toto TS112FL53#BN TS112FL51#BN Classic Series Multiple Spray 2 GPM Aero Handshower,  Brushed Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B010NQL8BA": {
+            "asin": "B010NQL8BA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "SpruKits Halo Spartan Jameson Locke Action Figure Model Kit, Level 2",
+            "normalizedName": "SpruKits Halo Spartan Jameson Locke Action Figure Model Kit, Level 2",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01GURWUUY": {
+            "asin": "B01GURWUUY",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Acomfort\u00ae Indoor Outdoor Wooden Trapeze Swing with Plastic Triangular Gym Rings for Kids",
+            "normalizedName": "Acomfort\u00ae Indoor Outdoor Wooden Trapeze Swing with Plastic Triangular Gym Rings for Kids",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EVX0ZH0": {
+            "asin": "B00EVX0ZH0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Barbie Careers Pet Vet Playset",
+            "normalizedName": "Barbie Careers Pet Vet Playset",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00UCQS4MS": {
+            "asin": "B00UCQS4MS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Ewei's HomeWares 8\" Non-Stick Sushi Chef's Knife With Sheath, Black, Advantage, Ergonomic Handle, High Carbon Stainless Steel Knife, 5CR15MOV Blade Keep Sharpness",
+            "normalizedName": "Ewei's HomeWares 8\" Non-Stick Sushi Chef's Knife With Sheath, Black, Advantage, Ergonomic Handle, High Carbon Stainless Steel Knife, 5CR15MOV Blade Keep Sharpness",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

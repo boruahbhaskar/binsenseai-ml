@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006009DQ6": {
+            "asin": "B006009DQ6",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Refillable Butane Torch Lighter: Tonino Lamborghini Pergusa",
+            "normalizedName": "Refillable Butane Torch Lighter: Tonino Lamborghini Pergusa",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B017AGN1XO": {
+            "asin": "B017AGN1XO",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Fitbit Charge HR, Blue, Large",
+            "normalizedName": "Fitbit Charge HR, Blue, Large",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

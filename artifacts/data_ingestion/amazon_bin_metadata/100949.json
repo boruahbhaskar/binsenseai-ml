@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0613633393": {
+            "asin": "0613633393",
+            "height": {
+                "unit": "IN",
+                "value": 0.40157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7007873927
+            },
+            "name": "Rabbit And Turtle Go To School (Turtleback School & Library Binding Edition) (Green Light Reader - Level 1)",
+            "normalizedName": "Rabbit And Turtle Go To School (Turtleback School & Library Binding Edition) (Green Light Reader - Level 1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3000050461296
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.90157479713
+            }
+        },
+        "B00443B74C": {
+            "asin": "B00443B74C",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Current Biography Yearbook 1998 with Index 1991-1998",
+            "normalizedName": "Current Biography Yearbook 1998 with Index 1991-1998",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B007P5VZUM": {
+            "asin": "B007P5VZUM",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Nana's Place",
+            "normalizedName": "Nana's Place",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B0154ARWHE": {
+            "asin": "B0154ARWHE",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "AmazonBasics Microfiber Sheet Set - Twin, Chocolate",
+            "normalizedName": "AmazonBasics Microfiber Sheet Set - Twin, Chocolate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

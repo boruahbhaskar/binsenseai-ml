@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004MF4RNK": {
+            "asin": "B004MF4RNK",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Hello Kitty Kt4335B Hello Kitty Notebook Bag (Black)",
+            "normalizedName": "Hello Kitty Kt4335B Hello Kitty Notebook Bag (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B00CI6J5JQ": {
+            "asin": "B00CI6J5JQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Crayola; Inspiration Art Case; Art Tools; 140 Pieces; Crayons; Colored Pencils; Washable Markers; Paper; Portable Storage",
+            "normalizedName": "Crayola; Inspiration Art Case; Art Tools; 140 Pieces; Crayons; Colored Pencils; Washable Markers; Paper; Portable Storage",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

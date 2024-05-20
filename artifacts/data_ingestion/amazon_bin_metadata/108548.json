@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XJ0I1WW": {
+            "asin": "B00XJ0I1WW",
+            "height": {
+                "unit": "IN",
+                "value": 2.8399999971032
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "UDI RC U27 2.4Ghz 4 Channel 6 AXIS Remote Control Quadcopter",
+            "normalizedName": "UDI RC U27 2.4Ghz 4 Channel 6 AXIS Remote Control Quadcopter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030UF6EW": {
+            "asin": "B0030UF6EW",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Aveeno Baby Daily Moisture Lotion, Fragrance Free, 18  Ounce",
+            "normalizedName": "Aveeno Baby Daily Moisture Lotion, Fragrance Free, 18  Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.749999996175
+            }
+        },
+        "B00376ZEY6": {
+            "asin": "B00376ZEY6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Bequet Gourmet Celtic Sea Salt Caramel - 8 oz bag",
+            "normalizedName": "Bequet Gourmet Celtic Sea Salt Caramel - 8 oz bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0985245719": {
+            "asin": "0985245719",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "How I Sent My Hug Around the World",
+            "normalizedName": "How I Sent My Hug Around the World",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B000C9Y1EA": {
+            "asin": "B000C9Y1EA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "WIX Filters - 58841 Automatic Transmission Filter, Pack of 1",
+            "normalizedName": "Pack of 1 WIX Filters - 58841 Automatic Transmission Filter,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B003QDRJXY": {
+            "asin": "B003QDRJXY",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Nutiva Organic Virgin Coconut Oil, 54 Ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) Nutiva Organic Virgin Coconut Oil, 54 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

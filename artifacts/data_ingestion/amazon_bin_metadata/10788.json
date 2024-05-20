@@ -1,0 +1,59 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1119225418": {
+            "asin": "1119225418",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "The Official ACT Prep Guide, 2016 - 2017",
+            "normalizedName": "The Official ACT Prep Guide, 2016 - 2017",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00779XNN8": {
+            "asin": "B00779XNN8",
+            "height": null,
+            "length": null,
+            "name": "Conex 3.5 Oz Translucent Cold Cup (3.5N25) 100/Pack",
+            "normalizedName": "Conex 3.5 Oz Translucent Cold Cup (3.5N25) 100/Pack",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        },
+        "B00KZIG9MU": {
+            "asin": "B00KZIG9MU",
+            "height": {
+                "unit": "IN",
+                "value": 8.06
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.62
+            },
+            "name": "Franklin Sports NCAA UCF Golden Knights Youth Deluxe Team Uniform Set, Multi, Small",
+            "normalizedName": "Franklin Sports NCAA UCF Golden Knights Youth Deluxe Team Uniform Set, Multi, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.25
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,69 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006I5BOG": {
+            "asin": "B0006I5BOG",
+            "height": {
+                "unit": "IN",
+                "value": 1.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4
+            },
+            "name": "Educational Insights Jumbo Lowercase Alphabet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2
+            }
+        },
+        "B001K74SHS": {
+            "asin": "B001K74SHS",
+            "height": {
+                "unit": "IN",
+                "value": 1.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6
+            },
+            "name": "Catapult Kit - Build Your Own Wooden Mini Medieval Warfare Kit - With 18 Foot Range",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.8
+            }
+        },
+        "B00AHCC0TU": {
+            "asin": "B00AHCC0TU",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999999999999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.5
+            },
+            "name": "Gama Sonic Solar Outdoor Hanging LED Spotlight (Planter Basket Not Included) #GS-6KIT",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1114.jpg"
+}

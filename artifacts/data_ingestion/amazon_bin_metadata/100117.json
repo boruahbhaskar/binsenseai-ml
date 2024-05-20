@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008654VYC": {
+            "asin": "B008654VYC",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Red Rock Outdoor Gear Sidekick Sling Bag (Small, Coyote Tan)",
+            "normalizedName": "Red Rock Outdoor Gear Sidekick Sling Bag (Small, Coyote Tan)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01488541O": {
+            "asin": "B01488541O",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Quicken WillMaker Plus 2016",
+            "normalizedName": "Quicken WillMaker Plus 2016",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B014KEF0VK": {
+            "asin": "B014KEF0VK",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Fisher-Price Thomas the Train Take-n-Play Thomas at the Water Tower",
+            "normalizedName": "Fisher-Price Thomas the Train Take-n-Play Thomas at the Water Tower",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9599999991949529
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

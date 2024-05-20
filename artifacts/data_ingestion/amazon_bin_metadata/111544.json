@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AZK87M8": {
+            "asin": "B00AZK87M8",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "sugarSNAP Files A Set of 5 Mesh Diaper Bag Organizer Inserts gray+yellow",
+            "normalizedName": "Set of 5 sugarSNAP Files A Mesh Diaper Bag Organizer Inserts gray+yellow",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00ILD580U": {
+            "asin": "B00ILD580U",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Nerf Zombie Strike Doublestrike Blaster",
+            "normalizedName": "Nerf Zombie Strike Doublestrike Blaster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01D45D7VQ": {
+            "asin": "B01D45D7VQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Aiyze for Samsung Galaxy S6 Edge Case G9250 Wallet Cases Color Printed PU Leather Credit Card Holder Flip Cover with Free Stylus Gift ( Woman Flower )",
+            "normalizedName": "Aiyze for Samsung Galaxy S6 Edge Case G9250 Wallet Cases Color Printed PU Leather Credit Card Holder Flip Cover with Free Stylus Gift ( Woman Flower )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

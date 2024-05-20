@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005FVOW3U": {
+            "asin": "B005FVOW3U",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Walker 250-24916 4-Wire Oxygen Sensor",
+            "normalizedName": "Walker 250-24916 4-Wire Oxygen Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B0170MBCL6": {
+            "asin": "B0170MBCL6",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Disney Donald and Daisy Duck Socks for Women (1 Pair)",
+            "normalizedName": "Disney Donald and Daisy Duck Socks for Women (1 Pair)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01CCMOMM0": {
+            "asin": "B01CCMOMM0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.749999992095
+            },
+            "name": "HDMI Splitter, SOWTECH(TM) Digital 1X2 HDMI Switch for Full HD 1080P Support 3D (One Input To Two Outputs)",
+            "normalizedName": "HDMI Splitter, SOWTECH(TM) Digital 1X2 HDMI Switch for Full HD 1080P Support 3D (One Input To Two Outputs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.23999999979873823
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.249999995665
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002665ZTC": {
+            "asin": "B002665ZTC",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Rat Zapper Classic RZC001",
+            "normalizedName": "Rat Zapper Classic RZC001",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00VRLA8LM": {
+            "asin": "B00VRLA8LM",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Net10 ZTE Z667G Whirl 2 3G Android Prepaid Smartphone - White Box",
+            "normalizedName": "Net10 ZTE Z667G Whirl 2 3G Android Prepaid Smartphone - White Box",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1936022907": {
+            "asin": "1936022907",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Carson-Dellosa Publishing 6-Scene, Learning to Sequence",
+            "normalizedName": "Carson-Dellosa Publishing 6-Scene, Learning to Sequence",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B015XC3B46": {
+            "asin": "B015XC3B46",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Zacro PS4 Vertical Stand Cooling Fan Dual Charging Station for Playstation 4 DualShock 4 Controllers, with Dual USB HUB Charger Ports",
+            "normalizedName": "Zacro PS4 Vertical Stand Cooling Fan Dual Charging Station for Playstation 4 DualShock 4 Controllers, with Dual USB HUB Charger Ports",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B0168N1O52": {
+            "asin": "B0168N1O52",
+            "height": {
+                "unit": "IN",
+                "value": 5.249999994645
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Paw Patrol, Real Talking Everest Plush",
+            "normalizedName": "Paw Patrol, Real Talking Everest Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291276
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

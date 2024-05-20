@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0307931390": {
+            "asin": "0307931390",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Oh, the Places on Earth! A Cat in the Hat's Learning Library Collection (Cat in the Hat Knows a Lot About That!: Cat in the Hat's Learning Library)",
+            "normalizedName": "Oh, the Places on Earth! A Cat in the Hat's Learning Library Collection (Cat in the Hat Knows a Lot About That!: Cat in the Hat's Learning Library)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B008WXETO0": {
+            "asin": "B008WXETO0",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Deluxe 66\" Inflatable Palm Tree Hawaiian Luau D\u00e9cor Coconuts",
+            "normalizedName": "Deluxe 66\" Inflatable Palm Tree Hawaiian Luau D\u00e9cor Coconuts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00KW80RIK": {
+            "asin": "B00KW80RIK",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "TEEMI 2.4GHZ Wireless USB Automatic laser barcode scanner (2.4G Wireless + USB 2.0 wired), Rechargeable Handheld Bar-code Reader, Plug and Play, Easy to use",
+            "normalizedName": "TEEMI 2.4GHZ Wireless USB Automatic laser barcode scanner (2.4G Wireless + USB 2.0 wired), Rechargeable Handheld Bar-code Reader, Plug and Play, Easy to use",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B0116MGM98": {
+            "asin": "B0116MGM98",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Jumbo Toy Storage Hammock [Also XL Size] for Kids Stuffed Animals, Pool Toys, Sports Gear, Towels, Bedding. Corner Net and Bin Organizer. Top Quality, Suits Any Decor, Easy Install, Machine Washable",
+            "normalizedName": "Jumbo Toy Storage Hammock [Also XL Size] for Kids Stuffed Animals, Pool Toys, Sports Gear, Towels, Bedding. Corner Net and Bin Organizer. Top Quality, Suits Any Decor, Easy Install, Machine Washable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

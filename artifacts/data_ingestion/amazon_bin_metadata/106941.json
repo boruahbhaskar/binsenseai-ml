@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UJ2GX28": {
+            "asin": "B00UJ2GX28",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Playskool Heroes Galactic Heroes Star Wars Resistance Rey (Jakku) & Captain Phasma",
+            "normalizedName": "Playskool Heroes Galactic Heroes Star Wars Resistance Rey (Jakku) & Captain Phasma",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01H33F2RW": {
+            "asin": "B01H33F2RW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.3
+            },
+            "name": "PRISTINE iPhone 6/6S (4.7\") #1 NEW LATEST 2016 Trending Corners Soft Air Cushion Slim Double layer TPU/Acrylic Hybrid Bumper Drop Resistance Shockproof Protective Case Cover (Red)",
+            "normalizedName": "PRISTINE iPhone 6/6S (4.7\") #1 NEW LATEST 2016 Trending Corners Soft Air Cushion Slim Double layer TPU/Acrylic Hybrid Bumper Drop Resistance Shockproof Protective Case Cover (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2755778275
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.3
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

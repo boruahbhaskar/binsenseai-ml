@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L4O3GV6": {
+            "asin": "B00L4O3GV6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Syma X11 R/C Quadcopter - White",
+            "normalizedName": "Syma X11 R/C Quadcopter - White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01ARGBRGW": {
+            "asin": "B01ARGBRGW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Barbie and Toddler Student Flippin Fun Gymnastics Dolls",
+            "normalizedName": "Barbie and Toddler Student Flippin Fun Gymnastics Dolls",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

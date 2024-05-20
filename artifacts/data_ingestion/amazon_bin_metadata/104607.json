@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ASVDR8M": {
+            "asin": "B01ASVDR8M",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Fisher-Price Thomas the Train MINIS Motorized Raceway",
+            "normalizedName": "Fisher-Price Thomas the Train MINIS Motorized Raceway",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1499999973584396
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B01CNAY8DE": {
+            "asin": "B01CNAY8DE",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "EPIC Tumbler Insulated Travel Cup 30oz.Stainless Steel Double Wall Vacuum Travel Mug and Coffee Thermos Flask with Shatterproof Regular and Sliding Lid-2 Stainless Steel Straws Bent and Straight+Brush",
+            "normalizedName": "EPIC Tumbler Insulated Travel Cup 30oz.Stainless Steel Double Wall Vacuum Travel Mug and Coffee Thermos Flask with Shatterproof Regular and Sliding Lid-2 Stainless Steel Straws Bent and Straight+Brush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SX4C7Q": {
+            "asin": "B000SX4C7Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Samsung DA29-00003G Aqua-Pure Plus Refrigerator Water Filter, 1-Pack",
+            "normalizedName": "1-Pack Samsung DA29-00003G Aqua-Pure Plus Refrigerator Water Filter,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00OGKYNF8": {
+            "asin": "B00OGKYNF8",
+            "height": {
+                "unit": "IN",
+                "value": 1.249999998725
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Shark XFF350 Navigator Lift-Away NV350, NV351, NV352 Replacement Filter Set, 1 Felt + 1 Foam",
+            "normalizedName": "Shark XFF350 Navigator Lift-Away NV350, NV351, NV352 Replacement Filter Set, 1 Felt + 1 Foam",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B016OE3AFW": {
+            "asin": "B016OE3AFW",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "SAXX UNDERWEAR Men's Platinum Boxer Fly Cobalt Boxer Briefs SM",
+            "normalizedName": "SAXX UNDERWEAR Men's Platinum Boxer Fly Cobalt Boxer Briefs SM",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02204600116758729
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

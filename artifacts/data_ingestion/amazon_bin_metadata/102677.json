@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SZR3JLW": {
+            "asin": "B00SZR3JLW",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "My Boot Trees, Boot Shaper Stands for Closet Organization. Many Patterns to Choose From. 1 Pair (Pink with Brown Polka Dots).",
+            "normalizedName": "My Boot Trees, Boot Shaper Stands for Closet Organization. Many Patterns to Choose From. 1 Pair (Pink with Brown Polka Dots).",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B015XW83N0": {
+            "asin": "B015XW83N0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "GLW\u00ae 50w Remote Control RGB Flood Light, 4 Models with 16 Color Tones Spotlight, Dimmable Color Changing Outdoor Security Light",
+            "normalizedName": "GLW\u00ae 50w Remote Control RGB Flood Light, 4 Models with 16 Color Tones Spotlight, Dimmable Color Changing Outdoor Security Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5999999969810736
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

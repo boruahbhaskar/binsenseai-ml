@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00449FCCY": {
+            "asin": "B00449FCCY",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Tic Tac Toe Tactile Wooden Game",
+            "normalizedName": "Tic Tac Toe Tactile Wooden Game",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

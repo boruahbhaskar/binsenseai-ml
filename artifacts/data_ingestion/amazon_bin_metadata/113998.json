@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AWSTDAI": {
+            "asin": "B00AWSTDAI",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Ultra Ball (Pack of 2)",
+            "normalizedName": "(Pack of 2) Ultra Ball",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00D07W8CI": {
+            "asin": "B00D07W8CI",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Blade-Tech Black Ice OWB Holste,For Glock 34/35 Gen 4,Black,Right Hand,D/OS Adjustable Sting Ray",
+            "normalizedName": "Blade-Tech Black Ice OWB Holste,For Glock 34/35 Gen 4,Black,Right Hand,D/OS Adjustable Sting Ray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00SOM7YWI": {
+            "asin": "B00SOM7YWI",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Sennheiser Momentum 2.0 Wireless with Active Noise Cancellation- Ivory",
+            "normalizedName": "Sennheiser Momentum 2.0 Wireless with Active Noise Cancellation- Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

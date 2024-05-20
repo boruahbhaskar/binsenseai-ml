@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003EMKNPS": {
+            "asin": "B003EMKNPS",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Tom's of Maine Moisturizing Bar Daily, 4-Ounces Bars (Pack of 6)",
+            "normalizedName": "(Pack of 6) Tom's of Maine Moisturizing Bar Daily, 4-Ounces Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8299999984653792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00916SBKU": {
+            "asin": "B00916SBKU",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "ViSalus Body By Vi VI-Shape Weight Loss Diet Nutritional Shake Mix Meal Replacement Sweet Cream Flavor 22 oz (2 Bags, 48 meals)",
+            "normalizedName": "ViSalus Body By Vi VI-Shape Weight Loss Diet Nutritional Shake Mix Meal Replacement Sweet Cream Flavor 22 oz (2 Bags, 48 meals)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B00Y4QBKLE": {
+            "asin": "B00Y4QBKLE",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Crayola Ultra Clean Large Crayons (Pack of 12, 16-Count)",
+            "normalizedName": "Pack of 12 Crayola Ultra Clean Large Crayons ( , 16-Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B018B2E21G": {
+            "asin": "B018B2E21G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Marvel Captain America: Civil War Blaster Reveal Shield",
+            "normalizedName": "Marvel Captain America: Civil War Blaster Reveal Shield",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

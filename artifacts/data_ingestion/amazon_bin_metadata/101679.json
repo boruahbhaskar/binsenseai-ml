@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LOU649G": {
+            "asin": "B00LOU649G",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "Elegance 17.5-Inch Hammered Oval Bowl, Large",
+            "normalizedName": "Elegance 17.5-Inch Hammered Oval Bowl, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00RDJAD1C": {
+            "asin": "B00RDJAD1C",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Microsoft Surface 2 RT Tablet 64GB (Certified Refurbished)",
+            "normalizedName": "Microsoft Surface 2 RT Tablet 64GB (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00VTOD2QK": {
+            "asin": "B00VTOD2QK",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Amscan Party Skin Suit Costume, Orange, Adult Large",
+            "normalizedName": "Amscan Party Skin Suit Costume, Orange, Adult Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

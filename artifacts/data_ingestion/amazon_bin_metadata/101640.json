@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I03L4SG": {
+            "asin": "B00I03L4SG",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Road Trip Bacon Edition Board Game",
+            "normalizedName": "Road Trip Bacon Edition Board Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B01D53TEGO": {
+            "asin": "B01D53TEGO",
+            "height": {
+                "unit": "IN",
+                "value": 2.649999997297
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.349999988423
+            },
+            "name": "Artist's Choice 100 Gel Pens with Case Extra Large Set",
+            "normalizedName": "Artist's Choice 100 Gel Pens with Case Extra Large Set",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6449999986205184
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.249999993625
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

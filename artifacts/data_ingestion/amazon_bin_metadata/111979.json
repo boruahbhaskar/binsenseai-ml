@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0118769T4": {
+            "asin": "B0118769T4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Caf\u00e9 Don Pablo - Medium-Dark Whole Bean - Water Process Colombian Decaffinated - 12oz Bag",
+            "normalizedName": "Caf\u00e9 Don Pablo - Medium-Dark Whole Bean - Water Process Colombian Decaffinated - 12oz Bag",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01B7RBXZ0": {
+            "asin": "B01B7RBXZ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Klein Tools 69417 Magnetic Hanger",
+            "normalizedName": "Klein Tools 69417 Magnetic Hanger",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

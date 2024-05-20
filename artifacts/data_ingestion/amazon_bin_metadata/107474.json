@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016BPEOPY": {
+            "asin": "B016BPEOPY",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Monster High Draculaura Doll",
+            "normalizedName": "Monster High Draculaura Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01DYTQF5C": {
+            "asin": "B01DYTQF5C",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Adjustable Child Safety Locks By Lebogner - Flexible Baby Safety Strap, Multi Use Toddler Proof Latches For Cabinets And More, Child Security Lock, 6 Pack With Reusable 6 Extra 3M Adhesive Included",
+            "normalizedName": "6 Pack Adjustable Child Safety Locks By Lebogner - Flexible Baby Safety Strap, Multi Use Toddler Proof Latches For Cabinets And More, Child Security Lock, With Reusable 6 Extra 3M Adhesive Included",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

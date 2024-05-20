@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003G4FVMY": {
+            "asin": "B003G4FVMY",
+            "height": {
+                "unit": "IN",
+                "value": 6.125
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.5
+            },
+            "name": "Green Mountain Coffee Island Coconut K-Cup (96 count)",
+            "normalizedName": "Green Mountain Coffee Island Coconut K-Cup (96 count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        },
+        "B003SVPAM6": {
+            "asin": "B003SVPAM6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Professionals Choice Equine Rope Halter with 10-Feet Lead (Purple/Pink)",
+            "normalizedName": "Professionals Choice Equine Rope Halter with 10-Feet Lead (Purple/Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00A6TKLRC": {
+            "asin": "B00A6TKLRC",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Hard White Wheat Berries | Non-GMO Project Verified | 100% Non-Irradiated | Certified Kosher Parve | USA Grown |Identity Preserved (We tell you which field we grew it in) \u00c9",
+            "normalizedName": "Hard White Wheat Berries | Non-GMO Project Verified | 100% Non-Irradiated | Certified Kosher Parve | USA Grown |Identity Preserved (We tell you which field we grew it in) \u00c9",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B018RRTRN8": {
+            "asin": "B018RRTRN8",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "9milelake Cold Weather Pipe and Valve Heating Cable with Built-in Thermostat - 18 Feet",
+            "normalizedName": "9milelake Cold Weather Pipe and Valve Heating Cable with Built-in Thermostat - 18 Feet",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

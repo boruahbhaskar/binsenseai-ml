@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AMBW69K": {
+            "asin": "B00AMBW69K",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Caribbean Teal Wrap Tissue Paper 15\" X 20\" - 100 Sheets",
+            "normalizedName": "Caribbean Teal Wrap Tissue Paper 15\" X 20\" - 100 Sheets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00ZZWBING": {
+            "asin": "B00ZZWBING",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Polare Fashion Cow Leather Travel Bag Chest Day Pack Cross Body Shoulder Bag",
+            "normalizedName": "Polare Fashion Cow Leather Travel Bag Chest Day Pack Cross Body Shoulder Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B010KJSX3G": {
+            "asin": "B010KJSX3G",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Beats Solo 2 Wired On-Ear Headphone - White (Certified Refurbished)",
+            "normalizedName": "Beats Solo 2 Wired On-Ear Headphone - White (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

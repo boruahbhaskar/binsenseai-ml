@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015R36SK": {
+            "asin": "B0015R36SK",
+            "height": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0787401472
+            },
+            "name": "Optimum Nutrition Serious Mass, Chocolate, 6 Pound",
+            "normalizedName": "Optimum Nutrition Serious Mass, Chocolate, 6 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.657892352611364
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9527558974
+            }
+        },
+        "B00TPJNCMU": {
+            "asin": "B00TPJNCMU",
+            "height": {
+                "unit": "IN",
+                "value": 5.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.7
+            },
+            "name": "Roxy SNOW Junior's Jetty Printed Snow Jacket, Mazzy RX Anthracite, X-Large",
+            "normalizedName": "Roxy SNOW Junior's Jetty Printed Snow Jacket, Mazzy RX Anthracite, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999999999998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N3R9TAE": {
+            "asin": "B00N3R9TAE",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.699999981946
+            },
+            "name": "DII Woven Paper Textured Storage Basket, Collapsible & Convenient For Office, Bedroom, Closet, Toys, Laundry -  Large Round, Olive Green Rugby Stripe",
+            "normalizedName": "DII Woven Paper Textured Storage Basket, Collapsible & Convenient For Office, Bedroom, Closet, Toys, Laundry -  Large Round, Olive Green Rugby Stripe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

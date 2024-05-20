@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0735337705": {
+            "asin": "0735337705",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6062992028
+            },
+            "name": "Mudpuppy Babar Museum of Art Magnetic Characters",
+            "normalizedName": "Mudpuppy Babar Museum of Art Magnetic Characters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.9291338512
+            }
+        },
+        "B00006JNK2": {
+            "asin": "B00006JNK2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, 12-Pack, Black",
+            "normalizedName": "12-Pack Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, , Black",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01FEXRJ3S": {
+            "asin": "B01FEXRJ3S",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Micro Cable, MaxMall Premium 4-Pack Extra Long 6FT Nylon Braided Hi-Speed USB 2.0 A Male to Micro B Charger Cable for Android, Samsung Galaxy S7 Edge, S6, HTC, Sony, LG, Nokia, Blackberry and More",
+            "normalizedName": "4-Pack Micro Cable, MaxMall Premium Extra Long 6FT Nylon Braided Hi-Speed USB 2.0 A Male to Micro B Charger Cable for Android, Samsung Galaxy S7 Edge, S6, HTC, Sony, LG, Nokia, Blackberry and More",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

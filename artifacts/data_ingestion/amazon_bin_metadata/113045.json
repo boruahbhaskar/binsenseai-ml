@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SB6SOSK": {
+            "asin": "B00SB6SOSK",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "MAYERS AUSDOM Lightweight Over-Ear Wired HiFi Stereo Headphones with Built-in Mic Comfortable Leather Earphones- Black",
+            "normalizedName": "MAYERS AUSDOM Lightweight Over-Ear Wired HiFi Stereo Headphones with Built-in Mic Comfortable Leather Earphones- Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00WUMGXTI": {
+            "asin": "B00WUMGXTI",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "1400 Series 300 Thread Count 100% Cotton Sateen Dobby Stripe Sheet Set- 4 Sizes- 9 Colors (Full, Burgundy)",
+            "normalizedName": "1400 Series 300 Thread Count 100% Cotton Sateen Dobby Stripe Sheet Set- 4 Sizes- 9 Colors (Full, Burgundy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01BKLG07Y": {
+            "asin": "B01BKLG07Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Smartfruit Perfect Peach, 100% Fruit Smoothie Mix, No Added Sugar, Non-GMO, No Additives, Vegan, 48 Fl. Oz (Pack of 1)",
+            "normalizedName": "(Pack of 1) Smartfruit Perfect Peach, 100% Fruit Smoothie Mix, No Added Sugar, Non-GMO, No Additives, Vegan, 48 Fl. Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9999999966456374
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01EH53RHQ": {
+            "asin": "B01EH53RHQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "WASING Outdoor Inflatable Lounger Nylon Fabric Beach Lounger Convenient Compression Air Bag Hangout Bean Bag Portable Dream Chair WS-InCOUCH-black",
+            "normalizedName": "WASING Outdoor Inflatable Lounger Nylon Fabric Beach Lounger Convenient Compression Air Bag Hangout Bean Bag Portable Dream Chair WS-InCOUCH-black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1999999973165107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

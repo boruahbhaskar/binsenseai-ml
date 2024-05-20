@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004YHVNWO": {
+            "asin": "B004YHVNWO",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7480314902
+            },
+            "name": "UDI F198 Car Dash DVR With Night Vision, Microphone Built In, 2.5\" Rotatable and Foldable TFT LCD Screen display",
+            "normalizedName": "UDI F198 Car Dash DVR With Night Vision, Microphone Built In, 2.5\" Rotatable and Foldable TFT LCD Screen display",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640403265454
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        },
+        "B00EA06U7S": {
+            "asin": "B00EA06U7S",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Danco 9D00010314 Universal Adjustable Flange, Bronze",
+            "normalizedName": "Danco 9D00010314 Universal Adjustable Flange, Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B015IK3NPA": {
+            "asin": "B015IK3NPA",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "VIAHART 18 Inch Dog Stuffed Animal Plush | Puck the Pug",
+            "normalizedName": "VIAHART 18 Inch Dog Stuffed Animal Plush | Puck the Pug",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

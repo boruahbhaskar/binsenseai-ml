@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006MCVOUU": {
+            "asin": "B006MCVOUU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Celebration Streamers Giant Gift Sack Party Accessory",
+            "normalizedName": "Celebration Streamers Giant Gift Sack Party Accessory",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00C0K49V4": {
+            "asin": "B00C0K49V4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Levenger Freeleaf Annotation Ruled Pads, Letter, pack of 5 (ADS5580 LTR)",
+            "normalizedName": "Levenger Freeleaf Annotation Ruled Pads, Letter, pack of 5 (ADS5580 LTR)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013KHSTAM": {
+            "asin": "B013KHSTAM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "All 4 You Cobalt Blue Boston Round Glass Bottle 2 oz with Black Atomizer - Perfect for Essential Oil Formulas (4 Pieces)",
+            "normalizedName": "All 4 You Cobalt Blue Boston Round Glass Bottle 2 oz with Black Atomizer - Perfect for Essential Oil Formulas (4 Pieces)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01DV1Z428": {
+            "asin": "B01DV1Z428",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Cable Matters 2-Pack PCI-E 8 Pin to 2 Molex Power Cable",
+            "normalizedName": "2-Pack Cable Matters PCI-E 8 Pin to 2 Molex Power Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01E62O5AS": {
+            "asin": "B01E62O5AS",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Phone 6/6s Plus Credit Card Case- ArmorSafe Slim Wallet for iPhone 6/6s (4.7\") by Ingenious\u00ae- Ultra Slim Protective Phone Cover (Rose Gold)",
+            "normalizedName": "Phone 6/6s Plus Credit Card Case- ArmorSafe Slim Wallet for iPhone 6/6s (4.7\") by Ingenious\u00ae- Ultra Slim Protective Phone Cover (Rose Gold)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

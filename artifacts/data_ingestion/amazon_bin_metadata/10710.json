@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ULDAAU": {
+            "asin": "B001ULDAAU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Prestige Medical Veterinary Clinical I, Purple",
+            "normalizedName": "Prestige Medical Veterinary Clinical I, Purple",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00MZGTB2U": {
+            "asin": "B00MZGTB2U",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Pictures on canvas 6605 length 4 x 12\" height 12\" New York USA ready to hang, brand original Visario !",
+            "normalizedName": "Pictures on canvas 6605 length 4 x 12\" height 12\" New York USA ready to hang, brand original Visario !",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B00OCLAVTI": {
+            "asin": "B00OCLAVTI",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0787401472
+            },
+            "name": "Hot Wheels Sky-Base Blast Track Set",
+            "normalizedName": "Hot Wheels Sky-Base Blast Track Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0787401472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

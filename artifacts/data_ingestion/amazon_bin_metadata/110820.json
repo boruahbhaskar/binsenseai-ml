@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1111821755": {
+            "asin": "1111821755",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Global 2, Student Edition",
+            "normalizedName": "Global 2, Student Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00MJYDIGS": {
+            "asin": "B00MJYDIGS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "LEGO Minecraft 21114 The Farm",
+            "normalizedName": "LEGO Minecraft 21114 The Farm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00SD1ZZLM": {
+            "asin": "B00SD1ZZLM",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "NFL Atlanta Falcons Long Sleeve Screen Print T-Shirt, Charcoal Heather, XX-Large Tall",
+            "normalizedName": "NFL Atlanta Falcons Long Sleeve Screen Print T-Shirt, Charcoal Heather, XX-Large Tall",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B01ECEAGP8": {
+            "asin": "B01ECEAGP8",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Wewill Brand Creative Glowing LED Night Light Twinkle Star Shape Plush Pillow Stuffed Toys, Blue",
+            "normalizedName": "Wewill Brand Creative Glowing LED Night Light Twinkle Star Shape Plush Pillow Stuffed Toys, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

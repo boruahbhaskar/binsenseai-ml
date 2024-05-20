@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002YRVS8": {
+            "asin": "B0002YRVS8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Mountain House Standard Pouch, MexiStyle Rice & Chicken",
+            "normalizedName": "Mountain House Standard Pouch, MexiStyle Rice & Chicken",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0002YS9IO": {
+            "asin": "B0002YS9IO",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Mountain House, Macaroni and Cheese",
+            "normalizedName": "Mountain House, Macaroni and Cheese",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00MY5R5IE": {
+            "asin": "B00MY5R5IE",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1338582584
+            },
+            "name": "HDE Samsung Galaxy Tab 4 7.0 Case Kids Shock Proof Cover Stand for 7 inch Galaxy Tab 4 Tablets (Blue)",
+            "normalizedName": "HDE Samsung Galaxy Tab 4 7.0 Case Kids Shock Proof Cover Stand for 7 inch Galaxy Tab 4 Tablets (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

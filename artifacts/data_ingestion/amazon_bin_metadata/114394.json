@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L3PZF56": {
+            "asin": "B00L3PZF56",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Sakkas 12311 Fairy Maiden Corset Style Dress - Purple - L/XL",
+            "normalizedName": "Sakkas 12311 Fairy Maiden Corset Style Dress - Purple - L/XL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

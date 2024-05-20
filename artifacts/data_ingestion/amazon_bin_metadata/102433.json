@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1438005520": {
+            "asin": "1438005520",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7874015638
+            },
+            "name": "Barron's AP Environmental Science, 6th Edition",
+            "normalizedName": "Barron's AP Environmental Science, 6th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1889763696
+            }
+        },
+        "B00GEG40KA": {
+            "asin": "B00GEG40KA",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Bigelow Mixed Herb Teas, 118 Count",
+            "normalizedName": "Bigelow Mixed Herb Teas, 118 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00ODZ5BQG": {
+            "asin": "B00ODZ5BQG",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Summer Infant Car Seat Coat and Poncho, Reversible Fleece",
+            "normalizedName": "Summer Infant Car Seat Coat and Poncho, Reversible Fleece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B017Y54JV4": {
+            "asin": "B017Y54JV4",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Shredded Memory Foam Pillow Micro-Vented Bamboo Cover \u2013FIRM - The Bamboo Pillow - Hypoallergenic and Dust Mite Resistant (Queen)",
+            "normalizedName": "Shredded Memory Foam Pillow Micro-Vented Bamboo Cover \u2013FIRM - The Bamboo Pillow - Hypoallergenic and Dust Mite Resistant (Queen)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.149999996519849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0143125478": {
+            "asin": "0143125478",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+            "normalizedName": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "0375723439": {
+            "asin": "0375723439",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Los Angeles Times Sunday Crossword Omnibus, Volume 7 (The Los Angeles Times)",
+            "normalizedName": "Los Angeles Times Sunday Crossword Omnibus, Volume 7 (The Los Angeles Times)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B008D1RCKY": {
+            "asin": "B008D1RCKY",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "King of Thorn (Blu-ray/DVD Combo)",
+            "normalizedName": "King of Thorn (Blu-ray/DVD Combo)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

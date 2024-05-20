@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008SL7WA4": {
+            "asin": "B008SL7WA4",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "InnooTech Led Fairy Light Battery Blue String Lights 40 Blossom Indoor Outdoor Lighting for Party Wedding Christmas",
+            "normalizedName": "InnooTech Led Fairy Light Battery Blue String Lights 40 Blossom Indoor Outdoor Lighting for Party Wedding Christmas",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01EHIP8HK": {
+            "asin": "B01EHIP8HK",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "iPhone 6s Plus case, Geekmart Clear Soft TPU Cartoon Design Cover Case 5.5 inch (A)",
+            "normalizedName": "iPhone 6s Plus case, Geekmart Clear Soft TPU Cartoon Design Cover Case 5.5 inch (A)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

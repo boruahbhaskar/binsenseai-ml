@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C560QG": {
+            "asin": "B000C560QG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991738
+            },
+            "name": "Moog K8772 Sway Bar Link Kit",
+            "normalizedName": "Moog K8772 Sway Bar Link Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B000C81WGG": {
+            "asin": "B000C81WGG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Standard Motor Products US130 Ignition Switch",
+            "normalizedName": "Standard Motor Products US130 Ignition Switch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B001LETOOM": {
+            "asin": "B001LETOOM",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Magicard YMCKO Color Ribbon, 300 prints (MA300YMCKO)",
+            "normalizedName": "Magicard YMCKO Color Ribbon, 300 prints (MA300YMCKO)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

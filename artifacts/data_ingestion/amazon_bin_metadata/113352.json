@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000095RC5": {
+            "asin": "B000095RC5",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "CDN DOT2 ProAccurate Oven Thermometer-NSF Certified",
+            "normalizedName": "CDN DOT2 ProAccurate Oven Thermometer-NSF Certified",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1322773572
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B00WIWXQYK": {
+            "asin": "B00WIWXQYK",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Funny Guy Mugs I Don't Like Morning People Or Mornings Or People Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I Don't Like Morning People Or Mornings Or People Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

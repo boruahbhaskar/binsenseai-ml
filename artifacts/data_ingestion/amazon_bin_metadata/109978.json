@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DMPGFSQ": {
+            "asin": "B00DMPGFSQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Comfortable Travel Pillows - Comfort Master Travel Neck Pillow - Made From High Quality Memory Foam For Neck Pain And Travel - The Neck Pillow Comes With A Soft Washable Velvet Cover, Purple",
+            "normalizedName": "Comfortable Travel Pillows - Comfort Master Travel Neck Pillow - Made From High Quality Memory Foam For Neck Pain And Travel - The Neck Pillow Comes With A Soft Washable Velvet Cover, Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001D11M9S": {
+            "asin": "B001D11M9S",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Jobe's 6028 50-Pack Organic Vegetable Fertilizer Food Spikes",
+            "normalizedName": "50-Pack Jobe's 6028 Organic Vegetable Fertilizer Food Spikes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B005KDEIZ0": {
+            "asin": "B005KDEIZ0",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "name": "Rubbermaid Commercial Oven Thermometer, Stainless Steel, FGTH0550",
+            "normalizedName": "Rubbermaid Commercial Oven Thermometer, Stainless Steel, FGTH0550",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B0198Y9G0S": {
+            "asin": "B0198Y9G0S",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "name": "Purified Omega 7 Powder w/ Double The Potency of the Leading Omega 7 Oil. Stronger Than Traditional Sea Buckthorn Oil. 900mg of Purified Palmitoleic Acid Per Serving.",
+            "normalizedName": "Purified Omega 7 Powder w/ Double The Potency of the Leading Omega 7 Oil. Stronger Than Traditional Sea Buckthorn Oil. 900mg of Purified Palmitoleic Acid Per Serving.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

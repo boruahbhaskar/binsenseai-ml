@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0534421709": {
+            "asin": "0534421709",
+            "height": {
+                "unit": "IN",
+                "value": 1.09842519573
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.79921258741
+            },
+            "name": "Student Solutions Manual for Hirsch/Goodman's Understanding Intermediate Algebra: A Course for College Students, 6th",
+            "normalizedName": "Student Solutions Manual for Hirsch/Goodman's Understanding Intermediate Algebra: A Course for College Students, 6th",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7000285947344
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.40157479458
+            }
+        },
+        "B0194I41X0": {
+            "asin": "B0194I41X0",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Char-Broil 2-3 Burner Performance Grill Cover",
+            "normalizedName": "Char-Broil 2-3 Burner Performance Grill Cover",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.24999999643599
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

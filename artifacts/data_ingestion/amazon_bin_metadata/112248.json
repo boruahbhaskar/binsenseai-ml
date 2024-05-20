@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026WOUZQ": {
+            "asin": "B0026WOUZQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "GoBidet Attachable Bidet System, Chrome",
+            "normalizedName": "GoBidet Attachable Bidet System, Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B009MLXJNI": {
+            "asin": "B009MLXJNI",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Delta Faucet  58470-SS Universal Showering Components, In2ition Two-In-One Shower, Stainless",
+            "normalizedName": "Delta Faucet  58470-SS Universal Showering Components, In2ition Two-In-One Shower, Stainless",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

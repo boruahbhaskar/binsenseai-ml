@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KUFFIQQ": {
+            "asin": "B00KUFFIQQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "SUMMER SALE! Stroller Organizer by Spark and Bee - BEST Quality Parent Console - Lifetime Warranty - FREE Ebook - Satisfaction Guaranteed - Perfect Baby Shower Gift and Jogger Accessory for Strollers",
+            "normalizedName": "SUMMER SALE! Stroller Organizer by Spark and Bee - BEST Quality Parent Console - Lifetime Warranty - FREE Ebook - Satisfaction Guaranteed - Perfect Baby Shower Gift and Jogger Accessory for Strollers",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00R1QSDT6": {
+            "asin": "B00R1QSDT6",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Kitchen Utensils Cooking Set by Chefcoo&trade; Includes 8 Pieces Non-stick Cookware Gadgets - Masher, Spaghetti Server, Skimmer, Soup Ladle, Fish Slotted Turner, Whisk, Turner, Fork",
+            "normalizedName": "Kitchen Utensils Cooking Set by Chefcoo&trade; Includes 8 Pieces Non-stick Cookware Gadgets - Masher, Spaghetti Server, Skimmer, Soup Ladle, Fish Slotted Turner, Whisk, Turner, Fork",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

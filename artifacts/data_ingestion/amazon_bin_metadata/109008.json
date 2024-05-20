@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BFUDKPG": {
+            "asin": "B00BFUDKPG",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Tiara Protein 2-lb (Strawberry) - 100% Whey Protein Isolate - Highest Quality Protein for Women - Delicious Taste!",
+            "normalizedName": "Tiara Protein 2-lb (Strawberry) - 100% Whey Protein Isolate - Highest Quality Protein for Women - Delicious Taste!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01D8ZCZ4C": {
+            "asin": "B01D8ZCZ4C",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3149606194
+            },
+            "name": "Water Bottle Infusers: Fruit Infusion Sport Travel Plastic Infused Water Bottle Drinking Detox BPA Free Tritan Shatterproof Polycarbonate Glass Camping Bottom Loading Infusing Citrus Leak Proof",
+            "normalizedName": "Water Bottle Infusers: Fruit Infusion Sport Travel Plastic Infused Water Bottle Drinking Detox BPA Free Tritan Shatterproof Polycarbonate Glass Camping Bottom Loading Infusing Citrus Leak Proof",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1023000583793647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3858267682
+            }
+        },
+        "B01GFRUUII": {
+            "asin": "B01GFRUUII",
+            "height": {
+                "unit": "IN",
+                "value": 3.249999996685
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.949999988831
+            },
+            "name": "JOBOON Heavy Duty Office Chair Gas Lift Cylinder Replacement,Univeral Size Fit All, 5 Years warranty,Black-80mm",
+            "normalizedName": "JOBOON Heavy Duty Office Chair Gas Lift Cylinder Replacement,Univeral Size Fit All, 5 Years warranty,Black-80mm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8599999984402216
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

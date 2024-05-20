@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002NY7HM": {
+            "asin": "B0002NY7HM",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Ceramic Tiki Mug Party Pack - Set of 4",
+            "normalizedName": "Set of 4 Ceramic Tiki Mug Party Pack -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B000NSL9YK": {
+            "asin": "B000NSL9YK",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "ACDelco 45G0343 Professional Front Suspension Stabilizer Bar Link Kit with Hardware",
+            "normalizedName": "ACDelco 45G0343 Professional Front Suspension Stabilizer Bar Link Kit with Hardware",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00P2SNBZQ": {
+            "asin": "B00P2SNBZQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Playskool Heroes Transformers Rescue Bots Energize Boulder the Construction-Bot Figure",
+            "normalizedName": "Playskool Heroes Transformers Rescue Bots Energize Boulder the Construction-Bot Figure",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

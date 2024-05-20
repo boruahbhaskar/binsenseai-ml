@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SL0BR0S": {
+            "asin": "B00SL0BR0S",
+            "height": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.8661417212
+            },
+            "name": "Fisher-Price Nickelodeon Blaze and the Monster Machines Blaze Turbo Launcher",
+            "normalizedName": "Fisher-Price Nickelodeon Blaze and the Monster Machines Blaze Turbo Launcher",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05820805604419
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.6377952678
+            }
+        },
+        "B00VEIB1J6": {
+            "asin": "B00VEIB1J6",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.199999982456
+            },
+            "name": "Dynamis Fat Burning Weighted Hula Hoop",
+            "normalizedName": "Dynamis Fat Burning Weighted Hula Hoop",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B01E6QFH9W": {
+            "asin": "B01E6QFH9W",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "FlamingoP Printed Pair(2 Panels) Soft Microfiber Room Darkening Thermal Insulated & Heating Against Grommet Top Blackout Taupe Country Birds Pattern Curtains/Drapers 84 by 52 inch",
+            "normalizedName": "FlamingoP Printed Pair(2 Panels) Soft Microfiber Room Darkening Thermal Insulated & Heating Against Grommet Top Blackout Taupe Country Birds Pattern Curtains/Drapers 84 by 52 inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

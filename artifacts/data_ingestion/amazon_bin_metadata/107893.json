@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001550DVU": {
+            "asin": "B001550DVU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Cobra CPI-A4000BC 4-AWG Heavy-Duty AC Power Inverter Cable Kit",
+            "normalizedName": "Cobra CPI-A4000BC 4-AWG Heavy-Duty AC Power Inverter Cable Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B017D6UKB2": {
+            "asin": "B017D6UKB2",
+            "height": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "OFKP\u00ae Portable 3D Glasses Head-mounted Google Cardboard Version 3D VR Glasses with CSY-02 Mini Multifunctional Wireless Bluetooth V3.0 Selfie Camera Shutter Gamepad",
+            "normalizedName": "OFKP\u00ae Portable 3D Glasses Head-mounted Google Cardboard Version 3D VR Glasses with CSY-02 Mini Multifunctional Wireless Bluetooth V3.0 Selfie Camera Shutter Gamepad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

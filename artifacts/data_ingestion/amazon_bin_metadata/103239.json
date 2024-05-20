@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J3NRAV2": {
+            "asin": "B00J3NRAV2",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "Huion L4S Tracing LED Light Pad USB Powered, Active Area 12.20 x 8.26- Inch",
+            "normalizedName": "Huion L4S Tracing LED Light Pad USB Powered, Active Area 12.20 x 8.26- Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        },
+        "B015RTTGRG": {
+            "asin": "B015RTTGRG",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Azulle Quantum Byte / Logitech K400 Plus Keyboard / Logitech HD Pro Webcam C920 Camera Bundle",
+            "normalizedName": "Azulle Quantum Byte / Logitech K400 Plus Keyboard / Logitech HD Pro Webcam C920 Camera Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.799999996813355
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01BHC5ZQ8": {
+            "asin": "B01BHC5ZQ8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.399999982252
+            },
+            "name": "POTG Luggage Cart",
+            "normalizedName": "POTG Luggage Cart",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

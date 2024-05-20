@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00U0NDJKK": {
+            "asin": "B00U0NDJKK",
+            "height": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Huggies Simply Clean Baby Wipes, Fresh Scent, Soft Pack, 648 Ct (Packaging May Vary)",
+            "normalizedName": "Huggies Simply Clean Baby Wipes, Fresh Scent, Soft Pack, 648 Ct (Packaging May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.149999989811127
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00ZTRWX7C": {
+            "asin": "B00ZTRWX7C",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "HP Chromebook 11-2210nr 11.6-Inch Laptop",
+            "normalizedName": "HP Chromebook 11-2210nr 11.6-Inch Laptop",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

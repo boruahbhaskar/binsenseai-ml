@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MUQ2FU": {
+            "asin": "B000MUQ2FU",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Fold N Fly Paper Airplanes Kit",
+            "normalizedName": "Fold N Fly Paper Airplanes Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00DERIV8Y": {
+            "asin": "B00DERIV8Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.1732283422
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0472440822
+            },
+            "name": "McFarlane Toys The Walking Dead TV Daryl Dixon 10\" Deluxe Action Figure",
+            "normalizedName": "McFarlane Toys The Walking Dead TV Daryl Dixon 10\" Deluxe Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.587312084066285
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.1338582584
+            }
+        },
+        "B00I2JHQGW": {
+            "asin": "B00I2JHQGW",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Mahle LX3158 Air Filter",
+            "normalizedName": "Mahle LX3158 Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B011NQ3LGO": {
+            "asin": "B011NQ3LGO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "H.Versailtex Traditional Turquoise Green Birds Pattern Thermal Insulated Blackout Curtains for Bedroom,Antique Grommet Top,Set of 1 panel, W40 x L63 inch",
+            "normalizedName": "Set of 1 H.Versailtex Traditional Turquoise Green Birds Pattern Thermal Insulated Blackout Curtains for Bedroom,Antique Grommet Top, panel, W40 x L63 inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

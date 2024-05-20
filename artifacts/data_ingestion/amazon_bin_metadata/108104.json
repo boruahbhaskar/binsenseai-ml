@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001290WMY": {
+            "asin": "B001290WMY",
+            "height": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.1417322772
+            },
+            "name": "London Pottery 2 Cup Globe\u00ae Teapot, White",
+            "normalizedName": "London Pottery 2 Cup Globe\u00ae Teapot, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1023000593037433
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1968503884
+            }
+        },
+        "B006PEE4TI": {
+            "asin": "B006PEE4TI",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Moonrays 95555 1-watt LED Low Voltage Metal Bollard Landscape Light Fixture, Black",
+            "normalizedName": "Moonrays 95555 1-watt LED Low Voltage Metal Bollard Landscape Light Fixture, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

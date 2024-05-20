@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FPAIEI": {
+            "asin": "B000FPAIEI",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Gardner Bender GCC-410 1-1/4-Inch Two Hole Plastic Straps, 10-Pack",
+            "normalizedName": "10-Pack Gardner Bender GCC-410 1-1/4-Inch Two Hole Plastic Straps,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B003AILZ9E": {
+            "asin": "B003AILZ9E",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "name": "Matfer 2 Inch x 2 Inch Cannele Copper Tin Lined Mold",
+            "normalizedName": "Matfer 2 Inch x 2 Inch Cannele Copper Tin Lined Mold",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

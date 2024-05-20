@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002QA52V4": {
+            "asin": "B002QA52V4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676001
+            },
+            "name": "Scunci Effortless Beauty Expandable Ponytailer, Colors may vary",
+            "normalizedName": "Scunci Effortless Beauty Expandable Ponytailer, Colors may vary",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971440004
+            }
+        },
+        "B00VHCW8JG": {
+            "asin": "B00VHCW8JG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Partsam For 1999-2010 Ford F350F450F550 LED Dually Bed Side Fender Marker Light 4x Amber&4x Red",
+            "normalizedName": "Partsam For 1999-2010 Ford F350F450F550 LED Dually Bed Side Fender Marker Light 4x Amber&4x Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01FHZYDJG": {
+            "asin": "B01FHZYDJG",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "name": "Set of Three Rudraksh with 4 Stone Ring with red thread, Raksha bandhan Gift for your Brother.",
+            "normalizedName": "Set of Three Rudraksh with 4 Stone Ring with red thread, Raksha bandhan Gift for your Brother.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.1023622036
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

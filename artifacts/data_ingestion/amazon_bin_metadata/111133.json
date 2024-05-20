@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000T9SI60": {
+            "asin": "B000T9SI60",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Wiha 30297 12-Piece Slotted and Phillips Screwdriver Set with Soft Finish Handles",
+            "normalizedName": "Wiha 30297 12-Piece Slotted and Phillips Screwdriver Set with Soft Finish Handles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B008TLBN2Q": {
+            "asin": "B008TLBN2Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "LinenTablecloth 70 x 120-Inch Rectangular Polyester Tablecloth White",
+            "normalizedName": "LinenTablecloth 70 x 120-Inch Rectangular Polyester Tablecloth White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B00BC6G0EG": {
+            "asin": "B00BC6G0EG",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "C-Clear 44 Lens Cleaning Cleaner Solution, 1 Gallon Capacity",
+            "normalizedName": "C-Clear 44 Lens Cleaning Cleaner Solution, 1 Gallon Capacity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00D1UM3B0": {
+            "asin": "B00D1UM3B0",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "UfingoDecor Romantic Red Rose Flowers Wall Decals, Living Room Bedroom Removable Wall Stickers Murals (ROSE, 1)",
+            "normalizedName": "UfingoDecor Romantic Red Rose Flowers Wall Decals, Living Room Bedroom Removable Wall Stickers Murals (ROSE, 1)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

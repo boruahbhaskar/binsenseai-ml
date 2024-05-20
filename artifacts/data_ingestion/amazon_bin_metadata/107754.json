@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F4JIYUU": {
+            "asin": "B00F4JIYUU",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Eaton Hansen B1T17 Brass Straight Through Ball Lock Hydraulic Fitting, Plug, 1/4\" Hose ID, 1/8\" Body",
+            "normalizedName": "Eaton Hansen B1T17 Brass Straight Through Ball Lock Hydraulic Fitting, Plug, 1/4\" Hose ID, 1/8\" Body",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B01041CUTS": {
+            "asin": "B01041CUTS",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Elizavecca Carbonated Bubble Clay Mask",
+            "normalizedName": "Elizavecca Carbonated Bubble Clay Mask",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3899999996729497
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B01AD9DN4W": {
+            "asin": "B01AD9DN4W",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Vmargera USB Double Shock Controller GamePad for PC Computer Laptop - Black",
+            "normalizedName": "Vmargera USB Double Shock Controller GamePad for PC Computer Laptop - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01B4NUKME": {
+            "asin": "B01B4NUKME",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "OCZ Storage Solutions Trion 150 Series 480GB 2.5\" 7mm SATA III Internal Solid State Drive TRN150-25SAT3-480G",
+            "normalizedName": "OCZ Storage Solutions Trion 150 Series 480GB 2.5\" 7mm SATA III Internal Solid State Drive TRN150-25SAT3-480G",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

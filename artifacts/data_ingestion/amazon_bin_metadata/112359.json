@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RDG7SY": {
+            "asin": "B000RDG7SY",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Magnaflow 54055 Universal Catalytic Converter (Non CARB compliant)",
+            "normalizedName": "Magnaflow 54055 Universal Catalytic Converter (Non CARB compliant)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00KNK0M1O": {
+            "asin": "B00KNK0M1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "normalizedName": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00NHPGW8Y": {
+            "asin": "B00NHPGW8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Fisher-Price Little People See n' Say Farmer Eddie Says",
+            "normalizedName": "Fisher-Price Little People See n' Say Farmer Eddie Says",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960887366348
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8976377862
+            }
+        },
+        "B017SILUXW": {
+            "asin": "B017SILUXW",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "QCLED 8 Falling Rain Drop/icicle Snow Fall String LED Xmas Tree Cascading Light Decor ,solar lights,solar string lights \uff0csolar star lights (multicolorful)",
+            "normalizedName": "QCLED 8 Falling Rain Drop/icicle Snow Fall String LED Xmas Tree Cascading Light Decor ,solar lights,solar string lights \uff0csolar star lights (multicolorful)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

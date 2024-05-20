@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000CF3UW": {
+            "asin": "B0000CF3UW",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Pyrex 2-Quart Glass Bakeware Dish",
+            "normalizedName": "Pyrex 2-Quart Glass Bakeware Dish",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00NLLUMOE": {
+            "asin": "B00NLLUMOE",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Queen, White)",
+            "normalizedName": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Queen, White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0499999974422987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

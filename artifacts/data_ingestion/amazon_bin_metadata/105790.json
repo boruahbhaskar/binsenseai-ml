@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QF7HUT6": {
+            "asin": "B00QF7HUT6",
+            "height": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.322834628
+            },
+            "name": "Rastar 1:14 Scale 1:14 Ferrari LaFerrari Full Function Remote Controlled Car (Assorted Colours May Vary)",
+            "normalizedName": "Rastar 1:14 Scale 1:14 Ferrari LaFerrari Full Function Remote Controlled Car (Assorted Colours May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6896121424456503
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8188976288
+            }
+        },
+        "B010DHV4U4": {
+            "asin": "B010DHV4U4",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.599999982048004
+            },
+            "name": "Bauxko 4\" x 4\" Reclosable Poly Bags, 4 Mil, 100-Pack (x-PB3705-100)",
+            "normalizedName": "100-Pack Bauxko 4\" x 4\" Reclosable Poly Bags, 4 Mil, (x-PB3705-100)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.29999999639406
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B01825OHX0": {
+            "asin": "B01825OHX0",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Brother Printer TN880 Super High Yield Toner",
+            "normalizedName": "Brother Printer TN880 Super High Yield Toner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

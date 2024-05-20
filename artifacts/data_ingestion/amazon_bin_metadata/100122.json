@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008835ZJ2": {
+            "asin": "B008835ZJ2",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Apollo Valve 10-400 Series Bronze Safety Relief Valve, ASME Hot Water, 50 psi Set Pressure, 3/4\" NPT Female",
+            "normalizedName": "Apollo Valve 10-400 Series Bronze Safety Relief Valve, ASME Hot Water, 50 psi Set Pressure, 3/4\" NPT Female",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00SYE4SAW": {
+            "asin": "B00SYE4SAW",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Redmond Trading Company Clay -- 10 oz (Pack of 3)",
+            "normalizedName": "(Pack of 3) Redmond Trading Company Clay -- 10 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01AOXP8G8": {
+            "asin": "B01AOXP8G8",
+            "height": {
+                "unit": "IN",
+                "value": 0.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Tassled Throw Pillow Covers, 18 X 18 in Western, Southwest, and Native American Styles. 8A",
+            "normalizedName": "Tassled Throw Pillow Covers, 18 X 18 in Western, Southwest, and Native American Styles. 8A",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.84375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        },
+        "B01G6RZJFQ": {
+            "asin": "B01G6RZJFQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "ZM PET\u2122 Dog Life Jacket Pet Life Vest Outward Hound Saver Dog Swimming Preserver Safety Yellow XS-XL (XS)",
+            "normalizedName": "ZM PET\u2122 Dog Life Jacket Pet Life Vest Outward Hound Saver Dog Swimming Preserver Safety Yellow XS-XL (XS)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

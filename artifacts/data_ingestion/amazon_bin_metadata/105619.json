@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J8LVYJ8": {
+            "asin": "B00J8LVYJ8",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Inglesina - Fast Table Chair With Dining Tray - Dark Green",
+            "normalizedName": "Inglesina - Fast Table Chair With Dining Tray - Dark Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.699999994381443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B00S745NCQ": {
+            "asin": "B00S745NCQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Baja Precious - Grapeseed Oil, 1 Gallon",
+            "normalizedName": "Baja Precious - Grapeseed Oil, 1 Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

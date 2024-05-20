@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002DN6YA2": {
+            "asin": "B002DN6YA2",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Generic EP30R Compatible Ink Ribbon for Epson ERC 30/34/38, Black/Red, 12 Piece",
+            "normalizedName": "Generic EP30R Compatible Ink Ribbon for Epson ERC 30/34/38, Black/Red, 12 Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00RXSPMPU": {
+            "asin": "B00RXSPMPU",
+            "height": {
+                "unit": "IN",
+                "value": 0.381889
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.57479
+            },
+            "name": "iPhone5 iPhone5S Case Transparent Shell Aladdin Pink",
+            "normalizedName": "iPhone5 iPhone5S Case Transparent Shell Aladdin Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.842512
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

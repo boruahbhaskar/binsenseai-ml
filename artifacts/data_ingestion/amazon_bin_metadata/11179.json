@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009ETA6W": {
+            "asin": "B0009ETA6W",
+            "height": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "name": "Nature's Way Fenugreek Seed 610 mg, Capsules 180ea",
+            "normalizedName": "Nature's Way Fenugreek Seed 610 mg, Capsules 180ea",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8346456664
+            }
+        },
+        "B0096HUKZS": {
+            "asin": "B0096HUKZS",
+            "height": {
+                "unit": "IN",
+                "value": 3.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9
+            },
+            "name": "Instaflex Joint Support, 90 Count",
+            "normalizedName": "Instaflex Joint Support, 90 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.4
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001BC73Y2": {
+            "asin": "B001BC73Y2",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Wikki Stix Fun Favors (Assorted pack of 50)",
+            "normalizedName": "Wikki Stix Fun Favors (Assorted pack of 50)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B003NEXTGW": {
+            "asin": "B003NEXTGW",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Lighted Reading Glasses 2.00 Unisex Frames",
+            "normalizedName": "Lighted Reading Glasses 2.00 Unisex Frames",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B01AGR74U0": {
+            "asin": "B01AGR74U0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Generic New Replacement Toothbrush Heads for Oral B Dual Action, 4 Pack",
+            "normalizedName": "4 Pack Generic New Replacement Toothbrush Heads for Oral B Dual Action,",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

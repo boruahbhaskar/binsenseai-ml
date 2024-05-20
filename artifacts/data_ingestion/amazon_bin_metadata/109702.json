@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I2OOPW": {
+            "asin": "B000I2OOPW",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Knorr Pasta Sauce, Parma Rosa 1.3 Ounce, 12 Count, (Pack of 2)",
+            "normalizedName": "(Pack of 2) Knorr Pasta Sauce, Parma Rosa 1.3 Ounce, 12 Count,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B014TE51C4": {
+            "asin": "B014TE51C4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "normalizedName": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B018Y65QFA": {
+            "asin": "B018Y65QFA",
+            "height": {
+                "unit": "IN",
+                "value": 1.249999998725
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Butterfly Floral Picks with Feather Wings - Set of 12 Colorful Artificial Butterflies on Metal Wire Plant Stake Stems - Wedding Decorations",
+            "normalizedName": "Set of 12 Butterfly Floral Picks with Feather Wings - Colorful Artificial Butterflies on Metal Wire Plant Stake Stems - Wedding Decorations",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

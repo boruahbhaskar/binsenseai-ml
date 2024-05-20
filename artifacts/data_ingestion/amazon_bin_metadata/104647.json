@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006WNMJ": {
+            "asin": "B00006WNMJ",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Culligan FM-15RA Level 3 Faucet Filter Replacement Cartridge",
+            "normalizedName": "Culligan FM-15RA Level 3 Faucet Filter Replacement Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B000B4N0PC": {
+            "asin": "B000B4N0PC",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Prime-Line Products S 4140 Mailbox Lock, 5 Cam, Nickle Finish, ILCO 1003M Keyway, Opens Counter-Clockwise, 90\u00ba Rotation",
+            "normalizedName": "Prime-Line Products S 4140 Mailbox Lock, 5 Cam, Nickle Finish, ILCO 1003M Keyway, Opens Counter-Clockwise, 90\u00ba Rotation",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00OO9ZUFS": {
+            "asin": "B00OO9ZUFS",
+            "height": {
+                "unit": "IN",
+                "value": 0.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.2
+            },
+            "name": "Apple iPad Mini 3 Smart Case SOFT PINK",
+            "normalizedName": "Apple iPad Mini 3 Smart Case SOFT PINK",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9
+            }
+        },
+        "B01DLDDTTG": {
+            "asin": "B01DLDDTTG",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "(2 Pack) Elite Waterproof Pouch Dry Bag Case with Waist/Shoulder Strap - Perfect for Boating, Swimming, Hiking, Fishing- Safest Way to Keep Your Valuables Dry & Protected - 100% Lifetime Guarantee \u2026",
+            "normalizedName": "(2 Pack)  Elite Waterproof Pouch Dry Bag Case with Waist/Shoulder Strap - Perfect for Boating, Swimming, Hiking, Fishing- Safest Way to Keep Your Valuables Dry & Protected - 100% Lifetime Guarantee \u2026",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

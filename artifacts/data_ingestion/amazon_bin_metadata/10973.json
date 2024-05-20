@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R0P3JFG": {
+            "asin": "B00R0P3JFG",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "New 077 Navy Skin Tights Compression Base Layer Sports Sleeveless Top Mens (2XL)",
+            "normalizedName": "New 077 Navy Skin Tights Compression Base Layer Sports Sleeveless Top Mens (2XL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B014OUTFPW": {
+            "asin": "B014OUTFPW",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Hefty Slider Storage Bags, Gallon, 120 Count",
+            "normalizedName": "Hefty Slider Storage Bags, Gallon, 120 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999976519456
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

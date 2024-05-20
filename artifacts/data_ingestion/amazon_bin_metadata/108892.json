@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QEX83LA": {
+            "asin": "B00QEX83LA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Quick Charge 2.0 AUKEY Wall Charger with Micro-USB Cable for Samsung S7/S6/Edge, LG G4, Moto X, Blackberry Priv | Qualcomm Certified",
+            "normalizedName": "Quick Charge 2.0 AUKEY Wall Charger with Micro-USB Cable for Samsung S7/S6/Edge, LG G4, Moto X, Blackberry Priv | Qualcomm Certified",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00VAPMGLU": {
+            "asin": "B00VAPMGLU",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Slideways Board Game",
+            "normalizedName": "Slideways Board Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B017CUYMZO": {
+            "asin": "B017CUYMZO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Outside the Box Papers Light Blue and Silver Stripe and Chevron Paper Straws 7.75 Inches 100 Pack Light Blue, Silver, White",
+            "normalizedName": "100 Pack Outside the Box Papers Light Blue and Silver Stripe and Chevron Paper Straws 7.75 Inches Light Blue, Silver, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B018IZ0SWI": {
+            "asin": "B018IZ0SWI",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "BLU Advance 5.0 - Unlocked Dual Sim Smartphone - US GSM - Black",
+            "normalizedName": "BLU Advance 5.0 - Unlocked Dual Sim Smartphone - US GSM - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

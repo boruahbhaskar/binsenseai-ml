@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YNKCWWC": {
+            "asin": "B00YNKCWWC",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "700 GSM Premium Hotel & Spa Towels Set (White, 4 Pack, 27\" X 54\") 100% Cotton for Maximum Softness and Absorbency by Utopia Towels",
+            "normalizedName": "4 Pack 700 GSM Premium Hotel & Spa Towels Set (White, , 27\" X 54\") 100% Cotton for Maximum Softness and Absorbency by Utopia Towels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.549999995345822
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B01B65IHC0": {
+            "asin": "B01B65IHC0",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Barbie Fashionista African-American Doll with 2 Additional Outfits",
+            "normalizedName": "Barbie Fashionista African-American Doll with 2 Additional Outfits",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01C494FT6": {
+            "asin": "B01C494FT6",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Fisher-Price Little People Dump Truck",
+            "normalizedName": "Fisher-Price Little People Dump Truck",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

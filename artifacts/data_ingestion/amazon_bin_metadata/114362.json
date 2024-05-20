@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GJI08E": {
+            "asin": "B000GJI08E",
+            "height": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "115334 Lamb Central Vacuum Motor",
+            "normalizedName": "115334 Lamb Central Vacuum Motor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B014AHOGAI": {
+            "asin": "B014AHOGAI",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Barbie Careers Dentist Playset",
+            "normalizedName": "Barbie Careers Dentist Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

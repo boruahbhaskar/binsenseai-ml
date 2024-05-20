@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KMA1868": {
+            "asin": "B00KMA1868",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "L'il Critters Fruit & Veggie Bears, 60 Count (Pack of 3)",
+            "normalizedName": "(Pack of 3) L'il Critters Fruit & Veggie Bears, 60 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B00PTN7DQC": {
+            "asin": "B00PTN7DQC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "2 Pack Shengshou 3x3x3 Square Mirror Speed Cube Puzzle Golden & Silver",
+            "normalizedName": "2 Pack  Shengshou 3x3x3 Square Mirror Speed Cube Puzzle Golden & Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01616PYK2": {
+            "asin": "B01616PYK2",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "GS.L Summer Big Girls Two-Pieces Swimsuit Swimwear Bikini Set, L",
+            "normalizedName": "GS.L Summer Big Girls Two-Pieces Swimsuit Swimwear Bikini Set, L",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B016BV75YA": {
+            "asin": "B016BV75YA",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "DigiHero Wristbands Replacement Band for Fitbit FLEX Only /No tracker/ for Fitbit Flex bands/Fitbit Flex Replacement Band/Fitbit Wristband/Fitbit Replacement Bands/Fitbit Bracelet/Flex bands/Fitbit Flex Band/Fitbit Flex Wristband",
+            "normalizedName": "DigiHero Wristbands Replacement Band for Fitbit FLEX Only /No tracker/ for Fitbit Flex bands/Fitbit Flex Replacement Band/Fitbit Wristband/Fitbit Replacement Bands/Fitbit Bracelet/Flex bands/Fitbit Flex Band/Fitbit Flex Wristband",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.044092002335174595
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

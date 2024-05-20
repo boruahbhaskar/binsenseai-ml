@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0310435307": {
+            "asin": "0310435307",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "NIV, Giant Print Compact Bible, Imitation Leather, Burgundy",
+            "normalizedName": "NIV, Giant Print Compact Bible, Imitation Leather, Burgundy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B0000225W2": {
+            "asin": "B0000225W2",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Freud 12-156 3/4-Inch Diameter by 1-1/2-Inch Double Flute Straight Router Bit",
+            "normalizedName": "Freud 12-156 3/4-Inch Diameter by 1-1/2-Inch Double Flute Straight Router Bit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B00WJC2VKO": {
+            "asin": "B00WJC2VKO",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "iPhone 5c Case,By HiLDA,Wallet Case,PU Leather Case,Credit Card Holder,Flip Cover Case[Brown] For iPhone 5C Only",
+            "normalizedName": "iPhone 5c Case,By HiLDA,Wallet Case,PU Leather Case,Credit Card Holder,Flip Cover Case[Brown] For iPhone 5C Only",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B014NOGAPC": {
+            "asin": "B014NOGAPC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "name": "Josi Minea 5 Pcs Fabric Braided High Quality Ruggedized Nylon Micro USB Cables 3 Feet / 1 Meter Charger Sync Data Cable for Samsung Galaxy S6/S5/S4, Most Android / Windows Phones & Tablets - 5 Pack",
+            "normalizedName": "5 Pack Josi Minea 5 Pcs Fabric Braided High Quality Ruggedized Nylon Micro USB Cables 3 Feet / 1 Meter Charger Sync Data Cable for Samsung Galaxy S6/S5/S4, Most Android / Windows Phones & Tablets -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.21999999981551008
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.249999996685
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

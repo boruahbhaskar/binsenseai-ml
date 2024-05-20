@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I4IYOJ8": {
+            "asin": "B00I4IYOJ8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "WoCase Double Floaty(2/pack) and Anti-fog Inserts(12/Pack) Bundle for GoPro HERO4 HERO3 3+ 2 1 Cameras",
+            "normalizedName": "WoCase Double Floaty(2/pack) and Anti-fog Inserts(12/Pack) Bundle for GoPro HERO4 HERO3 3+ 2 1 Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00JDKV4NK": {
+            "asin": "B00JDKV4NK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Mrs. Meyer's Liquid Hand Soap Refill, Lemon Verbena, 33 Fluid Ounce",
+            "normalizedName": "Mrs. Meyer's Liquid Hand Soap Refill, Lemon Verbena, 33 Fluid Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

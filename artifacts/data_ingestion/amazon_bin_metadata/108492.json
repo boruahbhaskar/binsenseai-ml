@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HKMXTO": {
+            "asin": "B000HKMXTO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Rothco Canvas Parachute Cargo Bag, Olive Drab",
+            "normalizedName": "Rothco Canvas Parachute Cargo Bag, Olive Drab",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        },
+        "B00AYVRHKG": {
+            "asin": "B00AYVRHKG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Gamma Seal Lid- Green",
+            "normalizedName": "Gamma Seal Lid- Green",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B00VGEFNTW": {
+            "asin": "B00VGEFNTW",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "AVIVA YOGA Set of 2 High Density EVA Foam Blocks with Free Drawstring Backpack \u2013 An Essential Tool/Prop for All Levels \u2013 Support & Deepen Your Poses, and Gain Strength, Balance & Flexibility",
+            "normalizedName": "Set of 2 AVIVA YOGA High Density EVA Foam Blocks with Free Drawstring Backpack \u2013 An Essential Tool/Prop for All Levels \u2013 Support & Deepen Your Poses, and Gain Strength, Balance & Flexibility",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

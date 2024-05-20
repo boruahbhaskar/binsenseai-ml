@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008KA7I": {
+            "asin": "B00008KA7I",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "Belkin Snagless CAT6 Patch Cable * RJ45M/RJ45M; 25  Black ( A3L980b25-BLK-S )",
+            "normalizedName": "Belkin Snagless CAT6 Patch Cable * RJ45M/RJ45M; 25  Black ( A3L980b25-BLK-S )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B003DQTO00": {
+            "asin": "B003DQTO00",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "RMC English Flints",
+            "normalizedName": "RMC English Flints",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00S3QEF18": {
+            "asin": "B00S3QEF18",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "6 Gibson Holders 6AB Adjustable Wire Display Easels- 3.75\" W x 4.75\" H w/ 2.25\" display ledge, Black",
+            "normalizedName": "6 Gibson Holders 6AB Adjustable Wire Display Easels- 3.75\" W x 4.75\" H w/ 2.25\" display ledge, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B01EACPIIC": {
+            "asin": "B01EACPIIC",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "iPhone 5S Case, High Impact Resistant Rugged Armor Heavy Duty Protection Hybrid Dual Layer Hard Plastic and Soft TPU Shockprooof Case for iPhone 5 5S SE (White Rose)",
+            "normalizedName": "iPhone 5S Case, High Impact Resistant Rugged Armor Heavy Duty Protection Hybrid Dual Layer Hard Plastic and Soft TPU Shockprooof Case for iPhone 5 5S SE (White Rose)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

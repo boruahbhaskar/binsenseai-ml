@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002U71NCU": {
+            "asin": "B002U71NCU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Garrett Recharger Kit for Garrett Enforcer G-2 and SuperScanner - NiMH Battery & 110 Volt 1610200",
+            "normalizedName": "Garrett Recharger Kit for Garrett Enforcer G-2 and SuperScanner - NiMH Battery & 110 Volt 1610200",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00A9WP13U": {
+            "asin": "B00A9WP13U",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Funny Guy Mugs Coffee Makes Me Poop Travel Tumbler, Brown, 16-Ounce",
+            "normalizedName": "Funny Guy Mugs Coffee Makes Me Poop Travel Tumbler, Brown, 16-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00HHQVTO6": {
+            "asin": "B00HHQVTO6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Yosoo Hydroelectric power Micro-hydro generator Portable water charger DC 8.8-15V",
+            "normalizedName": "Yosoo Hydroelectric power Micro-hydro generator Portable water charger DC 8.8-15V",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

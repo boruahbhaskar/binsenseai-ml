@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007R6TR2W": {
+            "asin": "B007R6TR2W",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Keurig Donut Shop Coconut Mocha 18 K CUP PACKS,0.34oz",
+            "normalizedName": "Keurig Donut Shop Coconut Mocha 18 K CUP PACKS,0.34oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B015KNBDVQ": {
+            "asin": "B015KNBDVQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Alice Through the Looking Glass Chromosphere Necklace",
+            "normalizedName": "Alice Through the Looking Glass Chromosphere Necklace",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

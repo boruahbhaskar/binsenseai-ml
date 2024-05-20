@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010SFDKC6": {
+            "asin": "B010SFDKC6",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "Rankie Hi-speed USB 3.1 Type C USB-C to Standard Type A USB 3.0 Data Cable for Type-C Supported Devices, 3.3-Feet",
+            "normalizedName": "Rankie Hi-speed USB 3.1 Type C USB-C to Standard Type A USB 3.0 Data Cable for Type-C Supported Devices, 3.3-Feet",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.7952755826
+            }
+        },
+        "B0196AGUZI": {
+            "asin": "B0196AGUZI",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "QueenDream 72'' Round Sequin Tablecloth-champagne",
+            "normalizedName": "QueenDream 72'' Round Sequin Tablecloth-champagne",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5399999987085706
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01D8IVKE0": {
+            "asin": "B01D8IVKE0",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Wine Glasses - Set of 2 -Vitrage",
+            "normalizedName": "Set of 2 Wine Glasses - -Vitrage",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

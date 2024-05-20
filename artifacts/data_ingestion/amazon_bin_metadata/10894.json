@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EXUB3E": {
+            "asin": "B000EXUB3E",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "NuGo All-Natural Nutrition Bar, Vanilla Yogurt, 1.76-Ounce Bars (Pack of 15)",
+            "normalizedName": "(Pack of 15) NuGo All-Natural Nutrition Bar, Vanilla Yogurt, 1.76-Ounce Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00UR1O5B2": {
+            "asin": "B00UR1O5B2",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Elf Star Extra Thick Premium High Density Furniture Table Edge Protectors Foam Baby Safety Bumper Guard 2 Meters (6.5 Ft) Black",
+            "normalizedName": "Elf Star Extra Thick Premium High Density Furniture Table Edge Protectors Foam Baby Safety Bumper Guard 2 Meters (6.5 Ft) Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

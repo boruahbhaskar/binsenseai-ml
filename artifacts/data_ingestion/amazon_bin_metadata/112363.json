@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003UV4WN2": {
+            "asin": "B003UV4WN2",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Duo-Lock Reversible Felt and Rubber Non-Slip Rug Pad, Size: 2' x 8' Rug Pad",
+            "normalizedName": "Duo-Lock Reversible Felt and Rubber Non-Slip Rug Pad, Size: 2' x 8' Rug Pad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.299999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        },
+        "B00SYN7WCO": {
+            "asin": "B00SYN7WCO",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Disguise 88108K Evie Isle Of The Lost Classic Costume, Medium (7-8)",
+            "normalizedName": "Disguise 88108K Evie Isle Of The Lost Classic Costume, Medium (7-8)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B01A6HV87U": {
+            "asin": "B01A6HV87U",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Time for Treats Curly Drinking Straws, 6 Pack",
+            "normalizedName": "6 Pack Time for Treats Curly Drinking Straws,",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

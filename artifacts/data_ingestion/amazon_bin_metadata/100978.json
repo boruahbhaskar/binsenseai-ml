@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008BE04C6": {
+            "asin": "B008BE04C6",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "SYLVANIA H11 SilverStar Ultra High Performance Halogen Headlight Bulb, (Pack of 2)",
+            "normalizedName": "(Pack of 2) SYLVANIA H11 SilverStar Ultra High Performance Halogen Headlight Bulb,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01D8BSBWQ": {
+            "asin": "B01D8BSBWQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.7874015731968504
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "UNMCORE 3.5MM Stereo Male To Female AUX Extension Audio Cable for All 3.5mm-Enabled Devices (3M) - Black",
+            "normalizedName": "UNMCORE 3.5MM Stereo Male To Female AUX Extension Audio Cable for All 3.5mm-Enabled Devices (3M) - Black",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26014281355937674
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.749999993115
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

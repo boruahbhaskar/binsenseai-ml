@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000LVGFDO": {
+            "asin": "B000LVGFDO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Nature's Life D-2 Veg Capsules, Ergocalciferol, 2000 IU, 90 Count",
+            "normalizedName": "Nature's Life D-2 Veg Capsules, Ergocalciferol, 2000 IU, 90 Count",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B008XZAQDU": {
+            "asin": "B008XZAQDU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "GLW\u00ae 10w 12v Ac or Dc Warm White Led Flood Light Waterproof Outdoor Lights 750lm 80w Halogen Bulb Equivalent Black Case",
+            "normalizedName": "GLW\u00ae 10w 12v Ac or Dc Warm White Led Flood Light Waterproof Outdoor Lights 750lm 80w Halogen Bulb Equivalent Black Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

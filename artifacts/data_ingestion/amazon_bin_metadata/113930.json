@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R20EL2O": {
+            "asin": "B00R20EL2O",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Funny Guy Mugs World's Okayest Lawyer Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs World's Okayest Lawyer Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01CF6QRQM": {
+            "asin": "B01CF6QRQM",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Mini Personal Portable Air Humidifier LED Night Light by JZK for Home, Office, Car, Travel, Baby, Child, Youth, Adult - Quiet Diffuser with Auto Safety Shut-off, USB Cable, Adapter, Filter, Like Vicks",
+            "normalizedName": "Mini Personal Portable Air Humidifier LED Night Light by JZK for Home, Office, Car, Travel, Baby, Child, Youth, Adult - Quiet Diffuser with Auto Safety Shut-off, USB Cable, Adapter, Filter, Like Vicks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

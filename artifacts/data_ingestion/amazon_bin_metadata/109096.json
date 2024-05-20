@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JOEAJ2M": {
+            "asin": "B00JOEAJ2M",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Plum Organics Mighty 4 Essential Nutrition Blend Pouch, Sweet Potato, Blueberry, Millet and Greek Yogurt, 4 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Plum Organics Mighty 4 Essential Nutrition Blend Pouch, Sweet Potato, Blueberry, Millet and Greek Yogurt, 4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7499999968552853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00U3003JK": {
+            "asin": "B00U3003JK",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "ePhotoInc Large Photo Video Photography Studio 10ft x 16ft Green Chromakey Chroma Key Muslin Backdrop Background Screen 1016G",
+            "normalizedName": "ePhotoInc Large Photo Video Photography Studio 10ft x 16ft Green Chromakey Chroma Key Muslin Backdrop Background Screen 1016G",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        },
+        "B01E5XNLO4": {
+            "asin": "B01E5XNLO4",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "36 Pc -Summer Party Pack - 12 Each- Neon Sunglasses, Beach Balls and Squirt Guns!",
+            "normalizedName": "36 Pc -Summer Party Pack - 12 Each- Neon Sunglasses, Beach Balls and Squirt Guns!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

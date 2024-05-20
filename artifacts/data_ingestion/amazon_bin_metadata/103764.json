@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IWU5MDK": {
+            "asin": "B00IWU5MDK",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Disney Parks Finding Nemo Ears Hat NEW",
+            "normalizedName": "Disney Parks Finding Nemo Ears Hat NEW",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

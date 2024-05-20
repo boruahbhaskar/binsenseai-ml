@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EVMDKU": {
+            "asin": "B000EVMDKU",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Claritin RediTabs 24 Hour Allergy, Non-Drowsy, Loratadine Orally Disintegrating Tablets , 30-Tablets",
+            "normalizedName": "Claritin RediTabs 24 Hour Allergy, Non-Drowsy, Loratadine Orally Disintegrating Tablets , 30-Tablets",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00C17FYL0": {
+            "asin": "B00C17FYL0",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "IIT 82039 80 Grit 2\" Roll Lock Sanding Discs (50 PC )",
+            "normalizedName": "IIT 82039 80 Grit 2\" Roll Lock Sanding Discs (50 PC )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00UJ2YF2I": {
+            "asin": "B00UJ2YF2I",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Color Zone Mirror Kit Value Pack Art Kit",
+            "normalizedName": "Color Zone Mirror Kit Value Pack Art Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B017T648OG": {
+            "asin": "B017T648OG",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Professional Condenser Microphone with Stand - Recording Microphone for PC - Laptop Microphone Recording For Skype or YouTube by ZaxSound\u00ae",
+            "normalizedName": "Professional Condenser Microphone with Stand - Recording Microphone for PC - Laptop Microphone Recording For Skype or YouTube by ZaxSound\u00ae",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

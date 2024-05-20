@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00107I9XM": {
+            "asin": "B00107I9XM",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Oster Professional 103 Stim-U-Lax Massager",
+            "normalizedName": "Oster Professional 103 Stim-U-Lax Massager",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B003OOCT08": {
+            "asin": "B003OOCT08",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Real Nappies Diaper Liners Twin Pack, 200 Sheets",
+            "normalizedName": "Real Nappies Diaper Liners Twin Pack, 200 Sheets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

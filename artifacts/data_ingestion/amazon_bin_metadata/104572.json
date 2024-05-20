@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BM0S0RW": {
+            "asin": "B00BM0S0RW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "LinenTablecloth Square Cotton Feel Tablecloth, 72-Inch, Fuchsia",
+            "normalizedName": "LinenTablecloth Square Cotton Feel Tablecloth, 72-Inch, Fuchsia",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00SP6G0HS": {
+            "asin": "B00SP6G0HS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Ravensburger Mary's General Store Large Format Puzzle (300-Piece)",
+            "normalizedName": "Ravensburger Mary's General Store Large Format Puzzle (300-Piece)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CNAEEW": {
+            "asin": "B000CNAEEW",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Midland AVPH3 Transparent Security Headsets with PTT/VOX - Pair",
+            "normalizedName": "Midland AVPH3 Transparent Security Headsets with PTT/VOX - Pair",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01A50AXLK": {
+            "asin": "B01A50AXLK",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Powerextra Replacement Hitachi 12V Battery for Hitachi EB 1214S Battery Compatible with C5D, DS12DVF3, EB1212S, R 9D, DS12DVF, DS12DVB2, DS12DM2, DS12DM, DH15DV, CL13D, CD4D, WH 12DMR, WH 12DM2",
+            "normalizedName": "Powerextra Replacement Hitachi 12V Battery for Hitachi EB 1214S Battery Compatible with C5D, DS12DVF3, EB1212S, R 9D, DS12DVF, DS12DVB2, DS12DM2, DS12DM, DH15DV, CL13D, CD4D, WH 12DMR, WH 12DM2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

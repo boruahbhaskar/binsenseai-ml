@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009C06HWO": {
+            "asin": "B009C06HWO",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "SunSun 300-watt Submersible Heater",
+            "normalizedName": "SunSun 300-watt Submersible Heater",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00YDAYOK0": {
+            "asin": "B00YDAYOK0",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "EVGA GeForce GTX 980 Ti Super Clocked Gaming ACX 2.0 6GB GDDR5 384bit PCI-E Graphic Card (06G-P4-4995-KR)",
+            "normalizedName": "EVGA GeForce GTX 980 Ti Super Clocked Gaming ACX 2.0 6GB GDDR5 384bit PCI-E Graphic Card (06G-P4-4995-KR)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

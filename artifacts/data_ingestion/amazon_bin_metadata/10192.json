@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007UT8XHQ": {
+            "asin": "B007UT8XHQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "All- Purpose Weed Barrier (4'x8')",
+            "normalizedName": "All- Purpose Weed Barrier (4'x8')",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999846890521762
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B0137FBG52": {
+            "asin": "B0137FBG52",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Springform Pan 10 Inch for Baking Cake and Cheesecake from Elsterware Quick-Clean Tin, Easy Release Spring Clip, and Removable Bottom Allow Pans Nonstick Separation to Reveal a Masterpiece. Bake Easy!",
+            "normalizedName": "Springform Pan 10 Inch for Baking Cake and Cheesecake from Elsterware Quick-Clean Tin, Easy Release Spring Clip, and Removable Bottom Allow Pans Nonstick Separation to Reveal a Masterpiece. Bake Easy!",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

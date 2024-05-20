@@ -1,0 +1,40 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BXQW2W4": {
+            "asin": "B00BXQW2W4",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "PROCTER & GAMBLE 84981 Tide Powder Detergent, 56 oz.",
+            "normalizedName": "PROCTER & GAMBLE 84981 Tide Powder Detergent, 56 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.799999996813355
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B014RBSMCU": {
+            "asin": "B014RBSMCU",
+            "height": null,
+            "length": null,
+            "name": "NCAA Illinois Chicago Flames Stacked Vintage Long Sleeve T-Shirt, Small, Navy",
+            "normalizedName": "NCAA Illinois Chicago Flames Stacked Vintage Long Sleeve T-Shirt, Small, Navy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": null
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00061MSIA": {
+            "asin": "B00061MSIA",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Farnam SWAT Fly Repellent Ointment for Horses, Clear",
+            "normalizedName": "Farnam SWAT Fly Repellent Ointment for Horses, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00IPGVYI8": {
+            "asin": "B00IPGVYI8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Otterbox SYMMETRY SERIES for Samsung Galaxy S5 - Retail Packaging - CARDINAL (SLATE GREY/SCARLET RED)",
+            "normalizedName": "Otterbox SYMMETRY SERIES for Samsung Galaxy S5 - Retail Packaging - CARDINAL (SLATE GREY/SCARLET RED)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

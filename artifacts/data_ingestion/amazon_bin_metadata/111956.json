@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C9KZ18": {
+            "asin": "B000C9KZ18",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Hugger Mugger Cork Yoga Block",
+            "normalizedName": "Hugger Mugger Cork Yoga Block",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B010GN3MUK": {
+            "asin": "B010GN3MUK",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "ACDelco 25830023 GM Original Equipment Accelerator Pedal with Position Sensor",
+            "normalizedName": "ACDelco 25830023 GM Original Equipment Accelerator Pedal with Position Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

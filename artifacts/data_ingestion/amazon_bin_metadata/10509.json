@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0024S29C8": {
+            "asin": "B0024S29C8",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Nature's Plus. Spiru-Tein (Spirutein) Vanilla Nature's Plus 5 lbs Powder",
+            "normalizedName": "Nature's Plus. Spiru-Tein (Spirutein) Vanilla Nature's Plus 5 lbs Powder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B002GDLUTE": {
+            "asin": "B002GDLUTE",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "TYLER Gallon Glam Wash Laundry Detergent, Diva",
+            "normalizedName": "TYLER Gallon Glam Wash Laundry Detergent, Diva",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B01A7PYVS4": {
+            "asin": "B01A7PYVS4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Checkered Chef Pizza Cutter Sharp Rocker Blade With Cover. Heavy Duty Stainless Steel. Best Way To Cut Pizzas And More. Dishwasher Safe.",
+            "normalizedName": "Checkered Chef Pizza Cutter Sharp Rocker Blade With Cover. Heavy Duty Stainless Steel. Best Way To Cut Pizzas And More. Dishwasher Safe.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

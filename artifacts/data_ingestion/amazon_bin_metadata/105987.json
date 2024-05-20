@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BPE5KU": {
+            "asin": "B000BPE5KU",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Fernco Inc. P1002-43 4-Inch Clay To 3-Inch Cast Iron Or Plastic Coupling",
+            "normalizedName": "Fernco Inc. P1002-43 4-Inch Clay To 3-Inch Cast Iron Or Plastic Coupling",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B003H4QJ3S": {
+            "asin": "B003H4QJ3S",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Natural Home Decor Veggie Brush",
+            "normalizedName": "Natural Home Decor Veggie Brush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

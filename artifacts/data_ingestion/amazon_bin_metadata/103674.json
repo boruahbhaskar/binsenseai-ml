@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0034XRDUA": {
+            "asin": "B0034XRDUA",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Logitech Wireless Marathon Mouse M705 with 3-Year Battery Life",
+            "normalizedName": "Logitech Wireless Marathon Mouse M705 with 3-Year Battery Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00QHPOHSS": {
+            "asin": "B00QHPOHSS",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Bartelli Soft Edge Automatic Electric Can Opener - Red",
+            "normalizedName": "Bartelli Soft Edge Automatic Electric Can Opener - Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B0199R4EQ0": {
+            "asin": "B0199R4EQ0",
+            "height": {
+                "unit": "IN",
+                "value": 3.4645669256
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Funko POP Disney: Alice in Wonderland Action Figure - Cheshire Cat",
+            "normalizedName": "Funko POP Disney: Alice in Wonderland Action Figure - Cheshire Cat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B01CUSC0T8": {
+            "asin": "B01CUSC0T8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Stainless Steel Water Bottle - Insulated - Gorgeous Gift Box Included - Hot 24 hours - Cold 12 hours - 17 oz",
+            "normalizedName": "Stainless Steel Water Bottle - Insulated - Gorgeous Gift Box Included - Hot 24 hours - Cold 12 hours - 17 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452686
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

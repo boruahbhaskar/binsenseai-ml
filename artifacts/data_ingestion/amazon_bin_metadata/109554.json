@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OZEULF6": {
+            "asin": "B00OZEULF6",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "PORTER-CABLE PCC771B Bluetooth Radio",
+            "normalizedName": "PORTER-CABLE PCC771B Bluetooth Radio",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01ARGBBDG": {
+            "asin": "B01ARGBBDG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Mega Bloks Halo Covenant Wraith Ambush",
+            "normalizedName": "Mega Bloks Halo Covenant Wraith Ambush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004VR1NHC": {
+            "asin": "B004VR1NHC",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Solstice Double Tube Cooler Float",
+            "normalizedName": "Solstice Double Tube Cooler Float",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00EKW6JZ4": {
+            "asin": "B00EKW6JZ4",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Brother ADS1500W Compact Color Desktop Scanner with Duplex and Web Connectivity",
+            "normalizedName": "Brother ADS1500W Compact Color Desktop Scanner with Duplex and Web Connectivity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01DSUUJ4A": {
+            "asin": "B01DSUUJ4A",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Vermilion tower polyester cloth bathroom waterproof bathroom curtain hook 180cmx200cm",
+            "normalizedName": "Vermilion tower polyester cloth bathroom waterproof bathroom curtain hook 180cmx200cm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

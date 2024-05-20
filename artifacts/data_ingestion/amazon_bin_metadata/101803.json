@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BBO5A76": {
+            "asin": "B01BBO5A76",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "name": "Maxii DT01191 replacement projector lamp with housing Fit for Hitachi CP-X2021, CP-X2021WN, CP-X2521, CP-X3021WN Projector",
+            "normalizedName": "Maxii DT01191 replacement projector lamp with housing Fit for Hitachi CP-X2021, CP-X2021WN, CP-X2521, CP-X3021WN Projector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01CBMDY3O": {
+            "asin": "B01CBMDY3O",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Funko Mystery Mini: Finding Dory One Mystery Action Figure",
+            "normalizedName": "Funko Mystery Mini: Finding Dory One Mystery Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01FHCI1M4": {
+            "asin": "B01FHCI1M4",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "name": "SUPOW\u00ae Accessory Band for Fitbit Alta, Adjustable Replacement Bracelet Sports Wristbands Straps with Metal Clasp and Metal Dome For Fitbit Alta Smart Fitness Watch (No Tracker) (Navy Blue, Small)",
+            "normalizedName": "SUPOW\u00ae Accessory Band for Fitbit Alta, Adjustable Replacement Bracelet Sports Wristbands Straps with Metal Clasp and Metal Dome For Fitbit Alta Smart Fitness Watch (No Tracker) (Navy Blue, Small)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 0.393700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

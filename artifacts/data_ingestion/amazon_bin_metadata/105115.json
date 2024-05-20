@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004TEVQX8": {
+            "asin": "B004TEVQX8",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Robinsons Orange & Mango No Added Sugar 1 L",
+            "normalizedName": "Robinsons Orange & Mango No Added Sugar 1 L",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00C7W5B12": {
+            "asin": "B00C7W5B12",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Rothco Vintage Paratrooper Fatigues, Tiger Stripe, Small",
+            "normalizedName": "Rothco Vintage Paratrooper Fatigues, Tiger Stripe, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B00XJS9LIW": {
+            "asin": "B00XJS9LIW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "ReBagMe Laminated Extra Large Recycled Shopper Tote",
+            "normalizedName": "ReBagMe Laminated Extra Large Recycled Shopper Tote",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B01ANMO71M": {
+            "asin": "B01ANMO71M",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Aztech 1 Pack Toner Cartridge Replaces Brother TN360 TN-360 Black, Standard Yield (2,600 pages)",
+            "normalizedName": "1 Pack Aztech Toner Cartridge Replaces Brother TN360 TN-360 Black, Standard Yield (2,600 pages)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

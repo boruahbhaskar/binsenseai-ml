@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000234VJQ": {
+            "asin": "B000234VJQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.6771653414
+            },
+            "name": "Rothco Bdu Pant Navy Blue P/C, S Size",
+            "normalizedName": "Rothco Bdu Pant Navy Blue P/C, S Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8518640996302884
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.7874015638
+            }
+        },
+        "B004SRU49I": {
+            "asin": "B004SRU49I",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Decor Star BRG01-SB-U Single Handle Bathroom Vanity Sink Lavatory Faucet cUPC NSF Lead Free Brushed Nickel",
+            "normalizedName": "Decor Star BRG01-SB-U Single Handle Bathroom Vanity Sink Lavatory Faucet cUPC NSF Lead Free Brushed Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B00NQUW4PU": {
+            "asin": "B00NQUW4PU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "NASCAR RCR Racing Ryan Newman 2015 Alternate Driver's 39Thirty Cap, Gray, Large/X-Large",
+            "normalizedName": "NASCAR RCR Racing Ryan Newman 2015 Alternate Driver's 39Thirty Cap, Gray, Large/X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00VZBS1JK": {
+            "asin": "B00VZBS1JK",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1023621934
+            },
+            "name": "Slackline Industries 50FT Trick Line COMPLETE KIT with Trampoline-Style webbing for Extra Bounce INCLUDES Tree Protection and Backup Line",
+            "normalizedName": "Slackline Industries 50FT Trick Line COMPLETE KIT with Trampoline-Style webbing for Extra Bounce INCLUDES Tree Protection and Backup Line",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.098812381916106
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

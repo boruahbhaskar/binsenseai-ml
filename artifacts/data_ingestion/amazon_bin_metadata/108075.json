@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O6UCXUK": {
+            "asin": "B00O6UCXUK",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Cozy Greens\u00ae Baby Car Mirror | Back Seat Rear-facing Infant In Sight | Luxury Gift Box | CRASH TESTED | + FREE GIFTS Cleaning Cloth & Traveling With Kids eBook | Lifetime 100% Satisfaction Guarantee",
+            "normalizedName": "Cozy Greens\u00ae Baby Car Mirror | Back Seat Rear-facing Infant In Sight | Luxury Gift Box | CRASH TESTED | + FREE GIFTS Cleaning Cloth & Traveling With Kids eBook | Lifetime 100% Satisfaction Guarantee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00QK888GY": {
+            "asin": "B00QK888GY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "1 X 64 Pockets Photo Album for Mini Fujifilm Instax Mini 8 7s 25 50s 90 Polaroid & Name Card(Pink)",
+            "normalizedName": "1 X 64 Pockets Photo Album for Mini Fujifilm Instax Mini 8 7s 25 50s 90 Polaroid & Name Card(Pink)",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00U6H39IM": {
+            "asin": "B00U6H39IM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Estilo Removable and Washable Microfiber Ceiling and Fan Duster",
+            "normalizedName": "Estilo Removable and Washable Microfiber Ceiling and Fan Duster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

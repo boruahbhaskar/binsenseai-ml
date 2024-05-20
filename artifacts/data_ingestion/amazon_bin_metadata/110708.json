@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018656FM2": {
+            "asin": "B018656FM2",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Laptopaid New Keyboard without Frame For HP PROBOOK 450 G0 450 G1 450 G2 455 G1 455 G2 470 G0 470 G1 470 G2 6037B0088501 727682-001 90.4ZA07.L01 US Black",
+            "normalizedName": "Laptopaid New Keyboard without Frame For HP PROBOOK 450 G0 450 G1 450 G2 455 G1 455 G2 470 G0 470 G1 470 G2 6037B0088501 727682-001 90.4ZA07.L01 US Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01ALD9UX8": {
+            "asin": "B01ALD9UX8",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Heshe New Hot Sell Double Zippered Tote Top-handle Cross Body Shoulder Bag Handbag Purse Messenger Bag for Women (Dark Blue-r)",
+            "normalizedName": "Heshe New Hot Sell Double Zippered Tote Top-handle Cross Body Shoulder Bag Handbag Purse Messenger Bag for Women (Dark Blue-r)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9499999983647476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990411999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

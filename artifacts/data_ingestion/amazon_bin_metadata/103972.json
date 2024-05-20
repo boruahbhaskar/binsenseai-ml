@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00023N7TG": {
+            "asin": "B00023N7TG",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.385826758
+            },
+            "name": "PetSafe Pet Screen Door, Bronze",
+            "normalizedName": "PetSafe Pet Screen Door, Bronze",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.7637795176
+            }
+        },
+        "B014JNP2G0": {
+            "asin": "B014JNP2G0",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 22.099999977458005
+            },
+            "name": "O'Neill Wetsuits Wake Waterski Mens Revenge USCG Life Vest, Black/Graphite/Lunar, Small",
+            "normalizedName": "O'Neill Wetsuits Wake Waterski Mens Revenge USCG Life Vest, Black/Graphite/Lunar, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 16.099999983578
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

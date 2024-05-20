@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IOQDL5S": {
+            "asin": "B00IOQDL5S",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "GS-Tek C0211168 ID Graphite Ferrule for Agilent GC Inlet, 0.8mm (Pack of 10)",
+            "normalizedName": "(Pack of 10) GS-Tek C0211168 ID Graphite Ferrule for Agilent GC Inlet, 0.8mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00JAJNDZ6": {
+            "asin": "B00JAJNDZ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Brock Beauty Hairfinity Healthy Hair Vitamins 60 Capsules (1 Month Supply)",
+            "normalizedName": "Brock Beauty Hairfinity Healthy Hair Vitamins 60 Capsules (1 Month Supply)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01873ZACY": {
+            "asin": "B01873ZACY",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "QLIPP Tennis Sensor",
+            "normalizedName": "QLIPP Tennis Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

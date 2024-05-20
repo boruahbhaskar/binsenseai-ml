@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000V2C7S": {
+            "asin": "B0000V2C7S",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Weaver Pistol Mount System - 301",
+            "normalizedName": "Weaver Pistol Mount System - 301",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.799999997144
+            }
+        },
+        "B00BAHV2RC": {
+            "asin": "B00BAHV2RC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Streamlight 69250 TLR-2 G Rail-Mounted Tactical Light with Integrated Green Aiming Laser",
+            "normalizedName": "Streamlight 69250 TLR-2 G Rail-Mounted Tactical Light with Integrated Green Aiming Laser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00O7CM12W": {
+            "asin": "B00O7CM12W",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Lifetime Warranty FDA cleared OTC HealthmateForever YK15AB TENS unit with 4 outputs, apply 8 pads at the same time, 15 modes Handheld Electrotherapy device | Electronic Pulse Massager for Electrotherapy Pain Management -- Pain Relief Therapy : Chosen by Sufferers of Tennis Elbow, Carpal Tunnel Syndrome, Arthritis, Bursitis, Tendonitis, Plantar Fasciitis, Sciatica, Back Pain, Fibromyalgia, Shin Splints, Neuropathy and other Inflammation Ailments Patent No. USD723178S",
+            "normalizedName": "Lifetime Warranty FDA cleared OTC HealthmateForever YK15AB TENS unit with 4 outputs, apply 8 pads at the same time, 15 modes Handheld Electrotherapy device | Electronic Pulse Massager for Electrotherapy Pain Management -- Pain Relief Therapy : Chosen by Sufferers of Tennis Elbow, Carpal Tunnel Syndrome, Arthritis, Bursitis, Tendonitis, Plantar Fasciitis, Sciatica, Back Pain, Fibromyalgia, Shin Splints, Neuropathy and other Inflammation Ailments Patent No. USD723178S",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

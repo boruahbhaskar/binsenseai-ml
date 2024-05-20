@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ENWTCA": {
+            "asin": "B000ENWTCA",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "StarTech STUTPRXL VGA Video Extender Remote Receiver Over Cat 5 (UTPE Series)",
+            "normalizedName": "StarTech STUTPRXL VGA Video Extender Remote Receiver Over Cat 5 (UTPE Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B0072F8D7S": {
+            "asin": "B0072F8D7S",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Nature's Bounty Optimal Solutions Hair, Skin & Nails Extra Strength, 150 Softgels",
+            "normalizedName": "Nature's Bounty Optimal Solutions Hair, Skin & Nails Extra Strength, 150 Softgels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00ARJN5G0": {
+            "asin": "B00ARJN5G0",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "StarTech.com 2 Port PCI SuperSpeed USB 3.0 Adapter Card with SATA Power PCIUSB3S22, Red",
+            "normalizedName": "StarTech.com 2 Port PCI SuperSpeed USB 3.0 Adapter Card with SATA Power PCIUSB3S22, Red",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B017PB0ZU6": {
+            "asin": "B017PB0ZU6",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Kolumbo Umbrellas - Wind Tested 55MPH - Best Air Travel & Great Corporate Gifts - Windproof Rain Umbrella - Compact, Auto Open/Close - Perfect For Men, Women, Dad, Mom - Gift Box - Lifetime Guarantee",
+            "normalizedName": "Kolumbo Umbrellas - Wind Tested 55MPH - Best Air Travel & Great Corporate Gifts - Windproof Rain Umbrella - Compact, Auto Open/Close - Perfect For Men, Women, Dad, Mom - Gift Box - Lifetime Guarantee",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

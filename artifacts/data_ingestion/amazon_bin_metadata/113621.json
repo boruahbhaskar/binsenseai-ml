@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1585429139": {
+            "asin": "1585429139",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love",
+            "normalizedName": "Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00ICB9E5G": {
+            "asin": "B00ICB9E5G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Rubies Wizard of Oz Scarecrow Hoodie Dress Costume, Child Large",
+            "normalizedName": "Rubies Wizard of Oz Scarecrow Hoodie Dress Costume, Child Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

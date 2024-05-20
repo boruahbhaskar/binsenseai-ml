@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000668Z96": {
+            "asin": "B000668Z96",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Victor M230 Ultimate Flea Trap",
+            "normalizedName": "Victor M230 Ultimate Flea Trap",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00IZ6LH5I": {
+            "asin": "B00IZ6LH5I",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Digital Mother and Baby Bathroom Scale with Ultra Wide Platform, Step-on Technology and LCD Display, 330 lb Capacity",
+            "normalizedName": "Digital Mother and Baby Bathroom Scale with Ultra Wide Platform, Step-on Technology and LCD Display, 330 lb Capacity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.399999986332
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

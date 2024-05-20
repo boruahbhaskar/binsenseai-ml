@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003LN0S96": {
+            "asin": "B003LN0S96",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Gladiator GarageWorks GACEXXCPVK Claw Advanced Bike Storage v2.0, Plastic",
+            "normalizedName": "Gladiator GarageWorks GACEXXCPVK Claw Advanced Bike Storage v2.0, Plastic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00FA4JNZE": {
+            "asin": "B00FA4JNZE",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Muscle Pharm Arnold Schwarzenegger Series Iron Mass Weight Gainer, Chocolate Malt, 5 Pound",
+            "normalizedName": "Muscle Pharm Arnold Schwarzenegger Series Iron Mass Weight Gainer, Chocolate Malt, 5 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00WJ0AFGS": {
+            "asin": "B00WJ0AFGS",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Brooklyn Bedding Talalay Latex Pillow Made in the USA, King Plush",
+            "normalizedName": "Brooklyn Bedding Talalay Latex Pillow Made in the USA, King Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.649999996100553
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

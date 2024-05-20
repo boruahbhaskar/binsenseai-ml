@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D5EEMUC": {
+            "asin": "B00D5EEMUC",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Reusable Pocket Cloth Diapers + 2 Microfiber Inserts | One Size Fits All Newborn Baby to Toddler | Natural Bamboo Charcoal Anti-bacterial and Eco Friendly | Advanced Double Leak Guard Technology 7x\u2019s More Absorbent | Easy to Clean | Boy or Girl Adjustable Comfort Fit Design |100% Guaranteed By Bambungle",
+            "normalizedName": "Reusable Pocket Cloth Diapers + 2 Microfiber Inserts | One Size Fits All Newborn Baby to Toddler | Natural Bamboo Charcoal Anti-bacterial and Eco Friendly | Advanced Double Leak Guard Technology 7x\u2019s More Absorbent | Easy to Clean | Boy or Girl Adjustable Comfort Fit Design |100% Guaranteed By Bambungle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00RNE9D1S": {
+            "asin": "B00RNE9D1S",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Zoohands\u00aeYouth Gardening Gloves, Cotton Jersey, 4 Pair Pack, Zebra & Alligator Print (Med/Large Ages 7-12)",
+            "normalizedName": "Zoohands\u00aeYouth Gardening Gloves, Cotton Jersey, 4 Pair Pack, Zebra & Alligator Print (Med/Large Ages 7-12)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

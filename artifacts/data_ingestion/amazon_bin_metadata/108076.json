@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321979478": {
+            "asin": "0321979478",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "College Algebra (10th Edition)",
+            "normalizedName": "College Algebra (10th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00B8XFMJC": {
+            "asin": "B00B8XFMJC",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Clara Clark \u00ae Supreme 1500 Collection 4pc Bed Sheet Set- Twin (Single) Size, Light Blue Aqua (75\"x39\" Fits XL)",
+            "normalizedName": "Clara Clark \u00ae Supreme 1500 Collection 4pc Bed Sheet Set- Twin (Single) Size, Light Blue Aqua (75\"x39\" Fits XL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

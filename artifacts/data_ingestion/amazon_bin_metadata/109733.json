@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0073403253": {
+            "asin": "0073403253",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Business and Administrative Communication",
+            "normalizedName": "Business and Administrative Communication",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5799928130036134
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "0393937496": {
+            "asin": "0393937496",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Psychological Science (Fifth Edition)",
+            "normalizedName": "Psychological Science (Fifth Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00WZYEVB8": {
+            "asin": "B00WZYEVB8",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Enema - BEST Coffee Enema Kit - \"The Try it Now\" - Gerson Approved - Includes 1/2lb Green Organic Coffee Ground \u2013 Transparent Re-Usable Bucket w/Reinforced Handles \u2013 Easy to Use Pink Tube as Bonus - FREE Detox Recipe + FREE eBook of the Little Enema Book Updated and Revised.",
+            "normalizedName": "Enema - BEST Coffee Enema Kit - \"The Try it Now\" - Gerson Approved - Includes 1/2lb Green Organic Coffee Ground \u2013 Transparent Re-Usable Bucket w/Reinforced Handles \u2013 Easy to Use Pink Tube as Bonus - FREE Detox Recipe + FREE eBook of the Little Enema Book Updated and Revised.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

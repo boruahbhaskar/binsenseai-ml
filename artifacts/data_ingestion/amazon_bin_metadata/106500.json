@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009IQZFM": {
+            "asin": "B0009IQZFM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Meguiar's X2000 Water Magnet Microfiber Drying Towel",
+            "normalizedName": "Meguiar's X2000 Water Magnet Microfiber Drying Towel",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B004HCM9H4": {
+            "asin": "B004HCM9H4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Meguiar's Ultimate Liquid Wax - 16 oz.",
+            "normalizedName": "Meguiar's Ultimate Liquid Wax - 16 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B0095MH2ZU": {
+            "asin": "B0095MH2ZU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Medium Low Profile Riser 3pcs Set in Clear Acrylic",
+            "normalizedName": "Medium Low Profile Riser 3pcs Set in Clear Acrylic",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

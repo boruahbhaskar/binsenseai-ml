@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NJ1NX7E": {
+            "asin": "B00NJ1NX7E",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Amish Country Popcorn, Hulless & Non GMO, 1 Pound Bags (Pack of 3) (Ladyfinger)",
+            "normalizedName": "(Pack of 3) Amish Country Popcorn, Hulless & Non GMO, 1 Pound Bags (Ladyfinger)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01C0C2YFY": {
+            "asin": "B01C0C2YFY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "measuring the level of glucose in the blood with glucometer cell phone cover case iPhone5",
+            "normalizedName": "measuring the level of glucose in the blood with glucometer cell phone cover case iPhone5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

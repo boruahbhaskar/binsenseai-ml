@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016PARZEC": {
+            "asin": "B016PARZEC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.249999994645
+            },
+            "name": "Old Navy $50 Gift Card",
+            "normalizedName": "Old Navy $50 Gift Card",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.028124712896143187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01CCVD8OY": {
+            "asin": "B01CCVD8OY",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Mighty Paw Dual Handle Bungee Dog Leash, Premium Quality Bungee Dog Lead with Two Handles, Reflective Stitching, Neoprene Padded Handles (Grey/Green)",
+            "normalizedName": "Mighty Paw Dual Handle Bungee Dog Leash, Premium Quality Bungee Dog Lead with Two Handles, Reflective Stitching, Neoprene Padded Handles (Grey/Green)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

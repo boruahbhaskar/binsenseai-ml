@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KN959I": {
+            "asin": "B001KN959I",
+            "height": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Tetra 26332 Whisper EX Carbon Filter Cartridges, Large, 4-Pack",
+            "normalizedName": "4-Pack Tetra 26332 Whisper EX Carbon Filter Cartridges, Large,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280210165713
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B001NI5DM8": {
+            "asin": "B001NI5DM8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Wrigley's Extra Classic Bubble Gum Sugarfree 15 sticks (10 pack)",
+            "normalizedName": "Wrigley's Extra Classic Bubble Gum Sugarfree 15 sticks (10 pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B006P2594Y": {
+            "asin": "B006P2594Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Evoluent VerticalMouse Vertical Mouse 4 \"Regular Size\" Right Hand Wireless (model VM4RW)",
+            "normalizedName": "Evoluent VerticalMouse Vertical Mouse 4 \"Regular Size\" Right Hand Wireless (model VM4RW)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.8582677126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

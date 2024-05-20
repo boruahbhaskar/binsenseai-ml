@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009757CJG": {
+            "asin": "B009757CJG",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Gooby Padded Cold Weather Vest for Small Dogs with Safe Fur Guard Zipper Closure, Pink, Large",
+            "normalizedName": "Gooby Padded Cold Weather Vest for Small Dogs with Safe Fur Guard Zipper Closure, Pink, Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        },
+        "B00MX8YR8I": {
+            "asin": "B00MX8YR8I",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Giro Savant MIPS Equipped Bike Helmet - Matte Black/White X-Large",
+            "normalizedName": "Giro Savant MIPS Equipped Bike Helmet - Matte Black/White X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

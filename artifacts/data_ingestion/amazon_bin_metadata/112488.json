@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0046D9QNE": {
+            "asin": "B0046D9QNE",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "NFL New Orleans Saints Etched Key Chain",
+            "normalizedName": "NFL New Orleans Saints Etched Key Chain",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00R8PO7JK": {
+            "asin": "B00R8PO7JK",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "EEZYCUT Trilobite Knife, HORNET/YELLOW/BLACK/BLACK/FLEXI",
+            "normalizedName": "EEZYCUT Trilobite Knife, HORNET/YELLOW/BLACK/BLACK/FLEXI",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B010YBQRMO": {
+            "asin": "B010YBQRMO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Square Jellyfish MNLGTBLMT337 Metal iPad Air Tripod Mount",
+            "normalizedName": "Square Jellyfish MNLGTBLMT337 Metal iPad Air Tripod Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B011I0IMKU": {
+            "asin": "B011I0IMKU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Dermedicine Vitamin C 6000 Serum with Retinol, 1 fl. oz.",
+            "normalizedName": "Dermedicine Vitamin C 6000 Serum with Retinol, 1 fl. oz.",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

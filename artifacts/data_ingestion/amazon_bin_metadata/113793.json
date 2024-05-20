@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01FKV3T38": {
+            "asin": "B01FKV3T38",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "ZAGG Foam for All Electronic Devices ZAGGFOAM 2 pack",
+            "normalizedName": "ZAGG Foam for All Electronic Devices ZAGGFOAM 2 pack",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

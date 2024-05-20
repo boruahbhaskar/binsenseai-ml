@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0764126660": {
+            "asin": "0764126660",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Handbuilt Pottery Techniques Revealed: The secrets of handbuilding shown in unique cutaway photography",
+            "normalizedName": "Handbuilt Pottery Techniques Revealed: The secrets of handbuilding shown in unique cutaway photography",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B0076MZ3QQ": {
+            "asin": "B0076MZ3QQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "DII Oceanique Women's Microfiber, Machine Washable, Perfect for College Dorm, Pools, Gyms, Beaches, Locker Rooms, Bathroom Shower Wrap, Beach Wrap, Spa Wrap, Bath Wrap, White",
+            "normalizedName": "DII Oceanique Women's Microfiber, Machine Washable, Perfect for College Dorm, Pools, Gyms, Beaches, Locker Rooms, Bathroom Shower Wrap, Beach Wrap, Spa Wrap, Bath Wrap, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B00SI2MO8I": {
+            "asin": "B00SI2MO8I",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "Wacker Neuson OEM Shaft-Exciter Drive | Part Number 0047074",
+            "normalizedName": "Wacker Neuson OEM Shaft-Exciter Drive | Part Number 0047074",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

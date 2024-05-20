@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GUR3YDC": {
+            "asin": "B00GUR3YDC",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "The Honest Company Baby Wipes (4 Count, 288 Count)",
+            "normalizedName": "The Honest Company Baby Wipes (4 Count, 288 Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.339999994683335
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B01AX6O3RG": {
+            "asin": "B01AX6O3RG",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "TITAN 20 oz. Premium Grade Stainless Steel Double Wall Vacuum Insulated Travel Tumbler Cup - Keeps COLD & HOT",
+            "normalizedName": "TITAN 20 oz. Premium Grade Stainless Steel Double Wall Vacuum Insulated Travel Tumbler Cup - Keeps COLD & HOT",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

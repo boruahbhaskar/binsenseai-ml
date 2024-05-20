@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006II74C": {
+            "asin": "B0006II74C",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Nature's Secret 5-Day Fast and Cleanse Kit",
+            "normalizedName": "Nature's Secret 5-Day Fast and Cleanse Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B001AWJHI8": {
+            "asin": "B001AWJHI8",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Hotbodies Racing 60802-1105 Transparent Smoke Tail Light Kit",
+            "normalizedName": "Hotbodies Racing 60802-1105 Transparent Smoke Tail Light Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.749999986995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

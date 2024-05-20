@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CA0PCH4": {
+            "asin": "B00CA0PCH4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Disney Princess Matching Game",
+            "normalizedName": "Disney Princess Matching Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00HUWTYGC": {
+            "asin": "B00HUWTYGC",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "1800 Series Egyptian Collection 3 Line Microfiber 4 Piece Bed Sheet Set (King, Black)",
+            "normalizedName": "1800 Series Egyptian Collection 3 Line Microfiber 4 Piece Bed Sheet Set (King, Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

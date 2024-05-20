@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FQH7MQ2": {
+            "asin": "B00FQH7MQ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "Seagate 4TB Gaming SSHD(Solid State Hybrid Drive)  SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST4000DX001)",
+            "normalizedName": "Seagate 4TB Gaming SSHD(Solid State Hybrid Drive)  SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST4000DX001)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.543235834
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B01CUUAJF8": {
+            "asin": "B01CUUAJF8",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Senkada Tea Ceylon Hand Rolled TGFOP Green Tea 50g",
+            "normalizedName": "Senkada Tea Ceylon Hand Rolled TGFOP Green Tea 50g",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

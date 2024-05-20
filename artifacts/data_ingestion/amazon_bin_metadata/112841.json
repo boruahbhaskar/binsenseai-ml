@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000T9WLTK": {
+            "asin": "B000T9WLTK",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Coca-Cola, 12 PK, 12 Fl oz Cans",
+            "normalizedName": "Coca-Cola, 12 PK, 12 Fl oz Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.44989332496698
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B014DS8XOO": {
+            "asin": "B014DS8XOO",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Weekender Down Alternative Pillow with 100% Cotton Cover - Standard",
+            "normalizedName": "Weekender Down Alternative Pillow with 100% Cotton Cover - Standard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01EHJXU5G": {
+            "asin": "B01EHJXU5G",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "See, Hear and Speak No Evil Elephants Totem Statue for African Jungle Safari Decor or Whimsical Animal Figurines As Decorative Birthday Gifts That Bring Luck",
+            "normalizedName": "See, Hear and Speak No Evil Elephants Totem Statue for African Jungle Safari Decor or Whimsical Animal Figurines As Decorative Birthday Gifts That Bring Luck",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

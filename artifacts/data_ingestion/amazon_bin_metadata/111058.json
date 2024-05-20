@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XLE4A6W": {
+            "asin": "B00XLE4A6W",
+            "height": {
+                "unit": "IN",
+                "value": 3.249999996685
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.049999981589
+            },
+            "name": "bbq factory\u00ae Replacement Jenn Air Gas Barbecue Grill 720-0337 Grill Stainless Steel Burners,Stainless Steel Heat Plates-3pack",
+            "normalizedName": "bbq factory\u00ae Replacement Jenn Air Gas Barbecue Grill 720-0337 Grill Stainless Steel Burners,Stainless Steel Heat Plates-3pack",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.589999996150869
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.049999992809
+            }
+        },
+        "B01CZLK272": {
+            "asin": "B01CZLK272",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Outstar Glassic picture Frames tabletop 4x6-inch green",
+            "normalizedName": "Outstar Glassic picture Frames tabletop 4x6-inch green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

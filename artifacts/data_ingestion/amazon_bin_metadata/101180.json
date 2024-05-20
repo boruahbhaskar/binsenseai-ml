@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000P1UA9U": {
+            "asin": "B000P1UA9U",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Newray 1:43 Utility Peterbilt 335 BOX Truck White",
+            "normalizedName": "Newray 1:43 Utility Peterbilt 335 BOX Truck White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00A3DPO3C": {
+            "asin": "B00A3DPO3C",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Mini Lint Brush Folding Small Travel Purse Car Office Pet Hair Fabric Remover !!",
+            "normalizedName": "Mini Lint Brush Folding Small Travel Purse Car Office Pet Hair Fabric Remover !!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

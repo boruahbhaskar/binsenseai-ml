@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004Q04X44": {
+            "asin": "B004Q04X44",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "PORTER-CABLE PC1500HG 1500-Watt Heat Gun",
+            "normalizedName": "PORTER-CABLE PC1500HG 1500-Watt Heat Gun",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B004VRFLU2": {
+            "asin": "B004VRFLU2",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "ULTRA Pate Puppy Food, 3.5 oz., Pack of 24",
+            "normalizedName": "Pack of 24 ULTRA Pate Puppy Food, 3.5 oz.,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00NLNDO6K": {
+            "asin": "B00NLNDO6K",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Queen, Royal Blue)",
+            "normalizedName": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Queen, Royal Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

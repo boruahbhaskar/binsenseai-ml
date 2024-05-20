@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011I5ZTIS": {
+            "asin": "B011I5ZTIS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "ORICO Tool Free USB 3.0 External Enclosure for 2.5-Inch SATA HDD/SSD (7mm & 9.5mm) - Black (2599US3)",
+            "normalizedName": "ORICO Tool Free USB 3.0 External Enclosure for 2.5-Inch SATA HDD/SSD (7mm & 9.5mm) - Black (2599US3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11999999989936912
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B019EOIIJM": {
+            "asin": "B019EOIIJM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "1:1:1 Ratio BCAA Powder | AMRAP Nutrition - Branched Chain Amino Acid Recovery Powder",
+            "normalizedName": "1:1:1 Ratio BCAA Powder | AMRAP Nutrition - Branched Chain Amino Acid Recovery Powder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

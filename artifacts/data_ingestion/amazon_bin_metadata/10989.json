@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00823GUZG": {
+            "asin": "B00823GUZG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "TapeCase TC790 Dry Vinyl 2\" x 100ft Black (1 Roll)",
+            "normalizedName": "TapeCase TC790 Dry Vinyl 2\" x 100ft Black (1 Roll)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00NC3DSN8": {
+            "asin": "B00NC3DSN8",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Royal Designs 6\" Linen Beige Hardback Empire Chandelier Lamp Shade, 3 x 6 x 4.5 (CS-998-6LNBG)",
+            "normalizedName": "Royal Designs 6\" Linen Beige Hardback Empire Chandelier Lamp Shade, 3 x 6 x 4.5 (CS-998-6LNBG)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

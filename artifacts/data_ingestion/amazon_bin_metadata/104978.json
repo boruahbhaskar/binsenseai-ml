@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005OARN": {
+            "asin": "B00005OARN",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Intex Inflatable Whale Spray Kiddie Pool - Holds up to 91 Gallons (82\"x62\"x39\")",
+            "normalizedName": "Intex Inflatable Whale Spray Kiddie Pool - Holds up to 91 Gallons (82\"x62\"x39\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00T5TUCTQ": {
+            "asin": "B00T5TUCTQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "C.R. Gibson File Folders, 9-Count, Sardinia (COCF-14090)",
+            "normalizedName": "C.R. Gibson File Folders, 9-Count, Sardinia (COCF-14090)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

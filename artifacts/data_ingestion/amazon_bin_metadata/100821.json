@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OCNZTKW": {
+            "asin": "B00OCNZTKW",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Cleaner Mul-Surf Rfl 67.6oz",
+            "normalizedName": "Cleaner Mul-Surf Rfl 67.6oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00ZS1YC9Q": {
+            "asin": "B00ZS1YC9Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "SimPrium - Green Rotary Cheese Grater with 2 Interchangeable Stainless Steel Blades [Fine & Coarse] - Grate, Zest & Shave - Hard Cheeses, Chocolate & Nuts",
+            "normalizedName": "SimPrium - Green Rotary Cheese Grater with 2 Interchangeable Stainless Steel Blades [Fine & Coarse] - Grate, Zest & Shave - Hard Cheeses, Chocolate & Nuts",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

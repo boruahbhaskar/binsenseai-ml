@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O35CWQ8": {
+            "asin": "B00O35CWQ8",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 3 Piece (Twin, White)",
+            "normalizedName": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 3 Piece (Twin, White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B01EUC7NPI": {
+            "asin": "B01EUC7NPI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Samsung Galaxy Tab A 10.1 SM-T580NZKAXAR",
+            "normalizedName": "Samsung Galaxy Tab A 10.1 SM-T580NZKAXAR",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

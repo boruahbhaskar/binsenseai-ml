@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E1FZIW": {
+            "asin": "B000E1FZIW",
+            "height": {
+                "unit": "IN",
+                "value": 4.29921259404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.70078738556
+            },
+            "name": "Planters Trail Mix, Nuts and Chocolate, 6-Ounce Bags (Pack of 12)",
+            "normalizedName": "(Pack of 12) Planters Trail Mix, Nuts and Chocolate, 6-Ounce Bags",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.1000857842032
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B004VNYXAU": {
+            "asin": "B004VNYXAU",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Kikkerland Rhino Easy Fold Step Stool, Short, Red",
+            "normalizedName": "Kikkerland Rhino Easy Fold Step Stool, Short, Red",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B01DHTXME6": {
+            "asin": "B01DHTXME6",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.699999980926
+            },
+            "name": "Lenovo ThinkPad X1 Carbon (4th Gen) 20FB002LUS 14-inch Ultrabook (2.60 GHz Intel Core i7-6600U, 16 GB RAM, 512 GB SSD, Windows 7 Pro) Newest Version",
+            "normalizedName": "Lenovo ThinkPad X1 Carbon (4th Gen) 20FB002LUS 14-inch Ultrabook (2.60 GHz Intel Core i7-6600U, 16 GB RAM, 512 GB SSD, Windows 7 Pro) Newest Version",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.749999996016695
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002C5W3KQ": {
+            "asin": "B002C5W3KQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Rothco 8 Point Police/Security Cap, Navy Blue, 7.125",
+            "normalizedName": "Rothco 8 Point Police/Security Cap, Navy Blue, 7.125",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.448818888
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

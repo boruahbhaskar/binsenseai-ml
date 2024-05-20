@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00705YX42": {
+            "asin": "B00705YX42",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Wild Republic Cuddlekins 12\" Bison",
+            "normalizedName": "Wild Republic Cuddlekins 12\" Bison",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00TDMBUMI": {
+            "asin": "B00TDMBUMI",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "AtGames Sega Genesis Classic Game Console with Wired Controllers",
+            "normalizedName": "AtGames Sega Genesis Classic Game Console with Wired Controllers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B014DIPAYA": {
+            "asin": "B014DIPAYA",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "YouYee European Style Fashionable Circle PVC Tablecloth,Easy Matching,Oilproof,71 Inch,Round",
+            "normalizedName": "YouYee European Style Fashionable Circle PVC Tablecloth,Easy Matching,Oilproof,71 Inch,Round",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01AW8Q9LI": {
+            "asin": "B01AW8Q9LI",
+            "height": {
+                "unit": "IN",
+                "value": 0.1968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.598425184
+            },
+            "name": "Zixia 16 Inches Baby Doll's Clothes Cow Pattern Rompers Suit",
+            "normalizedName": "Zixia 16 Inches Baby Doll's Clothes Cow Pattern Rompers Suit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.236220462
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

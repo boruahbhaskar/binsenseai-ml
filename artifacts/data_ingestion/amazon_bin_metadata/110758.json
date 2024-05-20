@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HZULO5S": {
+            "asin": "B00HZULO5S",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "1/18 Scale Porsche 911 GT3 RS Radio Remote Control Car RC",
+            "normalizedName": "1/18 Scale Porsche 911 GT3 RS Radio Remote Control Car RC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B01A961OP4": {
+            "asin": "B01A961OP4",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Star Wars Classic \"Long Time Ago\" Lightweight Fleece Throw Blanket",
+            "normalizedName": "Star Wars Classic \"Long Time Ago\" Lightweight Fleece Throw Blanket",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        },
+        "B01DV2OJYG": {
+            "asin": "B01DV2OJYG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Best Microfiber Cleaning Cloth, Pack of 50",
+            "normalizedName": "Pack of 50 Best Microfiber Cleaning Cloth,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

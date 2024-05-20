@@ -1,0 +1,69 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FZ6Z3G": {
+            "asin": "B000FZ6Z3G",
+            "height": {
+                "unit": "IN",
+                "value": 1.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9
+            },
+            "name": "Magnetic Pin Cushion, Colors May Vary",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3
+            }
+        },
+        "B003NVLWMI": {
+            "asin": "B003NVLWMI",
+            "height": {
+                "unit": "IN",
+                "value": 3.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8999999999999995
+            },
+            "name": "Intermatic P1121 Heavy Duty Outdoor Timer 15 Amp/1 HP",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4
+            }
+        },
+        "B00WU0K2L0": {
+            "asin": "B00WU0K2L0",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "COOLOMG Youth Anti-Slip Arm Sleeves Cover Skin UV Protection Sports Adult, Digital Gray, X-Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.500000000000001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1082.jpg"
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LYGM1O": {
+            "asin": "B002LYGM1O",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "100 pcs Tattoo Thermal Stencil Transfer paper",
+            "normalizedName": "100 pcs Tattoo Thermal Stencil Transfer paper",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00ITPYPC2": {
+            "asin": "B00ITPYPC2",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Foscam FI9826PW Plug and Play 1.3 Megapixel, 1280 x 960 Pixels, 3x Optical Zoom, H.264 Pan/Tilt Wireless IP Camera (White)",
+            "normalizedName": "Foscam FI9826PW Plug and Play 1.3 Megapixel, 1280 x 960 Pixels, 3x Optical Zoom, H.264 Pan/Tilt Wireless IP Camera (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00KW272RA": {
+            "asin": "B00KW272RA",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "1byone 550ml Tank Mini Fog Machine with wired remote control - 400 Watt",
+            "normalizedName": "1byone 550ml Tank Mini Fog Machine with wired remote control - 400 Watt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.399955084196623
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

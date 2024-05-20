@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OWR51XI": {
+            "asin": "B00OWR51XI",
+            "height": {
+                "unit": "IN",
+                "value": 5.2755905458
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "BigMouth Inc Sperm Donor Mug, White",
+            "normalizedName": "BigMouth Inc Sperm Donor Mug, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B00V8NEV9Y": {
+            "asin": "B00V8NEV9Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Garmin Delta Sport XC Bundle - dog training device",
+            "normalizedName": "Garmin Delta Sport XC Bundle - dog training device",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00YAZF84Y": {
+            "asin": "B00YAZF84Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "XTREME SHAPER SLIMMING BELT (BLACK SMALL)",
+            "normalizedName": "XTREME SHAPER SLIMMING BELT (BLACK SMALL)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,81 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00779XNN8": {
+            "asin": "B00779XNN8",
+            "height": null,
+            "length": null,
+            "name": "Conex 3.5 Oz Translucent Cold Cup (3.5N25) 100/Pack",
+            "normalizedName": "Conex 3.5 Oz Translucent Cold Cup (3.5N25) 100/Pack",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        },
+        "B00KZIG9MU": {
+            "asin": "B00KZIG9MU",
+            "height": {
+                "unit": "IN",
+                "value": 8.06
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.62
+            },
+            "name": "Franklin Sports NCAA UCF Golden Knights Youth Deluxe Team Uniform Set, Multi, Small",
+            "normalizedName": "Franklin Sports NCAA UCF Golden Knights Youth Deluxe Team Uniform Set, Multi, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.25
+            }
+        },
+        "B00U0XS28E": {
+            "asin": "B00U0XS28E",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Hape - Home Education - Shape and Shadow Matching Card Game",
+            "normalizedName": "Hape - Home Education - Shape and Shadow Matching Card Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00ZZBIA8I": {
+            "asin": "B00ZZBIA8I",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "Golf Potty Putter Putting Game - A Whimsical Golfing Indoor Practice Mini Golf Gag Gift Set - Kids Men Funny Novelty Toy Training Accessory Aid for Any Toilet - 7 Pc Set by Perfect Life Ideas - 1 Set",
+            "normalizedName": "Golf Potty Putter Putting Game - A Whimsical Golfing Indoor Practice Mini Golf Gag Gift Set - Kids Men Funny Novelty Toy Training Accessory Aid for Any Toilet - 7 Pc Set by Perfect Life Ideas - 1 Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003HESEU4": {
+            "asin": "B003HESEU4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Tea Brewing Ball, 2''",
+            "normalizedName": "Tea Brewing Ball, 2''",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B0049IRCAA": {
+            "asin": "B0049IRCAA",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "No Salt Salt Substitute, 11-Ounce Cans (Pack of 2)",
+            "normalizedName": "(Pack of 2) No Salt Salt Substitute, 11-Ounce Cans",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01BY1IXPW": {
+            "asin": "B01BY1IXPW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "TROLLS DJ Doll",
+            "normalizedName": "TROLLS DJ Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

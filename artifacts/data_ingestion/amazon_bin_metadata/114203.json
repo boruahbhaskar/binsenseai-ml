@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01D3FZWOW": {
+            "asin": "B01D3FZWOW",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Playskool Sesame Street Racers Elmo, Oscar, Big Bird & Ernie Gift Set Bundle - 4 Pack",
+            "normalizedName": "4 Pack Playskool Sesame Street Racers Elmo, Oscar, Big Bird & Ernie Gift Set Bundle -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01DTZPF3Y": {
+            "asin": "B01DTZPF3Y",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "E-foxer LED String Lights 14.85 Feet Starry Cotton ball String Lights , Ball Fairy Light for Garden Party Christmas Wedding New Year Indoor Decoration (Colorful)",
+            "normalizedName": "E-foxer LED String Lights 14.85 Feet Starry Cotton ball String Lights , Ball Fairy Light for Garden Party Christmas Wedding New Year Indoor Decoration (Colorful)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

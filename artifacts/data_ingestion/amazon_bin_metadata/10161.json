@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HBIL7G": {
+            "asin": "B000HBIL7G",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Intex Prestige Downy Airbed Kit with Hand Held Battery Pump, Twin",
+            "normalizedName": "Intex Prestige Downy Airbed Kit with Hand Held Battery Pump, Twin",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.399999993794429
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B0015ZSW86": {
+            "asin": "B0015ZSW86",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Universal Indoor/Outdoor Clock, 13 1/2-Inch, Black (11381)",
+            "normalizedName": "Universal Indoor/Outdoor Clock, 13 1/2-Inch, Black (11381)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        },
+        "B0186VDEUC": {
+            "asin": "B0186VDEUC",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Chunyi 2-Piece Jacquard Polyester Spandex Sofa Slipcover (Loveseat, Gray)",
+            "normalizedName": "Chunyi 2-Piece Jacquard Polyester Spandex Sofa Slipcover (Loveseat, Gray)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3999999971487918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

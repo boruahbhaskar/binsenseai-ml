@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006M648E": {
+            "asin": "B0006M648E",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Badge Hole Slot Punch for ID Cards Hand Held",
+            "normalizedName": "Badge Hole Slot Punch for ID Cards Hand Held",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00QBMG33O": {
+            "asin": "B00QBMG33O",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Prima Taste Singapore Chilli Crab Lamian Noodles, Pack of 4",
+            "normalizedName": "Pack of 4 Prima Taste Singapore Chilli Crab Lamian Noodles,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01H6FWS92": {
+            "asin": "B01H6FWS92",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "E-TRENDS Solar Powered Bird bath Fountain Pump, Free Standing Garden 1.4W Solar Water Pump W Floating design, Outdoor Watering Submersible Pump(Birdbath & Stand Not Included)",
+            "normalizedName": "E-TRENDS Solar Powered Bird bath Fountain Pump, Free Standing Garden 1.4W Solar Water Pump W Floating design, Outdoor Watering Submersible Pump(Birdbath & Stand Not Included)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

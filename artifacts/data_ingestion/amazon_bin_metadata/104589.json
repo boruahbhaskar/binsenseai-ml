@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004HZB32S": {
+            "asin": "B004HZB32S",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Intensive Nutrition - Somniphan 30 vcaps",
+            "normalizedName": "Intensive Nutrition - Somniphan 30 vcaps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00D1L0BU4": {
+            "asin": "B00D1L0BU4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "NAVA New 50Pcs 8\"x12\" World Flags Combo Hanging National Countries Olympic Games Sports Assorted Nation",
+            "normalizedName": "NAVA New 50Pcs 8\"x12\" World Flags Combo Hanging National Countries Olympic Games Sports Assorted Nation",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00VRAMCF8": {
+            "asin": "B00VRAMCF8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Schick Xtreme 3 Ultimate Razor - 4 ct",
+            "normalizedName": "Schick Xtreme 3 Ultimate Razor - 4 ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

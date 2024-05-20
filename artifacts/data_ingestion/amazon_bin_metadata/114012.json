@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002HOM44C": {
+            "asin": "B002HOM44C",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Roma Pony Wood Back Body Brush - Pink, Mini",
+            "normalizedName": "Roma Pony Wood Back Body Brush - Pink, Mini",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00RNE9D1S": {
+            "asin": "B00RNE9D1S",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Zoohands\u00aeYouth Gardening Gloves, Cotton Jersey, 4 Pair Pack, Zebra & Alligator Print (Med/Large Ages 7-12)",
+            "normalizedName": "Zoohands\u00aeYouth Gardening Gloves, Cotton Jersey, 4 Pair Pack, Zebra & Alligator Print (Med/Large Ages 7-12)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

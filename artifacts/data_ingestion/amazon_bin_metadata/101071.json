@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Y4QBK46": {
+            "asin": "B00Y4QBK46",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Crayola Ultra-Clean Broad Line Markers (Pack of 12, 10 Ct)",
+            "normalizedName": "Pack of 12 Crayola Ultra-Clean Broad Line Markers ( , 10 Ct)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

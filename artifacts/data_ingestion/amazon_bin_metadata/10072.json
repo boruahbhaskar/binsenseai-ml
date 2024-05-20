@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016XBLT90": {
+            "asin": "B016XBLT90",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Samsung mini Wireless Charging Pad Qi with 2A Wall Charger - Retail Packaging - Black",
+            "normalizedName": "Samsung mini Wireless Charging Pad Qi with 2A Wall Charger - Retail Packaging - Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.40999999965617784
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01EZI7X0M": {
+            "asin": "B01EZI7X0M",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Gator Cable 50 feet Black HDMI 2.0 cable with durable and rugged aluminum housing case and Ultra High Speed bidirectional HDMI cord V2.0 for high definition HD 4k LCD LED TV television radio receiver",
+            "normalizedName": "Gator Cable 50 feet Black HDMI 2.0 cable with durable and rugged aluminum housing case and Ultra High Speed bidirectional HDMI cord V2.0 for high definition HD 4k LCD LED TV television radio receiver",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

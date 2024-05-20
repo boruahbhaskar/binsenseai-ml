@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OKIFV3Y": {
+            "asin": "B00OKIFV3Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "The Cube: Turns Quicker and More Precisely Than Original; Super-durable With Vivid Colors; Best-selling 3x3 Cube; 100% Money Back Guarantee!",
+            "normalizedName": "The Cube: Turns Quicker and More Precisely Than Original; Super-durable With Vivid Colors; Best-selling 3x3 Cube; 100% Money Back Guarantee!",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B017YVPPTS": {
+            "asin": "B017YVPPTS",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.629921249000002
+            },
+            "name": "Alien Pros X-Dry Tennis Overgrip Tape perfect for your tennis racket, racquetball grip, squash racquet and more. 3-Pack, Space Theme Design - White",
+            "normalizedName": "3-Pack Alien Pros X-Dry Tennis Overgrip Tape perfect for your tennis racket, racquetball grip, squash racquet and more. , Space Theme Design - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5590551155
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

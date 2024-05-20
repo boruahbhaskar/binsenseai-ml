@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A23JY9I": {
+            "asin": "B00A23JY9I",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Morex Ribbon Glitter Dots Wired Sheer Glitter Ribbon, 2-1/2-Inch by 50-Yard Spool, Black/Silver",
+            "normalizedName": "Morex Ribbon Glitter Dots Wired Sheer Glitter Ribbon, 2-1/2-Inch by 50-Yard Spool, Black/Silver",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01DK69P42": {
+            "asin": "B01DK69P42",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Shunjia\u00ae Reinforced Frame Crystal Slim Highly Durable Shock-Absorption Flexible Soft Rubber TPU Bumper Hybrid Protection Light Case for Apple iPhone 6/6S 4.7\" (Blue)",
+            "normalizedName": "Shunjia\u00ae Reinforced Frame Crystal Slim Highly Durable Shock-Absorption Flexible Soft Rubber TPU Bumper Hybrid Protection Light Case for Apple iPhone 6/6S 4.7\" (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01DM6BDA4": {
+            "asin": "B01DM6BDA4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Ring 88LP000CH000 Video Doorbell Pro,",
+            "normalizedName": "Ring 88LP000CH000 Video Doorbell Pro,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

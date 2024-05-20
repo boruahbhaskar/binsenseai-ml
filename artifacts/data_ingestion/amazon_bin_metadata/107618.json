@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ANFVPMI": {
+            "asin": "B01ANFVPMI",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "100 Foot Expandable Garden Hose, Strongest Expanding Garden Hose. Solid Brass Fittings, Patented Stainless Steel Holder, Double Latex Core, Toughest Nylon Fabric, Spray Nozzle",
+            "normalizedName": "100 Foot Expandable Garden Hose, Strongest Expanding Garden Hose. Solid Brass Fittings, Patented Stainless Steel Holder, Double Latex Core, Toughest Nylon Fabric, Spray Nozzle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1349999973710183
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B01BHL3DA4": {
+            "asin": "B01BHL3DA4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Five Star Spiral Notebooks, 1 Subject, 100 College Ruled Sheets, Assorted Trend Colors, 6-Pack (38057)",
+            "normalizedName": "6-Pack Five Star Spiral Notebooks, 1 Subject, 100 College Ruled Sheets, Assorted Trend Colors, (38057)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.2499999947588085
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

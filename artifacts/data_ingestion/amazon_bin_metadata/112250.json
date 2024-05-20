@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009MLXJNI": {
+            "asin": "B009MLXJNI",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Delta Faucet  58470-SS Universal Showering Components, In2ition Two-In-One Shower, Stainless",
+            "normalizedName": "Delta Faucet  58470-SS Universal Showering Components, In2ition Two-In-One Shower, Stainless",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00YHTH2BU": {
+            "asin": "B00YHTH2BU",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Dynamite C3010 Passport Ultra Force 220W Touch Battery Charger",
+            "normalizedName": "Dynamite C3010 Passport Ultra Force 220W Touch Battery Charger",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

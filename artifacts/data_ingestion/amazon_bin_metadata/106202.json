@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004RIMJG4": {
+            "asin": "B004RIMJG4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Intex Tote-N-Float Wave Inflatable Air Mat (58807EP),  90\" X 34\", (Colors May Vary), 1 Pack",
+            "normalizedName": "1 Pack Intex Tote-N-Float Wave Inflatable Air Mat (58807EP),  90\" X 34\", (Colors May Vary),",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B014TE51C4": {
+            "asin": "B014TE51C4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "normalizedName": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B015EB27VY": {
+            "asin": "B015EB27VY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Barbie Made to Move Barbie Doll, Pink Top",
+            "normalizedName": "Barbie Made to Move Barbie Doll, Pink Top",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5746964056767488
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B016S0W3Y6": {
+            "asin": "B016S0W3Y6",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "HP Envy 8 Note 5003 8\" 32 GB Tablet",
+            "normalizedName": "HP Envy 8 Note 5003 8\" 32 GB Tablet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.799999996813355
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

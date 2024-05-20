@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0119TJ2ZE": {
+            "asin": "B0119TJ2ZE",
+            "height": {
+                "unit": "IN",
+                "value": 0.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 0.1
+            },
+            "name": "Dececos Cute Puppy Motoring Car Decorative Cotton Linen Blend Throw Pillow Cover Square Pillow Case Cushion Cover 18 x 18 Inches",
+            "normalizedName": "Dececos Cute Puppy Motoring Car Decorative Cotton Linen Blend Throw Pillow Cover Square Pillow Case Cushion Cover 18 x 18 Inches",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 0.1
+            }
+        },
+        "B012MGTM9O": {
+            "asin": "B012MGTM9O",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Marvel 6-Inch Legends Series Captain America Figure",
+            "normalizedName": "Marvel 6-Inch Legends Series Captain America Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B013HNYV42": {
+            "asin": "B013HNYV42",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "WD Blue 3TB  Desktop Hard Disk Drive - 5400 RPM SATA 6 Gb/s 64MB Cache 3.5 Inch  - WD30EZRZ",
+            "normalizedName": "WD Blue 3TB  Desktop Hard Disk Drive - 5400 RPM SATA 6 Gb/s 64MB Cache 3.5 Inch  - WD30EZRZ",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4550360770607615
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

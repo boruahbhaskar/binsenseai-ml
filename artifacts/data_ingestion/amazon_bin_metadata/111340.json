@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008U7KRVW": {
+            "asin": "B008U7KRVW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Fruit of the Loom Men's Crew Neck Tee, White, Small(Pack of 6)",
+            "normalizedName": "(Pack of 6) Fruit of the Loom Men's Crew Neck Tee, White, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00AWKJPOA": {
+            "asin": "B00AWKJPOA",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "FujiFilm Instax Mini 8 with Strap and Batteries (Blue)",
+            "normalizedName": "FujiFilm Instax Mini 8 with Strap and Batteries (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

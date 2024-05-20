@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VTTZVEQ": {
+            "asin": "B00VTTZVEQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Phitz Bass Guitar Case, Mocha - PH42324SFB",
+            "normalizedName": "Phitz Bass Guitar Case, Mocha - PH42324SFB",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

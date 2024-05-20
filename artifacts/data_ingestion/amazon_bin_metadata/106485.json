@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00017IJO6": {
+            "asin": "B00017IJO6",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Fellowes Powershred Shredder Bags for All Personal Models, 100 Bags & Ties (36052)",
+            "normalizedName": "Fellowes Powershred Shredder Bags for All Personal Models, 100 Bags & Ties (36052)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00TM2T9C2": {
+            "asin": "B00TM2T9C2",
+            "height": {
+                "unit": "IN",
+                "value": 3.0708661386
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5826771566
+            },
+            "name": "BLACK+DECKER BDCS20C 4-Volt MAX Lithium-Ion Cordless Rechargeable Screwdriver",
+            "normalizedName": "BLACK+DECKER BDCS20C 4-Volt MAX Lithium-Ion Cordless Rechargeable Screwdriver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1023000583793647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7716535364
+            }
+        },
+        "B012ACL9PA": {
+            "asin": "B012ACL9PA",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "name": "Haimer F1304NNL5/8ZCAA Power Roughing End Mill, 4 Flutes, 5/8\"",
+            "normalizedName": "Haimer F1304NNL5/8ZCAA Power Roughing End Mill, 4 Flutes, 5/8\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        },
+        "B018RP3UWO": {
+            "asin": "B018RP3UWO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1799999977764
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.579999995328399
+            },
+            "name": "World of Nintendo Deku Link Collectible Figure jakks 2.5\" Legend of Zelda",
+            "normalizedName": "World of Nintendo Deku Link Collectible Figure jakks 2.5\" Legend of Zelda",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.039999999966456375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7799999971644
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

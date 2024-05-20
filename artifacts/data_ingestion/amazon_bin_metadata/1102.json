@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001RNPA3G": {
+            "asin": "B001RNPA3G",
+            "height": {
+                "unit": "IN",
+                "value": 1.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Lenox Butterfly Meadow Stainless Steel Flatware 3-Piece Serving Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.3
+            }
+        },
+        "B0045Y1JGQ": {
+            "asin": "B0045Y1JGQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2
+            },
+            "name": "KONG Cloud E-Collar for Cats and Dogs, Small",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999999999999
+            }
+        },
+        "B00CMQTV50": {
+            "asin": "B00CMQTV50",
+            "height": {
+                "unit": "IN",
+                "value": 2.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.2
+            },
+            "name": "Xbox One Chat Headset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        },
+        "B00M1NEUKK": {
+            "asin": "B00M1NEUKK",
+            "height": {
+                "unit": "IN",
+                "value": 2.677165354330709
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.582677165354331
+            },
+            "name": "Bose QuietComfort 25 Acoustic Noise Cancelling Headphones  -  Apple devices, Black - Wired",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520735366416
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.984251968503937
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1102.jpg"
+}

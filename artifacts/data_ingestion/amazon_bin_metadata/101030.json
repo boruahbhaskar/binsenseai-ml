@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GP0VQW": {
+            "asin": "B000GP0VQW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Expo 2 Low-Odor Dry Erase Markers, Fine Point, 4-Pack, Fashion Colors",
+            "normalizedName": "4-Pack Expo 2 Low-Odor Dry Erase Markers, Fine Point, , Fashion Colors",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00IKVM60S": {
+            "asin": "B00IKVM60S",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Rubbermaid 1877646 Decorative Shelf Bracket, 6 by 8-Inch, Celtic Scroll, Bronze",
+            "normalizedName": "Rubbermaid 1877646 Decorative Shelf Bracket, 6 by 8-Inch, Celtic Scroll, Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B01EBAXIJE": {
+            "asin": "B01EBAXIJE",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Vasta Pro Vegetable Spiral Slicer Bundle",
+            "normalizedName": "Vasta Pro Vegetable Spiral Slicer Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01G74I1PI": {
+            "asin": "B01G74I1PI",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Real Techniques Ultimate Base Set, 0.34 Pound",
+            "normalizedName": "Real Techniques Ultimate Base Set, 0.34 Pound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

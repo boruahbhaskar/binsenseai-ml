@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MM2RZM": {
+            "asin": "B000MM2RZM",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Benefiber Fiber Supplement - 760g 190 Servings Sugar Free",
+            "normalizedName": "Benefiber Fiber Supplement - 760g 190 Servings Sugar Free",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B002ZNJYRA": {
+            "asin": "B002ZNJYRA",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Banana Boat Sunscreen Sport Performance Broad Spectrum Sun Care Sunscreen Lotion - SPF 30, 1 Ounce (Pack of 24)",
+            "normalizedName": "(Pack of 24) Banana Boat Sunscreen Sport Performance Broad Spectrum Sun Care Sunscreen Lotion - SPF 30, 1 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00B027FFA": {
+            "asin": "B00B027FFA",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "John Sterling RP-0045-PM Shelf And Rod Closet Bracket, Platinum",
+            "normalizedName": "John Sterling RP-0045-PM Shelf And Rod Closet Bracket, Platinum",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00LV0ZQLG": {
+            "asin": "B00LV0ZQLG",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "ALEX Toys Artist Studio 24-Piece Rainbow Modeling Clay Set",
+            "normalizedName": "ALEX Toys Artist Studio 24-Piece Rainbow Modeling Clay Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

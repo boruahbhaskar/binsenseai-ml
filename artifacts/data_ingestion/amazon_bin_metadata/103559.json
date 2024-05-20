@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004T194Y4": {
+            "asin": "B004T194Y4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Now Designs Kid's Laminated Apron, Tiny Tortoise",
+            "normalizedName": "Now Designs Kid's Laminated Apron, Tiny Tortoise",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00EC9JERA": {
+            "asin": "B00EC9JERA",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Now Designs Basic Apron, Keep on Canning",
+            "normalizedName": "Now Designs Basic Apron, Keep on Canning",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.34999642744550774
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00FJRS5BA": {
+            "asin": "B00FJRS5BA",
+            "height": {
+                "unit": "IN",
+                "value": 3.7795275552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.5511810916
+            },
+            "name": "Western Digital 4TB 7200 RPM SATA 6 Gb/s 64MB Cache, 3.5-Inch Desktop Hard Disk Drive (WD4003FZEX)",
+            "normalizedName": "Western Digital 4TB 7200 RPM SATA 6 Gb/s 64MB Cache, 3.5-Inch Desktop Hard Disk Drive (WD4003FZEX)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8518640996302886
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.6377952678
+            }
+        },
+        "B00WE6BS8Q": {
+            "asin": "B00WE6BS8Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Marshalls Creek Spices Family Size Refill New Greek No Salt Seasoning, 44 Ounce",
+            "normalizedName": "Marshalls Creek Spices Family Size Refill New Greek No Salt Seasoning, 44 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.649999997777735
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

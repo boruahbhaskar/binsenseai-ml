@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007P94PU": {
+            "asin": "B0007P94PU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "name": "Educational Insights Hot Dots Math Flashcards Division",
+            "normalizedName": "Educational Insights Hot Dots Math Flashcards Division",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00NIBK2U6": {
+            "asin": "B00NIBK2U6",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Sound Intone Ms200 Stereo Headsets Strong Low Bass Adjustable Headphones Earbuds for Smartphones Mp3/4 Laptop Computers Tablet Macbook Folding Gaming Earphones (Black/red)",
+            "normalizedName": "Sound Intone Ms200 Stereo Headsets Strong Low Bass Adjustable Headphones Earbuds for Smartphones Mp3/4 Laptop Computers Tablet Macbook Folding Gaming Earphones (Black/red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

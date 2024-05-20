@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007ZULSY": {
+            "asin": "B0007ZULSY",
+            "height": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.6535432952
+            },
+            "name": "ZOOB 125 Piece Building Set",
+            "normalizedName": "ZOOB 125 Piece Building Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.116416113863187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.3779527494
+            }
+        },
+        "B00ND5ZC0W": {
+            "asin": "B00ND5ZC0W",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Marvel Ultimate Spider-Man Web Warriors Trickshot Showdown Set",
+            "normalizedName": "Marvel Ultimate Spider-Man Web Warriors Trickshot Showdown Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

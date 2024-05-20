@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005CNXDG8": {
+            "asin": "B005CNXDG8",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Everpure EV9618-02 OCS 2 Filter Cartridge",
+            "normalizedName": "Everpure EV9618-02 OCS 2 Filter Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00627G6QC": {
+            "asin": "B00627G6QC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Surebonder DT-2010 Made in the USA All Purpose Stick Glue Sticks-All Temperature-Clear 7/16\" D, 10\" L Glue Stick-20 Sticks per Bag",
+            "normalizedName": "Surebonder DT-2010 Made in the USA All Purpose Stick Glue Sticks-All Temperature-Clear 7/16\" D, 10\" L Glue Stick-20 Sticks per Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B007QV2MXY": {
+            "asin": "B007QV2MXY",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "STEELMAN 95928 10-Piece Terminal Tool Kit for VW/Audi",
+            "normalizedName": "STEELMAN 95928 10-Piece Terminal Tool Kit for VW/Audi",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

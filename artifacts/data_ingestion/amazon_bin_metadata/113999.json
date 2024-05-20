@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SOM7YWI": {
+            "asin": "B00SOM7YWI",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Sennheiser Momentum 2.0 Wireless with Active Noise Cancellation- Ivory",
+            "normalizedName": "Sennheiser Momentum 2.0 Wireless with Active Noise Cancellation- Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

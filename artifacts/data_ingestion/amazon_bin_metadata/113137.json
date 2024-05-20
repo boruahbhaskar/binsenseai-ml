@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AU2AYXQ": {
+            "asin": "B00AU2AYXQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Pegasus Vs. Chimera",
+            "normalizedName": "Pegasus Vs. Chimera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00DJYJQSQ": {
+            "asin": "B00DJYJQSQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Love Is All You Need",
+            "normalizedName": "Love Is All You Need",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00N1V1T3C": {
+            "asin": "B00N1V1T3C",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Merida Sketchbook Ornament - Brave",
+            "normalizedName": "Merida Sketchbook Ornament - Brave",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

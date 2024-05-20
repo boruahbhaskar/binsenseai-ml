@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002HR8BU": {
+            "asin": "B0002HR8BU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Ravensburger 14903 Window Buddies - 500 Piece Large Format Puzzle Puzzle",
+            "normalizedName": "Ravensburger 14903 Window Buddies - 500 Piece Large Format Puzzle Puzzle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B000HCR8CE": {
+            "asin": "B000HCR8CE",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Classic Accessories Veranda Patio Umbrella Cover 78902, Pebble",
+            "normalizedName": "Classic Accessories Veranda Patio Umbrella Cover 78902, Pebble",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

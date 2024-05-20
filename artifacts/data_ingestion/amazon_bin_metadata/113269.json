@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0323319742": {
+            "asin": "0323319742",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Mosby's Textbook for Nursing Assistants - Soft Cover Version, 9e",
+            "normalizedName": "Mosby's Textbook for Nursing Assistants - Soft Cover Version, 9e",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.099999996561778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00PWF6ZR0": {
+            "asin": "B00PWF6ZR0",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "ITALIAN Deluxe 1800 Thread Count Bed Sheet Set \u2013 Embroidered Sheet Set \u2013 King Size, Ivory",
+            "normalizedName": "ITALIAN Deluxe 1800 Thread Count Bed Sheet Set \u2013 Embroidered Sheet Set \u2013 King Size, Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

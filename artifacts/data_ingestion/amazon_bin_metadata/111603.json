@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PTN7DQC": {
+            "asin": "B00PTN7DQC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "2 Pack Shengshou 3x3x3 Square Mirror Speed Cube Puzzle Golden & Silver",
+            "normalizedName": "2 Pack  Shengshou 3x3x3 Square Mirror Speed Cube Puzzle Golden & Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01CV2DOQ6": {
+            "asin": "B01CV2DOQ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Whiskey Stones Stainless Steel Ice Cube Bullets Pack of 6 Reusable Ice Cooling Rocks Wine Whiskey Vodka Champagne Beer Scotch and Other Beverages",
+            "normalizedName": "Pack of 6 Whiskey Stones Stainless Steel Ice Cube Bullets Reusable Ice Cooling Rocks Wine Whiskey Vodka Champagne Beer Scotch and Other Beverages",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01E5J2NLA": {
+            "asin": "B01E5J2NLA",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "name": "2016 Soft silicone Replacement Cover For Fitbit Charge/Charge HR,CreateGreat Slim Designer Sleeve Band Cover Protector accessories(No Tracker,No Band)",
+            "normalizedName": "2016 Soft silicone Replacement Cover For Fitbit Charge/Charge HR,CreateGreat Slim Designer Sleeve Band Cover Protector accessories(No Tracker,No Band)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

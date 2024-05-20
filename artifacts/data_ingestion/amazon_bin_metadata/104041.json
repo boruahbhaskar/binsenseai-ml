@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C1WELFU": {
+            "asin": "B00C1WELFU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "Apple & Eve Fruitables, Pear Peach 4.23 oz , 8 Count (Pack of 5)",
+            "normalizedName": "(Pack of 5) Apple & Eve Fruitables, Pear Peach 4.23 oz , 8 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00JB12N7M": {
+            "asin": "B00JB12N7M",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.1417322772
+            },
+            "name": "LE\u00ae 10W Super Bright Outdoor LED Flood Lights, 100W Halogen Bulb Equivalent, Waterproof, 760lm, Daylight White, 6000K, Security Lights, Floodlight",
+            "normalizedName": "LE\u00ae 10W Super Bright Outdoor LED Flood Lights, 100W Halogen Bulb Equivalent, Waterproof, 760lm, Daylight White, 6000K, Security Lights, Floodlight",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05820805604419
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        },
+        "B011TCF0OS": {
+            "asin": "B011TCF0OS",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "PcProfessional Screen Protector (Set of 2) for HP Pavilion x360 11.6\" [2015 Model] 11t k020nr k062nr k064nr k061nr Touchscreen Laptop Anti Glare Anti Scratch filter radiation",
+            "normalizedName": "(Set of 2) PcProfessional Screen Protector for HP Pavilion x360 11.6\" [2015 Model] 11t k020nr k062nr k064nr k061nr Touchscreen Laptop Anti Glare Anti Scratch filter radiation",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01A2I5GH6": {
+            "asin": "B01A2I5GH6",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "20x32 Chocolate bath room floor mat",
+            "normalizedName": "20x32 Chocolate bath room floor mat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

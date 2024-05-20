@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004HCM9H4": {
+            "asin": "B004HCM9H4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Meguiar's Ultimate Liquid Wax - 16 oz.",
+            "normalizedName": "Meguiar's Ultimate Liquid Wax - 16 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B014C77J0A": {
+            "asin": "B014C77J0A",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Adhesive Elastic Bandage 3 inch X 5 yds Guaranteed performer! 12 pack rolled cohesive wrap. Self adherent bandages for bandaging wound ankle support or medical supplies. Stretch material tape for care",
+            "normalizedName": "Adhesive Elastic Bandage 3 inch X 5 yds Guaranteed performer! 12 pack rolled cohesive wrap. Self adherent bandages for bandaging wound ankle support or medical supplies. Stretch material tape for care",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

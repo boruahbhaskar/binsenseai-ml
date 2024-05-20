@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00172MWJC": {
+            "asin": "B00172MWJC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Solaray Tart Cherry, 425 mg, 90 Count",
+            "normalizedName": "Solaray Tart Cherry, 425 mg, 90 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B00IOLFPHK": {
+            "asin": "B00IOLFPHK",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Moccona Freeze-Dried Coffee 100g (Imported from Australia) (Dark Roast)",
+            "normalizedName": "Moccona Freeze-Dried Coffee 100g (Imported from Australia) (Dark Roast)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00JXUALCA": {
+            "asin": "B00JXUALCA",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs Never Trust An Atom They Make Up Everything Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Never Trust An Atom They Make Up Everything Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

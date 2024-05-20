@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002VS67G": {
+            "asin": "B0002VS67G",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Brother DK-2210 Continuous Length Paper Label Roll (1-1/7\" Wide) - Retail Packaging",
+            "normalizedName": "Brother DK-2210 Continuous Length Paper Label Roll (1-1/7\" Wide) - Retail Packaging",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B0090NYRAW": {
+            "asin": "B0090NYRAW",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Ray-Ban 0RB3498 004/71 Rectangular Sunglasses,Gunmetal Frame/Green Lens,61 mm",
+            "normalizedName": "Ray-Ban 0RB3498 004/71 Rectangular Sunglasses,Gunmetal Frame/Green Lens,61 mm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00AYZFM86": {
+            "asin": "B00AYZFM86",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Carter's 5 Year Baby Memory Book, Woodland",
+            "normalizedName": "Carter's 5 Year Baby Memory Book, Woodland",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00KNK0M1O": {
+            "asin": "B00KNK0M1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "normalizedName": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

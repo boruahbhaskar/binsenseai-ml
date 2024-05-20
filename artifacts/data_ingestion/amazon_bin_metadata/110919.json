@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000W43GZA": {
+            "asin": "B000W43GZA",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Classic Accessories 70952 Veranda Patio Rocking Chair Cover, Medium",
+            "normalizedName": "Classic Accessories 70952 Veranda Patio Rocking Chair Cover, Medium",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B008M11XOG": {
+            "asin": "B008M11XOG",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.2519684894
+            },
+            "name": "HP 131X (CF210X) Black High Yield Original LaserJet Toner Cartridge",
+            "normalizedName": "HP 131X (CF210X) Black High Yield Original LaserJet Toner Cartridge",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7196056436
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        },
+        "B00OMSU87Q": {
+            "asin": "B00OMSU87Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "LA Linen Polyester Poplin Square Tablecloth, 52 by 52-Inch, Navy Blue",
+            "normalizedName": "LA Linen Polyester Poplin Square Tablecloth, 52 by 52-Inch, Navy Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

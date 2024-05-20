@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000AHJ7SY": {
+            "asin": "B000AHJ7SY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.59842519114
+            },
+            "name": "50 Most Loved Piano Classics [3 CD]",
+            "normalizedName": "50 Most Loved Piano Classics [3 CD]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3500058871512
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.90157479815
+            }
+        },
+        "B01B8N9L2A": {
+            "asin": "B01B8N9L2A",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "RR Dog-Toy-Owl",
+            "normalizedName": "RR Dog-Toy-Owl",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

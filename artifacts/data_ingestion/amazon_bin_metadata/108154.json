@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UB6MXBW": {
+            "asin": "B00UB6MXBW",
+            "height": {
+                "unit": "IN",
+                "value": 0.0099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Designer Series Wraps/skins for Lg G3 (Tribal Yellow)",
+            "normalizedName": "Designer Series Wraps/skins for Lg G3 (Tribal Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02999999997484228
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B015GS3TGC": {
+            "asin": "B015GS3TGC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "iPhone 5S Case ,GOSHELL Apple iPhone SE Protective Case Soft Bumper Cases Shockproof Rubber Slim Case Cover Anti-scratch Shell Dual Color TPU Back Cover for iPhone 5 5S SE (White/Gray )",
+            "normalizedName": "iPhone 5S Case ,GOSHELL Apple iPhone SE Protective Case Soft Bumper Cases Shockproof Rubber Slim Case Cover Anti-scratch Shell Dual Color TPU Back Cover for iPhone 5 5S SE (White/Gray )",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01ARFWBOK": {
+            "asin": "B01ARFWBOK",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Vergiano Highest Quality Premium Stainless Steel Easy Clean No Pulp Garlic Press & Crusher - Ginger Mincer & Chopper - Super Strong Crushing with Extra Grip No Slip Handles",
+            "normalizedName": "Vergiano Highest Quality Premium Stainless Steel Easy Clean No Pulp Garlic Press & Crusher - Ginger Mincer & Chopper - Super Strong Crushing with Extra Grip No Slip Handles",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

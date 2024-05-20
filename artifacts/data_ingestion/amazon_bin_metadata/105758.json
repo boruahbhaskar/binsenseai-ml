@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FDM87IW": {
+            "asin": "B00FDM87IW",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Wild Planet Wild Anchovies in Water,  4.375 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Wild Planet Wild Anchovies in Water,  4.375 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.549999996184413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B01DXBMV6S": {
+            "asin": "B01DXBMV6S",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "VR BOX 2.0 Virtual Reality Glasses,Maxshop 3D VR Virtual Reality Headset 3D Glasses Adjust Cardboard VR BOX For 3.5~6.0\" Smartphones iPhone 6/6 plus Samsung Galaxy IOS Android Cellphones",
+            "normalizedName": "VR BOX 2.0 Virtual Reality Glasses,Maxshop 3D VR Virtual Reality Headset 3D Glasses Adjust Cardboard VR BOX For 3.5~6.0\" Smartphones iPhone 6/6 plus Samsung Galaxy IOS Android Cellphones",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

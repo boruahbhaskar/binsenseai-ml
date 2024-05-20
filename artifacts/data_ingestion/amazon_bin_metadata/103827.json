@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0983824398": {
+            "asin": "0983824398",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7086614064
+            },
+            "name": "The Super Duper Princess Heroes: How It All Started",
+            "normalizedName": "The Super Duper Princess Heroes: How It All Started",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0582080569315935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2125984158
+            }
+        },
+        "1629115320": {
+            "asin": "1629115320",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "KJV Sword Study Bible/Giant Print-Black Genuine Leather Indexed",
+            "normalizedName": "KJV Sword Study Bible/Giant Print-Black Genuine Leather Indexed",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6599999969307584
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00CN5Y0IS": {
+            "asin": "B00CN5Y0IS",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "LEGO Architecture United Nations Headquarters",
+            "normalizedName": "LEGO Architecture United Nations Headquarters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B019U00D7K": {
+            "asin": "B019U00D7K",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Cowin E-7 Active Noise Cancelling Bluetooth Headphones Wireless with Mic Stereo Headset, Volume Control, 30 Hours Playtime - Black",
+            "normalizedName": "Cowin E-7 Active Noise Cancelling Bluetooth Headphones Wireless with Mic Stereo Headset, Volume Control, 30 Hours Playtime - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

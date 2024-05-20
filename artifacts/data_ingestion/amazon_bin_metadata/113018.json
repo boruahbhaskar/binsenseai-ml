@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006RFZ66K": {
+            "asin": "B006RFZ66K",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Biore Deep Cleansing Pore Strips, 24 Count",
+            "normalizedName": "Biore Deep Cleansing Pore Strips, 24 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00T85PMWY": {
+            "asin": "B00T85PMWY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Nikon COOLPIX S33 Waterproof Digital Camera (Blue)",
+            "normalizedName": "Nikon COOLPIX S33 Waterproof Digital Camera (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00VNLXSSG": {
+            "asin": "B00VNLXSSG",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.1732283422
+            },
+            "name": "BRCbeads Gorgeous Yellow Jade Gemstone Round Loose Beads 4mm Approxi 15.5 inch 88pcs 1 Strand per Bag for Jewelry Making",
+            "normalizedName": "BRCbeads Gorgeous Yellow Jade Gemstone Round Loose Beads 4mm Approxi 15.5 inch 88pcs 1 Strand per Bag for Jewelry Making",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.574803148
+            }
+        },
+        "B01E4VHSYG": {
+            "asin": "B01E4VHSYG",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Inateck USB 3.0 to SATA Adapter Cable for 2.5\" SSD/HDD Drives - SATA to USB 3.0 External Converter and Cable",
+            "normalizedName": "Inateck USB 3.0 to SATA Adapter Cable for 2.5\" SSD/HDD Drives - SATA to USB 3.0 External Converter and Cable",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

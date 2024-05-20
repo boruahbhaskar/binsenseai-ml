@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003OOS7C2": {
+            "asin": "B003OOS7C2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Type G/N Airclean Filterbags, 1 Box",
+            "normalizedName": "Type G/N Airclean Filterbags, 1 Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

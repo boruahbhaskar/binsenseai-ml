@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006Q5SYC4": {
+            "asin": "B006Q5SYC4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Designs for Health - NeuroMag - 90 Vegetarian Capsules",
+            "normalizedName": "Designs for Health - NeuroMag - 90 Vegetarian Capsules",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B00OKIFV3Y": {
+            "asin": "B00OKIFV3Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "The Cube: Turns Quicker and More Precisely Than Original; Super-durable With Vivid Colors; Best-selling 3x3 Cube; 100% Money Back Guarantee!",
+            "normalizedName": "The Cube: Turns Quicker and More Precisely Than Original; Super-durable With Vivid Colors; Best-selling 3x3 Cube; 100% Money Back Guarantee!",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00T275IR2": {
+            "asin": "B00T275IR2",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Guitar Capo Acoustic and Electric Guitars - xGuitarx x3 - Ultra Lightweight (1oz) - No Scratches, No Fret Buzz, Easy to Move - Also for Ukulele, Banjo and Mandolin - Single-Handed Professional Trigger Action, Black",
+            "normalizedName": "Guitar Capo Acoustic and Electric Guitars - xGuitarx x3 - Ultra Lightweight (1oz) - No Scratches, No Fret Buzz, Easy to Move - Also for Ukulele, Banjo and Mandolin - Single-Handed Professional Trigger Action, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

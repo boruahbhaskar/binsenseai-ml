@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004AO4ALC": {
+            "asin": "B004AO4ALC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Galco KT212B King Tuck IWB Holster",
+            "normalizedName": "Galco KT212B King Tuck IWB Holster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K4VZNBQ": {
+            "asin": "B00K4VZNBQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "NIUTOP\u00aeShip From USA --Sticker Double Side Adhesive Glue Tape For Repair Touch Screen Digitizer LCD Screen Display \u2014 iPhone 6,iPhone 6 plus,iPhone 5, 5S, 5C, 4S, 4, iPad Air, 4, 3, 2, Mini 2 , iPods\uff0cSamsung Galaxy S5, S4, S3, S2, Note 3, Note 2; HTC One Google Glass, Nexus 4, Nexus 5, Nexus 7, Nexus 9,Nexus 10,RCA 7 Pro 10,zeepad IRULU GoPro Lexus Garmin Tomtom Trimble EVO Thunderbolt Incredible Droid DNA Motorola ATRIX Droid Moto X LG Optimus PS Vita xiaomi ZTE Hisense huawei lenovo Nokia HTC Blu Alcatel blackberry and other Cellphone, Smart Watch, Tablet Pc,Ebook, desktop computer, GPS, car, 5050 RGB LED strips, Audio-visual equipment and other electronic products, home supplies PDA OA and so on (3mm black)",
+            "normalizedName": "NIUTOP\u00aeShip From USA --Sticker Double Side Adhesive Glue Tape For Repair Touch Screen Digitizer LCD Screen Display \u2014 iPhone 6,iPhone 6 plus,iPhone 5, 5S, 5C, 4S, 4, iPad Air, 4, 3, 2, Mini 2 , iPods\uff0cSamsung Galaxy S5, S4, S3, S2, Note 3, Note 2; HTC One Google Glass, Nexus 4, Nexus 5, Nexus 7, Nexus 9,Nexus 10,RCA 7 Pro 10,zeepad IRULU GoPro Lexus Garmin Tomtom Trimble EVO Thunderbolt Incredible Droid DNA Motorola ATRIX Droid Moto X LG Optimus PS Vita xiaomi ZTE Hisense huawei lenovo Nokia HTC Blu Alcatel blackberry and other Cellphone, Smart Watch, Tablet Pc,Ebook, desktop computer, GPS, car, 5050 RGB LED strips, Audio-visual equipment and other electronic products, home supplies PDA OA and so on (3mm black)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B010VIP4LU": {
+            "asin": "B010VIP4LU",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Jada Toys Fast & Furious 1 24 Diecast Nissan GT R R34 Vehicle, Blue",
+            "normalizedName": "Jada Toys Fast & Furious 1 24 Diecast Nissan GT R R34 Vehicle, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B013SHHYE6": {
+            "asin": "B013SHHYE6",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "LED Shoelaces Shoe Laces Flash Light Up Glow Stick Strap Shoelaces Party Queen Night Club Bar Hip-Hop For SportShoes Running shoes Sneakers 11Colors (Blue&Green)",
+            "normalizedName": "LED Shoelaces Shoe Laces Flash Light Up Glow Stick Strap Shoelaces Party Queen Night Club Bar Hip-Hop For SportShoes Running shoes Sneakers 11Colors (Blue&Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B015TC63LI": {
+            "asin": "B015TC63LI",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "My Little Pony POP and Starter Kits",
+            "normalizedName": "My Little Pony POP and Starter Kits",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

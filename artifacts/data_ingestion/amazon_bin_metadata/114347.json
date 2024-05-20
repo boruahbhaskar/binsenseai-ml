@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WH1QCMA": {
+            "asin": "B00WH1QCMA",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Funny Guy Mugs Happy To Help Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Happy To Help Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0089JCQHY": {
+            "asin": "B0089JCQHY",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Chloe's Kitchen 203-155 12-Inch Springform, Loaf",
+            "normalizedName": "Chloe's Kitchen 203-155 12-Inch Springform, Loaf",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

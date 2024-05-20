@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1598260421": {
+            "asin": "1598260421",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "The Guide to Lashon Hakodesh, Volume 2: Mastering Hebrew Verbs",
+            "normalizedName": "The Guide to Lashon Hakodesh, Volume 2: Mastering Hebrew Verbs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.708976949681037
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B001IYK714": {
+            "asin": "B001IYK714",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Dial Industries 02507 Expand A Drawer Spice Organizer",
+            "normalizedName": "Dial Industries 02507 Expand A Drawer Spice Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        },
+        "B009UNLTQW": {
+            "asin": "B009UNLTQW",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "GROVE SQUARE FRENCH VANILLA CAPPUCCINO 96 CUPS",
+            "normalizedName": "GROVE SQUARE FRENCH VANILLA CAPPUCCINO 96 CUPS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

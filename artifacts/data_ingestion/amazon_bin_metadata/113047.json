@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TXN7VN4": {
+            "asin": "B00TXN7VN4",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Coast Athletic Plastic Baseballs - 12 PACK",
+            "normalizedName": "Coast Athletic Plastic Baseballs - 12 PACK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00WUMGXTI": {
+            "asin": "B00WUMGXTI",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "1400 Series 300 Thread Count 100% Cotton Sateen Dobby Stripe Sheet Set- 4 Sizes- 9 Colors (Full, Burgundy)",
+            "normalizedName": "1400 Series 300 Thread Count 100% Cotton Sateen Dobby Stripe Sheet Set- 4 Sizes- 9 Colors (Full, Burgundy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01D0NQALG": {
+            "asin": "B01D0NQALG",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Purina Fancy Feast Gourmet Cat Food, Filet Mignon Flavor with Real Seafood & Shrimp, 16 oz. - Pack of 2",
+            "normalizedName": "Pack of 2 Purina Fancy Feast Gourmet Cat Food, Filet Mignon Flavor with Real Seafood & Shrimp, 16 oz. -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

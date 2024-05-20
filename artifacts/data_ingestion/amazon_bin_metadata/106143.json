@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001U5XH9U": {
+            "asin": "B001U5XH9U",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Depend Underwear for Men, Maximum, Large/Extra Large, Pack/17",
+            "normalizedName": "Depend Underwear for Men, Maximum, Large/Extra Large, Pack/17",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B002P8MDXC": {
+            "asin": "B002P8MDXC",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1811023508
+            },
+            "name": "Sound Oasis S-550-05 Sound Therapy System",
+            "normalizedName": "Sound Oasis S-550-05 Sound Therapy System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8518640996302886
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.87401574
+            }
+        },
+        "B008LXRB7S": {
+            "asin": "B008LXRB7S",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Guardian Fall Protection 1703 Velocity Economy Harness HUV Pass Thru Chest and Tongue Buckle Legs, Small/Large",
+            "normalizedName": "Guardian Fall Protection 1703 Velocity Economy Harness HUV Pass Thru Chest and Tongue Buckle Legs, Small/Large",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B015JPB36K": {
+            "asin": "B015JPB36K",
+            "height": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Selk'bag Youth Marvel Iron Man Sleeping Bag, Red, Medium",
+            "normalizedName": "Selk'bag Youth Marvel Iron Man Sleeping Bag, Red, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

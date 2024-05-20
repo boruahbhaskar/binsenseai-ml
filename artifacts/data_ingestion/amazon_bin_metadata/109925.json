@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RJ3T8Y": {
+            "asin": "B000RJ3T8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Small Chestnut Pocket Journal with Handmade Paper",
+            "normalizedName": "Small Chestnut Pocket Journal with Handmade Paper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B007WY8M66": {
+            "asin": "B007WY8M66",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Acer EMACHINE: E725 Laptop Battery (Lithium-Ion, 6 Cell, 4400 mAh, 49wh, 11.1 Volt) - Replacement for Acer 4710 Series Laptop Battery",
+            "normalizedName": "Acer EMACHINE: E725 Laptop Battery (Lithium-Ion, 6 Cell, 4400 mAh, 49wh, 11.1 Volt) - Replacement for Acer 4710 Series Laptop Battery",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00FZGZHO8": {
+            "asin": "B00FZGZHO8",
+            "height": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7401574714
+            },
+            "name": "Cottonelle Fresh Care Flushable Moist Wipes Refill, 168 ct",
+            "normalizedName": "Cottonelle Fresh Care Flushable Moist Wipes Refill, 168 ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3368761237642537
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.87401574
+            }
+        },
+        "B00VEAA6U4": {
+            "asin": "B00VEAA6U4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Wilton Christmas Cookie Boxes, 4-Pack",
+            "normalizedName": "4-Pack Wilton Christmas Cookie Boxes,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

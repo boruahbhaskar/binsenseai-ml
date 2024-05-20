@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BY6UFWQ": {
+            "asin": "B01BY6UFWQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.749999998215
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Venture Pal Ultralight Lightweight Packable Foldable Waterproof Travel Camping Hiking Outdoor Sports Backpack Daypack + Lifetime Warranty Blue",
+            "normalizedName": "Venture Pal Ultralight Lightweight Packable Foldable Waterproof Travel Camping Hiking Outdoor Sports Backpack Daypack + Lifetime Warranty Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01DEDD2R2": {
+            "asin": "B01DEDD2R2",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Portion Paw\u00ae The Perfect Portion Scoop and Bag Clip in One for Pet Food 3 Cup Sizes in 1 For ANY SIZE Dog or Cat to Stay Healthy BPA Free Green Perfect Gift for a Puppy",
+            "normalizedName": "Portion Paw\u00ae The Perfect Portion Scoop and Bag Clip in One for Pet Food 3 Cup Sizes in 1 For ANY SIZE Dog or Cat to Stay Healthy BPA Free Green Perfect Gift for a Puppy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

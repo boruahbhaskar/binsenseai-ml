@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002WKONSG": {
+            "asin": "B002WKONSG",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Great Eastern Shonen Jump: Naruto Shippuden 9\" Naruto Plush",
+            "normalizedName": "Great Eastern Shonen Jump: Naruto Shippuden 9\" Naruto Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00KGVCJX4": {
+            "asin": "B00KGVCJX4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Victor M162S Clean Kill Mouse Trap, 2-Pack",
+            "normalizedName": "2-Pack Victor M162S Clean Kill Mouse Trap,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

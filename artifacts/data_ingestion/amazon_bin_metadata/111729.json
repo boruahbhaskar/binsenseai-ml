@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002YS9IO": {
+            "asin": "B0002YS9IO",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Mountain House, Macaroni and Cheese",
+            "normalizedName": "Mountain House, Macaroni and Cheese",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B000C2Y5SY": {
+            "asin": "B000C2Y5SY",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Gates 22416 Lower Radiator Hose",
+            "normalizedName": "Gates 22416 Lower Radiator Hose",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B001MGNWDI": {
+            "asin": "B001MGNWDI",
+            "height": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5275590454
+            },
+            "name": "Mad Catz V.1 Stick for PC",
+            "normalizedName": "Mad Catz V.1 Stick for PC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4109584768
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        },
+        "B00YSVT0TY": {
+            "asin": "B00YSVT0TY",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Jawbone UP MOVE Wireless Activity & Sleep Tracker Black & Yellow Straps",
+            "normalizedName": "Jawbone UP MOVE Wireless Activity & Sleep Tracker Black & Yellow Straps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

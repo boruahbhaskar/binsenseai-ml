@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001B033DY": {
+            "asin": "B001B033DY",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Hawking HWDN2 Hi-Gain Wireless-150N USB Network Dish Adapter",
+            "normalizedName": "Hawking HWDN2 Hi-Gain Wireless-150N USB Network Dish Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B001CI5HZM": {
+            "asin": "B001CI5HZM",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Birdhouse Unassembled Kit",
+            "normalizedName": "Birdhouse Unassembled Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01EY4TCTM": {
+            "asin": "B01EY4TCTM",
+            "height": {
+                "unit": "IN",
+                "value": 0.049999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "iPhone SE Screen Protector,Coolreall 2-Pack iPhone SE 5S 5C 5 Tempered Glass Screen Protector-Transparent (0.25mm HD Ultra Clear)",
+            "normalizedName": "2-Pack iPhone SE Screen Protector,Coolreall iPhone SE 5S 5C 5 Tempered Glass Screen Protector-Transparent (0.25mm HD Ultra Clear)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20999999982389597
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

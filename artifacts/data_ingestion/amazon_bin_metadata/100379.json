@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00X8FKW52": {
+            "asin": "B00X8FKW52",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "iHome | Comfort - Wireless Optical Mouse - Carbon (See More Colors)",
+            "normalizedName": "iHome | Comfort - Wireless Optical Mouse - Carbon (See More Colors)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00XVG29MW": {
+            "asin": "B00XVG29MW",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "1byone Easy Chime Wireless Doorbell Operating at 500 feet with 2 Plug-in Receivers, CD Quality Sound and LED Flash, 36 Melodies to Choose, White",
+            "normalizedName": "1byone Easy Chime Wireless Doorbell Operating at 500 feet with 2 Plug-in Receivers, CD Quality Sound and LED Flash, 36 Melodies to Choose, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

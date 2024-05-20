@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BJKK262": {
+            "asin": "B00BJKK262",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Set of 12 Amber Colored Eastland Glass Votive Candle Holders",
+            "normalizedName": "Set of 12  Amber Colored Eastland Glass Votive Candle Holders",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00HF7W2JS": {
+            "asin": "B00HF7W2JS",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "KIND Bars, Nuts and Spices Variety Pack, Gluten Free, 1.4 Ounce Bars, 12 Count",
+            "normalizedName": "KIND Bars, Nuts and Spices Variety Pack, Gluten Free, 1.4 Ounce Bars, 12 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B0145GMV7Y": {
+            "asin": "B0145GMV7Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Pictionary Game",
+            "normalizedName": "Pictionary Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

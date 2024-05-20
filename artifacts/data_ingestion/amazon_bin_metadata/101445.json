@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000IWD0": {
+            "asin": "B00000IWD0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884
+            },
+            "name": "Sorry",
+            "normalizedName": "Sorry",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B0081DFEA4": {
+            "asin": "B0081DFEA4",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "3M Littmann Classic III Stethoscope, Plum Tube, 27 inch, 5831",
+            "normalizedName": "3M Littmann Classic III Stethoscope, Plum Tube, 27 inch, 5831",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01AH2RY7M": {
+            "asin": "B01AH2RY7M",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Useful UH-CI194 Old Fashioned Cast Iron Stove Top Waffle Iron",
+            "normalizedName": "Useful UH-CI194 Old Fashioned Cast Iron Stove Top Waffle Iron",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.9499999941717965
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FSQ7F4": {
+            "asin": "B000FSQ7F4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "ClosetMaid 5629 Support for SuperSlide Hanging Bar, White",
+            "normalizedName": "ClosetMaid 5629 Support for SuperSlide Hanging Bar, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B0105KBNCI": {
+            "asin": "B0105KBNCI",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Sena Ultraslim Classic Genuine Leather Pouch Case for Iphone 6/6s Plus (Black)",
+            "normalizedName": "Sena Ultraslim Classic Genuine Leather Pouch Case for Iphone 6/6s Plus (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B0141CBO0M": {
+            "asin": "B0141CBO0M",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "DR JK- Comprehensive Bunion Corrector & Bunion Relief ToePal kit-5 Piece Hallux Valgus & Bunion Pads, Toe Spacers, Toe Separators, Bunion Splint, Toe Straightener, Bunion Protector, Bunion Cushions",
+            "normalizedName": "DR JK- Comprehensive Bunion Corrector & Bunion Relief ToePal kit-5 Piece Hallux Valgus & Bunion Pads, Toe Spacers, Toe Separators, Bunion Splint, Toe Straightener, Bunion Protector, Bunion Cushions",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01FO28DAC": {
+            "asin": "B01FO28DAC",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.549999993319
+            },
+            "name": "LG G Watch Urbane W150 Screen Protector, Stouch 2 Pack Full Cover Tempered Glass Screen Protector for LG G Watch Urbane Full Body Skin/ Anti-Scratch/Anti-Bubble (LG G Watch Urbane W150)",
+            "normalizedName": "2 Pack LG G Watch Urbane W150 Screen Protector, Stouch Full Cover Tempered Glass Screen Protector for LG G Watch Urbane Full Body Skin/ Anti-Scratch/Anti-Bubble (LG G Watch Urbane W150)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3799999996813356
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.549999996379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

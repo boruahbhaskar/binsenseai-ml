@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1465401970": {
+            "asin": "1465401970",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Get Started: Knitting",
+            "normalizedName": "Get Started: Knitting",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B005IG2XGU": {
+            "asin": "B005IG2XGU",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Happy Hen Treats Ball",
+            "normalizedName": "Happy Hen Treats Ball",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00PD8H1WE": {
+            "asin": "B00PD8H1WE",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Ellipsis 8 case, i-UniK 2014 Verizon Ellipsis 8 Tablet (QTAQZ3) Slim Protection PU Leather Case **Bonus Stylus** [NOT Fit Ellipsis 7] - (Purple)",
+            "normalizedName": "Ellipsis 8 case, i-UniK 2014 Verizon Ellipsis 8 Tablet (QTAQZ3) Slim Protection PU Leather Case **Bonus Stylus** [NOT Fit Ellipsis 7] - (Purple)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

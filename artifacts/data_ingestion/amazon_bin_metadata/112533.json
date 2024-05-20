@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027IOGNA": {
+            "asin": "B0027IOGNA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Zing Helirang",
+            "normalizedName": "Zing Helirang",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128
+            }
+        },
+        "B00SN68O5Q": {
+            "asin": "B00SN68O5Q",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.399999982252
+            },
+            "name": "Source One Premium Large 4 Tier Magazine Organizer, Brochure Holder, Wall Mount or Counter Top Use Clear Acrylic (S1-85-4-DCI)",
+            "normalizedName": "Source One Premium Large 4 Tier Magazine Organizer, Brochure Holder, Wall Mount or Counter Top Use Clear Acrylic (S1-85-4-DCI)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

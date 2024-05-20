@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0081FIGDO": {
+            "asin": "B0081FIGDO",
+            "height": {
+                "unit": "IN",
+                "value": 0.12992125971
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, California Vintage",
+            "normalizedName": "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, California Vintage",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B01AYDSWK2": {
+            "asin": "B01AYDSWK2",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Saramonic UWMIC10 96-Channel Digital UHF Wireless Lavalier Microphone System with 2 Bodypack Transmitters, Portable Receiver, 2 Lav Mics, Shoe Mount, XLR/3.5mm Outputs + More",
+            "normalizedName": "Saramonic UWMIC10 96-Channel Digital UHF Wireless Lavalier Microphone System with 2 Bodypack Transmitters, Portable Receiver, 2 Lav Mics, Shoe Mount, XLR/3.5mm Outputs + More",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01EAFSTCQ": {
+            "asin": "B01EAFSTCQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "Pictek Water-Resistant Mechanical Gaming Keyboard, Anti-ghosting 87 Keys Wired Game Keyboards with Blue Switch, Key Cap Puller for Gamers, Typists",
+            "normalizedName": "Pictek Water-Resistant Mechanical Gaming Keyboard, Anti-ghosting 87 Keys Wired Game Keyboards with Blue Switch, Key Cap Puller for Gamers, Typists",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.649999997777735
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

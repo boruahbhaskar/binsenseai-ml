@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004TT3S": {
+            "asin": "B00004TT3S",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.417322823
+            },
+            "name": "BOOMWHACKERS Octavator Caps 8-Pack",
+            "normalizedName": "8-Pack BOOMWHACKERS Octavator Caps",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.180007436923
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B009R3GCGM": {
+            "asin": "B009R3GCGM",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Funny Guy Mugs Caffeine Molecule Ceramic Coffee Mug, Brown, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Caffeine Molecule Ceramic Coffee Mug, Brown, 11-Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01BI8K6S8": {
+            "asin": "B01BI8K6S8",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Commercial Grade Lawn Energizer- Grass Micronutrient Booster w/ Nitrogen- Natural Liquid Turf Spray Concentrated Fertilizer- Any Grass Type, All Year- Simple Lawn Solutions- 32 Ounce",
+            "normalizedName": "Commercial Grade Lawn Energizer- Grass Micronutrient Booster w/ Nitrogen- Natural Liquid Turf Spray Concentrated Fertilizer- Any Grass Type, All Year- Simple Lawn Solutions- 32 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4499999971068624
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

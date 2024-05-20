@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0043OUICY": {
+            "asin": "B0043OUICY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Scotch-Brite Greener Clean Non-Scratch Scrub Sponge, 3-Count (Pack of 8)",
+            "normalizedName": "(Pack of 8) Scotch-Brite Greener Clean Non-Scratch Scrub Sponge, 3-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B0044415IE": {
+            "asin": "B0044415IE",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Plush Bulldog Pup With Baseball Cap Adorable Stuffed Dog",
+            "normalizedName": "Plush Bulldog Pup With Baseball Cap Adorable Stuffed Dog",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B016MUB6NQ": {
+            "asin": "B016MUB6NQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.842519675
+            },
+            "name": "bobble Infuse \u2013 Hydrate, Filter, and Infuse Right In Your Water Bottle \u2013 Ergonomic Shape with Dishwasher Safe Tritan\u2122 Material \u2013 Includes Carbon Filter \u2013 20oz",
+            "normalizedName": "bobble Infuse \u2013 Hydrate, Filter, and Infuse Right In Your Water Bottle \u2013 Ergonomic Shape with Dishwasher Safe Tritan\u2122 Material \u2013 Includes Carbon Filter \u2013 20oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400467034919
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.8582677126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

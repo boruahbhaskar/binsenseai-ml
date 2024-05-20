@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P48EKCC": {
+            "asin": "B00P48EKCC",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Banshee Bungee 10 Foot Board Bungee Package(includes handle, 30' lead line and carry bag)",
+            "normalizedName": "Banshee Bungee 10 Foot Board Bungee Package(includes handle, 30' lead line and carry bag)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

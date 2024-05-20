@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MN7IN8O": {
+            "asin": "B00MN7IN8O",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Eco Vessel Surf Glass Water Bottle with Protective Silicone Sleeve, Black Shadow",
+            "normalizedName": "Eco Vessel Surf Glass Water Bottle with Protective Silicone Sleeve, Black Shadow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00W663FNA": {
+            "asin": "B00W663FNA",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "UDI U846 2.4Ghz 4 Channel 6 AXIS RC Headless Tiny Mini UFO - Blue color",
+            "normalizedName": "UDI U846 2.4Ghz 4 Channel 6 AXIS RC Headless Tiny Mini UFO - Blue color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B0158GLN9W": {
+            "asin": "B0158GLN9W",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Freehawk\u00ae Premium Survival Tactical Belt Emergency Fire Rescue Rigger Waist Belt Military CQB Belt in Black",
+            "normalizedName": "Freehawk\u00ae Premium Survival Tactical Belt Emergency Fire Rescue Rigger Waist Belt Military CQB Belt in Black",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01EQFMG06": {
+            "asin": "B01EQFMG06",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Pink Jordan Almonds 1lb (1 pound) in Stand Up Bag",
+            "normalizedName": "Pink Jordan Almonds 1lb (1 pound) in Stand Up Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

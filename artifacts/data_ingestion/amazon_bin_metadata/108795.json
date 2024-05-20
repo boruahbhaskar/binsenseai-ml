@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007E8KCFY": {
+            "asin": "B007E8KCFY",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.2519684894
+            },
+            "name": "Wilton Decorate Smart Small Cake Leveler",
+            "normalizedName": "Wilton Decorate Smart Small Cake Leveler",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4566929068
+            }
+        },
+        "B00HZH3M4W": {
+            "asin": "B00HZH3M4W",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Seaflo 12v Scavenge Impellor Gear Pump- For Water Diesel Fuel Scavenge Oil Transfer",
+            "normalizedName": "Seaflo 12v Scavenge Impellor Gear Pump- For Water Diesel Fuel Scavenge Oil Transfer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00KB94O0C": {
+            "asin": "B00KB94O0C",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Baby Fanatic Bib with Pre-Walkers, Chicago Cubs",
+            "normalizedName": "Baby Fanatic Bib with Pre-Walkers, Chicago Cubs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00MVBDLFC": {
+            "asin": "B00MVBDLFC",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "Nice Production INP-103-O Book Stand (Bookstand / Bookstands / Holder / Cookbook / Music)",
+            "normalizedName": "Nice Production INP-103-O Book Stand (Bookstand / Bookstands / Holder / Cookbook / Music)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005FQTN5C": {
+            "asin": "B005FQTN5C",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Sylvania 21272 Compact Fluorescent 2 Pin Single Tube 2700K, 9-watt",
+            "normalizedName": "Sylvania 21272 Compact Fluorescent 2 Pin Single Tube 2700K, 9-watt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00ZMQKNUO": {
+            "asin": "B00ZMQKNUO",
+            "height": {
+                "unit": "IN",
+                "value": 1.749999998215
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Retseliney Best Acne Treatment Moisturizer Cream & Oil Control + 2% Salicylic Acid & Vitamin C, for Teens, Adult & Hormonal Acne, Clear Blemishes & Acne Scars, Helps Prevent New Breakouts",
+            "normalizedName": "Retseliney Best Acne Treatment Moisturizer Cream & Oil Control + 2% Salicylic Acid & Vitamin C, for Teens, Adult & Hormonal Acne, Clear Blemishes & Acne Scars, Helps Prevent New Breakouts",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

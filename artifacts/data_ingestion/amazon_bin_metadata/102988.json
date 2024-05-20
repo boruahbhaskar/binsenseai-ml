@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004CR4M5Q": {
+            "asin": "B004CR4M5Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Extech EX505-K Heavy Duty Industrial MultiMeter Kit",
+            "normalizedName": "Extech EX505-K Heavy Duty Industrial MultiMeter Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990106
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FWXURGW": {
+            "asin": "B00FWXURGW",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0314960548
+            },
+            "name": "Giro DND Bike Glove - Green Camo/Gum Medium",
+            "normalizedName": "Giro DND Bike Glove - Green Camo/Gum Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        },
+        "B00SCBWF52": {
+            "asin": "B00SCBWF52",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Azulle Quantum Byte Fanless Mini Desktop PC (Windows 10, Intel Atom Z3735F, 2GB RAM+32GB storage)",
+            "normalizedName": "Azulle Quantum Byte Fanless Mini Desktop PC (Windows 10, Intel Atom Z3735F, 2GB RAM+32GB storage)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01ANMUMWU": {
+            "asin": "B01ANMUMWU",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Zupercase Neoprene Pouch for The Polaroid ZIP Mobile Printer (Black)",
+            "normalizedName": "Zupercase Neoprene Pouch for The Polaroid ZIP Mobile Printer (Black)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

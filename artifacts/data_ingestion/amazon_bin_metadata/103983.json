@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H0ZJIG": {
+            "asin": "B000H0ZJIG",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Zuke's Mini Naturals Dog Treats, Fresh Peanut Butter Formula, 16-Ounce",
+            "normalizedName": "Zuke's Mini Naturals Dog Treats, Fresh Peanut Butter Formula, 16-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00I150K74": {
+            "asin": "B00I150K74",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Kicker 41DSC654 6.5\" 2-Way Speaker Pair",
+            "normalizedName": "Kicker 41DSC654 6.5\" 2-Way Speaker Pair",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00XQSL9Q2": {
+            "asin": "B00XQSL9Q2",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "LTE 10W Cordless Outdoor Portable Rechargeable LED Work Light, 60W Halogen Bulb Equivalent, 760 Lumen, Adapter and Car Charger Included, Waterproof Floodlight, Security Lights.(Daylight White)",
+            "normalizedName": "LTE 10W Cordless Outdoor Portable Rechargeable LED Work Light, 60W Halogen Bulb Equivalent, 760 Lumen, Adapter and Car Charger Included, Waterproof Floodlight, Security Lights.(Daylight White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1905662335": {
+            "asin": "1905662335",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Photograph",
+            "normalizedName": "Photograph",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.24999999643599
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B000RHT22I": {
+            "asin": "B000RHT22I",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Hosa 8-Channel Sh Series Stage Box Snakes",
+            "normalizedName": "Hosa 8-Channel Sh Series Stage Box Snakes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        },
+        "B00FGSKYKM": {
+            "asin": "B00FGSKYKM",
+            "height": {
+                "unit": "IN",
+                "value": 3.0708661386
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.4015747854
+            },
+            "name": "VonHaus TV Wall Mount Bracket NEW ULTRA-SLIM DESIGN for 26 - 55 inch LCD, LED & Plasma TV. 15 degree Tilt Mechanism, Max VESA 400x400",
+            "normalizedName": "VonHaus TV Wall Mount Bracket NEW ULTRA-SLIM DESIGN for 26 - 55 inch LCD, LED & Plasma TV. 15 degree Tilt Mechanism, Max VESA 400x400",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.876608523079108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.629921249
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

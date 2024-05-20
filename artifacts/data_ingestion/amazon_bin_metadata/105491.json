@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZZWBING": {
+            "asin": "B00ZZWBING",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Polare Fashion Cow Leather Travel Bag Chest Day Pack Cross Body Shoulder Bag",
+            "normalizedName": "Polare Fashion Cow Leather Travel Bag Chest Day Pack Cross Body Shoulder Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B010KJSX3G": {
+            "asin": "B010KJSX3G",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Beats Solo 2 Wired On-Ear Headphone - White (Certified Refurbished)",
+            "normalizedName": "Beats Solo 2 Wired On-Ear Headphone - White (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

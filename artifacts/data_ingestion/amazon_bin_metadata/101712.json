@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GMZR18": {
+            "asin": "B001GMZR18",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "LEGO Star Wars Darth Vader's TIE Fighter (8017)",
+            "normalizedName": "LEGO Star Wars Darth Vader's TIE Fighter (8017)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B0083TXXIQ": {
+            "asin": "B0083TXXIQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Candy Land Disney Princess Edition",
+            "normalizedName": "Candy Land Disney Princess Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B013PU2KLS": {
+            "asin": "B013PU2KLS",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "G.I. Joe, 50th Anniversary, Chase for the MASS Device Action Figure Set [Duke, Cobra Commander, and Cobra CLAWS Trooper], 3.75 Inches",
+            "normalizedName": "G.I. Joe, 50th Anniversary, Chase for the MASS Device Action Figure Set [Duke, Cobra Commander, and Cobra CLAWS Trooper], 3.75 Inches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B018B2E65I": {
+            "asin": "B018B2E65I",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Marvel Captain America: Civil War Slide Blast Armor",
+            "normalizedName": "Marvel Captain America: Civil War Slide Blast Armor",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

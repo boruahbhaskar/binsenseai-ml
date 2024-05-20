@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001YNLLK": {
+            "asin": "B0001YNLLK",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Melissa & Doug Deluxe Magic Set",
+            "normalizedName": "Melissa & Doug Deluxe Magic Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B000MUQ2FU": {
+            "asin": "B000MUQ2FU",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Fold N Fly Paper Airplanes Kit",
+            "normalizedName": "Fold N Fly Paper Airplanes Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B004F5IZBM": {
+            "asin": "B004F5IZBM",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Extreme Pak Black Cooler Bag with Zip-Out Liner",
+            "normalizedName": "Extreme Pak Black Cooler Bag with Zip-Out Liner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00SF4HTNE": {
+            "asin": "B00SF4HTNE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "ProfessionalBags Universal 13 inches Laptop Netbook Bag Sleeve Case Cover for 12.5 13.3 inch Apple Macbook Pro HP DELL Toshiba Acer Aspire Sony Vaio Lenovo Samsung ASUS Notebook,Sunflower Design",
+            "normalizedName": "ProfessionalBags Universal 13 inches Laptop Netbook Bag Sleeve Case Cover for 12.5 13.3 inch Apple Macbook Pro HP DELL Toshiba Acer Aspire Sony Vaio Lenovo Samsung ASUS Notebook,Sunflower Design",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H4B343S": {
+            "asin": "B00H4B343S",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "The Complete Harry Potter 8 Film Collection [Blu-ray]",
+            "normalizedName": "The Complete Harry Potter 8 Film Collection [Blu-ray]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8377480443683174
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

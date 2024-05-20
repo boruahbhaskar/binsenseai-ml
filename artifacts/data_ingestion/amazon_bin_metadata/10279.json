@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CEQLJ8U": {
+            "asin": "B00CEQLJ8U",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Water Sports Water Balloon Refill Kit, 500-Pack",
+            "normalizedName": "500-Pack Water Sports Water Balloon Refill Kit,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01ARFWU46": {
+            "asin": "B01ARFWU46",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "LightPlus Ultrabright LED Indoor/Outdoor Light \u2014 BBQ Grill Light with Touch Sensing Technology \u2014 Versatile Mounting Capabilities / Durable ABS Plastic / Heat Resistant / 360 Degree Illumination",
+            "normalizedName": "LightPlus Ultrabright LED Indoor/Outdoor Light \u2014 BBQ Grill Light with Touch Sensing Technology \u2014 Versatile Mounting Capabilities / Durable ABS Plastic / Heat Resistant / 360 Degree Illumination",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

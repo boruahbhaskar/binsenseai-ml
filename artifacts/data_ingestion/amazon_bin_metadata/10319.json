@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030HK514": {
+            "asin": "B0030HK514",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "GE Soft White 49780 60-Watt, 660-Lumen G40 Soft White Bulb, 5-Inch Diameter with Medium Base, 1-Pack",
+            "normalizedName": "1-Pack GE Soft White 49780 60-Watt, 660-Lumen G40 Soft White Bulb, 5-Inch Diameter with Medium Base,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00N1AG5AU": {
+            "asin": "B00N1AG5AU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "OtterBox 77-50721 Commuter Wallet Case for iPhone 6/6s - Glacier(White/Gunmetal Grey)",
+            "normalizedName": "OtterBox 77-50721 Commuter Wallet Case for iPhone 6/6s - Glacier(White/Gunmetal Grey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01A73ZOS2": {
+            "asin": "B01A73ZOS2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Sades 3.5mm Wired Gaming Headset with Microphone for Games PC Tablets Computer Cell Phones (white)",
+            "normalizedName": "Sades 3.5mm Wired Gaming Headset with Microphone for Games PC Tablets Computer Cell Phones (white)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000O22V4C": {
+            "asin": "B000O22V4C",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Giant Microbes E. coli (Escherichia coli) Plush Toy",
+            "normalizedName": "Giant Microbes E. coli (Escherichia coli) Plush Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B00B2A2RR6": {
+            "asin": "B00B2A2RR6",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "HID Xenon DC Headlight Replacement Bulbs by SDX, H11, 8000K",
+            "normalizedName": "HID Xenon DC Headlight Replacement Bulbs by SDX, H11, 8000K",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0176G38HC": {
+            "asin": "B0176G38HC",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "InnoGear IG-100ml-OD Aromatherapy Essential Oil Diffuser",
+            "normalizedName": "InnoGear IG-100ml-OD Aromatherapy Essential Oil Diffuser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BQ5RY1G": {
+            "asin": "B00BQ5RY1G",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Logitech Harmony Ultimate Remote with Customizable Touch Screen and Closed Cabinet RF Control - Black (915-000201)",
+            "normalizedName": "Logitech Harmony Ultimate Remote with Customizable Touch Screen and Closed Cabinet RF Control - Black (915-000201)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B014LKZCAW": {
+            "asin": "B014LKZCAW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Arcade The Sierra Camo Belt, Black/Grey, One Size",
+            "normalizedName": "Arcade The Sierra Camo Belt, Black/Grey, One Size",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B019V3M84W": {
+            "asin": "B019V3M84W",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "ChefSeven Marshmallow Roasting Sticks (Multi Color 5 Set) 34\u201d Telescopic BBQ Forks Roasting Forks Smore skewers with Canvas Pouch",
+            "normalizedName": "ChefSeven Marshmallow Roasting Sticks (Multi Color 5 Set) 34\u201d Telescopic BBQ Forks Roasting Forks Smore skewers with Canvas Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01A7BSOVS": {
+            "asin": "B01A7BSOVS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Sporting-USA 25oz (750 ml) Double Wall Vacuum Insulated Thermos Stainless Steel Water Bottle Flask with TWIN Lids Zero Condensation in an Easy Grip Attractive Powder Coated Eggshell Matte finish",
+            "normalizedName": "Sporting-USA 25oz (750 ml) Double Wall Vacuum Insulated Thermos Stainless Steel Water Bottle Flask with TWIN Lids Zero Condensation in an Easy Grip Attractive Powder Coated Eggshell Matte finish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

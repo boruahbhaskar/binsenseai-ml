@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002X4DP8": {
+            "asin": "B0002X4DP8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Lenox Holiday Nouveau Napkin 4-Pack, Ivory",
+            "normalizedName": "4-Pack Lenox Holiday Nouveau Napkin , Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B000Z9G456": {
+            "asin": "B000Z9G456",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Staunton No. 5 Tournament Chess Pieces w/ Wood Box",
+            "normalizedName": "Staunton No. 5 Tournament Chess Pieces w/ Wood Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00D3PTBGS": {
+            "asin": "B00D3PTBGS",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Muscleology Carnitine Complete Grape - 16 oz",
+            "normalizedName": "Muscleology Carnitine Complete Grape - 16 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

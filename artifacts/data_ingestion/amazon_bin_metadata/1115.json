@@ -1,0 +1,69 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004V95EE8": {
+            "asin": "B004V95EE8",
+            "height": {
+                "unit": "IN",
+                "value": 1.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9
+            },
+            "name": "Crosman Stinger P311 Airsoft Pistol (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.1
+            }
+        },
+        "B00KJWD3CQ": {
+            "asin": "B00KJWD3CQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.200000000000001
+            },
+            "name": "Zone Perfect Nutrition Bars, Strawberry Yogurt, 8.8 Oz (Pack of 3)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999999999999
+            }
+        },
+        "B017NLP4P4": {
+            "asin": "B017NLP4P4",
+            "height": {
+                "unit": "IN",
+                "value": 4.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.4
+            },
+            "name": "The Wine-O. This Wine Bottle Glass Fits a Whole Standard 750 ML Bottle of Your Favorite Wine. Comes With Custom Cork and Ebook \"Wonderful Wine Cocktails\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999999999999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1115.jpg"
+}

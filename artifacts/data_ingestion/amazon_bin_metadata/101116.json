@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00982Y30Y": {
+            "asin": "B00982Y30Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Jackson Safety V30 Nemesis Safety Glasses (25679), Clear Anti-Fog Lens with Black Frame, 12 Pairs / Case",
+            "normalizedName": "Jackson Safety V30 Nemesis Safety Glasses (25679), Clear Anti-Fog Lens with Black Frame, 12 Pairs / Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00XNZ8KDS": {
+            "asin": "B00XNZ8KDS",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Mother's Day Sale-Big Sale-Bonison Stylish High Quality Tritan Fruit Infuser Water Bottle,leak Proof ,Trendy Durable with Handle for Fruit,juice, Iced Tea, Lemonade & Sparkling Beverages (23 Oz Red)",
+            "normalizedName": "Mother's Day Sale-Big Sale-Bonison Stylish High Quality Tritan Fruit Infuser Water Bottle,leak Proof ,Trendy Durable with Handle for Fruit,juice, Iced Tea, Lemonade & Sparkling Beverages (23 Oz Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B0155A9YRO": {
+            "asin": "B0155A9YRO",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6062992028
+            },
+            "name": "Mega Bloks Halo Covenant Storm Lance",
+            "normalizedName": "Mega Bloks Halo Covenant Storm Lance",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

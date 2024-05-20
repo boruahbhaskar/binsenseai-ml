@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002V3AFPO": {
+            "asin": "B002V3AFPO",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "NASCAR Jeff Gordon 24893015 Plastic Sign, 11\" x 17\"",
+            "normalizedName": "NASCAR Jeff Gordon 24893015 Plastic Sign, 11\" x 17\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00KI0WQTA": {
+            "asin": "B00KI0WQTA",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Zurn 1-720A Wilkins Pressure Vacuum Breaker 1-Inch Assembly",
+            "normalizedName": "Zurn 1-720A Wilkins Pressure Vacuum Breaker 1-Inch Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.599999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

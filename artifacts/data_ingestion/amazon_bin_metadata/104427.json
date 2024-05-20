@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013TR5MQM": {
+            "asin": "B013TR5MQM",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Brock Beauty Hairfinity\u00ae Healthy Hair Vitamins 720 Capsules (12 Months Supply)",
+            "normalizedName": "Brock Beauty Hairfinity\u00ae Healthy Hair Vitamins 720 Capsules (12 Months Supply)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999976519456
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01AY144JM": {
+            "asin": "B01AY144JM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Postta Ultra HDMI 2.0V Cable(30 Feet)Support 4K 2160P,1080P,3D,Audio Return and Ethernet - 1 Pack(Golden)",
+            "normalizedName": "1 Pack Postta Ultra HDMI 2.0V Cable(30 Feet)Support 4K 2160P,1080P,3D,Audio Return and Ethernet - (Golden)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

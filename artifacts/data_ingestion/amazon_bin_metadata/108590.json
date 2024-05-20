@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0781413583": {
+            "asin": "0781413583",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Across the Border (Beyond the Orphan Train)",
+            "normalizedName": "Across the Border (Beyond the Orphan Train)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0044415IE": {
+            "asin": "B0044415IE",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Plush Bulldog Pup With Baseball Cap Adorable Stuffed Dog",
+            "normalizedName": "Plush Bulldog Pup With Baseball Cap Adorable Stuffed Dog",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00L7TFR3I": {
+            "asin": "B00L7TFR3I",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Mechanix Wear Tactical MultiCam FastFit",
+            "normalizedName": "Mechanix Wear Tactical MultiCam FastFit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B013CJNCLY": {
+            "asin": "B013CJNCLY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Galaxy Note 5 Case, i-Blason Armorbox Dual Layer Hybrid Full-body Protective Case For Samsung Galaxy Note 5 with Front Cover and Built-in Screen Protector / Impact Resistant Bumpers (White)",
+            "normalizedName": "Galaxy Note 5 Case, i-Blason Armorbox Dual Layer Hybrid Full-body Protective Case For Samsung Galaxy Note 5 with Front Cover and Built-in Screen Protector / Impact Resistant Bumpers (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

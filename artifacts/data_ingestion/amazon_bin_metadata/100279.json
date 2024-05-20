@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CQJ0DK": {
+            "asin": "B000CQJ0DK",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "TCP 32030 CFL Circle Lamp - 120 Watt Equivalent (only 30w used) Soft White (2700K) T9 Circline Lamp",
+            "normalizedName": "TCP 32030 CFL Circle Lamp - 120 Watt Equivalent (only 30w used) Soft White (2700K) T9 Circline Lamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B000F3N7AC": {
+            "asin": "B000F3N7AC",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Splenda No Calorie Sweetener Value Pack, 1000 Count",
+            "normalizedName": "Splenda No Calorie Sweetener Value Pack, 1000 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.049999997442299
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

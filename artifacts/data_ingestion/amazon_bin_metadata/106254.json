@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0025VKUPM": {
+            "asin": "B0025VKUPM",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "name": "Garmin Forerunner 310XT Waterproof USB Stick and Heart Rate Monitor, Gray/Orange",
+            "normalizedName": "Garmin Forerunner 310XT Waterproof USB Stick and Heart Rate Monitor, Gray/Orange",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0582188576
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6141732216
+            }
+        },
+        "B003DH1S26": {
+            "asin": "B003DH1S26",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "New Chapter Every Man's One Daily, Men's Multivitamin Fermented with Probiotics + Selenium + B Vitamins + Vitamin D3 + Organic Non-GMO Ingredients - 72 ct",
+            "normalizedName": "New Chapter Every Man's One Daily, Men's Multivitamin Fermented with Probiotics + Selenium + B Vitamins + Vitamin D3 + Organic Non-GMO Ingredients - 72 ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00W47KIEA": {
+            "asin": "B00W47KIEA",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Evocel\u00ae Galaxy Avant Dual Layer Armor Protector Case For Samsung Galaxy Avant G386 (T-Mobile/ Metro PCS) - Retail Packaging, Slate",
+            "normalizedName": "Evocel\u00ae Galaxy Avant Dual Layer Armor Protector Case For Samsung Galaxy Avant G386 (T-Mobile/ Metro PCS) - Retail Packaging, Slate",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

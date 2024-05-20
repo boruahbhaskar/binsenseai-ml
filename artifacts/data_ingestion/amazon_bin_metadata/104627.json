@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002N6F2UW": {
+            "asin": "B002N6F2UW",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Dymatize ISO 100 Post Workout and Recovery Supplements, Gourmet Chocolate, 5 Pound",
+            "normalizedName": "Dymatize ISO 100 Post Workout and Recovery Supplements, Gourmet Chocolate, 5 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00PRR1VFY": {
+            "asin": "B00PRR1VFY",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "YardDesign Primitive Welcome Yard Sign #71115",
+            "normalizedName": "YardDesign Primitive Welcome Yard Sign #71115",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B01BFOHQEW": {
+            "asin": "B01BFOHQEW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Sifter with Deep Shovel - Designed by Cat Owners - *NEW* Teflon Silver Plated Solid Aluminum \"Perfect Scooper\" with Free Holder. Solid Core Handle. Custom Designed. iPrimo \u00ae Patent Pending.",
+            "normalizedName": "Sifter with Deep Shovel - Designed by Cat Owners - *NEW* Teflon Silver Plated Solid Aluminum \"Perfect Scooper\" with Free Holder. Solid Core Handle. Custom Designed. iPrimo \u00ae Patent Pending.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

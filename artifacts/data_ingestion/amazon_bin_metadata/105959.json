@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009BY8HYM": {
+            "asin": "B009BY8HYM",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Crayola Bzzz Valance - Pink",
+            "normalizedName": "Crayola Bzzz Valance - Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00F9IWWIQ": {
+            "asin": "B00F9IWWIQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Dog Waste Poop Bags, 300 Count Blue, by Bark+",
+            "normalizedName": "Dog Waste Poop Bags, 300 Count Blue, by Bark+",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00JIXSA1Q": {
+            "asin": "B00JIXSA1Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Five Star Stay-Put Portfolio with 2 Pockets and Fasteners, White (72494)",
+            "normalizedName": "Five Star Stay-Put Portfolio with 2 Pockets and Fasteners, White (72494)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B01CWK9WE0": {
+            "asin": "B01CWK9WE0",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Fritesla 16000mah Power Bank Portable Charger for Smartphones-Gold",
+            "normalizedName": "Fritesla 16000mah Power Bank Portable Charger for Smartphones-Gold",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

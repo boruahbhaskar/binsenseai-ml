@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ASBKG0": {
+            "asin": "B000ASBKG0",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "HP 98 Black Original Ink Cartridge (C9364WN)",
+            "normalizedName": "HP 98 Black Original Ink Cartridge (C9364WN)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00TZF8EJK": {
+            "asin": "B00TZF8EJK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Meccano Multimodels, Rescue Squad 3 Model Set",
+            "normalizedName": "Meccano Multimodels, Rescue Squad 3 Model Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

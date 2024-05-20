@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000255N00": {
+            "asin": "B000255N00",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "API Stress Coat Water Conditioner, 1-Gallon",
+            "normalizedName": "API Stress Coat Water Conditioner, 1-Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B008BCPZK4": {
+            "asin": "B008BCPZK4",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Blank Duffle Bag Duffel Bag in Black Gym Bag",
+            "normalizedName": "Blank Duffle Bag Duffel Bag in Black Gym Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B012E3KH12": {
+            "asin": "B012E3KH12",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.299999981334
+            },
+            "name": "Quiksilver Men's Schoolie Backpack, Black, One Size",
+            "normalizedName": "Quiksilver Men's Schoolie Backpack, Black, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            }
+        },
+        "B019WYSCNQ": {
+            "asin": "B019WYSCNQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Sling Backpack by RiteTrak Sports, Best Lightweight Multi-Use Pack for Hiking Biking Trekking Fitness or Travel, One Strap Shoulder or Crossbody Bag for Men Women and Kids",
+            "normalizedName": "Sling Backpack by RiteTrak Sports, Best Lightweight Multi-Use Pack for Hiking Biking Trekking Fitness or Travel, One Strap Shoulder or Crossbody Bag for Men Women and Kids",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

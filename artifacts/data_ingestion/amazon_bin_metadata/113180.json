@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009L69I1Q": {
+            "asin": "B009L69I1Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Pink Bobble Claw Crab Coin Bank",
+            "normalizedName": "Pink Bobble Claw Crab Coin Bank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00CXO5AQK": {
+            "asin": "B00CXO5AQK",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Creative Teaching Press 6-Inch Designer Cut-Outs, Butterflies (6486)",
+            "normalizedName": "Creative Teaching Press 6-Inch Designer Cut-Outs, Butterflies (6486)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01B7RBXZ0": {
+            "asin": "B01B7RBXZ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Klein Tools 69417 Magnetic Hanger",
+            "normalizedName": "Klein Tools 69417 Magnetic Hanger",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VPBNUA": {
+            "asin": "B000VPBNUA",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Rubbermaid 7E59RDCHILI MixerMate Pitchers--3 QT",
+            "normalizedName": "Rubbermaid 7E59RDCHILI MixerMate Pitchers--3 QT",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00FZGLKTO": {
+            "asin": "B00FZGLKTO",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Skip Hop Pronto Diaper Changing Station, Genie",
+            "normalizedName": "Skip Hop Pronto Diaper Changing Station, Genie",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028IY6KC": {
+            "asin": "B0028IY6KC",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "Zodiac 9-100-9010 Factory Tune-Up Replacement Kit",
+            "normalizedName": "Zodiac 9-100-9010 Factory Tune-Up Replacement Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B01B2U5I26": {
+            "asin": "B01B2U5I26",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 19.899999979702
+            },
+            "name": "Molle Tactical Backpack For Backpacking, Camping, Travel, Hiking and Trekking - 3 Day Military Assault Day Pack - Best Lightweight Army Rucksack - Multicam, Medium",
+            "normalizedName": "Molle Tactical Backpack For Backpacking, Camping, Travel, Hiking and Trekking - 3 Day Military Assault Day Pack - Best Lightweight Army Rucksack - Multicam, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B01DN2BF7S": {
+            "asin": "B01DN2BF7S",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Munchkin: Monster Box ACD Exclusive",
+            "normalizedName": "Munchkin: Monster Box ACD Exclusive",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NSL9YK": {
+            "asin": "B000NSL9YK",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "ACDelco 45G0343 Professional Front Suspension Stabilizer Bar Link Kit with Hardware",
+            "normalizedName": "ACDelco 45G0343 Professional Front Suspension Stabilizer Bar Link Kit with Hardware",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00P2SNBZQ": {
+            "asin": "B00P2SNBZQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Playskool Heroes Transformers Rescue Bots Energize Boulder the Construction-Bot Figure",
+            "normalizedName": "Playskool Heroes Transformers Rescue Bots Energize Boulder the Construction-Bot Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

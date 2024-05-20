@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E95HP0": {
+            "asin": "B000E95HP0",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Isopure Zero Carb Protein Powder, Creamy Vanilla, 3 Pounds (Packaging May Vary)",
+            "normalizedName": "Isopure Zero Carb Protein Powder, Creamy Vanilla, 3 Pounds (Packaging May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00T65KARI": {
+            "asin": "B00T65KARI",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Stearns Puddle Jumper Basic Life Jacket, Shark, 30-50 lbs",
+            "normalizedName": "Stearns Puddle Jumper Basic Life Jacket, Shark, 30-50 lbs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        },
+        "B017XDRM8Y": {
+            "asin": "B017XDRM8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Canvaslife Flower Patten Laptop Messenger Bag 15 Inch Laptop Briefcase 15.4 Inch /15.6 Inch for Macbook Pro 15 / Dell/hp/lenovo/sony/toshiba/ausa/acer/samsung Laptop Shoulder Bag",
+            "normalizedName": "Canvaslife Flower Patten Laptop Messenger Bag 15 Inch Laptop Briefcase 15.4 Inch /15.6 Inch for Macbook Pro 15 / Dell/hp/lenovo/sony/toshiba/ausa/acer/samsung Laptop Shoulder Bag",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

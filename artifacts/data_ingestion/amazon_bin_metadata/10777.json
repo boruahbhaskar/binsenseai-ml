@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004LK2WJC": {
+            "asin": "B004LK2WJC",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Aqua Sphere Kaiman Small-Fit Swim Goggle (Smoke/Transparent)",
+            "normalizedName": "Aqua Sphere Kaiman Small-Fit Swim Goggle (Smoke/Transparent)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        },
+        "B00641YMKS": {
+            "asin": "B00641YMKS",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "RZ Mask Active Carbon Scentless Filter, X-Large",
+            "normalizedName": "RZ Mask Active Carbon Scentless Filter, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00JZV58E8": {
+            "asin": "B00JZV58E8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "iXCC 10ft Extra Long Apple MFi Certified Lightning 8pin to USB Charge and Sync Cable for iPhone SE/5/5s/6/6s/Plus/iPad Mini/Air/Pro - Black",
+            "normalizedName": "iXCC 10ft Extra Long Apple MFi Certified Lightning 8pin to USB Charge and Sync Cable for iPhone SE/5/5s/6/6s/Plus/iPad Mini/Air/Pro - Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00L0G63QS": {
+            "asin": "B00L0G63QS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Husky Knife Pouch",
+            "normalizedName": "Husky Knife Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

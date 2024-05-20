@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DRIEPN0": {
+            "asin": "B00DRIEPN0",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Whirlpool Replacement Refrigerator / Freezer Ice Maker 626662",
+            "normalizedName": "Whirlpool Replacement Refrigerator / Freezer Ice Maker 626662",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        },
+        "B00FRLHTWE": {
+            "asin": "B00FRLHTWE",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "NON-SLIP HYDRO BATH AND SHOWER RUG , 29 1/2\" x 17 1/4\"",
+            "normalizedName": "NON-SLIP HYDRO BATH AND SHOWER RUG , 29 1/2\" x 17 1/4\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

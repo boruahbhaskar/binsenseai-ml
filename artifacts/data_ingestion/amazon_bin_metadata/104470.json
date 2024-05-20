@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016NGBY8G": {
+            "asin": "B016NGBY8G",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Wireless Headphone, Rowkin Mini Bluetooth 4.1 Sport In-Ear Earbud Headset with Noise Cancelling Mic and Portable Charging Case. Smallest Cordless Earphone for Music and Calls (24K Gold-Plated Edition)",
+            "normalizedName": "Wireless Headphone, Rowkin Mini Bluetooth 4.1 Sport In-Ear Earbud Headset with Noise Cancelling Mic and Portable Charging Case. Smallest Cordless Earphone for Music and Calls (24K Gold-Plated Edition)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01766QDTC": {
+            "asin": "B01766QDTC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Cinnamon Essential Oil From Majestic Pure Extracted From Leaves, Pure and Natural Therapeutic Grade, 4 fl. oz.",
+            "normalizedName": "Cinnamon Essential Oil From Majestic Pure Extracted From Leaves, Pure and Natural Therapeutic Grade, 4 fl. oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

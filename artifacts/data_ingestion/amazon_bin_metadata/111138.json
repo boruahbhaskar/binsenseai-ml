@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030HK514": {
+            "asin": "B0030HK514",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "GE Soft White 49780 60-Watt, 660-Lumen G40 Soft White Bulb, 5-Inch Diameter with Medium Base, 1-Pack",
+            "normalizedName": "1-Pack GE Soft White 49780 60-Watt, 660-Lumen G40 Soft White Bulb, 5-Inch Diameter with Medium Base,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00IECF9L6": {
+            "asin": "B00IECF9L6",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Mako Group Front and Rear Flip-Up Sight Set, Black",
+            "normalizedName": "Mako Group Front and Rear Flip-Up Sight Set, Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

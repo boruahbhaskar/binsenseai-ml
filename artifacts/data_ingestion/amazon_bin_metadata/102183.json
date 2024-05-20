@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0842528539": {
+            "asin": "0842528539",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Teachings of the Pearl of Great Price",
+            "normalizedName": "Teachings of the Pearl of Great Price",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B005KBZQGC": {
+            "asin": "B005KBZQGC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "K'NEX Nascar #48 Lowes Car Building Set",
+            "normalizedName": "K'NEX Nascar #48 Lowes Car Building Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00OZZ595M": {
+            "asin": "B00OZZ595M",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Aimee Wilder DJ Headphones - Birds (HP6396-BR)",
+            "normalizedName": "Aimee Wilder DJ Headphones - Birds (HP6396-BR)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B016DXXC5C": {
+            "asin": "B016DXXC5C",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "InterDesign Marigold Fabric Shower Curtain - 72\" x 72\", Black/Gray",
+            "normalizedName": "InterDesign Marigold Fabric Shower Curtain - 72\" x 72\", Black/Gray",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A3TA7G": {
+            "asin": "B000A3TA7G",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "TYC 11-1886-01 Ford Driver Side Replacement Tail Light Assembly",
+            "normalizedName": "TYC 11-1886-01 Ford Driver Side Replacement Tail Light Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.299999986434
+            }
+        },
+        "B002N27CSQ": {
+            "asin": "B002N27CSQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987658
+            },
+            "name": "White Mountain Puzzles Snowmen - 1000 Piece Jigsaw Puzzle",
+            "normalizedName": "White Mountain Puzzles Snowmen - 1000 Piece Jigsaw Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I12O0Q": {
+            "asin": "B004I12O0Q",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Depo 317-1954L-AS Honda Civic Driver Side Replacement Taillight Assembly",
+            "normalizedName": "Depo 317-1954L-AS Honda Civic Driver Side Replacement Taillight Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B017PD9C1M": {
+            "asin": "B017PD9C1M",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "15-pc Art Paint Brush Set Everlasting Star: The Mix of Quality for Watercolor, Acrylics, Oil Paint, Face Painting. Brushes with Synthetic Bristles and Wooden Handle for Artists of Every Level.",
+            "normalizedName": "15-pc Art Paint Brush Set Everlasting Star: The Mix of Quality for Watercolor, Acrylics, Oil Paint, Face Painting. Brushes with Synthetic Bristles and Wooden Handle for Artists of Every Level.",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

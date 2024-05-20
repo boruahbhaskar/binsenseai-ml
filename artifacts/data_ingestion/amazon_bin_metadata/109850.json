@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "160699879X": {
+            "asin": "160699879X",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Megg & Mogg In Amsterdam (And Other Stories)",
+            "normalizedName": "Megg & Mogg In Amsterdam (And Other Stories)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1463920607145395
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4960629855
+            }
+        },
+        "B00PMBM38E": {
+            "asin": "B00PMBM38E",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Luna Bazaar Paper Lanterns (8-Inch, Multicolor, Set of 8) - Rice Paper Chinese/Japanese Hanging Decorations - For Home Decor, Parties, and Weddings",
+            "normalizedName": "Set of 8 Luna Bazaar Paper Lanterns (8-Inch, Multicolor, ) - Rice Paper Chinese/Japanese Hanging Decorations - For Home Decor, Parties, and Weddings",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.54
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B00RW6OPHE": {
+            "asin": "B00RW6OPHE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Contigo Autospout Sheffield Vacuum-Insulated Stainless Steel Water Bottle, 22-Ounce (Lemon)",
+            "normalizedName": "Contigo Autospout Sheffield Vacuum-Insulated Stainless Steel Water Bottle, 22-Ounce (Lemon)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

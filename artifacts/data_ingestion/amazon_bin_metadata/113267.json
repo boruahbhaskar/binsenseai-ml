@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002ZNJYRA": {
+            "asin": "B002ZNJYRA",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Banana Boat Sunscreen Sport Performance Broad Spectrum Sun Care Sunscreen Lotion - SPF 30, 1 Ounce (Pack of 24)",
+            "normalizedName": "(Pack of 24) Banana Boat Sunscreen Sport Performance Broad Spectrum Sun Care Sunscreen Lotion - SPF 30, 1 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0032GADYW": {
+            "asin": "B0032GADYW",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Kaytee Nut And Fruit Seed Treat Bell, 15-Ounce",
+            "normalizedName": "Kaytee Nut And Fruit Seed Treat Bell, 15-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B004IR3044": {
+            "asin": "B004IR3044",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Scotch-Brite Heavy Duty Scrub Sponge, 6-Count",
+            "normalizedName": "Scotch-Brite Heavy Duty Scrub Sponge, 6-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

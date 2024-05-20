@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001VNQNCY": {
+            "asin": "B001VNQNCY",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.8582677126
+            },
+            "name": "Ranger Tim Holtz Distress Ink Reinker 1/2-Ounce, Walnut Stain",
+            "normalizedName": "Ranger Tim Holtz Distress Ink Reinker 1/2-Ounce, Walnut Stain",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4409448794
+            }
+        },
+        "B0078DP5XE": {
+            "asin": "B0078DP5XE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Stevia In The Raw, 100 count",
+            "normalizedName": "Stevia In The Raw, 100 count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00M5EGB6G": {
+            "asin": "B00M5EGB6G",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "2014 SHOPKINS FIGURES Shopping Bag - STRAWBERRY KISS #003 SEASON 1 - RARE",
+            "normalizedName": "2014 SHOPKINS FIGURES Shopping Bag - STRAWBERRY KISS #003 SEASON 1 - RARE",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00MFLAM7I": {
+            "asin": "B00MFLAM7I",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "32nd\u00ae Shock Proof Heavy Duty Dual Protection Case Cover For Apple iPhone 5 5S SE, including screen protector, cleaning cloth and touch stylus - Blue",
+            "normalizedName": "32nd\u00ae Shock Proof Heavy Duty Dual Protection Case Cover For Apple iPhone 5 5S SE, including screen protector, cleaning cloth and touch stylus - Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

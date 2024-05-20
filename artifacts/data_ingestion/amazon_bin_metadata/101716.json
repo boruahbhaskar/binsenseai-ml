@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GZSI7G": {
+            "asin": "B000GZSI7G",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.20078738607
+            },
+            "name": "Thai Kitchen Bangkok Curry Instant Noodle, 1.6000-Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Thai Kitchen Bangkok Curry Instant Noodle, 1.6000-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.79921259353
+            }
+        },
+        "B00VY1G7GA": {
+            "asin": "B00VY1G7GA",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Sichuan Baoning Vinegar (\u56db\u5ddd\u4fdd\u5b81\u918b) 480mL",
+            "normalizedName": "Sichuan Baoning Vinegar (\u56db\u5ddd\u4fdd\u5b81\u918b) 480mL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B017V9AHFU": {
+            "asin": "B017V9AHFU",
+            "height": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.699999981946
+            },
+            "name": "Archangel 2 Ply Microfiber Velvet Silky Soft Sherpa Borrego Reversible Solid Blanket Coffee 66\"x90\" Twin Size",
+            "normalizedName": "Archangel 2 Ply Microfiber Velvet Silky Soft Sherpa Borrego Reversible Solid Blanket Coffee 66\"x90\" Twin Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8499999967714262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

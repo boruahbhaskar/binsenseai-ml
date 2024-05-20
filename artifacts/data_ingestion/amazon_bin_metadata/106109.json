@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001B3LIOC": {
+            "asin": "B001B3LIOC",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Under Siege/Under Siege 2: Dark Territory (DBFE)",
+            "normalizedName": "Under Siege/Under Siege 2: Dark Territory (DBFE)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        },
+        "B013ITZLI0": {
+            "asin": "B013ITZLI0",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Top Quality Steel Push Up Bars with BONUS Resistance Band + Workout Guide | Sport-it Fitness Portable Pushup Stands for Men + Women - Stronger Safer Deeper Push-Ups",
+            "normalizedName": "Top Quality Steel Push Up Bars with BONUS Resistance Band + Workout Guide | Sport-it Fitness Portable Pushup Stands for Men + Women - Stronger Safer Deeper Push-Ups",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01ABUD6CC": {
+            "asin": "B01ABUD6CC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "AUSDOM M07s 2016 Version Foldable Over-Ear Bluetooth Headphones Wireless Wired Audio Streaming Headsets with Microphone for iPhone Mac Laptop Galaxy (Black/Green)",
+            "normalizedName": "AUSDOM M07s 2016 Version Foldable Over-Ear Bluetooth Headphones Wireless Wired Audio Streaming Headsets with Microphone for iPhone Mac Laptop Galaxy (Black/Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

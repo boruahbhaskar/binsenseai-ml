@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007U1WJWE": {
+            "asin": "B007U1WJWE",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Keurig Gloria Jean's Coffee Hazelnut Vue Pack - 16 Count 0.33 oz",
+            "normalizedName": "Keurig Gloria Jean's Coffee Hazelnut Vue Pack - 16 Count 0.33 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00J4DUVR6": {
+            "asin": "B00J4DUVR6",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9527558974
+            },
+            "name": "Monster Power Superstar High Definition Bluetooth Speaker (Black/Green)",
+            "normalizedName": "Monster Power Superstar High Definition Bluetooth Speaker (Black/Green)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        },
+        "B017SXVUSC": {
+            "asin": "B017SXVUSC",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Complete 9pc Outdoor Cooking Pot Pan Bowl Set with FREE Stainless Steel Spork - Innovative Portable and Lightweight - Camping Backpacking Hiking Trekking Fishing Picnic Cookware",
+            "normalizedName": "Complete 9pc Outdoor Cooking Pot Pan Bowl Set with FREE Stainless Steel Spork - Innovative Portable and Lightweight - Camping Backpacking Hiking Trekking Fishing Picnic Cookware",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

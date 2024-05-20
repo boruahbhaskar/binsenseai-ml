@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005NUVP": {
+            "asin": "B00005NUVP",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "GSD Mandoline Slicer with 3 Stainless Steel Blades and Safety Guard",
+            "normalizedName": "GSD Mandoline Slicer with 3 Stainless Steel Blades and Safety Guard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B004071ZX0": {
+            "asin": "B004071ZX0",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.629921249
+            },
+            "name": "Accell B087B-005B UltraAV DisplayPort to DVI-D Active Single-Link Adapter - AMD Eyefinity(TM) Certified",
+            "normalizedName": "Accell B087B-005B UltraAV DisplayPort to DVI-D Active Single-Link Adapter - AMD Eyefinity(TM) Certified",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.485012026093647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        },
+        "B0092KZBCQ": {
+            "asin": "B0092KZBCQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "D-Link 16-Port Gigabit Switch (DGS-1016A)",
+            "normalizedName": "D-Link 16-Port Gigabit Switch (DGS-1016A)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B0192EBED6": {
+            "asin": "B0192EBED6",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "Bouncy animal, bouncy horse inflatable with pump",
+            "normalizedName": "Bouncy animal, bouncy horse inflatable with pump",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

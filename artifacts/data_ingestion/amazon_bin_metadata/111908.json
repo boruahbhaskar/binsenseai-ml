@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017WGHRU": {
+            "asin": "B0017WGHRU",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Old Spice High Endurance, Original Scent Men's Anti-Perspirant & Deodorant 3 Oz (Pack of 6)",
+            "normalizedName": "(Pack of 6) Old Spice High Endurance, Original Scent Men's Anti-Perspirant & Deodorant 3 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7636800934069836
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B006M1MISS": {
+            "asin": "B006M1MISS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "HP 933XL Cyan High Yield Original Ink Cartridge (CN054AN)",
+            "normalizedName": "HP 933XL Cyan High Yield Original Ink Cartridge (CN054AN)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00U38L4WW": {
+            "asin": "B00U38L4WW",
+            "height": {
+                "unit": "IN",
+                "value": 0.249999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Oklahoma State Cowboys - NCAA Coin Pouch with Key Ring",
+            "normalizedName": "Oklahoma State Cowboys - NCAA Coin Pouch with Key Ring",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B017QRYX1G": {
+            "asin": "B017QRYX1G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "tweexy The Wearable Nail Polish Holder in Bonbon Pink",
+            "normalizedName": "tweexy The Wearable Nail Polish Holder in Bonbon Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

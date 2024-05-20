@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GWV41GA": {
+            "asin": "B00GWV41GA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "14 Piece Tegu Magnetic Wooden Block Set, Jungle",
+            "normalizedName": "14 Piece Tegu Magnetic Wooden Block Set, Jungle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "B012VPSQAC": {
+            "asin": "B012VPSQAC",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Simplicity Women's Summer UPF 50+ Roll Up Floppy Beach Hat with Ribbon Aqua",
+            "normalizedName": "Simplicity Women's Summer UPF 50+ Roll Up Floppy Beach Hat with Ribbon Aqua",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

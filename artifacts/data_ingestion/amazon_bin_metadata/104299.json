@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002I6HW6Y": {
+            "asin": "B002I6HW6Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "name": "Origins - Pure Cream Rinseable Cleanser 150ml/5oz",
+            "normalizedName": "Origins - Pure Cream Rinseable Cleanser 150ml/5oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3779527545
+            }
+        },
+        "B019UGWNMM": {
+            "asin": "B019UGWNMM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Anti Hair Loss Shampoo for Women -Promotes Hair Growth - Organic & Natural Ing.(Biotin, Apple Stem Cells, Keratin, Saw Palmetto DHT Blocker)- Natural Womens Shampoo -SLS Free Shampoo & Sulfate Free",
+            "normalizedName": "Anti Hair Loss Shampoo for Women -Promotes Hair Growth - Organic & Natural Ing.(Biotin, Apple Stem Cells, Keratin, Saw Palmetto DHT Blocker)- Natural Womens Shampoo -SLS Free Shampoo & Sulfate Free",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452686
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            }
+        },
+        "B01DZ6W0CG": {
+            "asin": "B01DZ6W0CG",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Apple Iphone SE S.o.m.a. Cellular Supplies Brand Products \u00ae \" Tm S/N 86136953 \" Commuter Case iPhone 5/5s/SE (Green on White)",
+            "normalizedName": "Apple Iphone SE S.o.m.a. Cellular Supplies Brand Products \u00ae \" Tm S/N 86136953 \" Commuter Case iPhone 5/5s/SE (Green on White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

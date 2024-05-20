@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004JRMIDM": {
+            "asin": "B004JRMIDM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Aurora World 12\" \"Chester\" Flopsie",
+            "normalizedName": "Aurora World 12\" \"Chester\" Flopsie",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00NBS75R4": {
+            "asin": "B00NBS75R4",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "The Orb Factory Glitter Petz Sadie Kitten",
+            "normalizedName": "The Orb Factory Glitter Petz Sadie Kitten",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

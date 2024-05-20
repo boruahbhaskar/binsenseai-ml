@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062378139": {
+            "asin": "0062378139",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "The Negative Calorie Diet: Lose Up to 10 Pounds in 10 Days with 10 All You Can Eat Foods",
+            "normalizedName": "The Negative Calorie Diet: Lose Up to 10 Pounds in 10 Days with 10 All You Can Eat Foods",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00JCE14AU": {
+            "asin": "B00JCE14AU",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Pulse Dimmable LED Light with Wireless Bluetooth Speakers (Pair), Powered by JBL",
+            "normalizedName": "Pulse Dimmable LED Light with Wireless Bluetooth Speakers (Pair), Powered by JBL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

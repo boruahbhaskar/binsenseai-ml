@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G8QGKM2": {
+            "asin": "B00G8QGKM2",
+            "height": {
+                "unit": "IN",
+                "value": 3.0708661417322833
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.527559055118111
+            },
+            "name": "Continental Grand Prix 4000 S II Tire 700x25 Black Folding Bead with Black Chili Rubber and Reflex Reflective Stripe",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.228346456692913
+            }
+        },
+        "B00PBD1RCG": {
+            "asin": "B00PBD1RCG",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999999999997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6
+            },
+            "name": "Nerf N-Strike Mega X15 Zombie Strike Darts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.200000000000001
+            }
+        },
+        "B015W86OR2": {
+            "asin": "B015W86OR2",
+            "height": {
+                "unit": "IN",
+                "value": 0.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "COOLOMG (One Piece) Youth Compression Arm Sleeve UV Protection Digital Camo Yellow Purple XXS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.500000000000001
+            }
+        },
+        "B018E3UZRW": {
+            "asin": "B018E3UZRW",
+            "height": {
+                "unit": "IN",
+                "value": 4.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.8
+            },
+            "name": "Outdoor Laser Landscape Projector Light Red and Green Waterproof Landscape Spotlights Holiday Light For Christmas Decoration and Outdoor Decorating (Without Remote Control)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1000000000000005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1094.jpg"
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0262033844": {
+            "asin": "0262033844",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Introduction to Algorithms, 3rd Edition (MIT Press)",
+            "normalizedName": "Introduction to Algorithms, 3rd Edition (MIT Press)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.710000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B01C75BU6S": {
+            "asin": "B01C75BU6S",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "DAYBETTER 5-Meter Waterproof Flexible Color Changing RGB SMD5050 300 LEDs Light Strip Kit with 44 Key Remote and 12V 5A Power Supply",
+            "normalizedName": "DAYBETTER 5-Meter Waterproof Flexible Color Changing RGB SMD5050 300 LEDs Light Strip Kit with 44 Key Remote and 12V 5A Power Supply",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

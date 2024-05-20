@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001UFQNF0": {
+            "asin": "B001UFQNF0",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Diamond Select Back to the Future II DeLorean Time Machine",
+            "normalizedName": "Diamond Select Back to the Future II DeLorean Time Machine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B005DKKBUG": {
+            "asin": "B005DKKBUG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",
+            "normalizedName": "Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

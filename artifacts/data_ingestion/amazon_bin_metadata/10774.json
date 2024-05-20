@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0323031250": {
+            "asin": "0323031250",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Pediatric Radiology: The Requisites, 3e (Requisites in Radiology)",
+            "normalizedName": "Pediatric Radiology: The Requisites, 3e (Requisites in Radiology)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "1618823744": {
+            "asin": "1618823744",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "INTRO.TO AMERICAN GOVERNMENT",
+            "normalizedName": "INTRO.TO AMERICAN GOVERNMENT",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.299999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "1622020278": {
+            "asin": "1622020278",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "CPT: 2015 Standard (Current Procedural Terminology (CPT) Standard)",
+            "normalizedName": "CPT: 2015 Standard (Current Procedural Terminology (CPT) Standard)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B000MTM0WK": {
+            "asin": "B000MTM0WK",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Red Bull Sugarfree, Energy Drink, 8.4 Fl Oz Cans, 24 Pack",
+            "normalizedName": "24 Pack Red Bull Sugarfree, Energy Drink, 8.4 Fl Oz Cans,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 14.149999988133946
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009T87JSU": {
+            "asin": "B009T87JSU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Lug - Flutter Mini Cross-Body Bag in Ocean Blue",
+            "normalizedName": "Lug - Flutter Mini Cross-Body Bag in Ocean Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

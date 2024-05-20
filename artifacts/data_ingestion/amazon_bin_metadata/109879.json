@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1111346550": {
+            "asin": "1111346550",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Research Methods and Statistics: A Critical Thinking Approach",
+            "normalizedName": "Research Methods and Statistics: A Critical Thinking Approach",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "1305251075": {
+            "asin": "1305251075",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Principles and Labs for Fitness and Wellness",
+            "normalizedName": "Principles and Labs for Fitness and Wellness",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00DLDH1N2": {
+            "asin": "B00DLDH1N2",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Quest Nutrition Protein Bar, Chocolate Chip Cookie Dough, 21g Protein, 2.12oz Bar, 12 Count",
+            "normalizedName": "Quest Nutrition Protein Bar, Chocolate Chip Cookie Dough, 21g Protein, 2.12oz Bar, 12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B018R4Z6KO": {
+            "asin": "B018R4Z6KO",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Smart Weigh Digital / Mechanical Kitchen and Food Scale with LCD Display, 11lb Capacity and Large Weighing Platform, Black",
+            "normalizedName": "Smart Weigh Digital / Mechanical Kitchen and Food Scale with LCD Display, 11lb Capacity and Large Weighing Platform, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

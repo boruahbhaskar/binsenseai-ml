@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1935589679": {
+            "asin": "1935589679",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "A Guide to the Project Management Body of Knowledge: PMBOK(R) Guide",
+            "normalizedName": "A Guide to the Project Management Body of Knowledge: PMBOK(R) Guide",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0499999974422987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00HFKDSFM": {
+            "asin": "B00HFKDSFM",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Dingo Mini Bones 21-Pack Value Bag, 9-Ounce (Pack of 2) 42 Bones total",
+            "normalizedName": "(Pack of 2) Dingo Mini Bones 21-Pack Value Bag, 9-Ounce 42 Bones total",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00NMXFV4W": {
+            "asin": "B00NMXFV4W",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "PEPPERLONELY Brand, 100 Yard Roll Gold Color Flat Bling Sequins Spool String 6mm(1/4\")",
+            "normalizedName": "PEPPERLONELY Brand, 100 Yard Roll Gold Color Flat Bling Sequins Spool String 6mm(1/4\")",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004000394": {
+            "asin": "B004000394",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Plymor 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, 3\" x 5\", Case of 1000",
+            "normalizedName": "Case of 1000 Plymor 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, 3\" x 5\",",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00S7ENWEW": {
+            "asin": "B00S7ENWEW",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Xtreme Bright\u00ae Illumilock Super U-Lock Bike Lock and Taillight Included - Heavy Duty - Comes with 2 Keys (1 Lighted) 100% Lifetime Guarantee Through Triumph Innovations Only",
+            "normalizedName": "Xtreme Bright\u00ae Illumilock Super U-Lock Bike Lock and Taillight Included - Heavy Duty - Comes with 2 Keys (1 Lighted) 100% Lifetime Guarantee Through Triumph Innovations Only",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

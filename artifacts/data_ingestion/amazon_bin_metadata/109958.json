@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007N5LHW": {
+            "asin": "B0007N5LHW",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Suncourt HC300 Heating & Air Conditioning Booster Fan",
+            "normalizedName": "Suncourt HC300 Heating & Air Conditioning Booster Fan",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00902X34Y": {
+            "asin": "B00902X34Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Clara Clark 1800 Premier Series 4pc Bed Sheet Set - King, Purple Eggplant",
+            "normalizedName": "Clara Clark 1800 Premier Series 4pc Bed Sheet Set - King, Purple Eggplant",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B01GR7UFXQ": {
+            "asin": "B01GR7UFXQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Ansanor\u00ae 7200mAh High Quality New Laptop Battery for Apple MacBook Air 13\" A1405 A1377 A1496 A1369 (Late 2010 Mid 2011) A1466 (Mid 2012 Mid 2013 Early 2014) 18 Months Warranty [7.3V 55Wh ] A1405",
+            "normalizedName": "Ansanor\u00ae 7200mAh High Quality New Laptop Battery for Apple MacBook Air 13\" A1405 A1377 A1496 A1369 (Late 2010 Mid 2011) A1466 (Mid 2012 Mid 2013 Early 2014) 18 Months Warranty [7.3V 55Wh ] A1405",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0099999991530235
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

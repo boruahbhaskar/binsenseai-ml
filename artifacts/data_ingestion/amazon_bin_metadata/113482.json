@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IUTQ": {
+            "asin": "B00006IUTQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Melitta Cone Coffee Filters Natural Brown #4 100 count",
+            "normalizedName": "Melitta Cone Coffee Filters Natural Brown #4 100 count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B000JP31T8": {
+            "asin": "B000JP31T8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Motion Pro 08-0073 Tappet Tool Set",
+            "normalizedName": "Motion Pro 08-0073 Tappet Tool Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00AWSTDAI": {
+            "asin": "B00AWSTDAI",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Ultra Ball (Pack of 2)",
+            "normalizedName": "(Pack of 2) Ultra Ball",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

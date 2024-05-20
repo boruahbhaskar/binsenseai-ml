@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004PNAE1S": {
+            "asin": "B004PNAE1S",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "D-M-C Pitt Artist Pen Set Of 3 Metallic",
+            "normalizedName": "Set Of 3 D-M-C Pitt Artist Pen Metallic",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00JUTWEZG": {
+            "asin": "B00JUTWEZG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Crayola Meltdown Art Set",
+            "normalizedName": "Crayola Meltdown Art Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01ER32Y4K": {
+            "asin": "B01ER32Y4K",
+            "height": {
+                "unit": "IN",
+                "value": 2.716535427529134
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.716535417329134
+            },
+            "name": "KINGDOMCARES Ultrasonic Waterproof Facial Cleansing Brush Rechargeable Skin Cleansing Microdermabrasion Scrub Deep Cleaning Scrubbing Exfoliator with 3 Speeding Setting 2 Attachable Face Brush Blue",
+            "normalizedName": "KINGDOMCARES Ultrasonic Waterproof Facial Cleansing Brush Rechargeable Skin Cleansing Microdermabrasion Scrub Deep Cleaning Scrubbing Exfoliator with 3 Speeding Setting 2 Attachable Face Brush Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1099999990691647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.763779517840945
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

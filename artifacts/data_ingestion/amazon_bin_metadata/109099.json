@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005F6NSKI": {
+            "asin": "B005F6NSKI",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Compatible Hitachi 50VF820 100 Watt TV Lamp Replacement",
+            "normalizedName": "Compatible Hitachi 50VF820 100 Watt TV Lamp Replacement",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00KNK0M1O": {
+            "asin": "B00KNK0M1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "normalizedName": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

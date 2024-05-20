@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003NALJU4": {
+            "asin": "B003NALJU4",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Montessori Large Wooden Number Cards With Box",
+            "normalizedName": "Montessori Large Wooden Number Cards With Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00BR4A3BY": {
+            "asin": "B00BR4A3BY",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "3dRose fl_3963_1 English Springer Spaniel Garden Flag, 12 by 18-Inch",
+            "normalizedName": "3dRose fl_3963_1 English Springer Spaniel Garden Flag, 12 by 18-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00IOEFBKS": {
+            "asin": "B00IOEFBKS",
+            "height": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "Black+Decker BDH2000PL MAX Lithium Pivot Vacuum, 20-volt",
+            "normalizedName": "Black+Decker BDH2000PL MAX Lithium Pivot Vacuum, 20-volt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8360042031601895
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        },
+        "B01EFYM194": {
+            "asin": "B01EFYM194",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Ambesonne Enchanted Nature Decor Collection, Magic Tree of Life with Poppies and Mushrooms on Green Grass, Polyester Fabric Bathroom Shower Curtain Set with Hooks, Green Red",
+            "normalizedName": "Ambesonne Enchanted Nature Decor Collection, Magic Tree of Life with Poppies and Mushrooms on Green Grass, Polyester Fabric Bathroom Shower Curtain Set with Hooks, Green Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7599999993626712
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

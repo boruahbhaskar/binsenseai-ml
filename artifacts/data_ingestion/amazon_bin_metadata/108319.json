@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1465414053": {
+            "asin": "1465414053",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Ultimate Sticker Book: Frozen (Ultimate Sticker Books)",
+            "normalizedName": "Ultimate Sticker Book: Frozen (Ultimate Sticker Books)",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B00GV347AO": {
+            "asin": "B00GV347AO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Rubber Bands Storage Case Organizer Loom Band Box. Sort Store Display Charms Friendship Rainbow Bracelet Making Accessories Rainbow Bands Unbreakable Translucent. Brand: Perfect Life Ideas -Tm\u00ae",
+            "normalizedName": "Rubber Bands Storage Case Organizer Loom Band Box. Sort Store Display Charms Friendship Rainbow Bracelet Making Accessories Rainbow Bands Unbreakable Translucent. Brand: Perfect Life Ideas -Tm\u00ae",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

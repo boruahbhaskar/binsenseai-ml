@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZW75RAY": {
+            "asin": "B00ZW75RAY",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "ZHPUAT Three Rings Morning Alarm Clock,Low Light Sensor Technology,Light On Backligt When Detect Low Light,Soft Light That alarm Wake You Up Softly. Pink",
+            "normalizedName": "ZHPUAT Three Rings Morning Alarm Clock,Low Light Sensor Technology,Light On Backligt When Detect Low Light,Soft Light That alarm Wake You Up Softly. Pink",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B014644NPI": {
+            "asin": "B014644NPI",
+            "height": {
+                "unit": "IN",
+                "value": 2.6999945972460053
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.999987993880012
+            },
+            "name": "Lenovo ideacentre Stick 300 Computer (90F20000US)",
+            "normalizedName": "Lenovo ideacentre Stick 300 Computer (90F20000US)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999926237903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999925962260085
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

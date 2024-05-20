@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S2L0YK0": {
+            "asin": "B00S2L0YK0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Barbie: The Look City Shine Redhead Doll",
+            "normalizedName": "Barbie: The Look City Shine Redhead Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B010M3G24C": {
+            "asin": "B010M3G24C",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Spirit Linen Hotel 5Th Ave Prestige Home Collection 6 Piece Sheet Set, King, Victorian Print",
+            "normalizedName": "Spirit Linen Hotel 5Th Ave Prestige Home Collection 6 Piece Sheet Set, King, Victorian Print",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

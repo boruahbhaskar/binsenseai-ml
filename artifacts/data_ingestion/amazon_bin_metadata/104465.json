@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007ZULSY": {
+            "asin": "B0007ZULSY",
+            "height": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.6535432952
+            },
+            "name": "ZOOB 125 Piece Building Set",
+            "normalizedName": "ZOOB 125 Piece Building Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.116416113863187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.3779527494
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

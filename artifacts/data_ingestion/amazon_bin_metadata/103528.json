@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MVMCF26": {
+            "asin": "B00MVMCF26",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "BlenderBottle Classic Loop Top Shaker Bottle, Clear Pink, 20 Ounce",
+            "normalizedName": "BlenderBottle Classic Loop Top Shaker Bottle, Clear Pink, 20 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

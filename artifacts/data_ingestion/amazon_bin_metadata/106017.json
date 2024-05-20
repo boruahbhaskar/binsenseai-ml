@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000S8O9ME": {
+            "asin": "B000S8O9ME",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Changing Lifestyles Safe-er-Grip 17\" Bath & Shower Handle",
+            "normalizedName": "Changing Lifestyles Safe-er-Grip 17\" Bath & Shower Handle",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B005HEXOEI": {
+            "asin": "B005HEXOEI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "Scooby Doo Head Sticking Out Tongue Front & Rear Seat Car Truck SUV Carpet Floor Mats - 4PC",
+            "normalizedName": "Scooby Doo Head Sticking Out Tongue Front & Rear Seat Car Truck SUV Carpet Floor Mats - 4PC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.999999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.099999986638
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

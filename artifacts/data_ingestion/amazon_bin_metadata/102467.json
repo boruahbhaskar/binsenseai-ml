@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FYJHJMY": {
+            "asin": "B00FYJHJMY",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.535433054
+            },
+            "name": "HP UltraSlim Dock 2013 Docking Station D9Y32AA",
+            "normalizedName": "HP UltraSlim Dock 2013 Docking Station D9Y32AA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1746241707947807
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9527558974
+            }
+        },
+        "B019IXWBUG": {
+            "asin": "B019IXWBUG",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Duck River Textiles Maldon Linen-Textured Sheer Pair Panel In Taupe, 54 X 84 Inch Each, Solid",
+            "normalizedName": "Duck River Textiles Maldon Linen-Textured Sheer Pair Panel In Taupe, 54 X 84 Inch Each, Solid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

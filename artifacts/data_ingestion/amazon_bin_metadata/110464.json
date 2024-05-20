@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003YMTJ5S": {
+            "asin": "B003YMTJ5S",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "ACDelco 18A1339A Advantage Non-Coated Rear Disc Brake Rotor",
+            "normalizedName": "ACDelco 18A1339A Advantage Non-Coated Rear Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B00SDJG6MG": {
+            "asin": "B00SDJG6MG",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "Classic Operation Game",
+            "normalizedName": "Classic Operation Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00SIPNTNY": {
+            "asin": "B00SIPNTNY",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "2 Pack V4INK &#174; Replacement HP CE285A 85A Toner Cartridge-2,000 Page Yield Black",
+            "normalizedName": "2 Pack  V4INK &#174; Replacement HP CE285A 85A Toner Cartridge-2,000 Page Yield Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

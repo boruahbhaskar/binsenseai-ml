@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0553384112": {
+            "asin": "0553384112",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "Negotiation Genius: How to Overcome Obstacles and Achieve Brilliant Results at the Bargaining Table and Beyond",
+            "normalizedName": "Negotiation Genius: How to Overcome Obstacles and Achieve Brilliant Results at the Bargaining Table and Beyond",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        },
+        "B01F2YEGYO": {
+            "asin": "B01F2YEGYO",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Xuanli\u00ae 4 Pcs Womens Hair Bun Cover Barrette Bow Snood Net Hair Clip Accessories Professional headdress flower (C023)",
+            "normalizedName": "Xuanli\u00ae 4 Pcs Womens Hair Bun Cover Barrette Bow Snood Net Hair Clip Accessories Professional headdress flower (C023)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

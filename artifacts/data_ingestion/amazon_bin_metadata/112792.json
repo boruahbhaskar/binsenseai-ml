@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003JLAJZ8": {
+            "asin": "B003JLAJZ8",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Safariland 6004 SLS Tactical Holster - OD Green, Right Hand",
+            "normalizedName": "Safariland 6004 SLS Tactical Holster - OD Green, Right Hand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00IZF0LCE": {
+            "asin": "B00IZF0LCE",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "KIND Bars, Caramel Almond and Sea Salt, Gluten Free, 1.4 Ounce Bars, 12 Count",
+            "normalizedName": "KIND Bars, Caramel Almond and Sea Salt, Gluten Free, 1.4 Ounce Bars, 12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01CUSC0TI": {
+            "asin": "B01CUSC0TI",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Stainless Steel Water Bottle - Insulated - Gorgeous Gift Box Included - Hot 24 hours - Cold 12 hours - 17 oz",
+            "normalizedName": "Stainless Steel Water Bottle - Insulated - Gorgeous Gift Box Included - Hot 24 hours - Cold 12 hours - 17 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452686
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

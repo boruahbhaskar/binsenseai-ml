@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010TFQH9S": {
+            "asin": "B010TFQH9S",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "Kingla Home Decorative Throw Pillow Covers 18 X 18 Inch Cotton Linen Square Pillowcases",
+            "normalizedName": "Kingla Home Decorative Throw Pillow Covers 18 X 18 Inch Cotton Linen Square Pillowcases",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B018TDV4NG": {
+            "asin": "B018TDV4NG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Malibu LED Pathway Landscaping Light Calypso Collection",
+            "normalizedName": "Malibu LED Pathway Landscaping Light Calypso Collection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6983543936472325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01C5P1PVA": {
+            "asin": "B01C5P1PVA",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Vet Recommended - Dog Ear Cleaning Solution - With Natural Aloe Vera for Dog Ear Infection. Perfect Dog Ear Cleaner For Yeast Infection and Bacteria - Made in USA (8oz/240ml)",
+            "normalizedName": "Vet Recommended - Dog Ear Cleaning Solution - With Natural Aloe Vera for Dog Ear Infection. Perfect Dog Ear Cleaner For Yeast Infection and Bacteria - Made in USA (8oz/240ml)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

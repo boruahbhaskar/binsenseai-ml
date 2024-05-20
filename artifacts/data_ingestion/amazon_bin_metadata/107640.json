@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DEB6EB6": {
+            "asin": "B00DEB6EB6",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Kellogg's Special K Protein Shake Milk Chocolate, 15 Count",
+            "normalizedName": "Kellogg's Special K Protein Shake Milk Chocolate, 15 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00V7N0MAM": {
+            "asin": "B00V7N0MAM",
+            "height": {
+                "unit": "IN",
+                "value": 2.125984251968504
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.89763779527559
+            },
+            "name": "Valdler Champagne Rose Flower Crown for Wedding Festivals",
+            "normalizedName": "Valdler Champagne Rose Flower Crown for Wedding Festivals",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074863
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.031496062992126
+            }
+        },
+        "B01COPZ6KC": {
+            "asin": "B01COPZ6KC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Grazing 12\" Vintage Arabic Numerals ,Shabby Beach, Weathered Beachy Boards Design ,Ocean Colors Old Paint Boards Printed Image, Rustic Mediterranean Style Wooden Decorative Round Wall Clock (Sky)",
+            "normalizedName": "Grazing 12\" Vintage Arabic Numerals ,Shabby Beach, Weathered Beachy Boards Design ,Ocean Colors Old Paint Boards Printed Image, Rustic Mediterranean Style Wooden Decorative Round Wall Clock (Sky)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

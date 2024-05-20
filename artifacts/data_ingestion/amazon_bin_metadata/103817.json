@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008L2ZNJW": {
+            "asin": "B008L2ZNJW",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Ef chlor Portable water purification tablets (10 per pack,each tablet purifies 6,6 gallons)",
+            "normalizedName": "Ef chlor Portable water purification tablets (10 per pack,each tablet purifies 6,6 gallons)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00DQR63BE": {
+            "asin": "B00DQR63BE",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "name": "Neo G Tennis/Golf Elbow Clasp- Medical Grade with comfort pad- Medical Grade, Breathable, Slimline Design",
+            "normalizedName": "Neo G Tennis/Golf Elbow Clasp- Medical Grade with comfort pad- Medical Grade, Breathable, Slimline Design",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        },
+        "B01CINH4QO": {
+            "asin": "B01CINH4QO",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Lint Remover - the Best Electric Rechargeable - For All Types of Clothes and Fabric",
+            "normalizedName": "Lint Remover - the Best Electric Rechargeable - For All Types of Clothes and Fabric",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6799999994297584
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

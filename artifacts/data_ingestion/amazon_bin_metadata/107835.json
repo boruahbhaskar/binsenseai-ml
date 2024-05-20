@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004HCM9H4": {
+            "asin": "B004HCM9H4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Meguiar's Ultimate Liquid Wax - 16 oz.",
+            "normalizedName": "Meguiar's Ultimate Liquid Wax - 16 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A0RHSJO": {
+            "asin": "B00A0RHSJO",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.599999982048004
+            },
+            "name": "Luxe Bidet Neo 120 - Self Cleaning Nozzle - Fresh Water Non-Electric Mechanical Bidet Toilet Attachment (blue and white)",
+            "normalizedName": "Luxe Bidet Neo 120 - Self Cleaning Nozzle - Fresh Water Non-Electric Mechanical Bidet Toilet Attachment (blue and white)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00A530C3M": {
+            "asin": "B00A530C3M",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Willy Wonka and the Chocolate Factory (Vinyl)",
+            "normalizedName": "Willy Wonka and the Chocolate Factory (Vinyl)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B016RBU5TQ": {
+            "asin": "B016RBU5TQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Golzer BTX40 Bluetooth 4.1 Wireless Headphones with CSR apt-x chip - Black/Silver",
+            "normalizedName": "Golzer BTX40 Bluetooth 4.1 Wireless Headphones with CSR apt-x chip - Black/Silver",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004071ZLC": {
+            "asin": "B004071ZLC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Baby Aspen Baby Chef 3 Piece Layette in Culinary Gift Box, White, 0-6 Months",
+            "normalizedName": "Baby Aspen Baby Chef 3 Piece Layette in Culinary Gift Box, White, 0-6 Months",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00FSCBQV2": {
+            "asin": "B00FSCBQV2",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Babyganics Baby Shampoo and Body Wash, Fragrance Free, 3 Pack",
+            "normalizedName": "3 Pack Babyganics Baby Shampoo and Body Wash, Fragrance Free,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9999999966456374
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01EZ57GE8": {
+            "asin": "B01EZ57GE8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Grill Mat - Set of 6 (Highest Quality): 4 BBQ Grilling Mats + 1 Baking mat + 1 Barbecue Grill Mesh - 15.75 x 13 Inch, 0.20 mm extra thick, 100% Non-stick | Lifetime Guaranteed",
+            "normalizedName": "Set of 6 Grill Mat - (Highest Quality): 4 BBQ Grilling Mats + 1 Baking mat + 1 Barbecue Grill Mesh - 15.75 x 13 Inch, 0.20 mm extra thick, 100% Non-stick | Lifetime Guaranteed",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

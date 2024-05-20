@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004Z7FE": {
+            "asin": "B00004Z7FE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Belkin 25ft VGA/SVGA Monitor Extension HDdb15M/HDdb15F W/Rgb & Coax Tp",
+            "normalizedName": "Belkin 25ft VGA/SVGA Monitor Extension HDdb15M/HDdb15F W/Rgb & Coax Tp",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3039629152572
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00ORXVHDK": {
+            "asin": "B00ORXVHDK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "CLAY POTTERY TOOL KITS 8 PC SET Ceramics Wax Carving Sculpting Molding",
+            "normalizedName": "CLAY POTTERY TOOL KITS 8 PC SET Ceramics Wax Carving Sculpting Molding",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B0134SJXPW": {
+            "asin": "B0134SJXPW",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Creative Solid Decorative Pillow Cover / Throw Pillow Cover 12 by 18 - Hot Pink",
+            "normalizedName": "Creative Solid Decorative Pillow Cover / Throw Pillow Cover 12 by 18 - Hot Pink",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

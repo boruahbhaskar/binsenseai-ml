@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007WLYSA8": {
+            "asin": "B007WLYSA8",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Hanna K. Signature Collection 40 Count Elegance Plastic Coffee Mug, 8-Ounce, Ivory",
+            "normalizedName": "Hanna K. Signature Collection 40 Count Elegance Plastic Coffee Mug, 8-Ounce, Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00L4HWY3E": {
+            "asin": "B00L4HWY3E",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Linksys EA3500 - Dual-Band N750 Router with Gigabit and USB (Certified Refurbished)",
+            "normalizedName": "Linksys EA3500 - Dual-Band N750 Router with Gigabit and USB (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

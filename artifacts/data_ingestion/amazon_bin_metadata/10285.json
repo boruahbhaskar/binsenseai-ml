@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017D1GG6": {
+            "asin": "B0017D1GG6",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Simple Green 11001CT Clean Building All-Purpose Cleaner Concentrate, 1gal Bottle",
+            "normalizedName": "Simple Green 11001CT Clean Building All-Purpose Cleaner Concentrate, 1gal Bottle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.099999992368826
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B01CJ3N5F2": {
+            "asin": "B01CJ3N5F2",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Kipling Art U Tote Bag, Sandcastle Combo, One Size",
+            "normalizedName": "Kipling Art U Tote Bag, Sandcastle Combo, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

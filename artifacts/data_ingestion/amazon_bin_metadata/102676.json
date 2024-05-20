@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AFEMBFS": {
+            "asin": "B00AFEMBFS",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "2 PACK of Cure Natural Aqua Gel 250ml - Best selling exfoliator in Japan",
+            "normalizedName": "2 PACK of Cure Natural Aqua Gel 250ml - Best selling exfoliator in Japan",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00SM3G9RK": {
+            "asin": "B00SM3G9RK",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "AMAZLINEN(TM) Premium Quality Sparkly Gold Round Sequin Tablecloth (108\" Round)",
+            "normalizedName": "AMAZLINEN(TM) Premium Quality Sparkly Gold Round Sequin Tablecloth (108\" Round)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.149999996519849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00VV2YIEU": {
+            "asin": "B00VV2YIEU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Food To Live Poppy Seeds (England) (4 Pounds)",
+            "normalizedName": "Food To Live Poppy Seeds (England) (4 Pounds)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B019ULEPUU": {
+            "asin": "B019ULEPUU",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Summer Waves 50\"x39\" Rocking Lounge",
+            "normalizedName": "Summer Waves 50\"x39\" Rocking Lounge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.549999997023003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

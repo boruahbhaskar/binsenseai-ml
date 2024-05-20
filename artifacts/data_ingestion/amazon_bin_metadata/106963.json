@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000J19R": {
+            "asin": "B00000J19R",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Brother PC-201 Ink Cartridge - Black - Retail Packaging",
+            "normalizedName": "Brother PC-201 Ink Cartridge - Black - Retail Packaging",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B015UA1O5Y": {
+            "asin": "B015UA1O5Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Disney Infinity 3.0 Edition: Star Wars The Force Awakens Play Set",
+            "normalizedName": "Disney Infinity 3.0 Edition: Star Wars The Force Awakens Play Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B019ECXFYM": {
+            "asin": "B019ECXFYM",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Best Memory Foam Travel Pillow with Rayon Bamboo Cover - Newly Improved - Made in the USA - Certipur - Firm & Comfortable Neck Support - Traveling Pillows for Airplanes, Cars, Buses, Trains or Homes",
+            "normalizedName": "Best Memory Foam Travel Pillow with Rayon Bamboo Cover - Newly Improved - Made in the USA - Certipur - Firm & Comfortable Neck Support - Traveling Pillows for Airplanes, Cars, Buses, Trains or Homes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988065999
+            }
+        },
+        "B01ASVD8LS": {
+            "asin": "B01ASVD8LS",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Fisher-Price Thomas the Train Steam Rattle & Roll Thomas",
+            "normalizedName": "Fisher-Price Thomas the Train Steam Rattle & Roll Thomas",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FYOMSMA": {
+            "asin": "B00FYOMSMA",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1338582584
+            },
+            "name": "Hasbro Play-Doh Disney Doc Mcstuffin Doctor Kit Playset",
+            "normalizedName": "Hasbro Play-Doh Disney Doc Mcstuffin Doctor Kit Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.970024052187294
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        },
+        "B00O6UCXUK": {
+            "asin": "B00O6UCXUK",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Cozy Greens\u00ae Baby Car Mirror | Back Seat Rear-facing Infant In Sight | Luxury Gift Box | CRASH TESTED | + FREE GIFTS Cleaning Cloth & Traveling With Kids eBook | Lifetime 100% Satisfaction Guarantee",
+            "normalizedName": "Cozy Greens\u00ae Baby Car Mirror | Back Seat Rear-facing Infant In Sight | Luxury Gift Box | CRASH TESTED | + FREE GIFTS Cleaning Cloth & Traveling With Kids eBook | Lifetime 100% Satisfaction Guarantee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

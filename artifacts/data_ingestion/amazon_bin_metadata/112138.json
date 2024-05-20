@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D5J7SL2": {
+            "asin": "B00D5J7SL2",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Love Home Memory Foam 3d Ventilative Mesh Lumbar Support Cushion Back Cushion - Alleviates Lower Back Pain- (Black)",
+            "normalizedName": "Love Home Memory Foam 3d Ventilative Mesh Lumbar Support Cushion Back Cushion - Alleviates Lower Back Pain- (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5099999987337285
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        },
+        "B01FT8PJ3A": {
+            "asin": "B01FT8PJ3A",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "6 Piece Lux Decor Bed Sheets Set ,Hotel Quality Brushed Microfiber Flat,Fitted Sheet with 4 Pillow Cases, Stain Resistant-Luxurious,Comfortable, Soft & Extremely Durable (Queen Cream)",
+            "normalizedName": "6 Piece Lux Decor Bed Sheets Set ,Hotel Quality Brushed Microfiber Flat,Fitted Sheet with 4 Pillow Cases, Stain Resistant-Luxurious,Comfortable, Soft & Extremely Durable (Queen Cream)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

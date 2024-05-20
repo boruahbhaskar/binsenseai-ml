@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003DH1S26": {
+            "asin": "B003DH1S26",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "New Chapter Every Man's One Daily, Men's Multivitamin Fermented with Probiotics + Selenium + B Vitamins + Vitamin D3 + Organic Non-GMO Ingredients - 72 ct",
+            "normalizedName": "New Chapter Every Man's One Daily, Men's Multivitamin Fermented with Probiotics + Selenium + B Vitamins + Vitamin D3 + Organic Non-GMO Ingredients - 72 ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00U1NFVZ0": {
+            "asin": "B00U1NFVZ0",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Death Wish Whole Bean Coffee Bundle Deal, The World's Strongest Coffee, Fair Trade and USDA Certified Organic, 2 lb Bag",
+            "normalizedName": "Death Wish Whole Bean Coffee Bundle Deal, The World's Strongest Coffee, Fair Trade and USDA Certified Organic, 2 lb Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

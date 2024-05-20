@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00139YMUQ": {
+            "asin": "B00139YMUQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Michelin MN-12279 Digital Programmable Tire Gauge with Light",
+            "normalizedName": "Michelin MN-12279 Digital Programmable Tire Gauge with Light",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00E0D034G": {
+            "asin": "B00E0D034G",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "King Arthur Flour Pumpkin Pie Spice - 3 oz.",
+            "normalizedName": "King Arthur Flour Pumpkin Pie Spice - 3 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

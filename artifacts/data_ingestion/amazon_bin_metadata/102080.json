@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MCC373G": {
+            "asin": "B00MCC373G",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Disney INFINITY: Toy Box Starter Pack (2.0 Edition) - PlayStation 4",
+            "normalizedName": "Disney INFINITY: Toy Box Starter Pack (2.0 Edition) - PlayStation 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B01AMLWN10": {
+            "asin": "B01AMLWN10",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.0
+            },
+            "name": "Because Someone You Love Is In Heaven Home White Religious Framed Art Decor",
+            "normalizedName": "Because Someone You Love Is In Heaven Home White Religious Framed Art Decor",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 13.0
+            }
+        },
+        "B01BO8A2AE": {
+            "asin": "B01BO8A2AE",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Adjustable Bamboo Pillow By CozyCloud | 4 Xs More Bamboo Than Other Brands | Deluxe Shredded Memory Foam Support | Thick, Medium & Thin Heights With Travel Bolster | All USA Made (King)",
+            "normalizedName": "Adjustable Bamboo Pillow By CozyCloud | 4 Xs More Bamboo Than Other Brands | Deluxe Shredded Memory Foam Support | Thick, Medium & Thin Heights With Travel Bolster | All USA Made (King)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.149999994842668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

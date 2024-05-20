@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OGKYNF8": {
+            "asin": "B00OGKYNF8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Shark XFF350 Navigator Lift-Away NV350, NV351, NV352 Replacement Filter Set, 1 Felt + 1 Foam",
+            "normalizedName": "Shark XFF350 Navigator Lift-Away NV350, NV351, NV352 Replacement Filter Set, 1 Felt + 1 Foam",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01DYT7TG6": {
+            "asin": "B01DYT7TG6",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Mini Glow-in-the-Dark Award Rubber Ducks by OTC (2-Pack of 24)",
+            "normalizedName": "Pack of 24 Mini Glow-in-the-Dark Award Rubber Ducks by OTC (2- )",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

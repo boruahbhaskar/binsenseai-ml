@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018WWO2SS": {
+            "asin": "B018WWO2SS",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Bento Lunch Boxes With 10 Bonus Sets Of Cutlery By Ready Foody\u2013 Includes 10 Meal Prep & Food Storage Containers With 3 Food Slots Each & 10 Extra Knives, Forks & Spoons \u2013 Dishwasher, Microwave Safe",
+            "normalizedName": "Bento Lunch Boxes With 10 Bonus Sets Of Cutlery By Ready Foody\u2013 Includes 10 Meal Prep & Food Storage Containers With 3 Food Slots Each & 10 Extra Knives, Forks & Spoons \u2013 Dishwasher, Microwave Safe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B0199ONWFW": {
+            "asin": "B0199ONWFW",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Chanasya Super Soft Cozy Waivy Leave Pattern Beige Brown Fuzzy Fur Warm Throw Blanket - Waivy Leave Pattern",
+            "normalizedName": "Chanasya Super Soft Cozy Waivy Leave Pattern Beige Brown Fuzzy Fur Warm Throw Blanket - Waivy Leave Pattern",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01GPL9NSC": {
+            "asin": "B01GPL9NSC",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 23.99999997552
+            },
+            "name": "POWERTEC 110163 6-Inch x 48-Inch 40 Grit Aluminum Oxide Sanding Belt, 3-Pack",
+            "normalizedName": "3-Pack POWERTEC 110163 6-Inch x 48-Inch 40 Grit Aluminum Oxide Sanding Belt,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5899999986666409
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

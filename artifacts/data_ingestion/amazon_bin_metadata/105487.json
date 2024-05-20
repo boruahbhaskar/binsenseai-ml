@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C9QU0I": {
+            "asin": "B000C9QU0I",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "ACDelco FC212 GM Original Equipment Engine Oil Filler Cap",
+            "normalizedName": "ACDelco FC212 GM Original Equipment Engine Oil Filler Cap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00AST1OQ2": {
+            "asin": "B00AST1OQ2",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "SheaMoisture Lemongrass & Ginger Shea Butter Soap - 8 oz",
+            "normalizedName": "SheaMoisture Lemongrass & Ginger Shea Butter Soap - 8 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00M9G5Y8Q": {
+            "asin": "B00M9G5Y8Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "AmazonBasics Mini DisplayPort (Thunderbolt) to DVI Adapter",
+            "normalizedName": "AmazonBasics Mini DisplayPort (Thunderbolt) to DVI Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B00ONC0TGG": {
+            "asin": "B00ONC0TGG",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "WSP Luxury Rustic Shaving Soap 4.4 Oz in Tin Artisan Made in America Using Vegan Natural Ingredients (Black Amber Vanille)",
+            "normalizedName": "WSP Luxury Rustic Shaving Soap 4.4 Oz in Tin Artisan Made in America Using Vegan Natural Ingredients (Black Amber Vanille)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

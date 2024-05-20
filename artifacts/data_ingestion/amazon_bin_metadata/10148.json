@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000KVLKPI": {
+            "asin": "B000KVLKPI",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "DenTek Tongue Cleaner",
+            "normalizedName": "DenTek Tongue Cleaner",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00U6SL442": {
+            "asin": "B00U6SL442",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Superior Women Kegel Exercise Kit For Pelvic Floor and Bladder Control Training Exercises- Pelvic Beads Kit (Cyan)",
+            "normalizedName": "Superior Women Kegel Exercise Kit For Pelvic Floor and Bladder Control Training Exercises- Pelvic Beads Kit (Cyan)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B012YLRXB6": {
+            "asin": "B012YLRXB6",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "AT&T Go Phone - Microsoft Lumia 640 (Black) - No Contract",
+            "normalizedName": "AT&T Go Phone - Microsoft Lumia 640 (Black) - No Contract",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.769155345155894
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B018Z0TE3K": {
+            "asin": "B018Z0TE3K",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "GlowBowl GB001 Motion Activated Toilet Nightlight",
+            "normalizedName": "GlowBowl GB001 Motion Activated Toilet Nightlight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

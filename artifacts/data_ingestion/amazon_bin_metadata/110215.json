@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007WI0FSA": {
+            "asin": "B007WI0FSA",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Pop Secret Home Style Popcorn, 28 Count",
+            "normalizedName": "Pop Secret Home Style Popcorn, 28 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B00FK8WQMM": {
+            "asin": "B00FK8WQMM",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Malibu Lighting Rock Light",
+            "normalizedName": "Malibu Lighting Rock Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01CU1F8UI": {
+            "asin": "B01CU1F8UI",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "SOLECASA 4.5OZ Porcelain Cup and Saucer Color Collection Microwavable Ceramic Coffee/Tea Cappuccino Cup, Set of 4, Blue",
+            "normalizedName": "Set of 4 SOLECASA 4.5OZ Porcelain Cup and Saucer Color Collection Microwavable Ceramic Coffee/Tea Cappuccino Cup, , Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001NE76O": {
+            "asin": "B0001NE76O",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Play-Doh Meal Makin Kitchen",
+            "normalizedName": "Play-Doh Meal Makin Kitchen",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B00I5062X6": {
+            "asin": "B00I5062X6",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.0
+            },
+            "name": "Sarah Faux Silk Jacquard Wave Pattern Curtain Panels 55'' x 84'' - 2 Pack - Beige",
+            "normalizedName": "2 Pack Sarah Faux Silk Jacquard Wave Pattern Curtain Panels 55'' x 84'' - - Beige",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.0
+            }
+        },
+        "B015QZN6D6": {
+            "asin": "B015QZN6D6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "WWE Raw Superstar Ring",
+            "normalizedName": "WWE Raw Superstar Ring",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324661
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

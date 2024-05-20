@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C81WGG": {
+            "asin": "B000C81WGG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Standard Motor Products US130 Ignition Switch",
+            "normalizedName": "Standard Motor Products US130 Ignition Switch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

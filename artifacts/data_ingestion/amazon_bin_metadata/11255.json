@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001BO40DC": {
+            "asin": "B001BO40DC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "BAZIC Penny Coin Wrappers, 36 Per Pack",
+            "normalizedName": "36 Per Pack BAZIC Penny Coin Wrappers,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00CH5X4ZO": {
+            "asin": "B00CH5X4ZO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Monster Safes MS200 Gun Safe Steel Vault with Key Lock fits Sub-Compact and Full Size 1911 Style Pistol Handgun",
+            "normalizedName": "Monster Safes MS200 Gun Safe Steel Vault with Key Lock fits Sub-Compact and Full Size 1911 Style Pistol Handgun",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00F46300M": {
+            "asin": "B00F46300M",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Disney Mickey Mouse Clubhouse Clubhouse Pals",
+            "normalizedName": "Disney Mickey Mouse Clubhouse Clubhouse Pals",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

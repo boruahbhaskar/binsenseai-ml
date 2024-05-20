@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J2KPMC": {
+            "asin": "B000J2KPMC",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "SYLVANIA 7506 Basic Miniature Bulb, (Pack of 2)",
+            "normalizedName": "(Pack of 2) SYLVANIA 7506 Basic Miniature Bulb,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B013WDJQPQ": {
+            "asin": "B013WDJQPQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "RipaFire\u00ae Apple Shape Anion Humidifier Mini USB Mist Air Humidifier Purifier for Bedrooms Living Rooms Car Home and Office (Yellow)",
+            "normalizedName": "RipaFire\u00ae Apple Shape Anion Humidifier Mini USB Mist Air Humidifier Purifier for Bedrooms Living Rooms Car Home and Office (Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.529104028022095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01D8BC1DG": {
+            "asin": "B01D8BC1DG",
+            "height": {
+                "unit": "IN",
+                "value": 0.7874015731968504
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "UNMCORE 3.5MM Stereo Male To Female AUX Extension Audio Cable for All 3.5mm-Enabled Devices (1M) - Black",
+            "normalizedName": "UNMCORE 3.5MM Stereo Male To Female AUX Extension Audio Cable for All 3.5mm-Enabled Devices (1M) - Black",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.749999992095
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

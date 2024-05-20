@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004INUWX0": {
+            "asin": "B004INUWX0",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Infiniti Pro by Conair Hot Air Spin Styler, 2-Inch",
+            "normalizedName": "Infiniti Pro by Conair Hot Air Spin Styler, 2-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00I08K0CM": {
+            "asin": "B00I08K0CM",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Bigelow Green Tea, Keurig K-Cups, 72 Count",
+            "normalizedName": "Bigelow Green Tea, Keurig K-Cups, 72 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000PCMCJ0": {
+            "asin": "B000PCMCJ0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Turtle Play a 500-Piece Jigsaw Puzzle by Sunsout Inc.",
+            "normalizedName": "Turtle Play a 500-Piece Jigsaw Puzzle by Sunsout Inc.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B0049AUKJI": {
+            "asin": "B0049AUKJI",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "ACCEL 9056C Ceramic Spark Plug Wire Set for Ford 86-93",
+            "normalizedName": "ACCEL 9056C Ceramic Spark Plug Wire Set for Ford 86-93",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00A6TKLRC": {
+            "asin": "B00A6TKLRC",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Hard White Wheat Berries | Non-GMO Project Verified | 100% Non-Irradiated | Certified Kosher Parve | USA Grown |Identity Preserved (We tell you which field we grew it in) \u00c9",
+            "normalizedName": "Hard White Wheat Berries | Non-GMO Project Verified | 100% Non-Irradiated | Certified Kosher Parve | USA Grown |Identity Preserved (We tell you which field we grew it in) \u00c9",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00SQIEHNO": {
+            "asin": "B00SQIEHNO",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "Elegant Comfort \u00ae 1500 Thread Count - WRINKLE RESISTANT - Egyptian Quality 3pc Duvet Cover Set, Solid, King/Cal-King, White",
+            "normalizedName": "Elegant Comfort \u00ae 1500 Thread Count - WRINKLE RESISTANT - Egyptian Quality 3pc Duvet Cover Set, Solid, King/Cal-King, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.81
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0061986623": {
+            "asin": "0061986623",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Another Summer: A Beach House Novel",
+            "normalizedName": "Another Summer: A Beach House Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "0062111736": {
+            "asin": "0062111736",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Folly Beach: A Lowcountry Tale",
+            "normalizedName": "Folly Beach: A Lowcountry Tale",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "0891093117": {
+            "asin": "0891093117",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Parenting With Love and Logic : Teaching Children Responsibility",
+            "normalizedName": "Parenting With Love and Logic : Teaching Children Responsibility",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B015QZMHQS": {
+            "asin": "B015QZMHQS",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Minecraft Mini Figure 3-Pack, Armored Horse, Screaming Enderman & Tabby Cat",
+            "normalizedName": "3-Pack Minecraft Mini Figure , Armored Horse, Screaming Enderman & Tabby Cat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

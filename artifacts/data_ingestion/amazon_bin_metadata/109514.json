@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1440309051": {
+            "asin": "1440309051",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "The Complete Watercolorist's Essential Notebook: A treasury of watercolor secrets discovered through decades of painting and experimentation",
+            "normalizedName": "The Complete Watercolorist's Essential Notebook: A treasury of watercolor secrets discovered through decades of painting and experimentation",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9541641589340317
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5039369992
+            }
+        },
+        "B008YDT10U": {
+            "asin": "B008YDT10U",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Nature's Variety Instinct Limited Ingredient Diet Grain-Free Turkey Formula Canned Cat Food, 5.5 oz. Cans (Case of 12)",
+            "normalizedName": "(Case of 12) Nature's Variety Instinct Limited Ingredient Diet Grain-Free Turkey Formula Canned Cat Food, 5.5 oz. Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.849999995932835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00NQQTXNK": {
+            "asin": "B00NQQTXNK",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Trivial Pursuit Family Edition Game",
+            "normalizedName": "Trivial Pursuit Family Edition Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01BVYUTKO": {
+            "asin": "B01BVYUTKO",
+            "height": {
+                "unit": "IN",
+                "value": 3.3999999965320002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988065999
+            },
+            "name": "Avanchy Sports, Gym, Crossfit, Yoga, Water Bottle. BPA Free Tritan, iPhone 6 or Multi-Use Water Proof Chamber, Flip Top Lid, Headphones Jack",
+            "normalizedName": "Avanchy Sports, Gym, Crossfit, Yoga, Water Bottle. BPA Free Tritan, iPhone 6 or Multi-Use Water Proof Chamber, Flip Top Lid, Headphones Jack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7699999993542853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

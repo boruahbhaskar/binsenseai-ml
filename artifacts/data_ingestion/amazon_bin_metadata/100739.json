@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003L33HOY": {
+            "asin": "B003L33HOY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Garden of Life Perfect Food RAW, 240 Capsules",
+            "normalizedName": "Garden of Life Perfect Food RAW, 240 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B007XRLH7S": {
+            "asin": "B007XRLH7S",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "California Scents Pet Scents Litter Box Odor Neutralizer 6-Unit Tray, Garden Mist, 0.7 Ounce",
+            "normalizedName": "California Scents Pet Scents Litter Box Odor Neutralizer 6-Unit Tray, Garden Mist, 0.7 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00VQOPDX8": {
+            "asin": "B00VQOPDX8",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Card Games for Family Game Night. The Official NERTS Box Set of Playing Cards",
+            "normalizedName": "Card Games for Family Game Night. The Official NERTS Box Set of Playing Cards",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

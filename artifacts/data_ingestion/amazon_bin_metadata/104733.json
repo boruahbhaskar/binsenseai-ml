@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030UF6EW": {
+            "asin": "B0030UF6EW",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Aveeno Baby Daily Moisture Lotion, Fragrance Free, 18  Ounce",
+            "normalizedName": "Aveeno Baby Daily Moisture Lotion, Fragrance Free, 18  Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.749999996175
+            }
+        },
+        "B00376ZEY6": {
+            "asin": "B00376ZEY6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Bequet Gourmet Celtic Sea Salt Caramel - 8 oz bag",
+            "normalizedName": "Bequet Gourmet Celtic Sea Salt Caramel - 8 oz bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01ABWFJIE": {
+            "asin": "B01ABWFJIE",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Garden of Life Organic Smooth Plant Protein, Natural, 226 Gram",
+            "normalizedName": "Garden of Life Organic Smooth Plant Protein, Natural, 226 Gram",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6299999994716879
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

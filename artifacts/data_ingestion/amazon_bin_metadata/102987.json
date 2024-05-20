@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004CR4M5Q": {
+            "asin": "B004CR4M5Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Extech EX505-K Heavy Duty Industrial MultiMeter Kit",
+            "normalizedName": "Extech EX505-K Heavy Duty Industrial MultiMeter Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990106
+            }
+        },
+        "B01GESR1DA": {
+            "asin": "B01GESR1DA",
+            "height": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Rubbermaid Pan Organizer Rack, Black, Set of 2",
+            "normalizedName": "Set of 2 Rubbermaid Pan Organizer Rack, Black,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.29999999639406
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

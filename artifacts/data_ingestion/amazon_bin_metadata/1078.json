@@ -1,0 +1,69 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004TZ86M6": {
+            "asin": "B004TZ86M6",
+            "height": {
+                "unit": "IN",
+                "value": 4.015748031496063
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.527559055118111
+            },
+            "name": "Sawyer Products SP181 PointOne All-in-One Filtration Kit with 32-Ounce Squeezable Pouch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.173228346456693
+            }
+        },
+        "B0096NBJ8O": {
+            "asin": "B0096NBJ8O",
+            "height": {
+                "unit": "IN",
+                "value": 1.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Shangri La Tea Company Iced Tea, Mango, 6 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.1000000000000005
+            }
+        },
+        "B00IDN4OX0": {
+            "asin": "B00IDN4OX0",
+            "height": {
+                "unit": "IN",
+                "value": 2.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.3
+            },
+            "name": "PackIt Freezable Lunch Bag with Zip Closure, Solar System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.3
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1078.jpg"
+}

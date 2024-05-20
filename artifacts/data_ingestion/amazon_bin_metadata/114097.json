@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00139VKUQ": {
+            "asin": "B00139VKUQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "RiteAV - Cat6 Network Ethernet Cable - Blue - 300 ft",
+            "normalizedName": "RiteAV - Cat6 Network Ethernet Cable - Blue - 300 ft",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B003M6YCDK": {
+            "asin": "B003M6YCDK",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Gift Corral Hardwood Boot Jack",
+            "normalizedName": "Gift Corral Hardwood Boot Jack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.249999995665
+            }
+        },
+        "B008BH4IZM": {
+            "asin": "B008BH4IZM",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Marathon 11x4.00-5\" Flat Free Tire on Wheel, 5\" Centered Hub, 5/8\" Bearings",
+            "normalizedName": "Marathon 11x4.00-5\" Flat Free Tire on Wheel, 5\" Centered Hub, 5/8\" Bearings",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

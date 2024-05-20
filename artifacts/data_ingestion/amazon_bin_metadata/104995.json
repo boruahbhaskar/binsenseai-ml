@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003VWU2WA": {
+            "asin": "B003VWU2WA",
+            "height": {
+                "unit": "IN",
+                "value": 3.1102362173
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9448818837
+            },
+            "name": "Griffin Technology NA16029 PowerMate USB Multimedia Controller",
+            "normalizedName": "Griffin Technology NA16029 PowerMate USB Multimedia Controller",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.48501202568692053
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1338582635
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

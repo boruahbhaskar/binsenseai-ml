@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006Z3GYG": {
+            "asin": "B0006Z3GYG",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Good Grips / Sure Grips Button Hook",
+            "normalizedName": "Good Grips / Sure Grips Button Hook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B019HKB02K": {
+            "asin": "B019HKB02K",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Planet Eclipse Paintball 2016 Beanie (Flux Green)",
+            "normalizedName": "Planet Eclipse Paintball 2016 Beanie (Flux Green)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

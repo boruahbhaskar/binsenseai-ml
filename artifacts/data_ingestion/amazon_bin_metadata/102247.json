@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MTM0WK": {
+            "asin": "B000MTM0WK",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Red Bull Sugarfree, Energy Drink, 8.4 Fl Oz Cans, 24 Pack",
+            "normalizedName": "24 Pack Red Bull Sugarfree, Energy Drink, 8.4 Fl Oz Cans,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 14.149999988133946
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00WOAQ1A2": {
+            "asin": "B00WOAQ1A2",
+            "height": {
+                "unit": "IN",
+                "value": 4.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.700000000000001
+            },
+            "name": "Vintage Canvas Cross Body Laptop Messenger Bag , Iblue College Bookbags for M...",
+            "normalizedName": "Vintage Canvas Cross Body Laptop Messenger Bag , Iblue College Bookbags for M...",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.400000000000002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

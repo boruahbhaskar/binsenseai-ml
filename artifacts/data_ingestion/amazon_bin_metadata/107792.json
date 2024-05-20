@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0090DYL7G": {
+            "asin": "B0090DYL7G",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Gerber Graduates Yogurt Melts, Strawberry, 1 oz (Pack of 7)",
+            "normalizedName": "(Pack of 7) Gerber Graduates Yogurt Melts, Strawberry, 1 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00JODM7WS": {
+            "asin": "B00JODM7WS",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Elife Wood Book Stand / Bookstand (Laptop / iPad / Book / Cookbook / Music Stand / Holder) (wood)",
+            "normalizedName": "Elife Wood Book Stand / Bookstand (Laptop / iPad / Book / Cookbook / Music Stand / Holder) (wood)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960901416898
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

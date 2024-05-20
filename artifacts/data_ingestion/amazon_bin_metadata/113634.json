@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00931J7OW": {
+            "asin": "B00931J7OW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "6 Even Snowflakes Silicone Cake Mold",
+            "normalizedName": "6 Even Snowflakes Silicone Cake Mold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0195MH6VY": {
+            "asin": "B0195MH6VY",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Luxurious Australian Merino Sheepskin Steering Wheel Cover - Coffee/Gray -14.5\"-15.5\" - SoJoy",
+            "normalizedName": "Luxurious Australian Merino Sheepskin Steering Wheel Cover - Coffee/Gray -14.5\"-15.5\" - SoJoy",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01GD26FFC": {
+            "asin": "B01GD26FFC",
+            "height": {
+                "unit": "IN",
+                "value": 0.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4
+            },
+            "name": "100 Pcs 5-1/2in x 7-1/2in Clear Resealable Cello / Cellophane Bags Good for Bakery, Candle, Soap, Cookie",
+            "normalizedName": "100 Pcs 5-1/2in x 7-1/2in Clear Resealable Cello / Cellophane Bags Good for Bakery, Candle, Soap, Cookie",
+            "quantity": 4,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

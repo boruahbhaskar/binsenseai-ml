@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0083G3AXC": {
+            "asin": "B0083G3AXC",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Prime Products 13-9003 Utility Tray",
+            "normalizedName": "Prime Products 13-9003 Utility Tray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00GRUOTO0": {
+            "asin": "B00GRUOTO0",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0787401472
+            },
+            "name": "Beyza FOLIO Leather Apple iPad Mini Cover - Irvin Green",
+            "normalizedName": "Beyza FOLIO Leather Apple iPad Mini Cover - Irvin Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B01AV78Y5O": {
+            "asin": "B01AV78Y5O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Breyer Race Horse & Jockey Classics Model Doll",
+            "normalizedName": "Breyer Race Horse & Jockey Classics Model Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320490386663
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

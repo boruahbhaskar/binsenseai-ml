@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002V1H0W2": {
+            "asin": "B002V1H0W2",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Intex Pool Volleyball Game, 94\" X 25\" X 36\", for Ages 6+, Color may vary",
+            "normalizedName": "Intex Pool Volleyball Game, 94\" X 25\" X 36\", for Ages 6+, Color may vary",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B0132YMOQS": {
+            "asin": "B0132YMOQS",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Disney Infinity 3.0 Edition: Star Wars Rebels Sabine Wren Figure",
+            "normalizedName": "Disney Infinity 3.0 Edition: Star Wars Rebels Sabine Wren Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B015P0Q78I": {
+            "asin": "B015P0Q78I",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "AmazonBasics DisplayPort to DisplayPort Cable - 6 Feet",
+            "normalizedName": "AmazonBasics DisplayPort to DisplayPort Cable - 6 Feet",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

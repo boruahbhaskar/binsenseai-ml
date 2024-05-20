@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0849947545": {
+            "asin": "0849947545",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "God Will Use This for Good: Surviving the Mess of Life",
+            "normalizedName": "God Will Use This for Good: Surviving the Mess of Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00006JNK2": {
+            "asin": "B00006JNK2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, 12-Pack, Black",
+            "normalizedName": "12-Pack Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, , Black",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00GRJKD5U": {
+            "asin": "B00GRJKD5U",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "1 X NASA Logos Iron on Patches",
+            "normalizedName": "1 X NASA Logos Iron on Patches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B0156XS2W8": {
+            "asin": "B0156XS2W8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "iPhone 6 Case, Anuck iPhone 6 Wallet case [Anti Scratch][Heavy Duty][Card Pocket] Dual Layer Hybrid Rubber Bumper Protective Card Case Cover for Apple iPhone 6 4.7 inch & iPhone 6s 4.7 inch - Red",
+            "normalizedName": "iPhone 6 Case, Anuck iPhone 6 Wallet case [Anti Scratch][Heavy Duty][Card Pocket] Dual Layer Hybrid Rubber Bumper Protective Card Case Cover for Apple iPhone 6 4.7 inch & iPhone 6s 4.7 inch - Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

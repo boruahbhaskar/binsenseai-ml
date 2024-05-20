@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I1JWWXU": {
+            "asin": "B00I1JWWXU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Legacy of Clean Prewash Liquid 16.9 fl.oz. New Formula",
+            "normalizedName": "Legacy of Clean Prewash Liquid 16.9 fl.oz. New Formula",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01C5543MS": {
+            "asin": "B01C5543MS",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Anesthesia [Blu-ray]",
+            "normalizedName": "Anesthesia [Blu-ray]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.33999999971487926
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01CFMQZXQ": {
+            "asin": "B01CFMQZXQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Peanuts - Pez Limited Edition Gift set (Snoopy, Woodstock, Charlie Brown & Lucy) by Pez Candy",
+            "normalizedName": "Peanuts - Pez Limited Edition Gift set (Snoopy, Woodstock, Charlie Brown & Lucy) by Pez Candy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

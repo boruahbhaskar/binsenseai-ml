@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QUGTKWW": {
+            "asin": "B00QUGTKWW",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Funny Guy Mugs Hangry Travel Tumbler, White, 16-Ounce",
+            "normalizedName": "Funny Guy Mugs Hangry Travel Tumbler, White, 16-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

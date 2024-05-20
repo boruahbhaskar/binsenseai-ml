@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1561488003": {
+            "asin": "1561488003",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Fix-It and Forget-It New Cookbook: 250 New Delicious Slow Cooker Recipes!",
+            "normalizedName": "Fix-It and Forget-It New Cookbook: 250 New Delicious Slow Cooker Recipes!",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00KLL8INE": {
+            "asin": "B00KLL8INE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Polar Loop Activity Tracker",
+            "normalizedName": "Polar Loop Activity Tracker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0089MUDM6": {
+            "asin": "B0089MUDM6",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "A Cat in Paris",
+            "normalizedName": "A Cat in Paris",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B01DW73BKS": {
+            "asin": "B01DW73BKS",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Young Child Adjustable Bicycle Cycling Safety Head Protect Helmet (Red)",
+            "normalizedName": "Young Child Adjustable Bicycle Cycling Safety Head Protect Helmet (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

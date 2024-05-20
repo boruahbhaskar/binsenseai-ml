@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QBMG33O": {
+            "asin": "B00QBMG33O",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Prima Taste Singapore Chilli Crab Lamian Noodles, Pack of 4",
+            "normalizedName": "Pack of 4 Prima Taste Singapore Chilli Crab Lamian Noodles,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

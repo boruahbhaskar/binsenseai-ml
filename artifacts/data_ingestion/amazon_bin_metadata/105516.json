@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M42YZBC": {
+            "asin": "B00M42YZBC",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Similac Total Comfort Infant Formula with Iron, Powder, 22.6 Ounces (Pack of 4)",
+            "normalizedName": "(Pack of 4) Similac Total Comfort Infant Formula with Iron, Powder, 22.6 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.199999993962149
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01D8N9XQM": {
+            "asin": "B01D8N9XQM",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Fashion Supermarket Building block 73 pieces Duplo compatible toy set for preschoolers",
+            "normalizedName": "Fashion Supermarket Building block 73 pieces Duplo compatible toy set for preschoolers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

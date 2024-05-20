@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000Z8WXW0": {
+            "asin": "B000Z8WXW0",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Solgar, Calcium Magnesium with Vitamin D3, 300 Tablets",
+            "normalizedName": "Solgar, Calcium Magnesium with Vitamin D3, 300 Tablets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8299999984653792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00427UEFS": {
+            "asin": "B00427UEFS",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Mastex-600 Standard Moist/dry Heating Pad [220 Volts]",
+            "normalizedName": "Mastex-600 Standard Moist/dry Heating Pad [220 Volts]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B019YD4NEW": {
+            "asin": "B019YD4NEW",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Sig Sauer Romeo 4B 1X20 MM, 2 MOA Red Dot/ 65 MOA Circle Dot Battery Powered with Low Profile Torx Mount",
+            "normalizedName": "Sig Sauer Romeo 4B 1X20 MM, 2 MOA Red Dot/ 65 MOA Circle Dot Battery Powered with Low Profile Torx Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.479999998758886
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

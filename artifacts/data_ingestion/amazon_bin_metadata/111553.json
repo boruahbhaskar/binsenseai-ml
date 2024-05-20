@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003FO2B5U": {
+            "asin": "B003FO2B5U",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Fit & Fresh Cool Coolers Slim Lunch Ice Packs - Set of 4",
+            "normalizedName": "Set of 4 Fit & Fresh Cool Coolers Slim Lunch Ice Packs -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00538TU8C": {
+            "asin": "B00538TU8C",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "99-06 Chevy Silverado GMC Sierra Extended Cab Rear Door handle LH - Driver side",
+            "normalizedName": "99-06 Chevy Silverado GMC Sierra Extended Cab Rear Door handle LH - Driver side",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00UXPIDH4": {
+            "asin": "B00UXPIDH4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Fromm 2.4-Inch Standard Cotton Squares - 160-piece (DEE033)",
+            "normalizedName": "Fromm 2.4-Inch Standard Cotton Squares - 160-piece (DEE033)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01E7J3INA": {
+            "asin": "B01E7J3INA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Ironwork Towel Ring Horse Mare and Foal",
+            "normalizedName": "Ironwork Towel Ring Horse Mare and Foal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

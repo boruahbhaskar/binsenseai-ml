@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004KNBWRI": {
+            "asin": "B004KNBWRI",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "Rubie's Costume Pirate Headband with Dreads",
+            "normalizedName": "Rubie's Costume Pirate Headband with Dreads",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7716535364
+            }
+        },
+        "B00IQMLIP0": {
+            "asin": "B00IQMLIP0",
+            "height": {
+                "unit": "IN",
+                "value": 2.047244094488189
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.047244094488189
+            },
+            "name": "TrendsBlue\u00ae Premium Winter Twist Knit Warm Infinity Circle Scarf, Dark Blue",
+            "normalizedName": "TrendsBlue\u00ae Premium Winter Twist Knit Warm Infinity Circle Scarf, Dark Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3527360189773937
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346456692925
+            }
+        },
+        "B00JWVSS2A": {
+            "asin": "B00JWVSS2A",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Betty Lou's Organic Chocolate Powdered Peanut Butter, 1.5 Pound (Packaging May Vary)",
+            "normalizedName": "Betty Lou's Organic Chocolate Powdered Peanut Butter, 1.5 Pound (Packaging May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00MOOMYFE": {
+            "asin": "B00MOOMYFE",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "MG Men's Plaid Ivy Washed Canvas Newsboy Cap Hat L.GREY One Size",
+            "normalizedName": "MG Men's Plaid Ivy Washed Canvas Newsboy Cap Hat L.GREY One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

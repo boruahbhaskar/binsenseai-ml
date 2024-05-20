@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00002N6RV": {
+            "asin": "B00002N6RV",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Shop-vac 9010700 Reusable Dry Filter, 3-Count",
+            "normalizedName": "Shop-vac 9010700 Reusable Dry Filter, 3-Count",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00N82WTNS": {
+            "asin": "B00N82WTNS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "MG Ladies Sewn Braid Wheat Straw Clip-On Visor (Natural)",
+            "normalizedName": "MG Ladies Sewn Braid Wheat Straw Clip-On Visor (Natural)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

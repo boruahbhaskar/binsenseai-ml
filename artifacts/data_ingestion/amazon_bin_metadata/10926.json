@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006O4AK6": {
+            "asin": "B0006O4AK6",
+            "height": {
+                "unit": "IN",
+                "value": 1.249999998725
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Brooklyn Peddler 4-Tone Pinewood Train Whistle Made in USA",
+            "normalizedName": "Brooklyn Peddler 4-Tone Pinewood Train Whistle Made in USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B00FRDPNA2": {
+            "asin": "B00FRDPNA2",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Fekkai Technician Color Care Conditioner, 8 fl. Oz.",
+            "normalizedName": "Fekkai Technician Color Care Conditioner, 8 fl. Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BL10WU": {
+            "asin": "B000BL10WU",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "TYC 11-5060-01 Dodge Pickup Driver Side Replacement Tail Light Assembly",
+            "normalizedName": "TYC 11-5060-01 Dodge Pickup Driver Side Replacement Tail Light Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00N14ZL7E": {
+            "asin": "B00N14ZL7E",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Bai Bubbles Gimbi Pink Grapefruit, Antioxidant Infused Beverage, 11.5 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Bai Bubbles Gimbi Pink Grapefruit, Antioxidant Infused Beverage, 11.5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

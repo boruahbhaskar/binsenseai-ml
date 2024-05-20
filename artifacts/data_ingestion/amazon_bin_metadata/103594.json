@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006IX7YW": {
+            "asin": "B0006IX7YW",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Camco 36003 Hand Pump Kit",
+            "normalizedName": "Camco 36003 Hand Pump Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00JOEAJ2M": {
+            "asin": "B00JOEAJ2M",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Plum Organics Mighty 4 Essential Nutrition Blend Pouch, Sweet Potato, Blueberry, Millet and Greek Yogurt, 4 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Plum Organics Mighty 4 Essential Nutrition Blend Pouch, Sweet Potato, Blueberry, Millet and Greek Yogurt, 4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7999999968133555
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

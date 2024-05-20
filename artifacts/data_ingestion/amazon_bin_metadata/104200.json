@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015IEM9ME": {
+            "asin": "B015IEM9ME",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Simple&Opulence 100% Linen 3 Piece White Quilt Grey Border Wire Drawing King Queen Twin Duvet Cover Set (King)",
+            "normalizedName": "Simple&Opulence 100% Linen 3 Piece White Quilt Grey Border Wire Drawing King Queen Twin Duvet Cover Set (King)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.899999994213725
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B01ANMNT20": {
+            "asin": "B01ANMNT20",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Aztech 1 Pack Toner Cartridge Replaces Brother TN221BK TN-221BK Black, Standard Yield (2,500 pages)",
+            "normalizedName": "1 Pack Aztech Toner Cartridge Replaces Brother TN221BK TN-221BK Black, Standard Yield (2,500 pages)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

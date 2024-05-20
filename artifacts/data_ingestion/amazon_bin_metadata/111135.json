@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003LYWFHS": {
+            "asin": "B003LYWFHS",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Children's Dimetapp Liquid, Cold & Cough, 8 Ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) Children's Dimetapp Liquid, Cold & Cough, 8 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.749999995155
+            }
+        },
+        "B00KW1ZEV2": {
+            "asin": "B00KW1ZEV2",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Ozera Reusable Popsicle Molds Ice Pop Molds Maker, Set of 6, Green",
+            "normalizedName": "Set of 6 Ozera Reusable Popsicle Molds Ice Pop Molds Maker, , Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

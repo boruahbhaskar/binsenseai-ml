@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000KOSB34": {
+            "asin": "B000KOSB34",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Simmons .22 Mag TruPlex Reticle Rimfire Riflescope with Ring, 3-9x32mm (Matte)",
+            "normalizedName": "Simmons .22 Mag TruPlex Reticle Rimfire Riflescope with Ring, 3-9x32mm (Matte)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B0034L70M8": {
+            "asin": "B0034L70M8",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Redfield Revolution 4-12x40mm Accu-Range",
+            "normalizedName": "Redfield Revolution 4-12x40mm Accu-Range",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B003XU7GJC": {
+            "asin": "B003XU7GJC",
+            "height": {
+                "unit": "IN",
+                "value": 3.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.0
+            },
+            "name": "Starrett P2751-1 Wisdom Remote Display Probe for Electronic Indicators, 0.375\" Stem Dia., 0-4\" Range, 0.0001\" Graduation",
+            "normalizedName": "Starrett P2751-1 Wisdom Remote Display Probe for Electronic Indicators, 0.375\" Stem Dia., 0-4\" Range, 0.0001\" Graduation",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8
+            }
+        },
+        "B01B7P1082": {
+            "asin": "B01B7P1082",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Finding Dory Changing Looks Dory",
+            "normalizedName": "Finding Dory Changing Looks Dory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

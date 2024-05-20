@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TAD56DE": {
+            "asin": "B00TAD56DE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Casecrown MacBook Pro / Air 13\" CaseCrown Campus Horizontal Messenger Bag, Charcoal Gray(CC-MI-4869C)",
+            "normalizedName": "Casecrown MacBook Pro / Air 13\" CaseCrown Campus Horizontal Messenger Bag, Charcoal Gray(CC-MI-4869C)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        },
+        "B00VQTAS7E": {
+            "asin": "B00VQTAS7E",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Eggstractor Egg Peeler, White",
+            "normalizedName": "Eggstractor Egg Peeler, White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

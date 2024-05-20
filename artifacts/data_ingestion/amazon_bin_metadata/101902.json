@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008CU53TI": {
+            "asin": "B008CU53TI",
+            "height": {
+                "unit": "IN",
+                "value": 3.8582677126
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.779527545
+            },
+            "name": "BenQ CM00G3 Universal Ceiling Mount",
+            "normalizedName": "BenQ CM00G3 Universal Ceiling Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.16
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.5511810916
+            }
+        },
+        "B014CCS21U": {
+            "asin": "B014CCS21U",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Deconovo Wide Width Grommet Linen Look Sheer Window Curtains 100x95 Inch, Red, One Panel",
+            "normalizedName": "Deconovo Wide Width Grommet Linen Look Sheer Window Curtains 100x95 Inch, Red, One Panel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B016NE9Z1Q": {
+            "asin": "B016NE9Z1Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Teenage Mutant Ninja Turtles Nickelodeon Metal Mutants Turtles + Fugitoid 5\" Action Figure 5-Pack",
+            "normalizedName": "5-Pack Teenage Mutant Ninja Turtles Nickelodeon Metal Mutants Turtles + Fugitoid 5\" Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

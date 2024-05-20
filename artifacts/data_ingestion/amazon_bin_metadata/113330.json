@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1563477017": {
+            "asin": "1563477017",
+            "height": {
+                "unit": "IN",
+                "value": 1.20078740035
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.29921258894
+            },
+            "name": "Introduction to Aeronautics: A Design Perspective, 2nd Edition (Aiaa Education Series)",
+            "normalizedName": "Introduction to Aeronautics: A Design Perspective, 2nd Edition (Aiaa Education Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2000370049504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.20078739525
+            }
+        },
+        "B00E7GV6G0": {
+            "asin": "B00E7GV6G0",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "BulkSupplements Pure BCAA 2:1:1 (Branch Chain Amino Acids) Instantized Powder (250 grams)",
+            "normalizedName": "BulkSupplements Pure BCAA 2:1:1 (Branch Chain Amino Acids) Instantized Powder (250 grams)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00OQX5V2Y": {
+            "asin": "B00OQX5V2Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Erythritol Granules (5lbs) by Anthony's, Made in the USA, Certified Gluten-Free, Natural Sweetener",
+            "normalizedName": "Erythritol Granules (5lbs) by Anthony's, Made in the USA, Certified Gluten-Free, Natural Sweetener",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B01AUKUVAS": {
+            "asin": "B01AUKUVAS",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.1574802995
+            },
+            "name": "Eathtek New Laptop Keyboard without Frame for Acer Aspire V5-122 V5-122P V5-122P-0894 series Black US Layout, Compatible with part# 9ZN9RSW01D 3090049VHSA",
+            "normalizedName": "Eathtek New Laptop Keyboard without Frame for Acer Aspire V5-122 V5-122P V5-122P-0894 series Black US Layout, Compatible with part# 9ZN9RSW01D 3090049VHSA",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.3149606245
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

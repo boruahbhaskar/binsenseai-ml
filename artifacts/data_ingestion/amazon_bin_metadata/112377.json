@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BNZ63M": {
+            "asin": "B000BNZ63M",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Westin 27-6000 Light Kit",
+            "normalizedName": "Westin 27-6000 Light Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B0197V366M": {
+            "asin": "B0197V366M",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "AUDEW Car Windscreen Cover Heat Sun Shade Anti Snow Frost Ice Shield Dust Protector",
+            "normalizedName": "AUDEW Car Windscreen Cover Heat Sun Shade Anti Snow Frost Ice Shield Dust Protector",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

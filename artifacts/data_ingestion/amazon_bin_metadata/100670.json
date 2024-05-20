@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009T87JSU": {
+            "asin": "B009T87JSU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Lug - Flutter Mini Cross-Body Bag in Ocean Blue",
+            "normalizedName": "Lug - Flutter Mini Cross-Body Bag in Ocean Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B00C88BNPS": {
+            "asin": "B00C88BNPS",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Amdro Kills Ants & Spiders Granules Shaker Bag 3lb",
+            "normalizedName": "Amdro Kills Ants & Spiders Granules Shaker Bag 3lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B012MGT3Q6": {
+            "asin": "B012MGT3Q6",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Marvel 6-Inch Legends Series Marvel's Nuke Figure",
+            "normalizedName": "Marvel 6-Inch Legends Series Marvel's Nuke Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

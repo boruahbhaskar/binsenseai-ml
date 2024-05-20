@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003XGH0YC": {
+            "asin": "B003XGH0YC",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Funko Joker POP Heroes",
+            "normalizedName": "Funko Joker POP Heroes",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        },
+        "B005DQD17A": {
+            "asin": "B005DQD17A",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "IAMS Pate With Gourmet Chicken Canned Cat Food 3 Ounces (Pack of 24)",
+            "normalizedName": "(Pack of 24) IAMS Pate With Gourmet Chicken Canned Cat Food 3 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.279999995572242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

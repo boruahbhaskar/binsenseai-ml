@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FW8X0GQ": {
+            "asin": "B00FW8X0GQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "name": "BeadsTreasure Black Suede Cord Lace Leather Cord For Jewelry Making 3x1.5 mm-20 Feet.",
+            "normalizedName": "BeadsTreasure Black Suede Cord Lace Leather Cord For Jewelry Making 3x1.5 mm-20 Feet.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00GPRS4RI": {
+            "asin": "B00GPRS4RI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Moroccanoil Light Treatment 100ml/3.4oz",
+            "normalizedName": "Moroccanoil Light Treatment 100ml/3.4oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00UKV5YDW": {
+            "asin": "B00UKV5YDW",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "UniquExceptional UDC4silver Fake Security Camera with 30 Illuminating LEDs (Silver)",
+            "normalizedName": "UniquExceptional UDC4silver Fake Security Camera with 30 Illuminating LEDs (Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

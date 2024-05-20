@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DC0ZPFU": {
+            "asin": "B00DC0ZPFU",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "12 Piece Package- Rustic Wooden Snowflake Christmas Ornaments with Jute Hanger Made to Look Worn and Aged",
+            "normalizedName": "12 Piece Package- Rustic Wooden Snowflake Christmas Ornaments with Jute Hanger Made to Look Worn and Aged",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01D52LS28": {
+            "asin": "B01D52LS28",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Neuro Plus Brain Supplement Nootropic \u2014 Boosts Memory, Focus & Concentration \u2014 Enhances Mood \u2014 Designed for Men and Women \u2014 Promotes Superior Brain Function & Mind Clarity \u2014 60 Capsules",
+            "normalizedName": "Neuro Plus Brain Supplement Nootropic \u2014 Boosts Memory, Focus & Concentration \u2014 Enhances Mood \u2014 Designed for Men and Women \u2014 Promotes Superior Brain Function & Mind Clarity \u2014 60 Capsules",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

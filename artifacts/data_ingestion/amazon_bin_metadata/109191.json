@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IRJ1BYU": {
+            "asin": "B00IRJ1BYU",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "BISSELL SPOTLIFTER 2X ESSENTIAL, RED, 1719T",
+            "normalizedName": "BISSELL SPOTLIFTER 2X ESSENTIAL, RED, 1719T",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.34999999467495
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B01F13KDAC": {
+            "asin": "B01F13KDAC",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Impulse Heat Sealer / Plastic Bag Sealer, 8\" (200mm) /12\" (300mm) (8\" (200mm))",
+            "normalizedName": "Impulse Heat Sealer / Plastic Bag Sealer, 8\" (200mm) /12\" (300mm) (8\" (200mm))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

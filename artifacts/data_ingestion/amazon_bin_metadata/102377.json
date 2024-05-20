@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0100U8MVS": {
+            "asin": "B0100U8MVS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Pyrex Basics Clear Oblong Glass Baking Dishes, 2 Piece Value-plus Pack Set",
+            "normalizedName": "Pyrex Basics Clear Oblong Glass Baking Dishes, 2 Piece Value-plus Pack Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B0162FFD8K": {
+            "asin": "B0162FFD8K",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "NFL Philadelphia Eagles Men's 2015 Ugly Cardigan Sweater, XX-Large, Team Color",
+            "normalizedName": "NFL Philadelphia Eagles Men's 2015 Ugly Cardigan Sweater, XX-Large, Team Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

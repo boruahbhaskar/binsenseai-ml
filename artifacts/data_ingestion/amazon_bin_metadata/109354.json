@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001650XUK": {
+            "asin": "B001650XUK",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Kraft Grated Parmesan Cheese, 6-Gram Packages (Pack of 200)",
+            "normalizedName": "(Pack of 200) Kraft Grated Parmesan Cheese, 6-Gram Packages",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00472O4Y0": {
+            "asin": "B00472O4Y0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Oceanstar WR1149 12-Bottle Natural Bamboo Wine Rack",
+            "normalizedName": "Oceanstar WR1149 12-Bottle Natural Bamboo Wine Rack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B007OM9W2E": {
+            "asin": "B007OM9W2E",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Daily Chef translucent white squeeze bottles -16 Oz. - 6 pk.",
+            "normalizedName": "Daily Chef translucent white squeeze bottles -16 Oz. - 6 pk.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00V5FWK6Q": {
+            "asin": "B00V5FWK6Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.417322823
+            },
+            "name": "Kitchen Maestro Collapsible Silicone Colander/Strainer. Includes 2 Sizes 8 and 9.5 inch.",
+            "normalizedName": "Kitchen Maestro Collapsible Silicone Colander/Strainer. Includes 2 Sizes 8 and 9.5 inch.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800355822459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.9763779436
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

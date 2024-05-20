@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZWJTRNA": {
+            "asin": "B00ZWJTRNA",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "GLW 20W 12V DC LED Flood Light, Waterpoof Outdoor Security Light, Warm White 150W Halogen Equivalent",
+            "normalizedName": "GLW 20W 12V DC LED Flood Light, Waterpoof Outdoor Security Light, Warm White 150W Halogen Equivalent",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B013H1EP3G": {
+            "asin": "B013H1EP3G",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Apple Watch Case, SUPCASE [Unicorn Beetle Pro] Rugged Protective Case with Strap Bands for Apple Watch / Watch Sport / Watch Edition 2015 [42mm, Not Compatible with 38 mm] (Black)",
+            "normalizedName": "Apple Watch Case, SUPCASE [Unicorn Beetle Pro] Rugged Protective Case with Strap Bands for Apple Watch / Watch Sport / Watch Edition 2015 [42mm, Not Compatible with 38 mm] (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B015IH9J42": {
+            "asin": "B015IH9J42",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Essential Oil Diffuser, [New Version]Amir 100ml Cool Mist Aroma Humidifier Ultrasonic Aromatherapy Oil Diffuser - Portable for Home, Yoga, Office, Spa, Bedroom, Baby Room, Etc",
+            "normalizedName": "Essential Oil Diffuser, [New Version]Amir 100ml Cool Mist Aroma Humidifier Ultrasonic Aromatherapy Oil Diffuser - Portable for Home, Yoga, Office, Spa, Bedroom, Baby Room, Etc",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

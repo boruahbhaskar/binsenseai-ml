@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003A6H2Y8": {
+            "asin": "B003A6H2Y8",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Sigma 50-500mm f/4.5-6.3 APO DG OS HSM SLD Ultra Telephoto Zoom Lens for Nikon Digital DSLR Camera",
+            "normalizedName": "Sigma 50-500mm f/4.5-6.3 APO DG OS HSM SLD Ultra Telephoto Zoom Lens for Nikon Digital DSLR Camera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01GOHL5GU": {
+            "asin": "B01GOHL5GU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "DreamPool\u00ae Giant Unicorn Inflatable Luxury Pool Float | Outdoor Swimming Pool Floatie Lounge Toy for Adults & Kids",
+            "normalizedName": "DreamPool\u00ae Giant Unicorn Inflatable Luxury Pool Float | Outdoor Swimming Pool Floatie Lounge Toy for Adults & Kids",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.399999995471611
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.9999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

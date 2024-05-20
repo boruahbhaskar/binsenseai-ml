@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00STVU46W": {
+            "asin": "B00STVU46W",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "O'Neill Reactor toddler full wetsuit Youth 6 Coal/flint/blaze orange (4629B)",
+            "normalizedName": "O'Neill Reactor toddler full wetsuit Youth 6 Coal/flint/blaze orange (4629B)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00Y4QBJCY": {
+            "asin": "B00Y4QBJCY",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Crayola Visimax Markers (24-Count)",
+            "normalizedName": "Crayola Visimax Markers (24-Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00YFQARNU": {
+            "asin": "B00YFQARNU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Meat Tenderizer Tool From Cook@home: Turn Every Meat Cut to Sensational Juicy Steak.",
+            "normalizedName": "Meat Tenderizer Tool From Cook@home: Turn Every Meat Cut to Sensational Juicy Steak.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B0158VZLYU": {
+            "asin": "B0158VZLYU",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 19.9999999796
+            },
+            "name": "Chuck It! Hands Free Fetch Game - Pack of 2 (Junior, Orange)",
+            "normalizedName": "Pack of 2 Chuck It! Hands Free Fetch Game - (Junior, Orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

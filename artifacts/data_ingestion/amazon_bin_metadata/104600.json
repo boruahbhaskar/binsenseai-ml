@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XLVBL4O": {
+            "asin": "B00XLVBL4O",
+            "height": {
+                "unit": "IN",
+                "value": 4.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.25
+            },
+            "name": "Strength of God, Michael the Angel Collectible Figurine",
+            "normalizedName": "Strength of God, Michael the Angel Collectible Figurine",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        },
+        "B015Q5MZUQ": {
+            "asin": "B015Q5MZUQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "You Can't Take It with You [Blu-ray]",
+            "normalizedName": "You Can't Take It with You [Blu-ray]",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

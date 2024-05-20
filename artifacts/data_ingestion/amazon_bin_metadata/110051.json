@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0091HKNLE": {
+            "asin": "B0091HKNLE",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Dr. Browns Natural Flow Level 3 Standard Nipple - 6 Nipples",
+            "normalizedName": "Dr. Browns Natural Flow Level 3 Standard Nipple - 6 Nipples",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B009S5Y69E": {
+            "asin": "B009S5Y69E",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "ABUS 83CS/55-300 S2 Schlage 55mm Rekeyable Padlock Solid Steel Chrome Plated Body, 1.4375-Inch Closed Shackle, Zero-Bitted",
+            "normalizedName": "ABUS 83CS/55-300 S2 Schlage 55mm Rekeyable Padlock Solid Steel Chrome Plated Body, 1.4375-Inch Closed Shackle, Zero-Bitted",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00LTXBSM6": {
+            "asin": "B00LTXBSM6",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "OtterBox Original Case 77-22522 for Apple iPhone 5 (Defender Series), Retail Packaging - AP Pink",
+            "normalizedName": "OtterBox Original Case 77-22522 for Apple iPhone 5 (Defender Series), Retail Packaging - AP Pink",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B013HMNNI8": {
+            "asin": "B013HMNNI8",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Moco Moco Friends - Nintendo 3DS",
+            "normalizedName": "Moco Moco Friends - Nintendo 3DS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BLQDXWE": {
+            "asin": "B00BLQDXWE",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Medline 4-Panel Abdominal Binders, 4X-Large",
+            "normalizedName": "Medline 4-Panel Abdominal Binders, 4X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00QMHOFQ0": {
+            "asin": "B00QMHOFQ0",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Now Designs Fringed Table Runner, Tonal Stripe Turquoise",
+            "normalizedName": "Now Designs Fringed Table Runner, Tonal Stripe Turquoise",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B010XQXAAM": {
+            "asin": "B010XQXAAM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "T-fal C71802 Precision Stainless Steel Nonstick Ceramic Coating PTFE PFOA and Cadmium Free Scratch Resistant Dishwasher Safe Oven Safe Fry Pan Cookware, 8-Inch, Silver",
+            "normalizedName": "T-fal C71802 Precision Stainless Steel Nonstick Ceramic Coating PTFE PFOA and Cadmium Free Scratch Resistant Dishwasher Safe Oven Safe Fry Pan Cookware, 8-Inch, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520723904125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

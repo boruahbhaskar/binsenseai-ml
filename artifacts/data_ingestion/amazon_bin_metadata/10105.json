@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HN2BUOI": {
+            "asin": "B00HN2BUOI",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Angry Birds Space Giant Action Game",
+            "normalizedName": "Angry Birds Space Giant Action Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B015QLPXQ8": {
+            "asin": "B015QLPXQ8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Black Real Carbon Fiber Glossy Finish License Plate Frame with 2 Holes",
+            "normalizedName": "Black Real Carbon Fiber Glossy Finish License Plate Frame with 2 Holes",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

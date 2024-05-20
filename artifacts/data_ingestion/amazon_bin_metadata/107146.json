@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I149RW": {
+            "asin": "B004I149RW",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Depo 335-2019L-AS Chevrolet Avalanche/Silverado Driver Side Replacement Fog Light Assembly",
+            "normalizedName": "Depo 335-2019L-AS Chevrolet Avalanche/Silverado Driver Side Replacement Fog Light Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989086
+            }
+        },
+        "B0055FGAS6": {
+            "asin": "B0055FGAS6",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "Maxam KTFLK128 Enormous Novelty Stainless Steel Flask 128 oz/1 gallon",
+            "normalizedName": "Maxam KTFLK128 Enormous Novelty Stainless Steel Flask 128 oz/1 gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

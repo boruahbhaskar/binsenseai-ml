@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010LMLIA2": {
+            "asin": "B010LMLIA2",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "lederTEK Battery Operated String Lights 50 LED 13.1ft Fairy Christmas Lighting D\u00e9cor with 8 Modes Automatic Timer For Outdoor, Indoor, Garden, Patio, Lawn, Valentine's Day Decorations(Multi Color)",
+            "normalizedName": "lederTEK Battery Operated String Lights 50 LED 13.1ft Fairy Christmas Lighting D\u00e9cor with 8 Modes Automatic Timer For Outdoor, Indoor, Garden, Patio, Lawn, Valentine's Day Decorations(Multi Color)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01CCMOMM0": {
+            "asin": "B01CCMOMM0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.749999992095
+            },
+            "name": "HDMI Splitter, SOWTECH(TM) Digital 1X2 HDMI Switch for Full HD 1080P Support 3D (One Input To Two Outputs)",
+            "normalizedName": "HDMI Splitter, SOWTECH(TM) Digital 1X2 HDMI Switch for Full HD 1080P Support 3D (One Input To Two Outputs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.23999999979873823
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.249999995665
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

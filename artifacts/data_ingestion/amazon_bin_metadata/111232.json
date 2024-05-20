@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VWTA94": {
+            "asin": "B000VWTA94",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Book, Memorandum, 5-1/2\" X 8\" Green Log Book (12/pack), NSN 7530-00-222-3521",
+            "normalizedName": "Book, Memorandum, 5-1/2\" X 8\" Green Log Book (12/pack), NSN 7530-00-222-3521",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01F5FGF80": {
+            "asin": "B01F5FGF80",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "3DTriFit 3D Pedometer Activity Tracker with Built-in Clip | Pause & Resume Feature, 7-Day Memory, Accurately Track Steps, Calories, Miles/Km. Best Pedometer for Walking for Women, Men & Kids (Black)",
+            "normalizedName": "3DTriFit 3D Pedometer Activity Tracker with Built-in Clip | Pause & Resume Feature, 7-Day Memory, Accurately Track Steps, Calories, Miles/Km. Best Pedometer for Walking for Women, Men & Kids (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4149999996519849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

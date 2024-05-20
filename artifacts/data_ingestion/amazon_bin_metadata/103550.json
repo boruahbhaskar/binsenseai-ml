@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TF8Z7ZG": {
+            "asin": "B00TF8Z7ZG",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.6456692764
+            },
+            "name": "Thames & Kosmos Remote-Control Machines: Animals Science Kit",
+            "normalizedName": "Thames & Kosmos Remote-Control Machines: Animals Science Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.5748031378
+            }
+        },
+        "B01BA8EWT0": {
+            "asin": "B01BA8EWT0",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Bruntmor, CRUX Royal 18/10 Stainless Steel 16-piece Steak Knife set Wooden Gift Box",
+            "normalizedName": "Bruntmor, CRUX Royal 18/10 Stainless Steel 16-piece Steak Knife set Wooden Gift Box",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.849999995932835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

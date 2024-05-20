@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0096HUKZS": {
+            "asin": "B0096HUKZS",
+            "height": {
+                "unit": "IN",
+                "value": 3.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9
+            },
+            "name": "Instaflex Joint Support, 90 Count",
+            "normalizedName": "Instaflex Joint Support, 90 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.4
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

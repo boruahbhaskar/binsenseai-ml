@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007LTNXC": {
+            "asin": "B0007LTNXC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Highland Notes, 3 x 3-Inches, Yellow, 12-Pads/Pack",
+            "normalizedName": "Highland Notes, 3 x 3-Inches, Yellow, 12-Pads/Pack",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00D7H9LIA": {
+            "asin": "B00D7H9LIA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "HotHands Hand Warmers 10 Pair Value Pack",
+            "normalizedName": "HotHands Hand Warmers 10 Pair Value Pack",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

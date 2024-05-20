@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00015UC5M": {
+            "asin": "B00015UC5M",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Guar Gum, 8 oz.",
+            "normalizedName": "Guar Gum, 8 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B000NUAFF2": {
+            "asin": "B000NUAFF2",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Old World Christmas Alligator Glass Blown Ornament",
+            "normalizedName": "Old World Christmas Alligator Glass Blown Ornament",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B0160DK70I": {
+            "asin": "B0160DK70I",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Saw Palmetto Fusion Extract Complex with Vitamin B6 & Zinc (90 Capsules)",
+            "normalizedName": "Saw Palmetto Fusion Extract Complex with Vitamin B6 & Zinc (90 Capsules)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01BFKWTQG": {
+            "asin": "B01BFKWTQG",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "AT-A-GLANCE Academic Year Weekly / Monthly Appointment Book / Planner, July 2016 - July 2017, 4-3/8\"x6-1/4\", Black (793-300A)",
+            "normalizedName": "AT-A-GLANCE Academic Year Weekly / Monthly Appointment Book / Planner, July 2016 - July 2017, 4-3/8\"x6-1/4\", Black (793-300A)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

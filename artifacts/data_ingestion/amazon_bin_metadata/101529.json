@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R2DUWOM": {
+            "asin": "B00R2DUWOM",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Antra AH7-860-0000 Solar Power Auto Darkening Welding Helmet AntFi X60-8 Jumbo Viewing Size 3.78\"X3.5\" Variable Shade 4/5-9/9-13 with Grinding Feature Extra lens cover Good for Arc Tig Mig Plasma CSA / ANSI Certified By Colts Lab",
+            "normalizedName": "Antra AH7-860-0000 Solar Power Auto Darkening Welding Helmet AntFi X60-8 Jumbo Viewing Size 3.78\"X3.5\" Variable Shade 4/5-9/9-13 with Grinding Feature Extra lens cover Good for Arc Tig Mig Plasma CSA / ANSI Certified By Colts Lab",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00ZY3GSGS": {
+            "asin": "B00ZY3GSGS",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Under Armour Clean Up Baseball Cleat for Kid",
+            "normalizedName": "Under Armour Clean Up Baseball Cleat for Kid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B017PD9C1M": {
+            "asin": "B017PD9C1M",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "15-pc Art Paint Brush Set Everlasting Star: The Mix of Quality for Watercolor, Acrylics, Oil Paint, Face Painting. Brushes with Synthetic Bristles and Wooden Handle for Artists of Every Level.",
+            "normalizedName": "15-pc Art Paint Brush Set Everlasting Star: The Mix of Quality for Watercolor, Acrylics, Oil Paint, Face Painting. Brushes with Synthetic Bristles and Wooden Handle for Artists of Every Level.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

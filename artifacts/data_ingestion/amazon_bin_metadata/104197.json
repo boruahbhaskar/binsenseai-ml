@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HUG0JB2": {
+            "asin": "B00HUG0JB2",
+            "height": {
+                "unit": "IN",
+                "value": 5.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.2
+            },
+            "name": "WeatherTech 81BS1 CargoTech Cargo Containment System",
+            "normalizedName": "WeatherTech 81BS1 CargoTech Cargo Containment System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.5
+            }
+        },
+        "B01DEUZPSE": {
+            "asin": "B01DEUZPSE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "ComfyMed Breathable Mesh Back Brace CM-SB01 Lower Back Pain Relief Support Belt Size LGE (38\" - 50\" Belly)",
+            "normalizedName": "ComfyMed Breathable Mesh Back Brace CM-SB01 Lower Back Pain Relief Support Belt Size LGE (38\" - 50\" Belly)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

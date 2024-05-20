@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1421584492": {
+            "asin": "1421584492",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "My Love Story!!, Vol. 8",
+            "normalizedName": "My Love Story!!, Vol. 8",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "1598803840": {
+            "asin": "1598803840",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "name": "Rick Steves' Pocket Amsterdam",
+            "normalizedName": "Rick Steves' Pocket Amsterdam",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B005IA9X7I": {
+            "asin": "B005IA9X7I",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "Downtown Pet Supply Dog/Puppy Obedience Recall Training Agility Lead",
+            "normalizedName": "Downtown Pet Supply Dog/Puppy Obedience Recall Training Agility Lead",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.53
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0078740086
+            }
+        },
+        "B007TNSM0G": {
+            "asin": "B007TNSM0G",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Ovation Child Heart & Horse Gloves,Black/grey,size B 12-14",
+            "normalizedName": "Ovation Child Heart & Horse Gloves,Black/grey,size B 12-14",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

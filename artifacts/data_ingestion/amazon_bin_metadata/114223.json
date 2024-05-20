@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HJTI3BS": {
+            "asin": "B00HJTI3BS",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "GoodNites Tru-Fit Real Underwear with Nighttime Protection Starter Pack for Boys, Large and Extra Large, 7 Count",
+            "normalizedName": "GoodNites Tru-Fit Real Underwear with Nighttime Protection Starter Pack for Boys, Large and Extra Large, 7 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00O7CM12W": {
+            "asin": "B00O7CM12W",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Lifetime Warranty FDA cleared OTC HealthmateForever YK15AB TENS unit with 4 outputs, apply 8 pads at the same time, 15 modes Handheld Electrotherapy device | Electronic Pulse Massager for Electrotherapy Pain Management -- Pain Relief Therapy : Chosen by Sufferers of Tennis Elbow, Carpal Tunnel Syndrome, Arthritis, Bursitis, Tendonitis, Plantar Fasciitis, Sciatica, Back Pain, Fibromyalgia, Shin Splints, Neuropathy and other Inflammation Ailments Patent No. USD723178S",
+            "normalizedName": "Lifetime Warranty FDA cleared OTC HealthmateForever YK15AB TENS unit with 4 outputs, apply 8 pads at the same time, 15 modes Handheld Electrotherapy device | Electronic Pulse Massager for Electrotherapy Pain Management -- Pain Relief Therapy : Chosen by Sufferers of Tennis Elbow, Carpal Tunnel Syndrome, Arthritis, Bursitis, Tendonitis, Plantar Fasciitis, Sciatica, Back Pain, Fibromyalgia, Shin Splints, Neuropathy and other Inflammation Ailments Patent No. USD723178S",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B01A5FBEYA": {
+            "asin": "B01A5FBEYA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Fintie SmartShell Case for Fire HD 10 - Ultra Slim Lightweight Standing Cover with Auto Wake / Sleep for Amazon Fire HD 10 Tablet (10.1\" HD Display 5th Generation - 2015 release), Child's Garden",
+            "normalizedName": "Fintie SmartShell Case for Fire HD 10 - Ultra Slim Lightweight Standing Cover with Auto Wake / Sleep for Amazon Fire HD 10 Tablet (10.1\" HD Display 5th Generation - 2015 release), Child's Garden",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01DZ6BI7E": {
+            "asin": "B01DZ6BI7E",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Ecola Antifatigue Comfort Foam Black Wave Rest Mice Pad Pro-Fit Mousepad for Optical Mouse(Black)",
+            "normalizedName": "Ecola Antifatigue Comfort Foam Black Wave Rest Mice Pad Pro-Fit Mousepad for Optical Mouse(Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

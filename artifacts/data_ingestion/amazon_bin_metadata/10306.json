@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ZT12NK": {
+            "asin": "B000ZT12NK",
+            "height": {
+                "unit": "IN",
+                "value": 4.8818897588
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.6771653414
+            },
+            "name": "Hershey's chocolate flavored milk , 21- 8 Ounce Aseptic Boxes",
+            "normalizedName": "Hershey's chocolate flavored milk , 21- 8 Ounce Aseptic Boxes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2913385732
+            }
+        },
+        "B002P8JO0M": {
+            "asin": "B002P8JO0M",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "TYC 5330031 Toyota Tundra Passenger Side Power Non-Heated Replacement Mirror",
+            "normalizedName": "TYC 5330031 Toyota Tundra Passenger Side Power Non-Heated Replacement Mirror",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024
+            }
+        },
+        "B00IF1VS7U": {
+            "asin": "B00IF1VS7U",
+            "height": {
+                "unit": "IN",
+                "value": 5.899988193982011
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699968583986031
+            },
+            "name": "PLAYMOBIL Ladder Unit with Lights & Sound Set",
+            "normalizedName": "PLAYMOBIL Ladder Unit with Lights & Sound Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999998415480874
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699976588066024
+            }
+        },
+        "B011MIZMSS": {
+            "asin": "B011MIZMSS",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Nerf Sports Dude Perfect PerfectShot Hoops",
+            "normalizedName": "Nerf Sports Dude Perfect PerfectShot Hoops",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.149999996519849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

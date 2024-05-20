@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F1J8K4I": {
+            "asin": "B00F1J8K4I",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Gaia Herbs Turmeric Supreme Extra Strength Liquid Phyto-Capsules, 120 Count",
+            "normalizedName": "Gaia Herbs Turmeric Supreme Extra Strength Liquid Phyto-Capsules, 120 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00Z7F218W": {
+            "asin": "B00Z7F218W",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Techege Toys Beginner Train Set Great First Train Set Safe Easy To Set Up Battery Powered Simple Fun Kids",
+            "normalizedName": "Techege Toys Beginner Train Set Great First Train Set Safe Easy To Set Up Battery Powered Simple Fun Kids",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

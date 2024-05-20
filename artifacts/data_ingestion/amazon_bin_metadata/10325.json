@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YWD4V5Q": {
+            "asin": "B00YWD4V5Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Dorman 923-263 Third Brake Light Assembly for BMW Z4",
+            "normalizedName": "Dorman 923-263 Third Brake Light Assembly for BMW Z4",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7799999993458994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

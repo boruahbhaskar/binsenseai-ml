@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D2JN87I": {
+            "asin": "B00D2JN87I",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Baby Shusher - The Soothing Sleep Miracle for Babies",
+            "normalizedName": "Baby Shusher - The Soothing Sleep Miracle for Babies",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B019FEM0ZY": {
+            "asin": "B019FEM0ZY",
+            "height": {
+                "unit": "IN",
+                "value": 2.1653543285
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "Car Bluetooth Fm Transmitter Wireless Fm Transmitter Bluetooth Fm Transmitter with USB Charger Music Control Hands-Free Calling Works with Iphone Samsung Lg More Tablets Mp3 Players",
+            "normalizedName": "Car Bluetooth Fm Transmitter Wireless Fm Transmitter Bluetooth Fm Transmitter with USB Charger Music Control Hands-Free Calling Works with Iphone Samsung Lg More Tablets Mp3 Players",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.9212598375
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

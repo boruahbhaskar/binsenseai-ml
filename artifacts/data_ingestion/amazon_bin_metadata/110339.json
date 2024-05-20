@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G97S4HE": {
+            "asin": "B00G97S4HE",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Fiber Optic Glacier Lite with Color-Changing Crystals by Westminster Inc.",
+            "normalizedName": "Fiber Optic Glacier Lite with Color-Changing Crystals by Westminster Inc.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00U2ON9B6": {
+            "asin": "B00U2ON9B6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "EVGA GeForce GTX 970 4GB FTW+ GAMING ACX 2.0+, Whisper Silent Cooling w/ Free Installed Backplate Graphics Card 04G-P4-3978-KR",
+            "normalizedName": "EVGA GeForce GTX 970 4GB FTW+ GAMING ACX 2.0+, Whisper Silent Cooling w/ Free Installed Backplate Graphics Card 04G-P4-3978-KR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

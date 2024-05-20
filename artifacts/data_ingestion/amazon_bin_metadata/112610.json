@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006WNMJ": {
+            "asin": "B00006WNMJ",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Culligan FM-15RA Level 3 Faucet Filter Replacement Cartridge",
+            "normalizedName": "Culligan FM-15RA Level 3 Faucet Filter Replacement Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B000N0WBKO": {
+            "asin": "B000N0WBKO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Diner Dash - Nintendo DS",
+            "normalizedName": "Diner Dash - Nintendo DS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B00AYPMG26": {
+            "asin": "B00AYPMG26",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "95MM front Lens cap with keep Leash 95 mm quality snap-on / clip-on design",
+            "normalizedName": "95MM front Lens cap with keep Leash 95 mm quality snap-on / clip-on design",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B016P9HIIQ": {
+            "asin": "B016P9HIIQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Art Naturals Cellulite Massager & Remover Brush Mitt - Best Natural Solution for Eliminating Cellulite on Arms, Legs, Thighs & Body - Ergonomic Design for Gentle & Effortless Massaging & Exfoliating",
+            "normalizedName": "Art Naturals Cellulite Massager & Remover Brush Mitt - Best Natural Solution for Eliminating Cellulite on Arms, Legs, Thighs & Body - Ergonomic Design for Gentle & Effortless Massaging & Exfoliating",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

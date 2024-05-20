@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009ASXZHI": {
+            "asin": "B009ASXZHI",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "SE JT3405DS 25Pc Doming Punch & Dapping Block Set with a Wood Stand",
+            "normalizedName": "SE JT3405DS 25Pc Doming Punch & Dapping Block Set with a Wood Stand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

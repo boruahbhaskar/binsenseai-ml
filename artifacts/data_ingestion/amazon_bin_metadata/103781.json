@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ASJOCDO": {
+            "asin": "B00ASJOCDO",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "O'Neill Wetsuits UV Sun Protection Mens Skins Short Sleeve Crew Sun Shirt Rash Guard, White/White/White, 3X-Large",
+            "normalizedName": "O'Neill Wetsuits UV Sun Protection Mens Skins Short Sleeve Crew Sun Shirt Rash Guard, White/White/White, 3X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00N4OSR8Q": {
+            "asin": "B00N4OSR8Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Purex 08993 Dryer Sheets, Mountain Breeze, 40 Count",
+            "normalizedName": "Purex 08993 Dryer Sheets, Mountain Breeze, 40 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B010MVQHR6": {
+            "asin": "B010MVQHR6",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "iPhone 6s Plus Screen Protector, Spigen\u00ae [3D Touch Compatible- Full Coverage Tempered Glass] iPhone 6 Plus / 6s Plus Premium Oil Resistant Coated Glass Screen Protector - Black (SGP11636)",
+            "normalizedName": "iPhone 6s Plus Screen Protector, Spigen\u00ae [3D Touch Compatible- Full Coverage Tempered Glass] iPhone 6 Plus / 6s Plus Premium Oil Resistant Coated Glass Screen Protector - Black (SGP11636)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3858267682
+            }
+        },
+        "B01D3BPZ0M": {
+            "asin": "B01D3BPZ0M",
+            "height": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.842519675
+            },
+            "name": "Helly Hansen Aspire Lifa Flow Singlet - Women's Aqua Marine Medium",
+            "normalizedName": "Helly Hansen Aspire Lifa Flow Singlet - Women's Aqua Marine Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.10231131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

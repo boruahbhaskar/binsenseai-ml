@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015WJQ7A": {
+            "asin": "B0015WJQ7A",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "Etymotic Research ER20 ETY-Plugs Hearing Protection Earplugs, Standard Fit, Clear Stem with Frost Tip",
+            "normalizedName": "Etymotic Research ER20 ETY-Plugs Hearing Protection Earplugs, Standard Fit, Clear Stem with Frost Tip",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B01CCMOMM0": {
+            "asin": "B01CCMOMM0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.749999992095
+            },
+            "name": "HDMI Splitter, SOWTECH(TM) Digital 1X2 HDMI Switch for Full HD 1080P Support 3D (One Input To Two Outputs)",
+            "normalizedName": "HDMI Splitter, SOWTECH(TM) Digital 1X2 HDMI Switch for Full HD 1080P Support 3D (One Input To Two Outputs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.23999999979873823
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.249999995665
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

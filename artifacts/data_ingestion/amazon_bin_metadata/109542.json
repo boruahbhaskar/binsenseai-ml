@@ -1,0 +1,37 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FWKYKPE": {
+            "asin": "B00FWKYKPE",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "EOOPRO Warm Weather Sleeping Bag - Outdoor Camping, Backpacking & Hiking - Fit for Kids, Teens and Adults - Spring, Summer & Fall - Lightweight, Waterproof & Compact Blue",
+            "normalizedName": "EOOPRO Warm Weather Sleeping Bag - Outdoor Camping, Backpacking & Hiking - Fit for Kids, Teens and Adults - Spring, Summer & Fall - Lightweight, Waterproof & Compact Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B014R6HEP6": {
+            "asin": "B014R6HEP6",
+            "height": null,
+            "length": null,
+            "name": "NCAA Indiana State Sycamores Mascot Block Arch Crew Neck Sweatshirt, X-Large, White",
+            "normalizedName": "NCAA Indiana State Sycamores Mascot Block Arch Crew Neck Sweatshirt, X-Large, White",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

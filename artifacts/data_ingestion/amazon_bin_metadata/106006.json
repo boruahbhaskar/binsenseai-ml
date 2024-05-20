@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V3MJUDM": {
+            "asin": "B00V3MJUDM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Techege Bright Orange Toy Coach Touring Bus, Illuminates Beautiful Flashing Colorful Lights while playing Music, - Moves Around on Its Own and Changes Directions When It Touches Something - Great Gift Idea Sure to Keep Kids Entertained for Hours",
+            "normalizedName": "Techege Bright Orange Toy Coach Touring Bus, Illuminates Beautiful Flashing Colorful Lights while playing Music, - Moves Around on Its Own and Changes Directions When It Touches Something - Great Gift Idea Sure to Keep Kids Entertained for Hours",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B016D9OYUS": {
+            "asin": "B016D9OYUS",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Insignia Flex NS-P10A6100 NS-P16AT10 Rotating Case,Mama Mouth 360 Degree Rotary Stand With Cute Lovely Pattern Cover For 10.1\" Insignia Flex 10.1 NS-P16AT10 NS-P10A6100 Tablet,Giraffe Purple",
+            "normalizedName": "Insignia Flex NS-P10A6100 NS-P16AT10 Rotating Case,Mama Mouth 360 Degree Rotary Stand With Cute Lovely Pattern Cover For 10.1\" Insignia Flex 10.1 NS-P16AT10 NS-P10A6100 Tablet,Giraffe Purple",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

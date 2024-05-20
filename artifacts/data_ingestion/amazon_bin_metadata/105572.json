@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01104WJCG": {
+            "asin": "B01104WJCG",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "ilovebaby Kick Mat Car Seat Protectors Seat 2 In 1 Clean Mechanism from Kids Dirty Feet Complete with Handy Pocket Organizers and Storage Durable Water Resistant Tamper Proof Damage Proof Black",
+            "normalizedName": "ilovebaby Kick Mat Car Seat Protectors Seat 2 In 1 Clean Mechanism from Kids Dirty Feet Complete with Handy Pocket Organizers and Storage Durable Water Resistant Tamper Proof Damage Proof Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01EOF5ZY2": {
+            "asin": "B01EOF5ZY2",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Whirlpool Filter 3 PUR Kenmore Sears Refrigerator Water Filter Push Button 4396841, 4396710, 46-9030. Premium Filters",
+            "normalizedName": "Whirlpool Filter 3 PUR Kenmore Sears Refrigerator Water Filter Push Button 4396841, 4396710, 46-9030. Premium Filters",
+            "quantity": 17,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 20
+}

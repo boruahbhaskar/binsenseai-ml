@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N648JU": {
+            "asin": "B000N648JU",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Merrick Turducken Dog Food 13.2 oz (12 Count Case)",
+            "normalizedName": "Merrick Turducken Dog Food 13.2 oz (12 Count Case)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B001AJQGNU": {
+            "asin": "B001AJQGNU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Snap-N-Store File Box, Letter/Legal Size, Glossy Black (SNS01536)",
+            "normalizedName": "Snap-N-Store File Box, Letter/Legal Size, Glossy Black (SNS01536)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

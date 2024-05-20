@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J05ME0K": {
+            "asin": "B00J05ME0K",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.354330693
+            },
+            "name": "Mega Bloks SpongeBob Invisible Boatmobile Rescue",
+            "normalizedName": "Mega Bloks SpongeBob Invisible Boatmobile Rescue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0582080569315935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.4960629804
+            }
+        },
+        "B00Y1HPJWW": {
+            "asin": "B00Y1HPJWW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Yubi Power Universal Power Strip 3 Sockets - 100v to 220v/250v and 2500 Watts Surge Protector - With Circuit Breaker - Us Plug - World Wide Use - Plus 3 Universal Plug Travel Adapters - Type E/f for Eu - Type G for Uk - Type I for Au - 4 Pack Set",
+            "normalizedName": "4 Pack Yubi Power Universal Power Strip 3 Sockets - 100v to 220v/250v and 2500 Watts Surge Protector - With Circuit Breaker - Us Plug - World Wide Use - Plus 3 Universal Plug Travel Adapters - Type E/f for Eu - Type G for Uk - Type I for Au - Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01A7RCDAA": {
+            "asin": "B01A7RCDAA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Fuzzeez Cat",
+            "normalizedName": "Fuzzeez Cat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

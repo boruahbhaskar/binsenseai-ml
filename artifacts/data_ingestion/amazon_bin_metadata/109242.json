@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0991846206": {
+            "asin": "0991846206",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "The Five Minute Journal: A Happier You in 5 Minutes a Day",
+            "normalizedName": "The Five Minute Journal: A Happier You in 5 Minutes a Day",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6849999994255656
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3499999945429995
+            }
+        },
+        "B003RCGPCK": {
+            "asin": "B003RCGPCK",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Blocker Tie Ring II Stainless Steel",
+            "normalizedName": "Blocker Tie Ring II Stainless Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01AXIBUH0": {
+            "asin": "B01AXIBUH0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Beados Crystal + Glitter Mega Bead Refill Pack",
+            "normalizedName": "Beados Crystal + Glitter Mega Bead Refill Pack",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

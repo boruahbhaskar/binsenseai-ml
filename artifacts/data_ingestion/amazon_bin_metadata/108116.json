@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OMX2P90": {
+            "asin": "B00OMX2P90",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0314960548
+            },
+            "name": "WWE Signature Series -  Batista",
+            "normalizedName": "WWE Signature Series -  Batista",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B00WH1QCMA": {
+            "asin": "B00WH1QCMA",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Funny Guy Mugs Happy To Help Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Happy To Help Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

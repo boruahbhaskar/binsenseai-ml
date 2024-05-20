@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028QISNK": {
+            "asin": "B0028QISNK",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Barbie Timeless Treasures Hollywood Legends Collection: Scarlett O'Hara (1994)",
+            "normalizedName": "Barbie Timeless Treasures Hollywood Legends Collection: Scarlett O'Hara (1994)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B015IEM9ME": {
+            "asin": "B015IEM9ME",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Simple&Opulence 100% Linen 3 Piece White Quilt Grey Border Wire Drawing King Queen Twin Duvet Cover Set (King)",
+            "normalizedName": "Simple&Opulence 100% Linen 3 Piece White Quilt Grey Border Wire Drawing King Queen Twin Duvet Cover Set (King)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.899999994213725
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

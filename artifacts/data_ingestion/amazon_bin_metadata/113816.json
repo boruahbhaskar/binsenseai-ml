@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007TJGY6O": {
+            "asin": "B007TJGY6O",
+            "height": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Coffee People Donut Shop Coffee, Regular Medium Roast, K-Cup Portion Count for Keurig Brewers 24-Count (Pack of 4)",
+            "normalizedName": "(Pack of 4) Coffee People Donut Shop Coffee, Regular Medium Roast, K-Cup Portion Count for Keurig Brewers 24-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.249999995597399
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B015YHYQ0I": {
+            "asin": "B015YHYQ0I",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Giro Verona Helmet - Women's Black Galaxy",
+            "normalizedName": "Giro Verona Helmet - Women's Black Galaxy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1605081144235547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B0177GTZ4G": {
+            "asin": "B0177GTZ4G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.749999982915
+            },
+            "name": "COOP Hydro Lacrosse (Colors May Vary)",
+            "normalizedName": "COOP Hydro Lacrosse (Colors May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

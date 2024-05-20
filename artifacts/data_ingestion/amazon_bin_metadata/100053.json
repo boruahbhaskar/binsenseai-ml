@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VMOC7DG": {
+            "asin": "B00VMOC7DG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Incredible Mother's Day Gift Handheld Body Calf Massager Acupressure Roller for Stress Pain Relief One Side Ring, Gift for Christmas or Birthday to Your Loved Ones",
+            "normalizedName": "Incredible Mother's Day Gift Handheld Body Calf Massager Acupressure Roller for Stress Pain Relief One Side Ring, Gift for Christmas or Birthday to Your Loved Ones",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B010IU5B78": {
+            "asin": "B010IU5B78",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Healthy Hide Good'n'Fun Triple Flavor Kabobs (82245)",
+            "normalizedName": "Healthy Hide Good'n'Fun Triple Flavor Kabobs (82245)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B014JT1N7Q": {
+            "asin": "B014JT1N7Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Flying Wish Paper - IT FLIES!, Pops of Periwinkle Twinkle, MIDNIGHT BLUE - 7\" x 7\" - Large Kits",
+            "normalizedName": "Flying Wish Paper - IT FLIES!, Pops of Periwinkle Twinkle, MIDNIGHT BLUE - 7\" x 7\" - Large Kits",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B014ZCJVDU": {
+            "asin": "B014ZCJVDU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Dublin Tina Short Sleeve Show Shirt Pale Blue Ladies LARGE",
+            "normalizedName": "Dublin Tina Short Sleeve Show Shirt Pale Blue Ladies LARGE",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

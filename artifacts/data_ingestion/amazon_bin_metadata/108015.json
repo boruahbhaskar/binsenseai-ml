@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002NVTD6Q": {
+            "asin": "B002NVTD6Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Dum Dums - 120 Ct Box",
+            "normalizedName": "Dum Dums - 120 Ct Box",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B005JRAYJQ": {
+            "asin": "B005JRAYJQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Opti-Free Puremoist Multi-Purpose Disinfecting Solution, 10 Oz (Pack of 2)",
+            "normalizedName": "(Pack of 2) Opti-Free Puremoist Multi-Purpose Disinfecting Solution, 10 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5599999986917987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00X4SD9NA": {
+            "asin": "B00X4SD9NA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Made From Nature 100% Natural African Black Soap Selection Great for Delicate, Normal and Combination Skin Types (32 OZ LIQUID)",
+            "normalizedName": "Made From Nature 100% Natural African Black Soap Selection Great for Delicate, Normal and Combination Skin Types (32 OZ LIQUID)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

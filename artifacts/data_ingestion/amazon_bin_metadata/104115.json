@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CBPAPZW": {
+            "asin": "B00CBPAPZW",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "TSSS LED RGB Crystal Ball Sound Active Stage Light for Children Birthday Party Wedding Lighting Show Celebrations",
+            "normalizedName": "TSSS LED RGB Crystal Ball Sound Active Stage Light for Children Birthday Party Wedding Lighting Show Celebrations",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291094288
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3070866108
+            }
+        },
+        "B01CKGEMU0": {
+            "asin": "B01CKGEMU0",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "London Has Fallen",
+            "normalizedName": "London Has Fallen",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

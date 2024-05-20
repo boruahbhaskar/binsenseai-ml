@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BO0Y24": {
+            "asin": "B000BO0Y24",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "MSA Safety Works 10059484 Expandable Foam Ear Plugs in Counter Display, 100-Pair",
+            "normalizedName": "MSA Safety Works 10059484 Expandable Foam Ear Plugs in Counter Display, 100-Pair",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B002665ZTC": {
+            "asin": "B002665ZTC",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Rat Zapper Classic RZC001",
+            "normalizedName": "Rat Zapper Classic RZC001",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B018DP0MNS": {
+            "asin": "B018DP0MNS",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Winsen Dry Bag Sack Waterproof Compression,plus Phone Dry Bag,most Durable Bags with Adjustable Shoulder Strap,perfect Bag for Boating,kayaking,hiking,rafting,canoeing,snowboarding,camping Fishing 10l",
+            "normalizedName": "Winsen Dry Bag Sack Waterproof Compression,plus Phone Dry Bag,most Durable Bags with Adjustable Shoulder Strap,perfect Bag for Boating,kayaking,hiking,rafting,canoeing,snowboarding,camping Fishing 10l",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

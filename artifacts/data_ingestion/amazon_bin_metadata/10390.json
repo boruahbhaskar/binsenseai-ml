@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004OZTQ8Y": {
+            "asin": "B004OZTQ8Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Provon Antimicrobial Lotion Soap - 16 oz Pump",
+            "normalizedName": "Provon Antimicrobial Lotion Soap - 16 oz Pump",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00DOAH0RO": {
+            "asin": "B00DOAH0RO",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "LOWRANCE ETHEXT-6YL 6' CABLE - ETHERNET",
+            "normalizedName": "LOWRANCE ETHEXT-6YL 6' CABLE - ETHERNET",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00FH2ZQ9Q": {
+            "asin": "B00FH2ZQ9Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs World's Okayest Dad Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs World's Okayest Dad Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

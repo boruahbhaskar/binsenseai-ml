@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009NE7B06": {
+            "asin": "B009NE7B06",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Slappa Full-Sized HardBody PRO Headphone Case Ultimate Protection for Audio Technica, Beats, Sony + many more",
+            "normalizedName": "Slappa Full-Sized HardBody PRO Headphone Case Ultimate Protection for Audio Technica, Beats, Sony + many more",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00ROBPGWK": {
+            "asin": "B00ROBPGWK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "1 Yard PreCut - Winnie the Pooh \"Fun in the Sun!\" Fabric - Pooh, Piglet, Tigger & Eeyore (Great for Quilting, Sewing, Craft Projects, Throw Pillows & More) Pre-Cut 1 Yard X 44\" Wide",
+            "normalizedName": "1 Yard PreCut - Winnie the Pooh \"Fun in the Sun!\" Fabric - Pooh, Piglet, Tigger & Eeyore (Great for Quilting, Sewing, Craft Projects, Throw Pillows & More) Pre-Cut 1 Yard X 44\" Wide",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00V6BRNEI": {
+            "asin": "B00V6BRNEI",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "iPhone 6&6s(4.7\" inch)case,Leather Flip Protective Wallet Card Holder Cover Shell Case with HD Screen Protector,i6,Back card-Black",
+            "normalizedName": "iPhone 6&6s(4.7\" inch)case,Leather Flip Protective Wallet Card Holder Cover Shell Case with HD Screen Protector,i6,Back card-Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

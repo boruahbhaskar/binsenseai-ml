@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UVKE2I": {
+            "asin": "B000UVKE2I",
+            "height": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Jensen 3-Speed Stereo Turntable with AM/FM Stereo Radio (Silver)",
+            "normalizedName": "Jensen 3-Speed Stereo Turntable with AM/FM Stereo Radio (Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.999999994129867
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        },
+        "B00BSN2402": {
+            "asin": "B00BSN2402",
+            "height": {
+                "unit": "IN",
+                "value": 7.749999992095
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.249999988525
+            },
+            "name": "Tipperary Sportage 8500 Riding Helmet XS Tan",
+            "normalizedName": "Tipperary Sportage 8500 Riding Helmet XS Tan",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999826475924666
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01BM3L4RQ": {
+            "asin": "B01BM3L4RQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "3 PACK: Forti-Flax - Pouch - 28 oz.",
+            "normalizedName": "3 PACK: Forti-Flax - Pouch - 28 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.199999995639329
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

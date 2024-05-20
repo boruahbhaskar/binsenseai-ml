@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008HZEW54": {
+            "asin": "B008HZEW54",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Chauvet Hurricane 901 Fog Machine",
+            "normalizedName": "Chauvet Hurricane 901 Fog Machine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00S69E8GO": {
+            "asin": "B00S69E8GO",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "ThreeZero Game of Thrones: Jon Snow 1:6 Scale Action Figure",
+            "normalizedName": "ThreeZero Game of Thrones: Jon Snow 1:6 Scale Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

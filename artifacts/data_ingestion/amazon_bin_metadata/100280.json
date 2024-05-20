@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CQJ0DK": {
+            "asin": "B000CQJ0DK",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "TCP 32030 CFL Circle Lamp - 120 Watt Equivalent (only 30w used) Soft White (2700K) T9 Circline Lamp",
+            "normalizedName": "TCP 32030 CFL Circle Lamp - 120 Watt Equivalent (only 30w used) Soft White (2700K) T9 Circline Lamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

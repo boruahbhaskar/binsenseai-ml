@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00378K7JQ": {
+            "asin": "B00378K7JQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Paradise GL22627 Low Voltage Plastic 4W Path Light, Black (Quick Clip Connector, Incandescent T5 Wedge Bulb - Included)",
+            "normalizedName": "Paradise GL22627 Low Voltage Plastic 4W Path Light, Black (Quick Clip Connector, Incandescent T5 Wedge Bulb - Included)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0061G4B6G": {
+            "asin": "B0061G4B6G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999986128
+            },
+            "name": "Canon Office Products PG-240XL/CL-241XL with Canon GP601 Glossy Photo Paper",
+            "normalizedName": "Canon Office Products PG-240XL/CL-241XL with Canon GP601 Glossy Photo Paper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B01DFMVTKO": {
+            "asin": "B01DFMVTKO",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Helmet Hawks \u00ae Motorcycle Helmet Mohawk w/ Sticky Velcro Adhesive - Highlighter Yellow",
+            "normalizedName": "Helmet Hawks \u00ae Motorcycle Helmet Mohawk w/ Sticky Velcro Adhesive - Highlighter Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

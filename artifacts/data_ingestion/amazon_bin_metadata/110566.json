@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000IT1E": {
+            "asin": "B00000IT1E",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Barbie City Seasons Collector Edition Autumn in London -- 1999 Autumn Collection",
+            "normalizedName": "Barbie City Seasons Collector Edition Autumn in London -- 1999 Autumn Collection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B0056P7638": {
+            "asin": "B0056P7638",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Creative Grids 60 Degree Triangle (Finished Size Up to 12 Inches) Quilting Ruler",
+            "normalizedName": "Creative Grids 60 Degree Triangle (Finished Size Up to 12 Inches) Quilting Ruler",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00794LHTI": {
+            "asin": "B00794LHTI",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Crossfire II 6 - 18x44mm AO Riflescope, DEAD-HOLD BDC",
+            "normalizedName": "Crossfire II 6 - 18x44mm AO Riflescope, DEAD-HOLD BDC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B019EUHI24": {
+            "asin": "B019EUHI24",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "Bedsure Flourish Style 3-Piece All Season Classic Quilt Set - Quilt and Sham, Bedspread and Coverlet, Hypoallergic and Lightweight -- Full/Queen, Floral #4",
+            "normalizedName": "Bedsure Flourish Style 3-Piece All Season Classic Quilt Set - Quilt and Sham, Bedspread and Coverlet, Hypoallergic and Lightweight -- Full/Queen, Floral #4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.699999996058625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

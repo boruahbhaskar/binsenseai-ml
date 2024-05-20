@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004BYVOHO": {
+            "asin": "B004BYVOHO",
+            "height": {
+                "unit": "IN",
+                "value": 0.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.5
+            },
+            "name": "l'esclave endormi 12",
+            "normalizedName": "l'esclave endormi 12",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 12.5
+            }
+        },
+        "B005WIGCAW": {
+            "asin": "B005WIGCAW",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Fresh Eggs Hen Chicken Distressed Retro Vintage Tin Sign",
+            "normalizedName": "Fresh Eggs Hen Chicken Distressed Retro Vintage Tin Sign",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        },
+        "B00FEDXNHA": {
+            "asin": "B00FEDXNHA",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.0157480172
+            },
+            "name": "Mega Bloks Jeep Forest Expedition Building Set",
+            "normalizedName": "Mega Bloks Jeep Forest Expedition Building Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0582080569315935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.4960629804
+            }
+        },
+        "B00J8NLC5C": {
+            "asin": "B00J8NLC5C",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Inglesina - Fast Table Chair With Dining Tray- Black",
+            "normalizedName": "Inglesina - Fast Table Chair With Dining Tray- Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.099999986638
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

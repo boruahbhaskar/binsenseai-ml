@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004JMNKWA": {
+            "asin": "B004JMNKWA",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Daron Southwest Airlines Airport Playset",
+            "normalizedName": "Daron Southwest Airlines Airport Playset",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01BHL3DA4": {
+            "asin": "B01BHL3DA4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Five Star Spiral Notebooks, 1 Subject, 100 College Ruled Sheets, Assorted Trend Colors, 6-Pack (38057)",
+            "normalizedName": "6-Pack Five Star Spiral Notebooks, 1 Subject, 100 College Ruled Sheets, Assorted Trend Colors, (38057)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.2499999947588085
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000M8J402": {
+            "asin": "B000M8J402",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Allergy Research Group Butyren, 815mg - 100 Tablets",
+            "normalizedName": "Allergy Research Group Butyren, 815mg - 100 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B000RG5CHI": {
+            "asin": "B000RG5CHI",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Pyridoxine P5P (B-6) 60 Capsules",
+            "normalizedName": "Pyridoxine P5P (B-6) 60 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B0199R4WZI": {
+            "asin": "B0199R4WZI",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Disney Tsum Tsum Lights & Sounds Donald Plush",
+            "normalizedName": "Disney Tsum Tsum Lights & Sounds Donald Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133352013": {
+            "asin": "0133352013",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Evaluating Research in Communication Disorders (7th Edition) (Pearson Communication Sciences and Disorders)",
+            "normalizedName": "Evaluating Research in Communication Disorders (7th Edition) (Pearson Communication Sciences and Disorders)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "0691135045": {
+            "asin": "0691135045",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Physics and Technology for Future Presidents: An Introduction to the Essential Physics Every World Leader Needs to Know",
+            "normalizedName": "Physics and Technology for Future Presidents: An Introduction to the Essential Physics Every World Leader Needs to Know",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "0891415327": {
+            "asin": "0891415327",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "The Art of Maneuver: Maneuver Warfare Theory and Airland Battle",
+            "normalizedName": "The Art of Maneuver: Maneuver Warfare Theory and Airland Battle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B01A7PVTGG": {
+            "asin": "B01A7PVTGG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Silicon Devices Wireless Bluetooth Sports Headphones, Red",
+            "normalizedName": "Silicon Devices Wireless Bluetooth Sports Headphones, Red",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000AF0A78": {
+            "asin": "B000AF0A78",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Heather's Tummy Teas Organic Fennel Tea Bags (45 Jumbo Teabags) for IBS, 8.82 Ounce",
+            "normalizedName": "Heather's Tummy Teas Organic Fennel Tea Bags (45 Jumbo Teabags) for IBS, 8.82 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00KRQWBQS": {
+            "asin": "B00KRQWBQS",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "Canned Kookaburra",
+            "normalizedName": "Canned Kookaburra",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1763698096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8346456664
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

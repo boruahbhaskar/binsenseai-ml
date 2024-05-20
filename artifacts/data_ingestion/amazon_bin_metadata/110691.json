@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017YSN4JY": {
+            "asin": "B017YSN4JY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.599999982048004
+            },
+            "name": "WISHMADE Square Laser Cut Glod Pocket Wedding Invitations Cards Set for Birthday Bridal Shower Ribbon with Envelopes Seals Printable Beige Inner Paper",
+            "normalizedName": "WISHMADE Square Laser Cut Glod Pocket Wedding Invitations Cards Set for Birthday Bridal Shower Ribbon with Envelopes Seals Printable Beige Inner Paper",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01FSF0QVE": {
+            "asin": "B01FSF0QVE",
+            "height": {
+                "unit": "IN",
+                "value": 5.125
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.951
+            },
+            "name": "Garnier Hair Care Whole Blends Color Care Shampoo, Argan Oil and Cranberry Extracts, 22 Fluid Ounce (Pack of 4)",
+            "normalizedName": "(Pack of 4) Garnier Hair Care Whole Blends Color Care Shampoo, Argan Oil and Cranberry Extracts, 22 Fluid Ounce",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.291
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

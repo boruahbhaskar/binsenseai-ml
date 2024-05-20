@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GIPVHE4": {
+            "asin": "B00GIPVHE4",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Spice Appeal Taco Seasoning, 22 Ounce",
+            "normalizedName": "Spice Appeal Taco Seasoning, 22 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00NFSGS4Q": {
+            "asin": "B00NFSGS4Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "SS Trinity I",
+            "normalizedName": "SS Trinity I",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01CYGSUOU": {
+            "asin": "B01CYGSUOU",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "name": "HBS-900 Wireless Bluetooth Headset with Microphone for LG, iPhone 6S Plus and more",
+            "normalizedName": "HBS-900 Wireless Bluetooth Headset with Microphone for LG, iPhone 6S Plus and more",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

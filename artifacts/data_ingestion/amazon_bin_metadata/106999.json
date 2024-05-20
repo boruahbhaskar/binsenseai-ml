@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000PHJV2G": {
+            "asin": "B000PHJV2G",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Breast Actives All Natural Breast Enhancement Supplement Capsules and Cream Combo Kit - Natural Formula for Natural Breast Enhancement - 1 Pack (1 Month Supply) - 60 Capsules - 2 oz Cream",
+            "normalizedName": "1 Pack Breast Actives All Natural Breast Enhancement Supplement Capsules and Cream Combo Kit - Natural Formula for Natural Breast Enhancement - (1 Month Supply) - 60 Capsules - 2 oz Cream",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00VHCW8JG": {
+            "asin": "B00VHCW8JG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Partsam For 1999-2010 Ford F350F450F550 LED Dually Bed Side Fender Marker Light 4x Amber&4x Red",
+            "normalizedName": "Partsam For 1999-2010 Ford F350F450F550 LED Dually Bed Side Fender Marker Light 4x Amber&4x Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01FHZYDJG": {
+            "asin": "B01FHZYDJG",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "name": "Set of Three Rudraksh with 4 Stone Ring with red thread, Raksha bandhan Gift for your Brother.",
+            "normalizedName": "Set of Three Rudraksh with 4 Stone Ring with red thread, Raksha bandhan Gift for your Brother.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.1023622036
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

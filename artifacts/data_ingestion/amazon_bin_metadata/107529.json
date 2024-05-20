@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015NU7F9A": {
+            "asin": "B015NU7F9A",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Bestvitality Premim Natural Homeopathic Stress, Panic and Anti Anxiety Relief Supplement (L-theanine - 150mg) Supports Mental Clarity 60 Vegetarian Capsules - Made in USA",
+            "normalizedName": "Bestvitality Premim Natural Homeopathic Stress, Panic and Anti Anxiety Relief Supplement (L-theanine - 150mg) Supports Mental Clarity 60 Vegetarian Capsules - Made in USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01766QDTC": {
+            "asin": "B01766QDTC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Cinnamon Essential Oil From Majestic Pure Extracted From Leaves, Pure and Natural Therapeutic Grade, 4 fl. oz.",
+            "normalizedName": "Cinnamon Essential Oil From Majestic Pure Extracted From Leaves, Pure and Natural Therapeutic Grade, 4 fl. oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

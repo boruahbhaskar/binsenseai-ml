@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XKLYWFU": {
+            "asin": "B00XKLYWFU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Chill Pal Ultimate Cooling Towel \u2605Love It Or It's Free Guaranteed\u2605",
+            "normalizedName": "Chill Pal Ultimate Cooling Towel \u2605Love It Or It's Free Guaranteed\u2605",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B0192LVKI8": {
+            "asin": "B0192LVKI8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "name": "King Of Thieves Essential Oil Blend - 100% Pure, Therapeutic grade, Unique Organic Formula - Supports Immune System Health, kills germs, helps prevent cold and flu, Antibacterial - by HopeWind Health",
+            "normalizedName": "King Of Thieves Essential Oil Blend - 100% Pure, Therapeutic grade, Unique Organic Formula - Supports Immune System Health, kills germs, helps prevent cold and flu, Antibacterial - by HopeWind Health",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

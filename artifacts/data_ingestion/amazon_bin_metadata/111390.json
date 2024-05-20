@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002D0JX8": {
+            "asin": "B0002D0JX8",
+            "height": {
+                "unit": "IN",
+                "value": 7.124999985465
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Chauvet Hurricane 700 Fog Machine",
+            "normalizedName": "Chauvet Hurricane 700 Fog Machine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.599999995303891
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.374999984955
+            }
+        },
+        "B005UNRCLW": {
+            "asin": "B005UNRCLW",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "O'Neill USCG nylon infant life vest (up to 30 lbs) Navy/pink/navy",
+            "normalizedName": "O'Neill USCG nylon infant life vest (up to 30 lbs) Navy/pink/navy",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988065999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

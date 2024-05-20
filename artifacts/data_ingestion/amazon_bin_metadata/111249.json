@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1442249757": {
+            "asin": "1442249757",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "The Strong Gray Line: War-time Reflections from the West Point Class of 2004",
+            "normalizedName": "The Strong Gray Line: War-time Reflections from the West Point Class of 2004",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "1906552061": {
+            "asin": "1906552061",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "Grandmaster Repertoire: 1.e4 vs The French, Caro-Kann and Philidor",
+            "normalizedName": "Grandmaster Repertoire: 1.e4 vs The French, Caro-Kann and Philidor",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.20462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.5354330642
+            }
+        },
+        "190655255X": {
+            "asin": "190655255X",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "Play the Scandinavian (Grandmaster Guide)",
+            "normalizedName": "Play the Scandinavian (Grandmaster Guide)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.79
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B01BLV4P6Q": {
+            "asin": "B01BLV4P6Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "MLB Baseball Bat Electric Wine Opener (Angels)",
+            "normalizedName": "MLB Baseball Bat Electric Wine Opener (Angels)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7799999985073085
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

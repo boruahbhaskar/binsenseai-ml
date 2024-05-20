@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01C0MYJR0": {
+            "asin": "B01C0MYJR0",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Foam Roller - Hard Grid and Soft Foam - for Self-Muscle Massage and Trigger Point Exercises \u2013 2 in 1 Set with Free Carry Bag and Instruction Manual",
+            "normalizedName": "Foam Roller - Hard Grid and Soft Foam - for Self-Muscle Massage and Trigger Point Exercises \u2013 2 in 1 Set with Free Carry Bag and Instruction Manual",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01D70SPEM": {
+            "asin": "B01D70SPEM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "IYAYA Lawn Aerator Shoes Spikes Aerator Sandals for Aerating Your Lawn or Yard",
+            "normalizedName": "IYAYA Lawn Aerator Shoes Spikes Aerator Sandals for Aerating Your Lawn or Yard",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.899999995890907
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

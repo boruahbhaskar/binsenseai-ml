@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ERX21XA": {
+            "asin": "B00ERX21XA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Small Plastic Recyclable Bags 100 2020 Color Apple Mini Ziplock Baggie Colored Mix 2\" X 2\" (Blue)",
+            "normalizedName": "Small Plastic Recyclable Bags 100 2020 Color Apple Mini Ziplock Baggie Colored Mix 2\" X 2\" (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08999999992452686
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01917WFRS": {
+            "asin": "B01917WFRS",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Baby Carrier Waist Extender - Waist Strap Extension Buckle for Mo+m\u00ae Soft Structured Baby Slings",
+            "normalizedName": "Baby Carrier Waist Extender - Waist Strap Extension Buckle for Mo+m\u00ae Soft Structured Baby Slings",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

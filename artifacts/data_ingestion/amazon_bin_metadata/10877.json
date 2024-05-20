@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006HINDI": {
+            "asin": "B0006HINDI",
+            "height": {
+                "unit": "IN",
+                "value": 3.8582677126
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "Hario Chacha Kyusu Maru Tea Pot, 450ml",
+            "normalizedName": "Hario Chacha Kyusu Maru Tea Pot, 450ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8377480450708449
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

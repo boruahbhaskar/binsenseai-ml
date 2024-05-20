@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013OMN4Y4": {
+            "asin": "B013OMN4Y4",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "\"KISS : an American hard rock music band\" Applique embroidered iron on PATCHES (Wappen, \u30ef\u30c3\u30da\u30f3 , \ud328\uce58) with Yellow Tiny Smiley Patches by PATCH CUBE",
+            "normalizedName": "\"KISS : an American hard rock music band\" Applique embroidered iron on PATCHES (Wappen, \u30ef\u30c3\u30da\u30f3 , \ud328\uce58) with Yellow Tiny Smiley Patches by PATCH CUBE",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B014ZW5STG": {
+            "asin": "B014ZW5STG",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "EasyAcc 2nd Gen 15000mAh Brilliant Power Bank (4.8A Smart Output) Portable External Battery Pack 3 USB Ports Travel Charger -Black and Gray",
+            "normalizedName": "EasyAcc 2nd Gen 15000mAh Brilliant Power Bank (4.8A Smart Output) Portable External Battery Pack 3 USB Ports Travel Charger -Black and Gray",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B017GQAOFQ": {
+            "asin": "B017GQAOFQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "ELELINK- Bluetooth 4.0 Receiver/Mini Adapter for Home Audio Music Streaming Sound System /Car Kits with 3.5 Mm Stereo Output for Smartphones /Tablets",
+            "normalizedName": "ELELINK- Bluetooth 4.0 Receiver/Mini Adapter for Home Audio Music Streaming Sound System /Car Kits with 3.5 Mm Stereo Output for Smartphones /Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

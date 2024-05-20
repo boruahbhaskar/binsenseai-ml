@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ET9SB4": {
+            "asin": "B000ET9SB4",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Slime 40001 Motorcycle Tire Inflator",
+            "normalizedName": "Slime 40001 Motorcycle Tire Inflator",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B0013AO63I": {
+            "asin": "B0013AO63I",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Cricut 29-0288 Cuttin' Up Font Cartridge",
+            "normalizedName": "Cricut 29-0288 Cuttin' Up Font Cartridge",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

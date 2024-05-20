@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007KISYJO": {
+            "asin": "B007KISYJO",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Redcat Racing BS903-086 Ball Bearing (5 x 10 x 4mm), 2-Piece",
+            "normalizedName": "Redcat Racing BS903-086 Ball Bearing (5 x 10 x 4mm), 2-Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B0167I7QD2": {
+            "asin": "B0167I7QD2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "LG Leon Case, LG Tribute 2 Case, LG Risio Case, Celljoy [Liquid Armor] {Teal} Slim Fit Dual Layer Protective **Shockproof** Hybrid Case - Thin Hard Cover",
+            "normalizedName": "LG Leon Case, LG Tribute 2 Case, LG Risio Case, Celljoy [Liquid Armor] {Teal} Slim Fit Dual Layer Protective **Shockproof** Hybrid Case - Thin Hard Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01A7LT836": {
+            "asin": "B01A7LT836",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Lucky Trails Davidson Mens Leather Trifold Wallet (Black)",
+            "normalizedName": "Lucky Trails Davidson Mens Leather Trifold Wallet (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01F7QXL2A": {
+            "asin": "B01F7QXL2A",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Celljoy\u00ae LG K7 / Tribute 5 / Escape 3 Case [Advanced Armor] Dual Layer Hybrid [Kickstand] Credit Card Slot Holder TPU Protective Cover **Shockproof** (Metallic Silver)",
+            "normalizedName": "Celljoy\u00ae LG K7 / Tribute 5 / Escape 3 Case [Advanced Armor] Dual Layer Hybrid [Kickstand] Credit Card Slot Holder TPU Protective Cover **Shockproof** (Metallic Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

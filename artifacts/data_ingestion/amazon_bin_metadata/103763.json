@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000DBMMO": {
+            "asin": "B0000DBMMO",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Fellowes Workstation Letter Size Desk Tray Organizer, Wire, Black (60112)",
+            "normalizedName": "Fellowes Workstation Letter Size Desk Tray Organizer, Wire, Black (60112)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00IWU5MDK": {
+            "asin": "B00IWU5MDK",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Disney Parks Finding Nemo Ears Hat NEW",
+            "normalizedName": "Disney Parks Finding Nemo Ears Hat NEW",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

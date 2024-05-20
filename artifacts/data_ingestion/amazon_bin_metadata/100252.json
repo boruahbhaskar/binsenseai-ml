@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004PNAE1S": {
+            "asin": "B004PNAE1S",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "D-M-C Pitt Artist Pen Set Of 3 Metallic",
+            "normalizedName": "Set Of 3 D-M-C Pitt Artist Pen Metallic",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00CGYCOR0": {
+            "asin": "B00CGYCOR0",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "AT&T CLP99383 DECT 6.0 Expandable Cordless Phone with Bluetooth Connect to Cell, Dual Caller ID/Call Waiting and Answering System, 3 Handsets, Silver/Black",
+            "normalizedName": "AT&T CLP99383 DECT 6.0 Expandable Cordless Phone with Bluetooth Connect to Cell, Dual Caller ID/Call Waiting and Answering System, 3 Handsets, Silver/Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00JUTWEZG": {
+            "asin": "B00JUTWEZG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Crayola Meltdown Art Set",
+            "normalizedName": "Crayola Meltdown Art Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

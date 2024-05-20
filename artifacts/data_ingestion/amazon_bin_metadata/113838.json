@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009NJ2D0Y": {
+            "asin": "B009NJ2D0Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Waterbridge Electric Plate Warmer - Heats up to 6 Plates - Heritage Navy",
+            "normalizedName": "Waterbridge Electric Plate Warmer - Heats up to 6 Plates - Heritage Navy",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00LH1JVTM": {
+            "asin": "B00LH1JVTM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Evriholder Avo Saver Avocado Holder (2 Pack)",
+            "normalizedName": "(2 Pack) Evriholder Avo Saver Avocado Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00OMZGDK0": {
+            "asin": "B00OMZGDK0",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "LA Linen Polyester Poplin Rectangular Tablecloth, 60 by 120-Inch, Cranberry",
+            "normalizedName": "LA Linen Polyester Poplin Rectangular Tablecloth, 60 by 120-Inch, Cranberry",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00OTIZD1A": {
+            "asin": "B00OTIZD1A",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Silhouette Glitter Heat Transfer, 12 by 36-Inch, Black",
+            "normalizedName": "Silhouette Glitter Heat Transfer, 12 by 36-Inch, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

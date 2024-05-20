@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004QIUGFQ": {
+            "asin": "B004QIUGFQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.4724409291
+            },
+            "name": "Paper Airplane [LP]",
+            "normalizedName": "Paper Airplane [LP]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1023000593037433
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.6771653414
+            }
+        },
+        "B005QBMYY8": {
+            "asin": "B005QBMYY8",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.354330693
+            },
+            "name": "Steamin; With The Miles Davis Quintet [LP]",
+            "normalizedName": "Steamin; With The Miles Davis Quintet [LP]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.88
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.7559054988
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

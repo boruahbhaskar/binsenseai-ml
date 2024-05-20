@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003L33HOY": {
+            "asin": "B003L33HOY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Garden of Life Perfect Food RAW, 240 Capsules",
+            "normalizedName": "Garden of Life Perfect Food RAW, 240 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B006L0OW02": {
+            "asin": "B006L0OW02",
+            "height": {
+                "unit": "IN",
+                "value": 1.6929133841
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "name": "nanox - Apple iPod nano watch conversion kit (Black Case / Black Strap)",
+            "normalizedName": "nanox - Apple iPod nano watch conversion kit (Black Case / Black Strap)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.2047244072
+            }
+        },
+        "B00GS6L97I": {
+            "asin": "B00GS6L97I",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Bulk Buy: Multipet (3-Pack) Lamb Chop 6\" Toy MP48371",
+            "normalizedName": "(3-Pack) Bulk Buy: Multipet Lamb Chop 6\" Toy MP48371",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B016N95YR0": {
+            "asin": "B016N95YR0",
+            "height": {
+                "unit": "IN",
+                "value": 1.3779527545
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.7716535415
+            },
+            "name": "Scientific Anglers Ampere Electron II Fly Reel, Black",
+            "normalizedName": "Scientific Anglers Ampere Electron II Fly Reel, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.574803148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

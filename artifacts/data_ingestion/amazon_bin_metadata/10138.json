@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006UBM1T6": {
+            "asin": "B006UBM1T6",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Crayola My First Crayola No Mess Finger-Painting Set",
+            "normalizedName": "Crayola My First Crayola No Mess Finger-Painting Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B007I4D5LC": {
+            "asin": "B007I4D5LC",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Dream Body Olive Oil 100ml (Pack of 6)",
+            "normalizedName": "(Pack of 6) Dream Body Olive Oil 100ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B009LQI3D0": {
+            "asin": "B009LQI3D0",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Burt's Bees Baby Bee Fragrance Free Shampoo and Wash, 21 Fluid Ounces",
+            "normalizedName": "Burt's Bees Baby Bee Fragrance Free Shampoo and Wash, 21 Fluid Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

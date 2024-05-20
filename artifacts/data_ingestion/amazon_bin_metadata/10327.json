@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MGDLIL4": {
+            "asin": "B00MGDLIL4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "For S4,S4 Case,S4 Phone Case For Girls,Samsung S4 Case,Galaxy S4 Case,Ezydigital Carryberry Accessories Samsung Galaxy S4 Case,Luxury 3 in 1 Hybrid case for Samsung Galaxy S4 I9500,Black",
+            "normalizedName": "For S4,S4 Case,S4 Phone Case For Girls,Samsung S4 Case,Galaxy S4 Case,Ezydigital Carryberry Accessories Samsung Galaxy S4 Case,Luxury 3 in 1 Hybrid case for Samsung Galaxy S4 I9500,Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B015ZL27I6": {
+            "asin": "B015ZL27I6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Firstcom USB 3.0 DVD Burner/Writer Optical Drive with Lightscribe External Slim Portable for Mac/Macbook & PC/Laptop - Black",
+            "normalizedName": "Firstcom USB 3.0 DVD Burner/Writer Optical Drive with Lightscribe External Slim Portable for Mac/Macbook & PC/Laptop - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

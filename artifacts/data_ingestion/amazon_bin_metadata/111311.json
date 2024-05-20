@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005I8OGOU": {
+            "asin": "B005I8OGOU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Ducray NEOPTIDE Anti-Hair Loss Treatment (Chronic Hair Loss in Women) 3 Months Treatment",
+            "normalizedName": "Ducray NEOPTIDE Anti-Hair Loss Treatment (Chronic Hair Loss in Women) 3 Months Treatment",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00OP2PKHW": {
+            "asin": "B00OP2PKHW",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "(Old Model) Toshiba 4TB SATA 6Gb/s 7200rpm, 128MB Ca",
+            "normalizedName": "(Old Model) Toshiba 4TB SATA 6Gb/s 7200rpm, 128MB Ca",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

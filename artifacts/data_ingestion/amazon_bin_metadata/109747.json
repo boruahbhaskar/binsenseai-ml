@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006UD2RB6": {
+            "asin": "B006UD2RB6",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Matchbox 9-Car Gift Pack (Styles May Vary)",
+            "normalizedName": "Matchbox 9-Car Gift Pack (Styles May Vary)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00XISZ4ES": {
+            "asin": "B00XISZ4ES",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Plantronics BackBeat Fit Bluetooth Headphones - Red",
+            "normalizedName": "Plantronics BackBeat Fit Bluetooth Headphones - Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01ALDYJ0W": {
+            "asin": "B01ALDYJ0W",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Microsoft Surface 3 Leather Case , Surface 3 type cover -Valkit Folio Slim PU leather Stand Cases and Covers With Stylus pen holder Compatible for Surface 3 10.8 inch Original Keyboard Pink color",
+            "normalizedName": "Microsoft Surface 3 Leather Case , Surface 3 type cover -Valkit Folio Slim PU leather Stand Cases and Covers With Stylus pen holder Compatible for Surface 3 10.8 inch Original Keyboard Pink color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001DPUZ9M": {
+            "asin": "B001DPUZ9M",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Whirlpool Part Number 8541270: Timer, Control (60 Hz.) (Motor Not A Service Part)",
+            "normalizedName": "Whirlpool Part Number 8541270: Timer, Control (60 Hz.) (Motor Not A Service Part)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B001GAOTSW": {
+            "asin": "B001GAOTSW",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Pilot G2 Retractable Premium Gel Ink Roller Ball Pens, Fine Point, Black, 12-Pack (31020)",
+            "normalizedName": "12-Pack Pilot G2 Retractable Premium Gel Ink Roller Ball Pens, Fine Point, Black, (31020)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00CIKC0IK": {
+            "asin": "B00CIKC0IK",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Dingo Dental Twists for Small and Medium Dogs, 35-Count",
+            "normalizedName": "Dingo Dental Twists for Small and Medium Dogs, 35-Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00NO8RTLI": {
+            "asin": "B00NO8RTLI",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Toy Doll Clothes - 2 Piece Butterfly Shirt & Jean Set",
+            "normalizedName": "Toy Doll Clothes - 2 Piece Butterfly Shirt & Jean Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

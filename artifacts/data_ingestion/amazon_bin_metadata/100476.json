@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017D6UKB2": {
+            "asin": "B017D6UKB2",
+            "height": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "OFKP\u00ae Portable 3D Glasses Head-mounted Google Cardboard Version 3D VR Glasses with CSY-02 Mini Multifunctional Wireless Bluetooth V3.0 Selfie Camera Shutter Gamepad",
+            "normalizedName": "OFKP\u00ae Portable 3D Glasses Head-mounted Google Cardboard Version 3D VR Glasses with CSY-02 Mini Multifunctional Wireless Bluetooth V3.0 Selfie Camera Shutter Gamepad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        },
+        "B01DM0FBGW": {
+            "asin": "B01DM0FBGW",
+            "height": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "OFKP\u00ae 3D VR Virtual Reality Glasses Headset with Head-mounted Headband and NFC Tag for 3.5-6.0 Inch Google, iPhone, Samsung Note, LG Nexus, HTC, Moto Smartphones",
+            "normalizedName": "OFKP\u00ae 3D VR Virtual Reality Glasses Headset with Head-mounted Headband and NFC Tag for 3.5-6.0 Inch Google, iPhone, Samsung Note, LG Nexus, HTC, Moto Smartphones",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4991433816
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

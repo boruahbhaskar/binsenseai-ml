@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00916SBKU": {
+            "asin": "B00916SBKU",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "ViSalus Body By Vi VI-Shape Weight Loss Diet Nutritional Shake Mix Meal Replacement Sweet Cream Flavor 22 oz (2 Bags, 48 meals)",
+            "normalizedName": "ViSalus Body By Vi VI-Shape Weight Loss Diet Nutritional Shake Mix Meal Replacement Sweet Cream Flavor 22 oz (2 Bags, 48 meals)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9999999966456374
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00Y4QBKLE": {
+            "asin": "B00Y4QBKLE",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Crayola Ultra Clean Large Crayons (Pack of 12, 16-Count)",
+            "normalizedName": "Pack of 12 Crayola Ultra Clean Large Crayons ( , 16-Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

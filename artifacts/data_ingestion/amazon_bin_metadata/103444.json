@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0049U493Q": {
+            "asin": "B0049U493Q",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988576
+            },
+            "name": "Biddeford Plush Throw, Demin Heated",
+            "normalizedName": "Biddeford Plush Throw, Demin Heated",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B011J4CC9W": {
+            "asin": "B011J4CC9W",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.385826758
+            },
+            "name": "AmazonBasics 11.6-Inch Laptop Sleeve - Grey",
+            "normalizedName": "AmazonBasics 11.6-Inch Laptop Sleeve - Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6850393602
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

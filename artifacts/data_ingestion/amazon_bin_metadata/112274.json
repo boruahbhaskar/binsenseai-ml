@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JYGPLUK": {
+            "asin": "B00JYGPLUK",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "ALEX Toys - Craft, Simply Needlepoint Butterfly Kit",
+            "normalizedName": "ALEX Toys - Craft, Simply Needlepoint Butterfly Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

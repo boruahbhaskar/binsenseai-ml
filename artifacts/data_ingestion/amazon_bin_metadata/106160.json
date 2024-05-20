@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002UU3TV0": {
+            "asin": "B002UU3TV0",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Curious Chef 4 Piece Child Chef Textile Set - Blue & Green",
+            "normalizedName": "Curious Chef 4 Piece Child Chef Textile Set - Blue & Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00N644DQ4": {
+            "asin": "B00N644DQ4",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "S14 Bulbs by Deneve, 11 Watts, Clear Glass S14 Incandescent Light Bulbs for E26, E27 Sockets, 25 Pack",
+            "normalizedName": "25 Pack S14 Bulbs by Deneve, 11 Watts, Clear Glass S14 Incandescent Light Bulbs for E26, E27 Sockets,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H4Y1Q9E": {
+            "asin": "B00H4Y1Q9E",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Uxcell Silicone Fish Tank Connector Oxygen Balance Pipe, 4mm by 5mm, Black",
+            "normalizedName": "Uxcell Silicone Fish Tank Connector Oxygen Balance Pipe, 4mm by 5mm, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B011WNKWII": {
+            "asin": "B011WNKWII",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "String lights,Addlon Solar LED Christmas Lights ,72ft(22m) 200 LED Novelty Fairy String Lights,Ambiance lighting for Outdoor, Patio, Lawn, Landscape, Fairy Garden, Home, Wedding, Holiday, Christmas Party, ,waterproof (Multicolor)",
+            "normalizedName": "String lights,Addlon Solar LED Christmas Lights ,72ft(22m) 200 LED Novelty Fairy String Lights,Ambiance lighting for Outdoor, Patio, Lawn, Landscape, Fairy Garden, Home, Wedding, Holiday, Christmas Party, ,waterproof (Multicolor)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

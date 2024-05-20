@@ -1,0 +1,48 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0041SFOY4": {
+            "asin": "B0041SFOY4",
+            "height": {
+                "unit": "IN",
+                "value": 1.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6
+            },
+            "name": "Doctor's Best Real Niacin (Extended Release) (500mg), 120-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.9
+            }
+        },
+        "B00JDCLXFC": {
+            "asin": "B00JDCLXFC",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999999999997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.000000000000002
+            },
+            "name": "Charizard Ex Box (Pokemon: TCG)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1060.jpg"
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015G6QVK": {
+            "asin": "B0015G6QVK",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Natural Balance L.I.T. Limited Ingredient Treats Sweet Potato & Fish Formula Dry Dog Treats, 14-Ounce",
+            "normalizedName": "Natural Balance L.I.T. Limited Ingredient Treats Sweet Potato & Fish Formula Dry Dog Treats, 14-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B015QZN6KE": {
+            "asin": "B015QZN6KE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "BOOMco. HALO UNSC M6 Blaster, Green",
+            "normalizedName": "BOOMco. HALO UNSC M6 Blaster, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

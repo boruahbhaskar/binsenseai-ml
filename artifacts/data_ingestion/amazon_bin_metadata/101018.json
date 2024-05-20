@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NIWR5KU": {
+            "asin": "B00NIWR5KU",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "YS Eco Bee Farms RAW HONEY - Raw, Unfiltered, Unpasteurized - Kosher (3 Lb (2 Pack))",
+            "normalizedName": "(2 Pack) YS Eco Bee Farms RAW HONEY - Raw, Unfiltered, Unpasteurized - Kosher (3 Lb )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.449999994591091
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B0105YJJZC": {
+            "asin": "B0105YJJZC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Culturelle Advanced Immune Defense Supplement, 10 Count",
+            "normalizedName": "Culturelle Advanced Immune Defense Supplement, 10 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

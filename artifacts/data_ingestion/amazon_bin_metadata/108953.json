@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00416T7E4": {
+            "asin": "B00416T7E4",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Frontier Herb Organic Powdered Turmeric Root Supplement, 16 OZ (453 g)",
+            "normalizedName": "Frontier Herb Organic Powdered Turmeric Root Supplement, 16 OZ (453 g)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00VRLYYRG": {
+            "asin": "B00VRLYYRG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "K'ryssma Wavy Platinum Blonde Wig Long Heat Resistant Synthetic Hair Half Hand Tied Lace Front Wigs 26 Inches",
+            "normalizedName": "K'ryssma Wavy Platinum Blonde Wig Long Heat Resistant Synthetic Hair Half Hand Tied Lace Front Wigs 26 Inches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B0116GPL4G": {
+            "asin": "B0116GPL4G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "BEST Water Bottle Infusers - 'Believe Bottle\" (bpa Free) One Of a Kind Infuser Water Bottle. Aqua With Inspirational Quote. Twist Style Drinking Cap. Durable + Leak Proof. Boost Your Health with this water infuser!",
+            "normalizedName": "BEST Water Bottle Infusers - 'Believe Bottle\" (bpa Free) One Of a Kind Infuser Water Bottle. Aqua With Inspirational Quote. Twist Style Drinking Cap. Durable + Leak Proof. Boost Your Health with this water infuser!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

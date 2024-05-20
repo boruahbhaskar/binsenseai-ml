@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003EVOAOO": {
+            "asin": "B003EVOAOO",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "StealStreet SS-G-19712 Bengal Tiger Collectible Wild Cat Animal Decoration Figurine Statue",
+            "normalizedName": "StealStreet SS-G-19712 Bengal Tiger Collectible Wild Cat Animal Decoration Figurine Statue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01ALDG07W": {
+            "asin": "B01ALDG07W",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844003
+            },
+            "name": "Calvin Klein Jacquard N/S Tote Bag, White/Khaki/Metallic Taupe, One Size",
+            "normalizedName": "Calvin Klein Jacquard N/S Tote Bag, White/Khaki/Metallic Taupe, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

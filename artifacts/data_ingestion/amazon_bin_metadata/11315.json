@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K25JAJK": {
+            "asin": "B00K25JAJK",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Engineer. Solving problems you didn't know you had - Coffee Mug \u00a9 By Heaven Creations 11 oz -Funny Inspirational and motivational",
+            "normalizedName": "Engineer. Solving problems you didn't know you had - Coffee Mug \u00a9 By Heaven Creations 11 oz -Funny Inspirational and motivational",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00O9GW8VK": {
+            "asin": "B00O9GW8VK",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "name": "Nintendo Super Smash Bros. Black Classic Gamecube Controller",
+            "normalizedName": "Nintendo Super Smash Bros. Black Classic Gamecube Controller",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B017X4EALA": {
+            "asin": "B017X4EALA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "LG G2 Case,2015*HOT*{SuperProtect}Shockproof Heavy Duty Combo Hybrid Rugged Dual Layer Grip Case Cover with kickstand for LG G2. (green)",
+            "normalizedName": "LG G2 Case,2015*HOT*{SuperProtect}Shockproof Heavy Duty Combo Hybrid Rugged Dual Layer Grip Case Cover with kickstand for LG G2. (green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

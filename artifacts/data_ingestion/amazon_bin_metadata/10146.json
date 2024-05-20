@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IWTD1JS": {
+            "asin": "B00IWTD1JS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Natural Vitality Natural Magnesium Calm (2 Bottles of 8 Ounce)",
+            "normalizedName": "Natural Vitality Natural Magnesium Calm (2 Bottles of 8 Ounce)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00XIS0D8A": {
+            "asin": "B00XIS0D8A",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "iPhone 6/6S PLUS (5.5 inch ONLY) intelliGLASS PRO EDGE-TO-EDGE (White/Gold) - The Smarter Glass Screen Protector by intelliARMOR To Guard Against Scratches and Drops. Ultra HD Clear, Max Touchscreen Accuracy.",
+            "normalizedName": "iPhone 6/6S PLUS (5.5 inch ONLY) intelliGLASS PRO EDGE-TO-EDGE (White/Gold) - The Smarter Glass Screen Protector by intelliARMOR To Guard Against Scratches and Drops. Ultra HD Clear, Max Touchscreen Accuracy.",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01DDM3BPW": {
+            "asin": "B01DDM3BPW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Rugged Sports Fanny Pack with Water Bottle Holders | Water Resistant Waist Bag for Running, Hiking, Outdoors | Stylish Unisex Design, 4 Fashionable Colors, Black",
+            "normalizedName": "Rugged Sports Fanny Pack with Water Bottle Holders | Water Resistant Waist Bag for Running, Hiking, Outdoors | Stylish Unisex Design, 4 Fashionable Colors, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

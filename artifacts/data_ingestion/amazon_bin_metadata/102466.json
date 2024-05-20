@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EJNRQG": {
+            "asin": "B000EJNRQG",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Cybrtrayd L027 Chocolate Candy Mold, I'm 5 Lolly Letters and Numbers",
+            "normalizedName": "Cybrtrayd L027 Chocolate Candy Mold, I'm 5 Lolly Letters and Numbers",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B000EJRBF4": {
+            "asin": "B000EJRBF4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Cybrtrayd M179 Peace Sign Lolly Chocolate Candy Mold with Exclusive Cybrtrayd Copyrighted Chocolate Molding Instructions",
+            "normalizedName": "Cybrtrayd M179 Peace Sign Lolly Chocolate Candy Mold with Exclusive Cybrtrayd Copyrighted Chocolate Molding Instructions",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B007L599HC": {
+            "asin": "B007L599HC",
+            "height": {
+                "unit": "IN",
+                "value": 1.749999998215
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3464566895
+            },
+            "name": "Zest Candle 12-Piece Ball Candles, 2-Inch, Blue",
+            "normalizedName": "Zest Candle 12-Piece Ball Candles, 2-Inch, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5273601868139672
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5590551155
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

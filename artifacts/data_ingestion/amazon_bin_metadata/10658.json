@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012HFFSDO": {
+            "asin": "B012HFFSDO",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "#1 Rated Foam Roller with Removable End Caps For Storage",
+            "normalizedName": "#1 Rated Foam Roller with Removable End Caps For Storage",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B014TE51C4": {
+            "asin": "B014TE51C4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "normalizedName": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GG7UEW": {
+            "asin": "B000GG7UEW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Nexcare Tegaderm Waterproof Transparent Dressing, 2-3/8 Inches X 2-3/4 Inches, 8 Count",
+            "normalizedName": "Nexcare Tegaderm Waterproof Transparent Dressing, 2-3/8 Inches X 2-3/4 Inches, 8 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01ARRAXZW": {
+            "asin": "B01ARRAXZW",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "uxcell\u00ae Waterproof DC 24V (15V - 40V) to DC 12V 30A 360W Power Supply Voltage Converter Regulator Transformer Adaptor",
+            "normalizedName": "uxcell\u00ae Waterproof DC 24V (15V - 40V) to DC 12V 30A 360W Power Supply Voltage Converter Regulator Transformer Adaptor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01F57T5BM": {
+            "asin": "B01F57T5BM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "uxcell\u00ae Alphabet Number Design Cake Biscuit Baking Mould Cookie Cutter 40 in 1",
+            "normalizedName": "uxcell\u00ae Alphabet Number Design Cake Biscuit Baking Mould Cookie Cutter 40 in 1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CTK55I": {
+            "asin": "B001CTK55I",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "Dachshund Christmas Stocking Ornament with \"Santa's Little Pals\" Hand Painted and Stitched Detail",
+            "normalizedName": "Dachshund Christmas Stocking Ornament with \"Santa's Little Pals\" Hand Painted and Stitched Detail",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B002UOSWE0": {
+            "asin": "B002UOSWE0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Page Brite - Ultra Slim Book Light & Magnifier",
+            "normalizedName": "Page Brite - Ultra Slim Book Light & Magnifier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999744817536274
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00N1PV46A": {
+            "asin": "B00N1PV46A",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Blueberry Pet Toys for Dogs Pure Bunny, Designer Plush Squeak Small Puppy Dog Toy",
+            "normalizedName": "Blueberry Pet Toys for Dogs Pure Bunny, Designer Plush Squeak Small Puppy Dog Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01BCOBNNK": {
+            "asin": "B01BCOBNNK",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tony Horton's 22 Minute Hard Corps Workout Program - Base Kit",
+            "normalizedName": "Tony Horton's 22 Minute Hard Corps Workout Program - Base Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

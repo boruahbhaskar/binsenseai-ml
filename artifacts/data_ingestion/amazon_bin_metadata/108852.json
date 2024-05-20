@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CEKXJ3Y": {
+            "asin": "B00CEKXJ3Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Samsung Galaxy S4, Black Mist 16GB (Sprint)",
+            "normalizedName": "Samsung Galaxy S4, Black Mist 16GB (Sprint)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B018IP6P70": {
+            "asin": "B018IP6P70",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "iHome iBT28GC Bluetooth Color Changing Dual Alarm Clock (Certified Refurbished)",
+            "normalizedName": "iHome iBT28GC Bluetooth Color Changing Dual Alarm Clock (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            }
+        },
+        "B01EFCZ1IE": {
+            "asin": "B01EFCZ1IE",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "iDudu VR, Virtual Reality Headset with Headphone for 4.0 - 6.2 inch Smartphone",
+            "normalizedName": "iDudu VR, Virtual Reality Headset with Headphone for 4.0 - 6.2 inch Smartphone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

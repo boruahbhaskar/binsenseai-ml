@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1601632118": {
+            "asin": "1601632118",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "The Zen Leader: 10 Ways to Go From Barely Managing to Leading Fearlessly",
+            "normalizedName": "The Zen Leader: 10 Ways to Go From Barely Managing to Leading Fearlessly",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B004LONG0W": {
+            "asin": "B004LONG0W",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "CowboyStudio 45W Compact Fluorescent CFL Daylight Balanced Bulb with 5500K Color Temperature for Photography and Video Studio Lighting",
+            "normalizedName": "CowboyStudio 45W Compact Fluorescent CFL Daylight Balanced Bulb with 5500K Color Temperature for Photography and Video Studio Lighting",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01GWWJ0OQ": {
+            "asin": "B01GWWJ0OQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "2.5\" Office Chair Casters - SET OF 5 - NEW 2016 Model - Rollerblade Style. HIGH Quality Grey 5-Star inner core with Black PU wheel - SAFE for Hardwood Floors & Carpet. Universal Easy Installation",
+            "normalizedName": "2.5\" Office Chair Casters - SET OF 5 - NEW 2016 Model - Rollerblade Style. HIGH Quality Grey 5-Star inner core with Black PU wheel - SAFE for Hardwood Floors & Carpet. Universal Easy Installation",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

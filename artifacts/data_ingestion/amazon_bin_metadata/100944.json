@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004FEEY9A": {
+            "asin": "B004FEEY9A",
+            "height": {
+                "unit": "IN",
+                "value": 4.4488188931
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6062992028
+            },
+            "name": "Sennheiser HD 558 Headphones",
+            "normalizedName": "Sennheiser HD 558 Headphones",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3051232691211678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.2283464483
+            }
+        },
+        "B01CJ7BGEK": {
+            "asin": "B01CJ7BGEK",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "International Soccer Mexico Men's Jersey, Small, Green/Red/White",
+            "normalizedName": "International Soccer Mexico Men's Jersey, Small, Green/Red/White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

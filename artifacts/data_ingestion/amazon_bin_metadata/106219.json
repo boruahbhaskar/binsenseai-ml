@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01A7BSOVS": {
+            "asin": "B01A7BSOVS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Sporting-USA 25oz (750 ml) Double Wall Vacuum Insulated Thermos Stainless Steel Water Bottle Flask with TWIN Lids Zero Condensation in an Easy Grip Attractive Powder Coated Eggshell Matte finish",
+            "normalizedName": "Sporting-USA 25oz (750 ml) Double Wall Vacuum Insulated Thermos Stainless Steel Water Bottle Flask with TWIN Lids Zero Condensation in an Easy Grip Attractive Powder Coated Eggshell Matte finish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01FE94Q4M": {
+            "asin": "B01FE94Q4M",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Star Wars A New Hope Collectible Figures Set - Disney Parks Exclusive Featuring Luke Skywalker, Han Solo, Darth Vader, Princess Leia, Chewbacca, and Obi-Wan Kenobi",
+            "normalizedName": "Star Wars A New Hope Collectible Figures Set - Disney Parks Exclusive Featuring Luke Skywalker, Han Solo, Darth Vader, Princess Leia, Chewbacca, and Obi-Wan Kenobi",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

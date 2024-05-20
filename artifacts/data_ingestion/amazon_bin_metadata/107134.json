@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TFYYWQA": {
+            "asin": "B00TFYYWQA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Texas Instruments TI-84 Plus CE Graphing Calculator, Black",
+            "normalizedName": "Texas Instruments TI-84 Plus CE Graphing Calculator, Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B013SUNQT0": {
+            "asin": "B013SUNQT0",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Dowan Porcelain Soup/Salad Bowl, 6-inch Winter Frost White (Set of 6) ,White",
+            "normalizedName": "(Set of 6) Dowan Porcelain Soup/Salad Bowl, 6-inch Winter Frost White ,White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

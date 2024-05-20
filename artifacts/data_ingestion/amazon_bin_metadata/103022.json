@@ -1,0 +1,87 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0061G4B6G": {
+            "asin": "B0061G4B6G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999986128
+            },
+            "name": "Canon Office Products PG-240XL/CL-241XL with Canon GP601 Glossy Photo Paper",
+            "normalizedName": "Canon Office Products PG-240XL/CL-241XL with Canon GP601 Glossy Photo Paper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00I5DFBEO": {
+            "asin": "B00I5DFBEO",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Dixie Heavy Duty Paper Bowls, 36 Count, 10 Ounce (Pack of 4)",
+            "normalizedName": "(Pack of 4) Dixie Heavy Duty Paper Bowls, 36 Count, 10 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00UKEW0YU": {
+            "asin": "B00UKEW0YU",
+            "height": {
+                "unit": "IN",
+                "value": 1.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Designer Reading Glasses For Women - 12 Different Styles - Strong Spring Hinge Temples - Light Weight Eyeglasses - High Impact Low Scratch Resistance Lenses - Fits Perfectly - (FREE E-book) - By Eyesight One (1.50, Style L3)",
+            "normalizedName": "Designer Reading Glasses For Women - 12 Different Styles - Strong Spring Hinge Temples - Light Weight Eyeglasses - High Impact Low Scratch Resistance Lenses - Fits Perfectly - (FREE E-book) - By Eyesight One (1.50, Style L3)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.25
+            }
+        },
+        "B01AXFQWMQ": {
+            "asin": "B01AXFQWMQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Eyekepper 6-Pack Spring Hinges Patterned Rectangular Reading Glasses Include Computer Readers Women +2.25",
+            "normalizedName": "6-Pack Eyekepper Spring Hinges Patterned Rectangular Reading Glasses Include Computer Readers Women +2.25",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

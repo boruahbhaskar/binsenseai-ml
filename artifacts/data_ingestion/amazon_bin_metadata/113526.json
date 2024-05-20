@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K8HQ62G": {
+            "asin": "B00K8HQ62G",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Wingman Shot Glass",
+            "normalizedName": "Wingman Shot Glass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01BHCPQPS": {
+            "asin": "B01BHCPQPS",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Manhunter [Collector's Edition] [Blu-ray]",
+            "normalizedName": "Manhunter [Collector's Edition] [Blu-ray]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B01FAY5KGY": {
+            "asin": "B01FAY5KGY",
+            "height": {
+                "unit": "IN",
+                "value": 0.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.5
+            },
+            "name": "10PCS Colorful silicone anti dust plug for Fitbit Surge",
+            "normalizedName": "10PCS Colorful silicone anti dust plug for Fitbit Surge",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

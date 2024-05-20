@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KOW827M": {
+            "asin": "B00KOW827M",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "BS-MALL(TM) 10 PCS Premium Synthetic Kabuki Makeup Brush Set Cosmetics Foundation Blending Blush Eyeliner Face Powder Brush Makeup Brush Kit(10pcs, Silver Black)",
+            "normalizedName": "BS-MALL(TM) 10 PCS Premium Synthetic Kabuki Makeup Brush Set Cosmetics Foundation Blending Blush Eyeliner Face Powder Brush Makeup Brush Kit(10pcs, Silver Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00XN4JLAK": {
+            "asin": "B00XN4JLAK",
+            "height": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "DECKY Single Striped Beanie, Black/Royal",
+            "normalizedName": "DECKY Single Striped Beanie, Black/Royal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1487
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        },
+        "B01CSEPDJ8": {
+            "asin": "B01CSEPDJ8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "iPhone 6 PLUS case,AILUN Slim Fit Reinforced Frame Case[Prime Series] Shock-Absorption Bumper Anti-Fingerprint iPhone 6 PLUS Case [Crystal Clear]",
+            "normalizedName": "iPhone 6 PLUS case,AILUN Slim Fit Reinforced Frame Case[Prime Series] Shock-Absorption Bumper Anti-Fingerprint iPhone 6 PLUS Case [Crystal Clear]",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11999999989936912
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

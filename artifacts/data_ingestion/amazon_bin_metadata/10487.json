@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S2G09ZU": {
+            "asin": "B00S2G09ZU",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "ThinkFun Rush Hour Shift Board Game",
+            "normalizedName": "ThinkFun Rush Hour Shift Board Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00VHA3ZXQ": {
+            "asin": "B00VHA3ZXQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "MUJI Makeup Facial Soft Cut Cotton Unbleached 60x50 mm 180pcs",
+            "normalizedName": "MUJI Makeup Facial Soft Cut Cotton Unbleached 60x50 mm 180pcs",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

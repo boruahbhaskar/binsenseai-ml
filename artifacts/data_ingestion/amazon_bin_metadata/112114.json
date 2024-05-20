@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000DN85LA": {
+            "asin": "B000DN85LA",
+            "height": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.322834628
+            },
+            "name": "Pendaflex Portafile Expanding Organizer, 15 1/8\"x 10 5/8\", Black (1156)",
+            "normalizedName": "Pendaflex Portafile Expanding Organizer, 15 1/8\"x 10 5/8\", Black (1156)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.513244133104952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.7086614064
+            }
+        },
+        "B00VUV0MG0": {
+            "asin": "B00VUV0MG0",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "ASUS C201 11.6 Inch Chromebook (Rockchip, 4 GB, 16GB SSD, Navy Blue)",
+            "normalizedName": "ASUS C201 11.6 Inch Chromebook (Rockchip, 4 GB, 16GB SSD, Navy Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1999999973165107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

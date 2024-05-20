@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00172I61A": {
+            "asin": "B00172I61A",
+            "height": {
+                "unit": "IN",
+                "value": 5.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Mario Badescu The Executive Collection for Men",
+            "normalizedName": "Mario Badescu The Executive Collection for Men",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9
+            }
+        },
+        "B00I2HY5MW": {
+            "asin": "B00I2HY5MW",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "InterDesign Chevron Shower Curtain, 72 x 72-Inch, Gray/Yellow",
+            "normalizedName": "InterDesign Chevron Shower Curtain, 72 x 72-Inch, Gray/Yellow",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

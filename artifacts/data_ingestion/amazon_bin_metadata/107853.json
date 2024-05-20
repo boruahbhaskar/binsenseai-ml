@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003W47NII": {
+            "asin": "B003W47NII",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "IK Multimedia AmpliTube iRig guitar interface adaptor for iOS devices",
+            "normalizedName": "IK Multimedia AmpliTube iRig guitar interface adaptor for iOS devices",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00P2CGMV2": {
+            "asin": "B00P2CGMV2",
+            "height": {
+                "unit": "IN",
+                "value": 2.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.25
+            },
+            "name": "Walthers Cornerstone Kalmar Intermodal Container Crane Kit",
+            "normalizedName": "Walthers Cornerstone Kalmar Intermodal Container Crane Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EV58TRQ": {
+            "asin": "B00EV58TRQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Tenq\u00ae New Baofeng Belt Clip for Baofeng Uv-5r Uv-5ra Uv-5rb Uv-5rc 5rd 5re 5re+",
+            "normalizedName": "Tenq\u00ae New Baofeng Belt Clip for Baofeng Uv-5r Uv-5ra Uv-5rb Uv-5rc 5rd 5re 5re+",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00T4OHP8S": {
+            "asin": "B00T4OHP8S",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "FLOORPLAN 3D VERSION 8",
+            "normalizedName": "FLOORPLAN 3D VERSION 8",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00VH8IHT0": {
+            "asin": "B00VH8IHT0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Butterfly Pro Shaver Pink 5h",
+            "normalizedName": "Butterfly Pro Shaver Pink 5h",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00Y6IP0G6": {
+            "asin": "B00Y6IP0G6",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "J5 Case, LK [Drop Protection] [Shock Absorption] Hybrid Dual Layer Armor Defender Protective Case Cover for Samsung Galaxy J5 2015 (Blue)",
+            "normalizedName": "J5 Case, LK [Drop Protection] [Shock Absorption] Hybrid Dual Layer Armor Defender Protective Case Cover for Samsung Galaxy J5 2015 (Blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

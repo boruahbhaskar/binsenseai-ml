@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002DN6YA2": {
+            "asin": "B002DN6YA2",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Generic EP30R Compatible Ink Ribbon for Epson ERC 30/34/38, Black/Red, 12 Piece",
+            "normalizedName": "Generic EP30R Compatible Ink Ribbon for Epson ERC 30/34/38, Black/Red, 12 Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00LZ9D1DI": {
+            "asin": "B00LZ9D1DI",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Retired Clothtique Possible Dreams *Tapping Into the Holidays * Irish Santa Taps Into a Keg",
+            "normalizedName": "Retired Clothtique Possible Dreams *Tapping Into the Holidays * Irish Santa Taps Into a Keg",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B01BIDQVVY": {
+            "asin": "B01BIDQVVY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Popsockets Expanding Phone Stand Grip and Mount Black 5 Pack",
+            "normalizedName": "5 Pack Popsockets Expanding Phone Stand Grip and Mount Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

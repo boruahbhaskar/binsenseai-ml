@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009VQNJWU": {
+            "asin": "B009VQNJWU",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "(1 Drum + 1 Toner) V4INK &#174; New Compatible Brother DR400 DR6000 + TN460 Compatible Drum Unit and Toner cartridge",
+            "normalizedName": "(1 Drum + 1 Toner) V4INK &#174; New Compatible Brother DR400 DR6000 + TN460 Compatible Drum Unit and Toner cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B014KEF0VK": {
+            "asin": "B014KEF0VK",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Fisher-Price Thomas the Train Take-n-Play Thomas at the Water Tower",
+            "normalizedName": "Fisher-Price Thomas the Train Take-n-Play Thomas at the Water Tower",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9599999991949529
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

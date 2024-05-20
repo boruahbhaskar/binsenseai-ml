@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006HINDI": {
+            "asin": "B0006HINDI",
+            "height": {
+                "unit": "IN",
+                "value": 3.8582677126
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "Hario Chacha Kyusu Maru Tea Pot, 450ml",
+            "normalizedName": "Hario Chacha Kyusu Maru Tea Pot, 450ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8377480450708449
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B00K5NELNE": {
+            "asin": "B00K5NELNE",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Garden of Life mykind Organics Men's Once Daily, 60c Organic Tablet",
+            "normalizedName": "Garden of Life mykind Organics Men's Once Daily, 60c Organic Tablet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

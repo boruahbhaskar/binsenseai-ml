@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015KNCR6G": {
+            "asin": "B015KNCR6G",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Crayola Color Escapes Coloring Pages & Pencil Kit, Kaleidoscopes Edition, 12 Premium Pages, 12 Fine Line Markers, 50 Colored Pencils, Adult Coloring",
+            "normalizedName": "Crayola Color Escapes Coloring Pages & Pencil Kit, Kaleidoscopes Edition, 12 Premium Pages, 12 Fine Line Markers, 50 Colored Pencils, Adult Coloring",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B0175TCKYM": {
+            "asin": "B0175TCKYM",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Topcarlight 12 \u2013 Inch 72W Cree Led Light Bar, 24 Piece",
+            "normalizedName": "Topcarlight 12 \u2013 Inch 72W Cree Led Light Bar, 24 Piece",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

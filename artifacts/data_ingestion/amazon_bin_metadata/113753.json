@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E4KLY34": {
+            "asin": "B00E4KLY34",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Baofeng UV-82 Two-Way Radio (Black)",
+            "normalizedName": "Baofeng UV-82 Two-Way Radio (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00NFD0UPO": {
+            "asin": "B00NFD0UPO",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "HOSL Economy Blue Lanyards Round 36\" with Swivel Hook (Qty 100) (Blue)",
+            "normalizedName": "HOSL Economy Blue Lanyards Round 36\" with Swivel Hook (Qty 100) (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

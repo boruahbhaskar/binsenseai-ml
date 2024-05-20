@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004HIZFPQ": {
+            "asin": "B004HIZFPQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "THE Garden Gnome 10\"",
+            "normalizedName": "THE Garden Gnome 10\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00GLIX72S": {
+            "asin": "B00GLIX72S",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Contigo 24oz Autoseal Madison Water Bottle, Red",
+            "normalizedName": "Contigo 24oz Autoseal Madison Water Bottle, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00NH11PEY": {
+            "asin": "B00NH11PEY",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.3700787306
+            },
+            "name": "AmazonBasics USB 2.0 Extension Cable - A-Male to A-Female - 9.8 Feet (3 Meters)",
+            "normalizedName": "AmazonBasics USB 2.0 Extension Cable - A-Male to A-Female - 9.8 Feet (3 Meters)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004AO4ALC": {
+            "asin": "B004AO4ALC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Galco KT212B King Tuck IWB Holster",
+            "normalizedName": "Galco KT212B King Tuck IWB Holster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B00UYNAG0W": {
+            "asin": "B00UYNAG0W",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "LEGO Ninjago Airjitzu Kai Flyer 70739 Building Kit",
+            "normalizedName": "LEGO Ninjago Airjitzu Kai Flyer 70739 Building Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00WI0G7GG": {
+            "asin": "B00WI0G7GG",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "LEGO Minecraft 21119 the Dungeon Building Kit",
+            "normalizedName": "LEGO Minecraft 21119 the Dungeon Building Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008H6R5FC": {
+            "asin": "B008H6R5FC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Speedo Junior Hyperdeep Mask, Blue",
+            "normalizedName": "Speedo Junior Hyperdeep Mask, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00KX7VW2U": {
+            "asin": "B00KX7VW2U",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Rocktape Knee Caps, Manifesto, 5 mm/Medium",
+            "normalizedName": "Rocktape Knee Caps, Manifesto, 5 mm/Medium",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01BLZ44J0": {
+            "asin": "B01BLZ44J0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Sleep Guardian Premium King Mattress Encasement - Lab Tested Waterproof, Bed Bug Proof, Hypoallergenic Zippered Encasement - Protects from Bed Bugs, Dust Mites & Fluids",
+            "normalizedName": "Sleep Guardian Premium King Mattress Encasement - Lab Tested Waterproof, Bed Bug Proof, Hypoallergenic Zippered Encasement - Protects from Bed Bugs, Dust Mites & Fluids",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

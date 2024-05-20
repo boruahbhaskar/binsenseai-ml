@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005BXUU": {
+            "asin": "B00005BXUU",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Bell Night Trail Bicycle Light Set",
+            "normalizedName": "Bell Night Trail Bicycle Light Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00HYO5U0K": {
+            "asin": "B00HYO5U0K",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Value Pack of 6 BIC Standard Refills - Medium Point 1.0mm fits Wide Body, Velocity, XXL, Pro+, ReAction and AI, 6 total refills, Blue (MRC21-Blue)",
+            "normalizedName": "Pack of 6 Value BIC Standard Refills - Medium Point 1.0mm fits Wide Body, Velocity, XXL, Pro+, ReAction and AI, 6 total refills, Blue (MRC21-Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B017GQAOFQ": {
+            "asin": "B017GQAOFQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "ELELINK- Bluetooth 4.0 Receiver/Mini Adapter for Home Audio Music Streaming Sound System /Car Kits with 3.5 Mm Stereo Output for Smartphones /Tablets",
+            "normalizedName": "ELELINK- Bluetooth 4.0 Receiver/Mini Adapter for Home Audio Music Streaming Sound System /Car Kits with 3.5 Mm Stereo Output for Smartphones /Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

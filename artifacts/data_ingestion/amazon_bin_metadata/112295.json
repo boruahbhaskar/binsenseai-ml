@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QIZ1AU": {
+            "asin": "B000QIZ1AU",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Fox Run Stackable 10-Inch by 14-Inch Cooling Rack Set",
+            "normalizedName": "Fox Run Stackable 10-Inch by 14-Inch Cooling Rack Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B008WCQEYY": {
+            "asin": "B008WCQEYY",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Southern Champion Tray 1012 Clay Coated Kraft Paperboard Single ct Cupcake Insert, 3-7/8\" Length x 3-7/8\" Width x 7/8\" Height (Case of 200)",
+            "normalizedName": "(Case of 200) Southern Champion Tray 1012 Clay Coated Kraft Paperboard Single ct Cupcake Insert, 3-7/8\" Length x 3-7/8\" Width x 7/8\" Height",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00BF9HVES": {
+            "asin": "B00BF9HVES",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Smead Poly Two-Pocket Folder, Tang-style Fastener, Holds up to 180 Sheets, Letter Size, Blue, 25 per Box (87726)",
+            "normalizedName": "Smead Poly Two-Pocket Folder, Tang-style Fastener, Holds up to 180 Sheets, Letter Size, Blue, 25 per Box (87726)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00YQKRL70": {
+            "asin": "B00YQKRL70",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "InSassy (TM) Garden Kneeler Wave Pad - High Density Foam for Best Knee Protection (Orange)",
+            "normalizedName": "InSassy (TM) Garden Kneeler Wave Pad - High Density Foam for Best Knee Protection (Orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

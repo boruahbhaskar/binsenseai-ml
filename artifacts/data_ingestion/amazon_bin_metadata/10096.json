@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HCZ4FW": {
+            "asin": "B000HCZ4FW",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "DEWALT D180005 14 Piece Master Hole Saw Kit",
+            "normalizedName": "DEWALT D180005 14 Piece Master Hole Saw Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

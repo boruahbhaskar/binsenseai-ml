@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013K2ZD6": {
+            "asin": "B0013K2ZD6",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Anguish",
+            "normalizedName": "Anguish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B002E01MHY": {
+            "asin": "B002E01MHY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The New York Ripper (Special Edition)",
+            "normalizedName": "The New York Ripper (Special Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00BB53K1O": {
+            "asin": "B00BB53K1O",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Design Toscano Devilish Gothic Troll Statue: Twilight Troll",
+            "normalizedName": "Design Toscano Devilish Gothic Troll Statue: Twilight Troll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00R1G9782": {
+            "asin": "B00R1G9782",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Tomsenn LED Light Micro USB Charging Data Sync Cable USB 2.0 High-Speed A Male to Micro B for Most Android Tablets, Android Phones, and Windows Phones(White)",
+            "normalizedName": "Tomsenn LED Light Micro USB Charging Data Sync Cable USB 2.0 High-Speed A Male to Micro B for Most Android Tablets, Android Phones, and Windows Phones(White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

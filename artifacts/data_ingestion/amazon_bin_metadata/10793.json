@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ALAZV1M": {
+            "asin": "B00ALAZV1M",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "DENTAL ORTHODONTIC WAX - FOR BRACES IRRITATION - 10 PACK",
+            "normalizedName": "DENTAL ORTHODONTIC WAX - FOR BRACES IRRITATION - 10 PACK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00R6FO576": {
+            "asin": "B00R6FO576",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "IPhone 6 Case, Fenix Full-Body Protection Heavy Duty Case, Rubberized Gel For IPhone 6 (4.7 Inch) (Slim Fit) - Tough Smokey Clear Case",
+            "normalizedName": "IPhone 6 Case, Fenix Full-Body Protection Heavy Duty Case, Rubberized Gel For IPhone 6 (4.7 Inch) (Slim Fit) - Tough Smokey Clear Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

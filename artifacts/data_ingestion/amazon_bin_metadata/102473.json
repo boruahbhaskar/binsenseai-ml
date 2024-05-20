@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EYFKKZC": {
+            "asin": "B00EYFKKZC",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Milliard Citric Acid - 1 Pound - 100% Pure Food Grade NON-GMO (1 Pound)",
+            "normalizedName": "Milliard Citric Acid - 1 Pound - 100% Pure Food Grade NON-GMO (1 Pound)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00SK9OI5G": {
+            "asin": "B00SK9OI5G",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Self Adhesive Weatherstrip, .375'' Wide High Quality Silicone Teardrop",
+            "normalizedName": "Self Adhesive Weatherstrip, .375'' Wide High Quality Silicone Teardrop",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

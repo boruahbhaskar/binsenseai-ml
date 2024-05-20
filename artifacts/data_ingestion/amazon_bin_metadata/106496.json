@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0097G8C9O": {
+            "asin": "B0097G8C9O",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "French Tree Bark Pith Helmet - Khaki OSFM",
+            "normalizedName": "French Tree Bark Pith Helmet - Khaki OSFM",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

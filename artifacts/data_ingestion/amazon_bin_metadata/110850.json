@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009NS379Q": {
+            "asin": "B009NS379Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Abu Garcia Spinning Reel Neoprene Cover, Size-10 to 40",
+            "normalizedName": "Abu Garcia Spinning Reel Neoprene Cover, Size-10 to 40",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B00BB4JPYQ": {
+            "asin": "B00BB4JPYQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "OtterBox Defender Series Case and Holster for iPhone 5 ( Not for iPhone 5C or 5S)(Discontinued by Manufacturer) - Realtree Camo",
+            "normalizedName": "OtterBox Defender Series Case and Holster for iPhone 5 ( Not for iPhone 5C or 5S)(Discontinued by Manufacturer) - Realtree Camo",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B018RFP81A": {
+            "asin": "B018RFP81A",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.5
+            },
+            "name": "NFL Player Skyline Glass Ball Christmas Ornament- 2 3/4\"-Seattle Seahawks #24-Marshawn Lynch",
+            "normalizedName": "NFL Player Skyline Glass Ball Christmas Ornament- 2 3/4\"-Seattle Seahawks #24-Marshawn Lynch",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        },
+        "B01BU35B8Q": {
+            "asin": "B01BU35B8Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "Carrera Unisex Carrera 5029/N/S Havana/Brown Lens",
+            "normalizedName": "Carrera Unisex Carrera 5029/N/S Havana/Brown Lens",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400467034919
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0802871771": {
+            "asin": "0802871771",
+            "height": {
+                "unit": "IN",
+                "value": 0.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3
+            },
+            "name": "The Lord and His Prayer",
+            "normalizedName": "The Lord and His Prayer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5
+            }
+        },
+        "B00124YDMY": {
+            "asin": "B00124YDMY",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Spry Xylitol Gum, Spearmint, 600 Pieces - Great Tasting Natural Chewing Gum That is Aspartame Free, Promotes Oral Health, and Fights Bad Breath",
+            "normalizedName": "Spry Xylitol Gum, Spearmint, 600 Pieces - Great Tasting Natural Chewing Gum That is Aspartame Free, Promotes Oral Health, and Fights Bad Breath",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00O2EDJ4Y": {
+            "asin": "B00O2EDJ4Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Anchor Hocking Presence Glass Butter Dish With Cover Set of 2",
+            "normalizedName": "Set of 2 Anchor Hocking Presence Glass Butter Dish With Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B019G3H9G4": {
+            "asin": "B019G3H9G4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "42mm Apple Watch Case, X-Doria Revel Bumper Fashion Case, Digital Camo",
+            "normalizedName": "42mm Apple Watch Case, X-Doria Revel Bumper Fashion Case, Digital Camo",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.044092002335174595
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

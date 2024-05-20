@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0072F8D7S": {
+            "asin": "B0072F8D7S",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Nature's Bounty Optimal Solutions Hair, Skin & Nails Extra Strength, 150 Softgels",
+            "normalizedName": "Nature's Bounty Optimal Solutions Hair, Skin & Nails Extra Strength, 150 Softgels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B007ID2ILQ": {
+            "asin": "B007ID2ILQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Grabber HWPP10 Big Pack Hand Warmers, 10-Pairs",
+            "normalizedName": "Grabber HWPP10 Big Pack Hand Warmers, 10-Pairs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B017PB0ZU6": {
+            "asin": "B017PB0ZU6",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Kolumbo Umbrellas - Wind Tested 55MPH - Best Air Travel & Great Corporate Gifts - Windproof Rain Umbrella - Compact, Auto Open/Close - Perfect For Men, Women, Dad, Mom - Gift Box - Lifetime Guarantee",
+            "normalizedName": "Kolumbo Umbrellas - Wind Tested 55MPH - Best Air Travel & Great Corporate Gifts - Windproof Rain Umbrella - Compact, Auto Open/Close - Perfect For Men, Women, Dad, Mom - Gift Box - Lifetime Guarantee",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B01CIB70BA": {
+            "asin": "B01CIB70BA",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Potato Ricer and Masher with 3 Ricing Discs - Professional 304 Stainless Steel Kitchen Press Tool - Perfect Smooth Potatoes with No Lumps - Easy Baby Food Strainer - Ergonomic Silicone Grip Handle",
+            "normalizedName": "Potato Ricer and Masher with 3 Ricing Discs - Professional 304 Stainless Steel Kitchen Press Tool - Perfect Smooth Potatoes with No Lumps - Easy Baby Food Strainer - Ergonomic Silicone Grip Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

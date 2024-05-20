@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PF8ACFU": {
+            "asin": "B00PF8ACFU",
+            "height": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "Philips AVENT Classic Plus Newborn Starter Set",
+            "normalizedName": "Philips AVENT Classic Plus Newborn Starter Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520723904125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.4015747956
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

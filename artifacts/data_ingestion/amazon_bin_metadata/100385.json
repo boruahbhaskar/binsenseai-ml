@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V2PB16O": {
+            "asin": "B00V2PB16O",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Wireless Charger,Itian&reg;Qi Wireless Charging Pad K8 for Samsung Galaxy S7 S7 Edge S6 S6 Edge Note5 S6 Edge Plus(AC Adapter Not Included)-1 Year Warranty",
+            "normalizedName": "Wireless Charger,Itian&reg;Qi Wireless Charging Pad K8 for Samsung Galaxy S7 S7 Edge S6 S6 Edge Note5 S6 Edge Plus(AC Adapter Not Included)-1 Year Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01D9S5UG8": {
+            "asin": "B01D9S5UG8",
+            "height": {
+                "unit": "IN",
+                "value": 1.549999998419
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.649999995257001
+            },
+            "name": "Doosl\u00ae FM Transmitter Wireless Audio Radio Adapter with 3.5mm Jack & Car Charger for iPhone 6 6S Plus 5S 5C Samsung Galaxy S7 S6 Edge S5 S4 and Other Audio Players.",
+            "normalizedName": "Doosl\u00ae FM Transmitter Wireless Audio Radio Adapter with 3.5mm Jack & Car Charger for iPhone 6 6S Plus 5S 5C Samsung Galaxy S7 S6 Edge S5 S4 and Other Audio Players.",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20499999982808892
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.749999996175
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

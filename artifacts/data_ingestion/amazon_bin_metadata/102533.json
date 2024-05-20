@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028IY6KC": {
+            "asin": "B0028IY6KC",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "Zodiac 9-100-9010 Factory Tune-Up Replacement Kit",
+            "normalizedName": "Zodiac 9-100-9010 Factory Tune-Up Replacement Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00J9B8GES": {
+            "asin": "B00J9B8GES",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Marshalls Creek Spices Cinnamon Sticks, XX-Large, 3 Pound",
+            "normalizedName": "Marshalls Creek Spices Cinnamon Sticks, XX-Large, 3 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

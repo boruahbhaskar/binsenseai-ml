@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LYYU5YC": {
+            "asin": "B00LYYU5YC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Global Beauty Care CoQ10 Anti-Aging Face Cream - 1.7 oz",
+            "normalizedName": "Global Beauty Care CoQ10 Anti-Aging Face Cream - 1.7 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22999999980712413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B011I5ZTIS": {
+            "asin": "B011I5ZTIS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "ORICO Tool Free USB 3.0 External Enclosure for 2.5-Inch SATA HDD/SSD (7mm & 9.5mm) - Black (2599US3)",
+            "normalizedName": "ORICO Tool Free USB 3.0 External Enclosure for 2.5-Inch SATA HDD/SSD (7mm & 9.5mm) - Black (2599US3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11999999989936912
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01E3Q8MVU": {
+            "asin": "B01E3Q8MVU",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "[Qualcomm Quick Charge 3.0]TopEs Premium USB Car Charger Fast charging for Samsung Galaxy S7, S7 Edge, Android and Apple Devices Samsung Fast Charge Qi Wireless Charging Pad and More",
+            "normalizedName": "[Qualcomm Quick Charge 3.0]TopEs Premium USB Car Charger Fast charging for Samsung Galaxy S7, S7 Edge, Android and Apple Devices Samsung Fast Charge Qi Wireless Charging Pad and More",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

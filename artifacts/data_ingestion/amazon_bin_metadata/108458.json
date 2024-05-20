@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0056QXWVM": {
+            "asin": "B0056QXWVM",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Pennington Premium Sunflower Chips for Feeding",
+            "normalizedName": "Pennington Premium Sunflower Chips for Feeding",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00OR2H01O": {
+            "asin": "B00OR2H01O",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Baofeng Pofung GT-1 UHF 400-470MHz FM Two-way Ham Radio, 16 Channels, 1800mAh Battery (Yellow)",
+            "normalizedName": "Baofeng Pofung GT-1 UHF 400-470MHz FM Two-way Ham Radio, 16 Channels, 1800mAh Battery (Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00UHZ8A8W": {
+            "asin": "B00UHZ8A8W",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Real Meat Organic Dog Food - Feed Me: Freeze Dried Raw Superfood for Optimal Canine Health and Natural Longevity - All Natural - Balanced Nutrition - No Filters, No Grain - Just Add Water (Beef, 14oz)",
+            "normalizedName": "Real Meat Organic Dog Food - Feed Me: Freeze Dried Raw Superfood for Optimal Canine Health and Natural Longevity - All Natural - Balanced Nutrition - No Filters, No Grain - Just Add Water (Beef, 14oz)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00WL6VNMK": {
+            "asin": "B00WL6VNMK",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Chinese Hand Marionette Puppet (Red Lion Marionette)",
+            "normalizedName": "Chinese Hand Marionette Puppet (Red Lion Marionette)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

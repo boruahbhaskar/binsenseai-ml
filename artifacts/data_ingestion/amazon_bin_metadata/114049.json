@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S72BR6O": {
+            "asin": "B00S72BR6O",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "MODONA Four Pronged Robe & Towel Hook with Concealed Screws - Satin Nickel",
+            "normalizedName": "MODONA Four Pronged Robe & Towel Hook with Concealed Screws - Satin Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00Y7D9QBU": {
+            "asin": "B00Y7D9QBU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.199999982456
+            },
+            "name": "Grey/black Bagpack",
+            "normalizedName": "Grey/black Bagpack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.199999985516
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

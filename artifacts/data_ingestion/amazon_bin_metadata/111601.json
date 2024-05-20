@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0057UUBJI": {
+            "asin": "B0057UUBJI",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Cepacol Sore Throat Max Numbing Honey Lemon, 16 Count (Pack of 3)",
+            "normalizedName": "(Pack of 3) Cepacol Sore Throat Max Numbing Honey Lemon, 16 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00K14XAAC": {
+            "asin": "B00K14XAAC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Highland Graphics A Poppy's Touch Tempered Glass Cutting Board, 15 by 12-inch",
+            "normalizedName": "Highland Graphics A Poppy's Touch Tempered Glass Cutting Board, 15 by 12-inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B00NHB408W": {
+            "asin": "B00NHB408W",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "ICOLOR Cool Wolf Anti-Slip Mouse Pad Mice Pad Mat Mousepad For Optical Laser Mouse Sale MP-027",
+            "normalizedName": "ICOLOR Cool Wolf Anti-Slip Mouse Pad Mice Pad Mat Mousepad For Optical Laser Mouse Sale MP-027",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B0156HL9WE": {
+            "asin": "B0156HL9WE",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Innoo Tech Baby Sling Carrier Natural Cotton Nursing Baby Wrap Suitable for Newborns to 35 lbs Lifetime Guarantee Breastfeeding Sling Baby Holder Soft Safe and Comfortable Nice Baby Shower Gift Gray",
+            "normalizedName": "Innoo Tech Baby Sling Carrier Natural Cotton Nursing Baby Wrap Suitable for Newborns to 35 lbs Lifetime Guarantee Breastfeeding Sling Baby Holder Soft Safe and Comfortable Nice Baby Shower Gift Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.279999998926604
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

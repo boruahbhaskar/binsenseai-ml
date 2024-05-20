@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007JJZQIG": {
+            "asin": "B007JJZQIG",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "R&M Daisy 2.25 \"Cookie Cutter in Durable, Economical, Tinplated Steel",
+            "normalizedName": "R&M Daisy 2.25 \"Cookie Cutter in Durable, Economical, Tinplated Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00FBW7CNA": {
+            "asin": "B00FBW7CNA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Fisher-Price Rattle and Rock Maracas Musical Toy",
+            "normalizedName": "Fisher-Price Rattle and Rock Maracas Musical Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B011486C30": {
+            "asin": "B011486C30",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "SinoWare GoPro Accessories Bundle Kit for Hero 4 Hero 3+ Hero 3 Hero 2 Digital Camera",
+            "normalizedName": "SinoWare GoPro Accessories Bundle Kit for Hero 4 Hero 3+ Hero 3 Hero 2 Digital Camera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

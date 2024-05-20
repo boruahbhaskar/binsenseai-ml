@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CP2N5Z8": {
+            "asin": "B00CP2N5Z8",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Fiesta Oval Platter, 13-5/8-Inch, Lapis",
+            "normalizedName": "Fiesta Oval Platter, 13-5/8-Inch, Lapis",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B01BTI8GVG": {
+            "asin": "B01BTI8GVG",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "SUPERNIGHT\u00ae RGBW Light DC 12V 16.4ft Nanometer IP68 Waterproof LED Strip Light RGB+Cool White Color Changing Swimming Pool Underwater LED Rope Lights",
+            "normalizedName": "SUPERNIGHT\u00ae RGBW Light DC 12V 16.4ft Nanometer IP68 Waterproof LED Strip Light RGB+Cool White Color Changing Swimming Pool Underwater LED Rope Lights",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01EIUJPS0": {
+            "asin": "B01EIUJPS0",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Apple MacBook MMGM2LL/A 12-Inch Laptop with Retina Display (Rose Gold, 512 GB) NEWEST VERSION",
+            "normalizedName": "Apple MacBook MMGM2LL/A 12-Inch Laptop with Retina Display (Rose Gold, 512 GB) NEWEST VERSION",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.539999996192798
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0039G5HOQ": {
+            "asin": "B0039G5HOQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Aquascape 98885 Liquid Beneficial Bacteria for Pond and Water Features, 1-Gallon Bottle",
+            "normalizedName": "Aquascape 98885 Liquid Beneficial Bacteria for Pond and Water Features, 1-Gallon Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B007HIQD5Y": {
+            "asin": "B007HIQD5Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Mind & Body Electric Spa Wrap",
+            "normalizedName": "Mind & Body Electric Spa Wrap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B01AT5MC9M": {
+            "asin": "B01AT5MC9M",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Barbie Great Puppy Adventure Barbie Doll",
+            "normalizedName": "Barbie Great Puppy Adventure Barbie Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01DYC8A70": {
+            "asin": "B01DYC8A70",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Ambesonne Nature Decor Collection, Rainy Scene Mystic Foggy Forest and Water Drops View Lonely Tree Style, Window Treatments, Living Kids Girls Boys Room Curtain Set, 108 X 90 Inches, Dark Gray Navy",
+            "normalizedName": "Ambesonne Nature Decor Collection, Rainy Scene Mystic Foggy Forest and Water Drops View Lonely Tree Style, Window Treatments, Living Kids Girls Boys Room Curtain Set, 108 X 90 Inches, Dark Gray Navy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

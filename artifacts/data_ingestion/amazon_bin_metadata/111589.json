@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006I6PEBA": {
+            "asin": "B006I6PEBA",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs Coffee Makes Me Poop Ceramic Coffee Mug, Brown, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Coffee Makes Me Poop Ceramic Coffee Mug, Brown, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B0070Z7KME": {
+            "asin": "B0070Z7KME",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "DMSO Cream with Aloe Vera Rose Scented -- 4 oz",
+            "normalizedName": "DMSO Cream with Aloe Vera Rose Scented -- 4 oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0132788659": {
+            "asin": "0132788659",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Engineering with Excel (4th Edition)",
+            "normalizedName": "Engineering with Excel (4th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "1933054395": {
+            "asin": "1933054395",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Qwirkle Board Game",
+            "normalizedName": "Qwirkle Board Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.292784121429079
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.4724409342
+            }
+        },
+        "B001MYEU0E": {
+            "asin": "B001MYEU0E",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Lyman 49th Edition Reloading Handbook",
+            "normalizedName": "Lyman 49th Edition Reloading Handbook",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00O35CWQ8": {
+            "asin": "B00O35CWQ8",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 3 Piece (Twin, White)",
+            "normalizedName": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 3 Piece (Twin, White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

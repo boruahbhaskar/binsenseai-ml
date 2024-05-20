@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1880156067": {
+            "asin": "1880156067",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Basic Statistics: Tools for Continuous Improvement 4th Edition",
+            "normalizedName": "Basic Statistics: Tools for Continuous Improvement 4th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00CH719ZE": {
+            "asin": "B00CH719ZE",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Shea Moisture Organic Raw Shea Butter Baby Skin Therapy 6oz (Pack of 3)",
+            "normalizedName": "(Pack of 3) Shea Moisture Organic Raw Shea Butter Baby Skin Therapy 6oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B013X5NWBW": {
+            "asin": "B013X5NWBW",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Dinotrux Ty Rux Vehicle",
+            "normalizedName": "Dinotrux Ty Rux Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

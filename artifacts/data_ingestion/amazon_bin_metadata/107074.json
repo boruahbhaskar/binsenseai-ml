@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005F6BB2A": {
+            "asin": "B005F6BB2A",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Project E Beauty Wood's Lamp Facial Unit Skin Analysis Analyzer",
+            "normalizedName": "Project E Beauty Wood's Lamp Facial Unit Skin Analysis Analyzer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00WVSM534": {
+            "asin": "B00WVSM534",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Carmelina 'e San Marzano Petite Peeled Date Tomatoes, 14.28 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Carmelina 'e San Marzano Petite Peeled Date Tomatoes, 14.28 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.249999988888675
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

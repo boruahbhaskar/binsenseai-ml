@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JDKV4NK": {
+            "asin": "B00JDKV4NK",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Mrs. Meyer's Liquid Hand Soap Refill, Lemon Verbena, 33 Fluid Ounce",
+            "normalizedName": "Mrs. Meyer's Liquid Hand Soap Refill, Lemon Verbena, 33 Fluid Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

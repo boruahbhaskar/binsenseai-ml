@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UYBX2FU": {
+            "asin": "B00UYBX2FU",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "100 Mini Inflatable Beach Ball Bulk (Approximately 5\")",
+            "normalizedName": "100 Mini Inflatable Beach Ball Bulk (Approximately 5\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

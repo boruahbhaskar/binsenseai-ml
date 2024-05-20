@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R0P3JFG": {
+            "asin": "B00R0P3JFG",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "New 077 Navy Skin Tights Compression Base Layer Sports Sleeveless Top Mens (2XL)",
+            "normalizedName": "New 077 Navy Skin Tights Compression Base Layer Sports Sleeveless Top Mens (2XL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B016ZXWSQ4": {
+            "asin": "B016ZXWSQ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.549999998419
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Sandwich Cutter (5pc) Premium Set by Trendy Cooks Offers Sandwich Cutters for Kids, 5 Fun Shapes Heart, Train, Dinosaur, Dolphin & Butterfly, Ideal as Cookie Cutter Shapes, Make Sandwiches Fun Today!",
+            "normalizedName": "Sandwich Cutter (5pc) Premium Set by Trendy Cooks Offers Sandwich Cutters for Kids, 5 Fun Shapes Heart, Train, Dinosaur, Dolphin & Butterfly, Ideal as Cookie Cutter Shapes, Make Sandwiches Fun Today!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39499999966875676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B01E7I8N18": {
+            "asin": "B01E7I8N18",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822
+            },
+            "name": "Fathers Day Gifts-Innovative Foldable Camp Chair, Stuck-slip-proof Feet, Super Comfort Ultra light Heavy Duty, Perfect for All Types of Outdoor Events (Blue)",
+            "normalizedName": "Fathers Day Gifts-Innovative Foldable Camp Chair, Stuck-slip-proof Feet, Super Comfort Ultra light Heavy Duty, Perfect for All Types of Outdoor Events (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9499999983647478
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

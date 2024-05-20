@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BHDLQM": {
+            "asin": "B000BHDLQM",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Mabis Dmi Healthcare Rubber Water Bottle, Red, One",
+            "normalizedName": "Mabis Dmi Healthcare Rubber Water Bottle, Red, One",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B001DSZ7EC": {
+            "asin": "B001DSZ7EC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Magswitch Table Feather Board Universal Model Universal Feather Board Magswitch",
+            "normalizedName": "Magswitch Table Feather Board Universal Model Universal Feather Board Magswitch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00BE69DSE": {
+            "asin": "B00BE69DSE",
+            "height": {
+                "unit": "IN",
+                "value": 1.1417322823
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2598425133
+            },
+            "name": "Belkin Rockstar Multi Headphone Splitter (Blue)",
+            "normalizedName": "Belkin Rockstar Multi Headphone Splitter (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.12786680677200632
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

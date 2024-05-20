@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H8KYCE": {
+            "asin": "B000H8KYCE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Rubie's Costume Co Indian Girl Costume, Small",
+            "normalizedName": "Rubie's Costume Co Indian Girl Costume, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B000UVKE2I": {
+            "asin": "B000UVKE2I",
+            "height": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Jensen 3-Speed Stereo Turntable with AM/FM Stereo Radio (Silver)",
+            "normalizedName": "Jensen 3-Speed Stereo Turntable with AM/FM Stereo Radio (Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.699999994381443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        },
+        "B000WID03O": {
+            "asin": "B000WID03O",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Blue Bunny Infant Costume, 6 - 12 Months",
+            "normalizedName": "Blue Bunny Infant Costume, 6 - 12 Months",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B001ILW4M2": {
+            "asin": "B001ILW4M2",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Beetlejuice Deluxe Costume, Black/White, X-Large",
+            "normalizedName": "Beetlejuice Deluxe Costume, Black/White, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

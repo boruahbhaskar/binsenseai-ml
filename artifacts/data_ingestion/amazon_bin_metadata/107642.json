@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005T3GRNW": {
+            "asin": "B005T3GRNW",
+            "height": {
+                "unit": "IN",
+                "value": 3.3464566895
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Seagate 1TB Desktop HDD SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST1000DM003)",
+            "normalizedName": "Seagate 1TB Desktop HDD SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST1000DM003)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1464037624
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B00IGXE0O0": {
+            "asin": "B00IGXE0O0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Steren BL-920-320 Slim AC Wall Tap and USB Charger",
+            "normalizedName": "Steren BL-920-320 Slim AC Wall Tap and USB Charger",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01984EUI6": {
+            "asin": "B01984EUI6",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "iSimple ISBT23 MusicstreAM Bluetooth Audio Receiver",
+            "normalizedName": "iSimple ISBT23 MusicstreAM Bluetooth Audio Receiver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

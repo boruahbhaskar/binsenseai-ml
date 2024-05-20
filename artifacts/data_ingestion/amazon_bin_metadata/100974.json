@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O35DPN2": {
+            "asin": "B00O35DPN2",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Cal King, Gray)",
+            "normalizedName": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Cal King, Gray)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00UYBX2FU": {
+            "asin": "B00UYBX2FU",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "100 Mini Inflatable Beach Ball Bulk (Approximately 5\")",
+            "normalizedName": "100 Mini Inflatable Beach Ball Bulk (Approximately 5\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B019SWUZEQ": {
+            "asin": "B019SWUZEQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Stanbroil Fire Pit Installation Kit for Natural Gas Connection",
+            "normalizedName": "Stanbroil Fire Pit Installation Kit for Natural Gas Connection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

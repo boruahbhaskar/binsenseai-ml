@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C0BC1DQ": {
+            "asin": "B00C0BC1DQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Tupperware Rock N Serve 3 1/2 Cup Round Microwave Bowl, Red",
+            "normalizedName": "Tupperware Rock N Serve 3 1/2 Cup Round Microwave Bowl, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00N24XICS": {
+            "asin": "B00N24XICS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Nite Ize Clip Case Cargo Wide Load for Smartphones - Retail Packaging - Black",
+            "normalizedName": "Nite Ize Clip Case Cargo Wide Load for Smartphones - Retail Packaging - Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01D45DNT2": {
+            "asin": "B01D45DNT2",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Aiyze for Samsung Galaxy S6 Edge+ Plus Case G9280 Wallet Cases Color Printed PU Leather Credit Card Holder Flip Cover with Free Stylus Gift ( Black Wind Chimes )",
+            "normalizedName": "Aiyze for Samsung Galaxy S6 Edge+ Plus Case G9280 Wallet Cases Color Printed PU Leather Credit Card Holder Flip Cover with Free Stylus Gift ( Black Wind Chimes )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01GYGGLI8": {
+            "asin": "B01GYGGLI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Heat it HISD 18-feet Pipe Heating Cable with Thermostat",
+            "normalizedName": "Heat it HISD 18-feet Pipe Heating Cable with Thermostat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.77
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

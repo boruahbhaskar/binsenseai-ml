@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BVITMO": {
+            "asin": "B000BVITMO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Ideal Industries Crimpmaster Crimp Tool for RG-58 RG-59/62AU BNC/TNC 3-Piece Hex Type Connectors",
+            "normalizedName": "Ideal Industries Crimpmaster Crimp Tool for RG-58 RG-59/62AU BNC/TNC 3-Piece Hex Type Connectors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B001MQ9Y5I": {
+            "asin": "B001MQ9Y5I",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Zen Art Brass Feng Shui Desktop Gong by Asian Home",
+            "normalizedName": "Zen Art Brass Feng Shui Desktop Gong by Asian Home",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FA4JNZE": {
+            "asin": "B00FA4JNZE",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Muscle Pharm Arnold Schwarzenegger Series Iron Mass Weight Gainer, Chocolate Malt, 5 Pound",
+            "normalizedName": "Muscle Pharm Arnold Schwarzenegger Series Iron Mass Weight Gainer, Chocolate Malt, 5 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

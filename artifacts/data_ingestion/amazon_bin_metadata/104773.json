@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000JWK42S": {
+            "asin": "B000JWK42S",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Hem Precious Lavender, 120 Sticks Box",
+            "normalizedName": "Hem Precious Lavender, 120 Sticks Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B001OO3JC2": {
+            "asin": "B001OO3JC2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Coconut - 100 Stick Bulk Pack of In-Scents Incense",
+            "normalizedName": "Coconut - 100 Stick Bulk Pack of In-Scents Incense",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B00AQ64BG2": {
+            "asin": "B00AQ64BG2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "3M 03456C Scotchlite Reflective Tape, 2-Inch x 36-Inch, Silver (Pack of 4)",
+            "normalizedName": "(Pack of 4) 3M 03456C Scotchlite Reflective Tape, 2-Inch x 36-Inch, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B014WTJGL8": {
+            "asin": "B014WTJGL8",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Mega Bloks Teenage Mutant Ninja Turtles Ninja Racers, Michaelangelo Pizza Launcher",
+            "normalizedName": "Mega Bloks Teenage Mutant Ninja Turtles Ninja Racers, Michaelangelo Pizza Launcher",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

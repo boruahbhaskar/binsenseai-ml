@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008WCQEYY": {
+            "asin": "B008WCQEYY",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Southern Champion Tray 1012 Clay Coated Kraft Paperboard Single ct Cupcake Insert, 3-7/8\" Length x 3-7/8\" Width x 7/8\" Height (Case of 200)",
+            "normalizedName": "(Case of 200) Southern Champion Tray 1012 Clay Coated Kraft Paperboard Single ct Cupcake Insert, 3-7/8\" Length x 3-7/8\" Width x 7/8\" Height",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00YQKRL70": {
+            "asin": "B00YQKRL70",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "InSassy (TM) Garden Kneeler Wave Pad - High Density Foam for Best Knee Protection (Orange)",
+            "normalizedName": "InSassy (TM) Garden Kneeler Wave Pad - High Density Foam for Best Knee Protection (Orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

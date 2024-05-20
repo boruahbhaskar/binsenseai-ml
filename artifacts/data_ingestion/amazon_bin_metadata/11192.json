@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003UGWI8I": {
+            "asin": "B003UGWI8I",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Galco Speed Paddle Holster for 1911 4-Inch, 4 1/4-Inch Colt, Kimber, Para, Springfield, Smith (Tan, Right-hand)",
+            "normalizedName": "Galco Speed Paddle Holster for 1911 4-Inch, 4 1/4-Inch Colt, Kimber, Para, Springfield, Smith (Tan, Right-hand)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186
+            }
+        },
+        "B004LONG0W": {
+            "asin": "B004LONG0W",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "CowboyStudio 45W Compact Fluorescent CFL Daylight Balanced Bulb with 5500K Color Temperature for Photography and Video Studio Lighting",
+            "normalizedName": "CowboyStudio 45W Compact Fluorescent CFL Daylight Balanced Bulb with 5500K Color Temperature for Photography and Video Studio Lighting",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B009VSKEK8": {
+            "asin": "B009VSKEK8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "name": "LB1 High Performance Battery for HP G61-100 / G61-200 / G61-300 / G61-400 Series, fits: 485041-003",
+            "normalizedName": "LB1 High Performance Battery for HP G61-100 / G61-200 / G61-300 / G61-400 Series, fits: 485041-003",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0
+            }
+        },
+        "B00TOKD6NK": {
+            "asin": "B00TOKD6NK",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Sightmark SM26020 Wolverine FSR Red Dot Sight",
+            "normalizedName": "Sightmark SM26020 Wolverine FSR Red Dot Sight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

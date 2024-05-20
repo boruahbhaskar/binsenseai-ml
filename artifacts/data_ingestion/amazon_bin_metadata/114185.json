@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FZGLKTO": {
+            "asin": "B00FZGLKTO",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Skip Hop Pronto Diaper Changing Station, Genie",
+            "normalizedName": "Skip Hop Pronto Diaper Changing Station, Genie",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00JJNQG98": {
+            "asin": "B00JJNQG98",
+            "height": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "HyperX Cloud Gaming Headset - Black (KHX-H3CL/WR)",
+            "normalizedName": "HyperX Cloud Gaming Headset - Black (KHX-H3CL/WR)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8659801541897325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.3700787306
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

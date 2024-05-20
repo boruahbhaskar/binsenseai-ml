@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IUTQ": {
+            "asin": "B00006IUTQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Melitta Cone Coffee Filters Natural Brown #4 100 count",
+            "normalizedName": "Melitta Cone Coffee Filters Natural Brown #4 100 count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00AWSTDAI": {
+            "asin": "B00AWSTDAI",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Ultra Ball (Pack of 2)",
+            "normalizedName": "(Pack of 2) Ultra Ball",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

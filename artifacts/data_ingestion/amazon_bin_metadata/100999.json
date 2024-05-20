@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004Z5QI": {
+            "asin": "B00004Z5QI",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Fellowes Booklift Copyholder, Platinum (21100)",
+            "normalizedName": "Fellowes Booklift Copyholder, Platinum (21100)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B00XZH2FSK": {
+            "asin": "B00XZH2FSK",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "50 Aqua Blue Ocean A7 Envelopes for $8.94 - 7.25\" x 5.25\" - Square Flap",
+            "normalizedName": "50 Aqua Blue Ocean A7 Envelopes for $8.94 - 7.25\" x 5.25\" - Square Flap",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

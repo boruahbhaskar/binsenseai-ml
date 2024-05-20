@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007T0W5CA": {
+            "asin": "B007T0W5CA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "RCA Digital Alarm Clock with Large 1.4\" Display",
+            "normalizedName": "RCA Digital Alarm Clock with Large 1.4\" Display",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00MYFCK8E": {
+            "asin": "B00MYFCK8E",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Diane Non-Latex Blending Sponge, Pink",
+            "normalizedName": "Diane Non-Latex Blending Sponge, Pink",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

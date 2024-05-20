@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1890989290": {
+            "asin": "1890989290",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "PTAEXAM: The Complete Study Guide",
+            "normalizedName": "PTAEXAM: The Complete Study Guide",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B0026NZFCC": {
+            "asin": "B0026NZFCC",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "New Crochet Vinyl Lace Tablecloth, 60\" wide X 90\" long Oblong, Bone Beige",
+            "normalizedName": "New Crochet Vinyl Lace Tablecloth, 60\" wide X 90\" long Oblong, Bone Beige",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

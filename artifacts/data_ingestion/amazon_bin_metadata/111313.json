@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004NF0HOW": {
+            "asin": "B004NF0HOW",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Hoover Air Purifier Replacement HEPA Filter - AH60010",
+            "normalizedName": "Hoover Air Purifier Replacement HEPA Filter - AH60010",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B013U63OLW": {
+            "asin": "B013U63OLW",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Easy Posture Lumbar Support for Office Chair or Car Seat - Memory Foam with Cool Mesh Back Support - Double Adjustable Straps",
+            "normalizedName": "Easy Posture Lumbar Support for Office Chair or Car Seat - Memory Foam with Cool Mesh Back Support - Double Adjustable Straps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B018ALN5V6": {
+            "asin": "B018ALN5V6",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Power Rangers - Mixx N Morph Dino Charge Red Ranger and T-Rex Zord Action Figure Pack",
+            "normalizedName": "Power Rangers - Mixx N Morph Dino Charge Red Ranger and T-Rex Zord Action Figure Pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B01F3P7AB8": {
+            "asin": "B01F3P7AB8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Horze Spirit Bling Spur Straps - Black/Gold",
+            "normalizedName": "Horze Spirit Bling Spur Straps - Black/Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015G6QVK": {
+            "asin": "B0015G6QVK",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Natural Balance L.I.T. Limited Ingredient Treats Sweet Potato & Fish Formula Dry Dog Treats, 14-Ounce",
+            "normalizedName": "Natural Balance L.I.T. Limited Ingredient Treats Sweet Potato & Fish Formula Dry Dog Treats, 14-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00XF7DLLK": {
+            "asin": "B00XF7DLLK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Talon II Universal Car Golf Cart Boat Camper Windshield Dashboard Mount Holder 2 for 1 Retail 2 Pack for iPhone 6 (4.7)/ Plus (5.5)/ 5s/ 5c/, Samsung Galaxy S6/S6 Edge/ S5/S4/ S3/ Note 4/3, Google Nexus 5/4, LG G3, Android, iPad Golf GPS Cigar Holder (Black)",
+            "normalizedName": "2 Pack Talon II Universal Car Golf Cart Boat Camper Windshield Dashboard Mount Holder 2 for 1 Retail for iPhone 6 (4.7)/ Plus (5.5)/ 5s/ 5c/, Samsung Galaxy S6/S6 Edge/ S5/S4/ S3/ Note 4/3, Google Nexus 5/4, LG G3, Android, iPad Golf GPS Cigar Holder (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

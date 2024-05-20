@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002NMICB2": {
+            "asin": "B002NMICB2",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "3M Professional Multi-purpose Respirator,Medium",
+            "normalizedName": "3M Professional Multi-purpose Respirator,Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B0032J1KAK": {
+            "asin": "B0032J1KAK",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Total View 360 Adjustabe Blind Spot Mirror",
+            "normalizedName": "Total View 360 Adjustabe Blind Spot Mirror",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

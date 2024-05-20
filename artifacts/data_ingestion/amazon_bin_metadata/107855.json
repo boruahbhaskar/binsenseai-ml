@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003W47NII": {
+            "asin": "B003W47NII",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "IK Multimedia AmpliTube iRig guitar interface adaptor for iOS devices",
+            "normalizedName": "IK Multimedia AmpliTube iRig guitar interface adaptor for iOS devices",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B016UE081U": {
+            "asin": "B016UE081U",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Gosasa Unisex Military Sports Watches Digital LED Quartz Wristwatches rubber strap 5AT Waterproof (Orange)",
+            "normalizedName": "Gosasa Unisex Military Sports Watches Digital LED Quartz Wristwatches rubber strap 5AT Waterproof (Orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

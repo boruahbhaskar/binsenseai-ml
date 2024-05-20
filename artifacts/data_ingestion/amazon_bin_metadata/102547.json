@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003ZZY9UY": {
+            "asin": "B003ZZY9UY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "13\" x 18\", 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, Pack of 100",
+            "normalizedName": "Pack of 100 13\" x 18\", 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags,",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B018KQ358O": {
+            "asin": "B018KQ358O",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Nike Mens 717293 Grey Tracksuit Bottoms / Pants Size S",
+            "normalizedName": "Nike Mens 717293 Grey Tracksuit Bottoms / Pants Size S",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

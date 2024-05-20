@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001DRH930": {
+            "asin": "B001DRH930",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "ACDelco 88958251 GM Original Equipment Windshield Wiper Motor",
+            "normalizedName": "ACDelco 88958251 GM Original Equipment Windshield Wiper Motor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B013TR5MQM": {
+            "asin": "B013TR5MQM",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Brock Beauty Hairfinity\u00ae Healthy Hair Vitamins 720 Capsules (12 Months Supply)",
+            "normalizedName": "Brock Beauty Hairfinity\u00ae Healthy Hair Vitamins 720 Capsules (12 Months Supply)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999976519456
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

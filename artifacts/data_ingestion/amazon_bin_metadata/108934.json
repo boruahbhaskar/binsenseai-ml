@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002AKJQEY": {
+            "asin": "B002AKJQEY",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.7007873876
+            },
+            "name": "Pioneer 12-Inch by 12-Inch Embossed Leatherette Postbound Memorybook with Window, Black with Ivy",
+            "normalizedName": "Pioneer 12-Inch by 12-Inch Embossed Leatherette Postbound Memorybook with Window, Black with Ivy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1605081162353366
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.385826758
+            }
+        },
+        "B00TI7QILG": {
+            "asin": "B00TI7QILG",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "GPTOYS F2C Aviax Remote Control Quadcopter Drone Helicopter with Transmitter & Gyro System & HD Camera & LED Lights & 4G SD Card & SD Card Reader",
+            "normalizedName": "GPTOYS F2C Aviax Remote Control Quadcopter Drone Helicopter with Transmitter & Gyro System & HD Camera & LED Lights & 4G SD Card & SD Card Reader",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B014P0K2A8": {
+            "asin": "B014P0K2A8",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Clorox Toilet Wand Disinfecting Refills, Rainforest Rush, 30 Count",
+            "normalizedName": "Clorox Toilet Wand Disinfecting Refills, Rainforest Rush, 30 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B019ZYXV98": {
+            "asin": "B019ZYXV98",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "16\" Multicolor LED Flashing Light Effect Sticks Color Changing Foam Baton Strobe for Party Supplies, Festivals, Raves, Birthdays, Children Toy (12 Pack) by Super Z Outlet\u00ae",
+            "normalizedName": "(12 Pack) 16\" Multicolor LED Flashing Light Effect Sticks Color Changing Foam Baton Strobe for Party Supplies, Festivals, Raves, Birthdays, Children Toy by Super Z Outlet\u00ae",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

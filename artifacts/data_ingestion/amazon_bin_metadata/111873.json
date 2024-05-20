@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I1UTU16": {
+            "asin": "B00I1UTU16",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.599999982048004
+            },
+            "name": "UPVEL 8-Port 10/100 PoE+ Rackmount Switch with 4 PoE+ ports and 70 watts power budget (UP-208FE)",
+            "normalizedName": "UPVEL 8-Port 10/100 PoE+ Rackmount Switch with 4 PoE+ ports and 70 watts power budget (UP-208FE)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01DETZQ3E": {
+            "asin": "B01DETZQ3E",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "HIGH PRESSURE-RESISTANCE DURABLE Garden Hose, Strongest Hose, Water Hose, Expandable Hose, with 8-way Spray Nozzle\uff0c Shutoff Valve and Hose Holder, 100 Feet Green",
+            "normalizedName": "HIGH PRESSURE-RESISTANCE DURABLE Garden Hose, Strongest Hose, Water Hose, Expandable Hose, with 8-way Spray Nozzle\uff0c Shutoff Valve and Hose Holder, 100 Feet Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.689999997744191
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

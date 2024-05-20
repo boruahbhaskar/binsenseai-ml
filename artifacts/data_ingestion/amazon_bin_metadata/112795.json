@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J07BRQ": {
+            "asin": "B000J07BRQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Scotch Heavy Duty Shipping Packaging Tape, 1.88 Inches x 800 Inches, 6 Rolls with Dispenser (142-6)",
+            "normalizedName": "Scotch Heavy Duty Shipping Packaging Tape, 1.88 Inches x 800 Inches, 6 Rolls with Dispenser (142-6)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00416T8Q6": {
+            "asin": "B00416T8Q6",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Frontier Herb Organic Powdered Ceylon Cinnamon, 1 Pound bag -- 1 each.",
+            "normalizedName": "Frontier Herb Organic Powdered Ceylon Cinnamon, 1 Pound bag -- 1 each.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00BFZMQL0": {
+            "asin": "B00BFZMQL0",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Anima Green Overall with Shirt Top for Pets, XX-Small",
+            "normalizedName": "Anima Green Overall with Shirt Top for Pets, XX-Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00VTYRVKI": {
+            "asin": "B00VTYRVKI",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "MY LITTLE PONY FRIENDSHIP IS MAGIC MINI PONY SET OF 6",
+            "normalizedName": "MY LITTLE PONY FRIENDSHIP IS MAGIC MINI PONY SET OF 6",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

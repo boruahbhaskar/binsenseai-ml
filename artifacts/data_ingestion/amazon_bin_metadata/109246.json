@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1583228691": {
+            "asin": "1583228691",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "A Young People's History of the United States: Columbus to the War on Terror (For Young People Series)",
+            "normalizedName": "A Young People's History of the United States: Columbus to the War on Terror (For Young People Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B003CUK3B6": {
+            "asin": "B003CUK3B6",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Freez Pak 6-Pack Coolant Reusable Ice Pack",
+            "normalizedName": "6-Pack Freez Pak Coolant Reusable Ice Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B0045DMLXM": {
+            "asin": "B0045DMLXM",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "ARGO Cornstarch, 35 Ounce",
+            "normalizedName": "ARGO Cornstarch, 35 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HXRV7AU": {
+            "asin": "B00HXRV7AU",
+            "height": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.8267716374
+            },
+            "name": "ANGEL POS 12\" Compact 12\" Compact Portable Automatic POS Cash Drawer 24V Cash Register",
+            "normalizedName": "ANGEL POS 12\" Compact 12\" Compact Portable Automatic POS Cash Drawer 24V Cash Register",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.9370078598
+            }
+        },
+        "B00V7SSFDI": {
+            "asin": "B00V7SSFDI",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.749999983935
+            },
+            "name": "Cutting Board, Acacia Wood and Bamboo Dual Material Beautiful 2 in 1 New Unique Design, Large and 1 Inch Thick with Juice Groove",
+            "normalizedName": "Cutting Board, Acacia Wood and Bamboo Dual Material Beautiful 2 in 1 New Unique Design, Large and 1 Inch Thick with Juice Groove",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.749999988015
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

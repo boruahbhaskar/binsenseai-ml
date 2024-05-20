@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007XX4USU": {
+            "asin": "B007XX4USU",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Revision Serum, Vitamin K, 0.5 Fluid Ounce",
+            "normalizedName": "Revision Serum, Vitamin K, 0.5 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B0088YRR6U": {
+            "asin": "B0088YRR6U",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Dr. Seuss the Grinch Ball Ornament W/Led Light",
+            "normalizedName": "Dr. Seuss the Grinch Ball Ornament W/Led Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00HR5TRH8": {
+            "asin": "B00HR5TRH8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "uxcell All-in-one Mini 2 Ports KVM Manual Switch Box Adapter w USB Connector",
+            "normalizedName": "uxcell All-in-one Mini 2 Ports KVM Manual Switch Box Adapter w USB Connector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01AFQZSZ0": {
+            "asin": "B01AFQZSZ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7086614115
+            },
+            "name": "iPhone 6S Case,Bling Glitter Printed TPU Case Cover Skin Protective For Apple iPhone 6/6S 4.7 inch With a Free Cleaning Cloth As a Gift (Sliver)",
+            "normalizedName": "iPhone 6S Case,Bling Glitter Printed TPU Case Cover Skin Protective For Apple iPhone 6/6S 4.7 inch With a Free Cleaning Cloth As a Gift (Sliver)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.110231131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.9527559025
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

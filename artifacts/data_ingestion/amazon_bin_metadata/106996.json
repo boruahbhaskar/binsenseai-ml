@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003QNZ4TK": {
+            "asin": "B003QNZ4TK",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Lavazza Blue Capsules - Espresso Intenso, 28.2-Ounce Boxes (Pack of 100)",
+            "normalizedName": "(Pack of 100) Lavazza Blue Capsules - Espresso Intenso, 28.2-Ounce Boxes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00UEAI3OQ": {
+            "asin": "B00UEAI3OQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Sodynee Jewelry and Cosmetic Storage  2 Piece Acrylic Makeup Organizer",
+            "normalizedName": "Sodynee Jewelry and Cosmetic Storage  2 Piece Acrylic Makeup Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01710OBBA": {
+            "asin": "B01710OBBA",
+            "height": {
+                "unit": "IN",
+                "value": 1.85
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Men's Black Leather Rain Cover Motorcycle Gloves Gauntlets Rk-1016 (Small)",
+            "normalizedName": "Men's Black Leather Rain Cover Motorcycle Gloves Gauntlets Rk-1016 (Small)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

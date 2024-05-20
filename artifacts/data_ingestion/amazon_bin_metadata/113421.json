@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000LNW7IY": {
+            "asin": "B000LNW7IY",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "PURDY 144152230 3-Inch Nylox Glide Angle Brush",
+            "normalizedName": "PURDY 144152230 3-Inch Nylox Glide Angle Brush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B002XDRCYE": {
+            "asin": "B002XDRCYE",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "MET-Rx  Protein Plus RTD 51 - Berry Blast 51gr protein RTD, 15-Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) MET-Rx  Protein Plus RTD 51 - Berry Blast 51gr protein RTD, 15-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00H3KK72G": {
+            "asin": "B00H3KK72G",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Bragg Organic Unfiltered Apple Cider Vinegar - 16 Ounce (3 Pack)",
+            "normalizedName": "(3 Pack) Bragg Organic Unfiltered Apple Cider Vinegar - 16 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.449999995429681
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00U7EOFDM": {
+            "asin": "B00U7EOFDM",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "iBrush SonicWave Toothbrush with UV Sanitizer",
+            "normalizedName": "iBrush SonicWave Toothbrush with UV Sanitizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

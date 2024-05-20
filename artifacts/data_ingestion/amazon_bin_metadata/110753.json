@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CFIX7NC": {
+            "asin": "B00CFIX7NC",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "GNC Pro Performance BCAA Complex Chew Tropical Punch 60 Chews",
+            "normalizedName": "GNC Pro Performance BCAA Complex Chew Tropical Punch 60 Chews",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00KR4CZIY": {
+            "asin": "B00KR4CZIY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Hefty Slider Storage Bags, Gallon, 80 Count",
+            "normalizedName": "Hefty Slider Storage Bags, Gallon, 80 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01EYDPIXC": {
+            "asin": "B01EYDPIXC",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Kirei Sui 4th Of July Princess Blue Stars PETS Tutu Dress Medium White",
+            "normalizedName": "Kirei Sui 4th Of July Princess Blue Stars PETS Tutu Dress Medium White",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

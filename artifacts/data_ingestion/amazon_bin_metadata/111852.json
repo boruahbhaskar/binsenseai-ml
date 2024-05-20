@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CXEXSUU": {
+            "asin": "B00CXEXSUU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Perfection Game",
+            "normalizedName": "Perfection Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00RMPRM48": {
+            "asin": "B00RMPRM48",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "CWK&reg; New Replacement Laptop Notebook Battery for Acer Aspire 5560 5736G 5749 5749Z 5755 AS10D56 AS10D61 Gateway NV53A NV53A38u NV53A52 NV53A52 NV53A52u AS10D51 Acer Aspire 4771G 5253 5253G 5551G 5552 5551-2805 7750G 7560 AS10D31 AS10D71 AS10D61 Acer Aspire 4551 5251 5551 5741 7741 Acer AS10G3E AS10D73 Aspire 4771 5741Z 4251 4252 4253G 4552 4625 AS10D31 Acer Aspire 5741 7551G-5821 7551G-6477 7552G-5107 7741-5137 Acer 31CR19/65-2 31CR19/66-2 Aspire 5750 5736Z 5750G 7251 7551 4741Z",
+            "normalizedName": "CWK&reg; New Replacement Laptop Notebook Battery for Acer Aspire 5560 5736G 5749 5749Z 5755 AS10D56 AS10D61 Gateway NV53A NV53A38u NV53A52 NV53A52 NV53A52u AS10D51 Acer Aspire 4771G 5253 5253G 5551G 5552 5551-2805 7750G 7560 AS10D31 AS10D71 AS10D61 Acer Aspire 4551 5251 5551 5741 7741 Acer AS10G3E AS10D73 Aspire 4771 5741Z 4251 4252 4253G 4552 4625 AS10D31 Acer Aspire 5741 7551G-5821 7551G-6477 7552G-5107 7741-5137 Acer 31CR19/65-2 31CR19/66-2 Aspire 5750 5736Z 5750G 7251 7551 4741Z",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        },
+        "B01D3TDUCO": {
+            "asin": "B01D3TDUCO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Rubber Comfort Grip 36 Gel Coloring Pen Set With 50% More Ink Than Other Sets: Glitter, Neon & Pastel Pens, Great For Adult Colouring Books",
+            "normalizedName": "Rubber Comfort Grip 36 Gel Coloring Pen Set With 50% More Ink Than Other Sets: Glitter, Neon & Pastel Pens, Great For Adult Colouring Books",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+pandas
+mlflow==2.2.2
+notebook
+numpy
+boto3
+scikit-learn
+scikit-image
+scipy
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+torch==2.2.2
+fastapi==0.110.3
+uvicorn==0.29.0
+mangum==0.17.0
+openpyxl
+torchvision
+torchaudio
+gradio
+tabulate
+
+# Successfully installed torch==2.2.2+cpu torchaudio-2.2.2+cpu torchvision==0.17.2+cpu 
+-e . # This is needed for creation as a local Project

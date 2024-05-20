@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000TY3BSA": {
+            "asin": "B000TY3BSA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Rothco Inspection Ready Beret/Official Flash, Black, 7",
+            "normalizedName": "Rothco Inspection Ready Beret/Official Flash, Black, 7",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01ABVEGNE": {
+            "asin": "B01ABVEGNE",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Litom 20 Big Weatherproof LED Solar Sensor Powered Wall Lights for Outdoor \uff082-pack\uff09",
+            "normalizedName": "Litom 20 Big Weatherproof LED Solar Sensor Powered Wall Lights for Outdoor \uff082-pack\uff09",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.279999998926604
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B01ADY2YIS": {
+            "asin": "B01ADY2YIS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Bartelli Vacuum Food Sealer Valve System - For use with any bag or foods original packaging. Reusable bundle includes Pump, Seals, Valves, and Unnecessary Bags",
+            "normalizedName": "Bartelli Vacuum Food Sealer Valve System - For use with any bag or foods original packaging. Reusable bundle includes Pump, Seals, Valves, and Unnecessary Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

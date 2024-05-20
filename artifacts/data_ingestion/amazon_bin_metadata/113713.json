@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I116FA": {
+            "asin": "B004I116FA",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Depo 312-1945R-US Toyota 4Runner Passenger Side Replacement Taillight Unit without Bulb",
+            "normalizedName": "Depo 312-1945R-US Toyota 4Runner Passenger Side Replacement Taillight Unit without Bulb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990106
+            }
+        },
+        "B00IL7BVBG": {
+            "asin": "B00IL7BVBG",
+            "height": {
+                "unit": "IN",
+                "value": 4.8818897588
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.6220472302
+            },
+            "name": "Brother Printer TN336BK Toner",
+            "normalizedName": "Brother Printer TN336BK Toner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6314040864014596
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

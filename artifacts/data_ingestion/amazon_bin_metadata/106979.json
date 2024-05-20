@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FR6V7W2": {
+            "asin": "B00FR6V7W2",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "BOSTITCH BTE820K 7-Amp 4-1/2-Inch Angle Grinder Kit",
+            "normalizedName": "BOSTITCH BTE820K 7-Amp 4-1/2-Inch Angle Grinder Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

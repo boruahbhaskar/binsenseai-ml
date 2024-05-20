@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L4O3GV6": {
+            "asin": "B00L4O3GV6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Syma X11 R/C Quadcopter - White",
+            "normalizedName": "Syma X11 R/C Quadcopter - White",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

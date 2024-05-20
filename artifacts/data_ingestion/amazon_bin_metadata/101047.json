@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0145GMT0S": {
+            "asin": "B0145GMT0S",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Disney Planes Racing Dusty Crophopper Collectible Diecast",
+            "normalizedName": "Disney Planes Racing Dusty Crophopper Collectible Diecast",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

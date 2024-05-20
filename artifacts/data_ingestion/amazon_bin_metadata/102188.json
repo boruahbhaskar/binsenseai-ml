@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0053B7ONM": {
+            "asin": "B0053B7ONM",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Hunts Tomato Sauce, 29-Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Hunts Tomato Sauce, 29-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B0083G3AXC": {
+            "asin": "B0083G3AXC",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Prime Products 13-9003 Utility Tray",
+            "normalizedName": "Prime Products 13-9003 Utility Tray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

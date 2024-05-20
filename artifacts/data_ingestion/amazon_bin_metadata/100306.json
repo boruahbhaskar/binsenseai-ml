@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00132GQD4": {
+            "asin": "B00132GQD4",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Safari Ltd Wildlife Wonders Hippo",
+            "normalizedName": "Safari Ltd Wildlife Wonders Hippo",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00GJ2EMSY": {
+            "asin": "B00GJ2EMSY",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Ribz Front Pack , Alpenglow Orange, M, 34-38 w, 8 liter,",
+            "normalizedName": "Ribz Front Pack , Alpenglow Orange, M, 34-38 w, 8 liter,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B013HW8ZIG": {
+            "asin": "B013HW8ZIG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Luxsure\u00ae Waterproof Bluetooth Smart Watch Heart Rate Monitor Smartwatch Finger Gestures Voice Control Wirst Watch for IOS Apple iPhone and Android Smartphone (Gold)",
+            "normalizedName": "Luxsure\u00ae Waterproof Bluetooth Smart Watch Heart Rate Monitor Smartwatch Finger Gestures Voice Control Wirst Watch for IOS Apple iPhone and Android Smartphone (Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

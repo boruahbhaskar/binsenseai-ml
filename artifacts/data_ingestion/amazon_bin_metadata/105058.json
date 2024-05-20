@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00107I9XM": {
+            "asin": "B00107I9XM",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Oster Professional 103 Stim-U-Lax Massager",
+            "normalizedName": "Oster Professional 103 Stim-U-Lax Massager",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001EHLSSG": {
+            "asin": "B001EHLSSG",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Martek Life's DHA Omega-3 DHA 100mg 90 All-vegetarian Softgels Kids",
+            "normalizedName": "Martek Life's DHA Omega-3 DHA 100mg 90 All-vegetarian Softgels Kids",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999846890521762
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00DOZD09G": {
+            "asin": "B00DOZD09G",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Sumdex Decode EVA Camera Case for Laptops (DED-031BK)",
+            "normalizedName": "Sumdex Decode EVA Camera Case for Laptops (DED-031BK)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00MJGAYJU": {
+            "asin": "B00MJGAYJU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "Tic Tac Bunny Burst Mints 1 oz",
+            "normalizedName": "Tic Tac Bunny Burst Mints 1 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B015QZMHRM": {
+            "asin": "B015QZMHRM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Minecraft Mini Figure 3-Pack, Alex with Enchanted Armor, Skeleton with Pumpkin Armor & Zombie At Door",
+            "normalizedName": "3-Pack Minecraft Mini Figure , Alex with Enchanted Armor, Skeleton with Pumpkin Armor & Zombie At Door",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

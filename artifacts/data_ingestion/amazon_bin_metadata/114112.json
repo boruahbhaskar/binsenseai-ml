@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J8N3FES": {
+            "asin": "B00J8N3FES",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Mini Pillow Pets Dream Lite Minnie Mouse",
+            "normalizedName": "Mini Pillow Pets Dream Lite Minnie Mouse",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00WWVY1AK": {
+            "asin": "B00WWVY1AK",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "At-A-Glance Weekly and Monthly Planner 2016, Collection, Wire Bound, 8.5 x 11 Inches Page Size, Beige (YP1040716)",
+            "normalizedName": "At-A-Glance Weekly and Monthly Planner 2016, Collection, Wire Bound, 8.5 x 11 Inches Page Size, Beige (YP1040716)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

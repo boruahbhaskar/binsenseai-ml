@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003AVPV1O": {
+            "asin": "B003AVPV1O",
+            "height": {
+                "unit": "IN",
+                "value": 1.7716535415
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.4960629855
+            },
+            "name": "StarTech.com VGASPL1VV 1-Feet VGA to 2x VGA Video Splitter Cable - M/F",
+            "normalizedName": "StarTech.com VGASPL1VV 1-Feet VGA to 2x VGA Video Splitter Cable - M/F",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5275590505
+            }
+        },
+        "B00XLAZ9KC": {
+            "asin": "B00XLAZ9KC",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "StarTech.com USB 3.1 Gen 2 (10Gbps) Dual-Bay Dock for 2.5\"/3.5\" SATA SSD/HDDs - Supports SATA I, II, III and UASP - Top-loading",
+            "normalizedName": "StarTech.com USB 3.1 Gen 2 (10Gbps) Dual-Bay Dock for 2.5\"/3.5\" SATA SSD/HDDs - Supports SATA I, II, III and UASP - Top-loading",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

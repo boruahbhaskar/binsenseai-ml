@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1933054395": {
+            "asin": "1933054395",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Qwirkle Board Game",
+            "normalizedName": "Qwirkle Board Game",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.292784121429079
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.4724409342
+            }
+        },
+        "B019HN6RUC": {
+            "asin": "B019HN6RUC",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Travel Neck Pillow that keeps Head and Chin in relaxed Position. FREE Eye Cover. (Khaki)",
+            "normalizedName": "Travel Neck Pillow that keeps Head and Chin in relaxed Position. FREE Eye Cover. (Khaki)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B01BZL66PU": {
+            "asin": "B01BZL66PU",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Spaire NT-S1 LED Nail Dryer - 18W / 36W / 48W with Remote Control and Timer Setting",
+            "normalizedName": "Spaire NT-S1 LED Nail Dryer - 18W / 36W / 48W with Remote Control and Timer Setting",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9982561587918726
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

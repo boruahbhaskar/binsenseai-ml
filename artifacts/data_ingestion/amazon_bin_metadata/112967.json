@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G3EI6HG": {
+            "asin": "B00G3EI6HG",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Crocodile Creek Fire Truck Jigsaw Puzzle (12 Piece)",
+            "normalizedName": "Crocodile Creek Fire Truck Jigsaw Puzzle (12 Piece)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B012NR0LFQ": {
+            "asin": "B012NR0LFQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "[TeleSkins] -UK Flag Grunge - Samsung Galaxy S3 Blue Case - Ultra Durable HARD PLASTIC Protective Snap On back Case / Cover for Samsung Galaxy S3. [Fits Galaxy S3 i9300 for Teen Girls]",
+            "normalizedName": "[TeleSkins] -UK Flag Grunge - Samsung Galaxy S3 Blue Case - Ultra Durable HARD PLASTIC Protective Snap On back Case / Cover for Samsung Galaxy S3. [Fits Galaxy S3 i9300 for Teen Girls]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

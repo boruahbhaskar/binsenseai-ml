@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002D6K90": {
+            "asin": "B0002D6K90",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "SPECO ASPC20 20W 6\" Weatherproof Amplified PA Speaker also for Digital Deterrent",
+            "normalizedName": "SPECO ASPC20 20W 6\" Weatherproof Amplified PA Speaker also for Digital Deterrent",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.76
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00JQL1R0Q": {
+            "asin": "B00JQL1R0Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Black Travel Fanny Pack w/ Phone Pocket and Key Ring",
+            "normalizedName": "Black Travel Fanny Pack w/ Phone Pocket and Key Ring",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

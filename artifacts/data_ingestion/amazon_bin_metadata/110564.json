@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000IT1E": {
+            "asin": "B00000IT1E",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Barbie City Seasons Collector Edition Autumn in London -- 1999 Autumn Collection",
+            "normalizedName": "Barbie City Seasons Collector Edition Autumn in London -- 1999 Autumn Collection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B006JSOZLC": {
+            "asin": "B006JSOZLC",
+            "height": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.716535415
+            },
+            "name": "Lorell LLR61614 Expandable Attache Case",
+            "normalizedName": "Lorell LLR61614 Expandable Attache Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.2769242300985235
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.779527545
+            }
+        },
+        "B00794LHTI": {
+            "asin": "B00794LHTI",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Crossfire II 6 - 18x44mm AO Riflescope, DEAD-HOLD BDC",
+            "normalizedName": "Crossfire II 6 - 18x44mm AO Riflescope, DEAD-HOLD BDC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01BO8A290": {
+            "asin": "B01BO8A290",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Adjustable Bamboo Pillow By CozyCloud | 4 Xs More Bamboo Than Other Brands | Deluxe Shredded Memory Foam Support | Thick, Medium & Thin Heights With Travel Bolster | All USA Made (Queen)",
+            "normalizedName": "Adjustable Bamboo Pillow By CozyCloud | 4 Xs More Bamboo Than Other Brands | Deluxe Shredded Memory Foam Support | Thick, Medium & Thin Heights With Travel Bolster | All USA Made (Queen)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

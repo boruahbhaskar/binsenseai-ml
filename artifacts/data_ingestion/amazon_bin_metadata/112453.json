@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0073380806": {
+            "asin": "0073380806",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Health Education: Elementary and Middle School Applications",
+            "normalizedName": "Health Education: Elementary and Middle School Applications",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B0047Z4GOU": {
+            "asin": "B0047Z4GOU",
+            "height": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.385826758
+            },
+            "name": "Cricut Cuttlebug Machine, V2 Green",
+            "normalizedName": "Cricut Cuttlebug Machine, V2 Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.41
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.1811023508
+            }
+        },
+        "B00LW16RL2": {
+            "asin": "B00LW16RL2",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Adult's 12-hour Shift 2-sided Lunch Bag (Houndstooth)",
+            "normalizedName": "Adult's 12-hour Shift 2-sided Lunch Bag (Houndstooth)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

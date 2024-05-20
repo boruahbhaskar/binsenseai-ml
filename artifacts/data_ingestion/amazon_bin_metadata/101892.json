@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000DH8I8": {
+            "asin": "B0000DH8I8",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "3M Scotch Tough Transparent Duct Tape, 1.8-Inch, 20 yds",
+            "normalizedName": "3M Scotch Tough Transparent Duct Tape, 1.8-Inch, 20 yds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B014PNOTUE": {
+            "asin": "B014PNOTUE",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "250ft Hot Pink Crepe Paper Streamers",
+            "normalizedName": "250ft Hot Pink Crepe Paper Streamers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

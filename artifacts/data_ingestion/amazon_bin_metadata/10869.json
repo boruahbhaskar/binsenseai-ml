@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001B0E7M0": {
+            "asin": "B001B0E7M0",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Georgia-Pacific Compact 56784 Translucent Smoke Side-By-Side Double Roll Bathroom Tissue Dispenser",
+            "normalizedName": "Georgia-Pacific Compact 56784 Translucent Smoke Side-By-Side Double Roll Bathroom Tissue Dispenser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00K5R5350": {
+            "asin": "B00K5R5350",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Sincerely Nuts Whole Blue Poppy Seeds 5lb Bag",
+            "normalizedName": "Sincerely Nuts Whole Blue Poppy Seeds 5lb Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.114672275169369
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

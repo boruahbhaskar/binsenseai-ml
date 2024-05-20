@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Y8CWEKK": {
+            "asin": "B00Y8CWEKK",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Power Rangers Dino Charge - Ptera Charge Megazord Action Figure",
+            "normalizedName": "Power Rangers Dino Charge - Ptera Charge Megazord Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B01AX0CSBK": {
+            "asin": "B01AX0CSBK",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "48 Capsules - Variety Pack Single Serve Keurig Compatible Pod (24 Dark / 12 Breakfast / 12 Latte (Cream Coffee))",
+            "normalizedName": "48 Capsules - Variety Pack Single Serve Keurig Compatible Pod (24 Dark / 12 Breakfast / 12 Latte (Cream Coffee))",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

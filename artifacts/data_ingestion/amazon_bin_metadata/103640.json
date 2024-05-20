@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1305101960": {
+            "asin": "1305101960",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Program Evaluation: An Introduction to an Evidence-Based Approach",
+            "normalizedName": "Program Evaluation: An Introduction to an Evidence-Based Approach",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B001AMHPNM": {
+            "asin": "B001AMHPNM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Shurhold 130 Boat Hook",
+            "normalizedName": "Shurhold 130 Boat Hook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B00ZSKTQB6": {
+            "asin": "B00ZSKTQB6",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Reusable / Disposable Baby Food Pouch (50 Pack) with Spoon Attachment. Easy Fill & Easy Clean Squeeze Pouches. Great for Healthy, Homemade and Organic Purees. No Fill Station Needed. Satisfaction Guaranteed.",
+            "normalizedName": "(50 Pack) Reusable / Disposable Baby Food Pouch with Spoon Attachment. Easy Fill & Easy Clean Squeeze Pouches. Great for Healthy, Homemade and Organic Purees. No Fill Station Needed. Satisfaction Guaranteed.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B018V4ODMC": {
+            "asin": "B018V4ODMC",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "YI\u00ae Action Camera Kit: Camera, Selfie Stick, & Bluetooth Remote (Official U.S. Edition)",
+            "normalizedName": "YI\u00ae Action Camera Kit: Camera, Selfie Stick, & Bluetooth Remote (Official U.S. Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

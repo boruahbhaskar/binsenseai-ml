@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006U2HD2": {
+            "asin": "B0006U2HD2",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Farm Innovators Model TC-3 Cold Weather Thermo Cube Thermostatically Controlled Outlet - On at 35-Degrees/Off at 45-Degrees",
+            "normalizedName": "Farm Innovators Model TC-3 Cold Weather Thermo Cube Thermostatically Controlled Outlet - On at 35-Degrees/Off at 45-Degrees",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B003OAMFEC": {
+            "asin": "B003OAMFEC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Little Joe Crawler Harness - Perch - #2 Colorado Blade",
+            "normalizedName": "Little Joe Crawler Harness - Perch - #2 Colorado Blade",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00M55BMBE": {
+            "asin": "B00M55BMBE",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "SanDisk Ultra 32GB Class 10 SDHC Memory Card Up to 40MB/s- SDSDUN-032G-G46 [Older Version]",
+            "normalizedName": "SanDisk Ultra 32GB Class 10 SDHC Memory Card Up to 40MB/s- SDSDUN-032G-G46 [Older Version]",
+            "quantity": 35,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01AA27YC4": {
+            "asin": "B01AA27YC4",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.4960629855
+            },
+            "name": "FreeCode\u00ae Fountain Pen Colorful luxurious Straight and Smooth Appearance design Metallic Durable Dragon for decoration 0.5mm Nib With FreeCode Logo and Free Gift Box(Gold)",
+            "normalizedName": "FreeCode\u00ae Fountain Pen Colorful luxurious Straight and Smooth Appearance design Metallic Durable Dragon for decoration 0.5mm Nib With FreeCode Logo and Free Gift Box(Gold)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.574803148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 38
+}

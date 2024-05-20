@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0054GLHYI": {
+            "asin": "B0054GLHYI",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Rothco Uniform Oxford/Hi-Gloss Shoe, Black, W/13",
+            "normalizedName": "Rothco Uniform Oxford/Hi-Gloss Shoe, Black, W/13",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

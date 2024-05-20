@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YC70XY": {
+            "asin": "B000YC70XY",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Organic India Turmeric Formula, 90 Vegetarian Capsules",
+            "normalizedName": "Organic India Turmeric Formula, 90 Vegetarian Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B001GPCRXQ": {
+            "asin": "B001GPCRXQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Polaris Vac-Sweep C10 Replacement Tire (360/180/280/380)",
+            "normalizedName": "Polaris Vac-Sweep C10 Replacement Tire (360/180/280/380)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B005EOAR3C": {
+            "asin": "B005EOAR3C",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Frank Lloyd Wright Exhibition House Address Number 8 Plate",
+            "normalizedName": "Frank Lloyd Wright Exhibition House Address Number 8 Plate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00TLNXNVK": {
+            "asin": "B00TLNXNVK",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Contigo Double Wall Vacuum Insulated Stainless Steel Maddie Kids Water Bottle, 12-Ounce, Cherry Blossom",
+            "normalizedName": "Contigo Double Wall Vacuum Insulated Stainless Steel Maddie Kids Water Bottle, 12-Ounce, Cherry Blossom",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

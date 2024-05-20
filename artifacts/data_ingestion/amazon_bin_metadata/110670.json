@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NB5KRNG": {
+            "asin": "B00NB5KRNG",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Brielle Cotton Jersey Knit (T-Shirt) Sheet Set, Full, Ivory",
+            "normalizedName": "Brielle Cotton Jersey Knit (T-Shirt) Sheet Set, Full, Ivory",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00PK3CYKQ": {
+            "asin": "B00PK3CYKQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Havahart 6400 Snake Shield Snake Repellent, 4 Pounds",
+            "normalizedName": "Havahart 6400 Snake Shield Snake Repellent, 4 Pounds",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

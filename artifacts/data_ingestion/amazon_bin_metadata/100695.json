@@ -1,0 +1,84 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011QTRVV4": {
+            "asin": "B011QTRVV4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "MICHAEL Michael Kors Jet Set Saffiano Travel ZA Continental Sky One Size",
+            "normalizedName": "MICHAEL Michael Kors Jet Set Saffiano Travel ZA Continental Sky One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.529104028022095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.8582677126
+            }
+        },
+        "B01BWKPD8A": {
+            "asin": "B01BWKPD8A",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "Lovely Baby Single Color Front & Back Pack Durable Breathable Pet Dog Carrier Safe Bag LY-petcarrier008-black-S",
+            "normalizedName": "Lovely Baby Single Color Front & Back Pack Durable Breathable Pet Dog Carrier Safe Bag LY-petcarrier008-black-S",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        },
+        "B01F0VSKIC": {
+            "asin": "B01F0VSKIC",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "Fitbit Alta Band, Classic, Large Pink + Plum + Red 3 in 1 V-Moro Silicon Bracelet Strap Replacement Band For Fitbit Alta Smart Fitness Watch (Pink&Red&Plum)",
+            "normalizedName": "Fitbit Alta Band, Classic, Large Pink + Plum + Red 3 in 1 V-Moro Silicon Bracelet Strap Replacement Band For Fitbit Alta Smart Fitness Watch (Pink&Red&Plum)",
+            "quantity": 11,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        },
+        "B01GKJA9UU": {
+            "asin": "B01GKJA9UU",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Samsung Galaxy C5 Screen Protector [3-Pack], iLLumiShield - Japanese Ultra Clear HD Film with Anti-Bubble and Anti-Fingerprint - High Quality Invisible Shield - Lifetime Warranty",
+            "normalizedName": "3-Pack Samsung Galaxy C5 Screen Protector [ ], iLLumiShield - Japanese Ultra Clear HD Film with Anti-Bubble and Anti-Fingerprint - High Quality Invisible Shield - Lifetime Warranty",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

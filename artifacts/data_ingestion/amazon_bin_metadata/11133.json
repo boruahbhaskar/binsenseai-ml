@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A215HK": {
+            "asin": "B000A215HK",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "Siporax Aquarium Filter Media Size: 1000 ml",
+            "normalizedName": "Siporax Aquarium Filter Media Size: 1000 ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.62
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B008MIGHFE": {
+            "asin": "B008MIGHFE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Health Warrior Chia Bars, Coconut, 13.2-Ounce (Pack of 15)",
+            "normalizedName": "(Pack of 15) Health Warrior Chia Bars, Coconut, 13.2-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00HDABAQS": {
+            "asin": "B00HDABAQS",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "StarPack Premium Silicone Spatula Set of 4 with Hygienic Solid Coating - Bonus 101 Cooking Tips (Cherry Red)",
+            "normalizedName": "Set of 4 StarPack Premium Silicone Spatula with Hygienic Solid Coating - Bonus 101 Cooking Tips (Cherry Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01CNGSK3W": {
+            "asin": "B01CNGSK3W",
+            "height": {
+                "unit": "IN",
+                "value": 4.8818897588
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "OFKP\u00ae Children's LED Bedside Lamp Dimming Touch Night Light / Reading Lights / Camping Lamp (Spherical, White, PC & ABS Material, Built-in 2200 mAh Battery)",
+            "normalizedName": "OFKP\u00ae Children's LED Bedside Lamp Dimming Touch Night Light / Reading Lights / Camping Lamp (Spherical, White, PC & ABS Material, Built-in 2200 mAh Battery)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320490386663
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

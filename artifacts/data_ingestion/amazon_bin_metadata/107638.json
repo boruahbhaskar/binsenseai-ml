@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L4O3GV6": {
+            "asin": "B00L4O3GV6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Syma X11 R/C Quadcopter - White",
+            "normalizedName": "Syma X11 R/C Quadcopter - White",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B015JQD3SA": {
+            "asin": "B015JQD3SA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Alyssa's Gluten Free Oatmeal Cookies - Pack of 4",
+            "normalizedName": "Pack of 4 Alyssa's Gluten Free Oatmeal Cookies -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

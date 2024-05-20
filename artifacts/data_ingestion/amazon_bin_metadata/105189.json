@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WJPGSD2": {
+            "asin": "B00WJPGSD2",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Auxbeam&reg; 7\" Round Cree Led Driving Light Bumper Offroad 80w 8000lm Combo beams for Jeep ATV UTV Golf cart lighting trucks Pickup Ford f150 work light",
+            "normalizedName": "Auxbeam&reg; 7\" Round Cree Led Driving Light Bumper Offroad 80w 8000lm Combo beams for Jeep ATV UTV Golf cart lighting trucks Pickup Ford f150 work light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

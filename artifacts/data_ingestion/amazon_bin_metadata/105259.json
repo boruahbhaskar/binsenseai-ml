@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027A3CDS": {
+            "asin": "B0027A3CDS",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "Aquabord 1/8 Inch 12X16",
+            "normalizedName": "Aquabord 1/8 Inch 12X16",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        },
+        "B0099ZDX2O": {
+            "asin": "B0099ZDX2O",
+            "height": {
+                "unit": "IN",
+                "value": 2.5984251968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.086614173228348
+            },
+            "name": "Sexy Betty Boop Starlet Costume - Womens Medium",
+            "normalizedName": "Sexy Betty Boop Starlet Costume - Womens Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.189999999002077
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.5748031496063
+            }
+        },
+        "B00UNIBNVE": {
+            "asin": "B00UNIBNVE",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.2598425082
+            },
+            "name": "LED Dog Necklace Collar - USB Rechargeable Loop - Available in 6 Colors - Makes Your Dog Visible, Safe & Seen",
+            "normalizedName": "LED Dog Necklace Collar - USB Rechargeable Loop - Available in 6 Colors - Makes Your Dog Visible, Safe & Seen",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.1023621934
+            }
+        },
+        "B0155BVTXA": {
+            "asin": "B0155BVTXA",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "El Paso Designs Diamond Hacienda Blanket 5' x 7' (Burgundy)",
+            "normalizedName": "El Paso Designs Diamond Hacienda Blanket 5' x 7' (Burgundy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

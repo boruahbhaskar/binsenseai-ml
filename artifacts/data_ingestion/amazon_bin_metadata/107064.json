@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012UW77FG": {
+            "asin": "B012UW77FG",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Carter's Little Tiger Halloween Costume-18 Months",
+            "normalizedName": "Carter's Little Tiger Halloween Costume-18 Months",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01ATIFSF4": {
+            "asin": "B01ATIFSF4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Boom Optics Lighted Magnifying Glass (7-Piece Set), 2.5X, 5X, 16X Zoom Lenses & Travel Pocket Magnifier, For Reading, Hobbies, Crafts, Electronics, Inspection",
+            "normalizedName": "(7-Piece Set) Boom Optics Lighted Magnifying Glass , 2.5X, 5X, 16X Zoom Lenses & Travel Pocket Magnifier, For Reading, Hobbies, Crafts, Electronics, Inspection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

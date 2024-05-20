@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EDQQCY": {
+            "asin": "B000EDQQCY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Camco 40033 Replace All Plumbing Vent Kit (Polar White)",
+            "normalizedName": "Camco 40033 Replace All Plumbing Vent Kit (Polar White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00YDPXXCK": {
+            "asin": "B00YDPXXCK",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Sprite Science&#8482; 1oz Amber Round Glass Bottles for Essential Oils Perfume Mosquito Repellent with White Fine Mist Sprayer-pack of 12",
+            "normalizedName": "Sprite Science&#8482; 1oz Amber Round Glass Bottles for Essential Oils Perfume Mosquito Repellent with White Fine Mist Sprayer-pack of 12",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B018M8M0TK": {
+            "asin": "B018M8M0TK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.249999992605
+            },
+            "name": "BLU Life XL - LTE Smartphone - GSM Unlocked - 16GB +2GB RAM - Dark Blue",
+            "normalizedName": "BLU Life XL - LTE Smartphone - GSM Unlocked - 16GB +2GB RAM - Dark Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.249999995665
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

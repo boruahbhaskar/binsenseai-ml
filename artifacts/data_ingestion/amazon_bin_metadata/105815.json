@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002CKA2QI": {
+            "asin": "B002CKA2QI",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "WESTWOOD COFFEE SCOOP - WESTWOOD COFFEE SCOOP, NICKEL PLATED.",
+            "normalizedName": "WESTWOOD COFFEE SCOOP - WESTWOOD COFFEE SCOOP, NICKEL PLATED.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B01A6T8W2M": {
+            "asin": "B01A6T8W2M",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "1000V 20A Ultra-sharp Gold-plated Multimeter Test Probes Kit Banana Plug Probe",
+            "normalizedName": "1000V 20A Ultra-sharp Gold-plated Multimeter Test Probes Kit Banana Plug Probe",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.16999999985743963
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B01AT1YXZC": {
+            "asin": "B01AT1YXZC",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Replaceable Lenses for Hicool Pro series Unisex Ski Snow Goggle(Yellow)",
+            "normalizedName": "Replaceable Lenses for Hicool Pro series Unisex Ski Snow Goggle(Yellow)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J2DX6FM": {
+            "asin": "B00J2DX6FM",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "UFC Fit Workout DVD the Ultimate Weight Loss and Exercise Video (US-English)",
+            "normalizedName": "UFC Fit Workout DVD the Ultimate Weight Loss and Exercise Video (US-English)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00OCEKCB2": {
+            "asin": "B00OCEKCB2",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Brother Printer PTD600 PC Connectible Label Maker with Color Display",
+            "normalizedName": "Brother Printer PTD600 PC Connectible Label Maker with Color Display",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00YEGNX1Y": {
+            "asin": "B00YEGNX1Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Lysol Cling Gel Toilet Bowl Cleaner, Country Scent, Twin Pack, 24 Fluid Ounce each, 2 Count",
+            "normalizedName": "Lysol Cling Gel Toilet Bowl Cleaner, Country Scent, Twin Pack, 24 Fluid Ounce each, 2 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

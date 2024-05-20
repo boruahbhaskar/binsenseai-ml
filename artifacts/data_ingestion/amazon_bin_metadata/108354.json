@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GKUH24": {
+            "asin": "B001GKUH24",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Nature's Way Sambucus for Kids Bio-certified Elderberry, 8-Ounce",
+            "normalizedName": "Nature's Way Sambucus for Kids Bio-certified Elderberry, 8-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00W4XV1RM": {
+            "asin": "B00W4XV1RM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Saxx Mens Ultra Fly Lifestyle Boxers Underwear Medium Chief Stripe Red",
+            "normalizedName": "Saxx Mens Ultra Fly Lifestyle Boxers Underwear Medium Chief Stripe Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00WQP2SOI": {
+            "asin": "B00WQP2SOI",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "S5 Mini Case, Galaxy S5 Mini Case, Speedtek Mariner Pattern Premium PU Leather Wallet Flip Protective Skin Case with Magnetic Closure for Samsung Galaxy S5 Mini G800F G800H (2014) (Built-in Credit Card/ID Card Slot)",
+            "normalizedName": "S5 Mini Case, Galaxy S5 Mini Case, Speedtek Mariner Pattern Premium PU Leather Wallet Flip Protective Skin Case with Magnetic Closure for Samsung Galaxy S5 Mini G800F G800H (2014) (Built-in Credit Card/ID Card Slot)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01C45GO8K": {
+            "asin": "B01C45GO8K",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Barbie Star Light Adventure Junior-Sized Doll, Purple",
+            "normalizedName": "Barbie Star Light Adventure Junior-Sized Doll, Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

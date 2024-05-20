@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007PO8YFW": {
+            "asin": "B007PO8YFW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "GE Lighting 62044 GE432MVPS-N-V03W 0-10-Volt UltraStart T8 100-3-Percent 0-10V Dimming Electronic Fluorescent T8 Programmed Rapid Start Lamps",
+            "normalizedName": "GE Lighting 62044 GE432MVPS-N-V03W 0-10-Volt UltraStart T8 100-3-Percent 0-10V Dimming Electronic Fluorescent T8 Programmed Rapid Start Lamps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00HRSWRHW": {
+            "asin": "B00HRSWRHW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Kate Spade New York Vienna Lane Ringholder Silver/Black",
+            "normalizedName": "Kate Spade New York Vienna Lane Ringholder Silver/Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

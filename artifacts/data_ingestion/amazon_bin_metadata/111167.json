@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EKW6JZ4": {
+            "asin": "B00EKW6JZ4",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Brother ADS1500W Compact Color Desktop Scanner with Duplex and Web Connectivity",
+            "normalizedName": "Brother ADS1500W Compact Color Desktop Scanner with Duplex and Web Connectivity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00SYWOKBG": {
+            "asin": "B00SYWOKBG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "HealthmateForever Pressure Activated Massage Pillow (Wine Red) High Quality Vibrating Massage Pillow for Stiff Neck Relief | Great Lumbar Support Travel Cushion for Back Support on Long Trips | Feel Relaxed with this Relaxation Pillow | Sciatica Nerve Cushion to treat Sciatica Nerve Pain! Domestic Shipping in USA ONLY",
+            "normalizedName": "HealthmateForever Pressure Activated Massage Pillow (Wine Red) High Quality Vibrating Massage Pillow for Stiff Neck Relief | Great Lumbar Support Travel Cushion for Back Support on Long Trips | Feel Relaxed with this Relaxation Pillow | Sciatica Nerve Cushion to treat Sciatica Nerve Pain! Domestic Shipping in USA ONLY",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

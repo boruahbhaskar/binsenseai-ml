@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003B6V9P0": {
+            "asin": "B003B6V9P0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Natural D3, 2,000 IU, High Potency, 120 Softgels",
+            "normalizedName": "Natural D3, 2,000 IU, High Potency, 120 Softgels",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B004XCJWLY": {
+            "asin": "B004XCJWLY",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Chewbeads Necklace - Jane - Black",
+            "normalizedName": "Chewbeads Necklace - Jane - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B0124H32TC": {
+            "asin": "B0124H32TC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Bluetooth Headphones, Primed4U\u00ae Bluetooth Earbuds V5.1 [Black] Wireless Headset with [Mic] In-Ear AptX Stereo Sweatproof Sports Running Gym Outdoor Commute Relaxation Cordless Headphones [for Bluetooth Devices 4.x and higher]",
+            "normalizedName": "Bluetooth Headphones, Primed4U\u00ae Bluetooth Earbuds V5.1 [Black] Wireless Headset with [Mic] In-Ear AptX Stereo Sweatproof Sports Running Gym Outdoor Commute Relaxation Cordless Headphones [for Bluetooth Devices 4.x and higher]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B013JUA60G": {
+            "asin": "B013JUA60G",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Cornmi\u00ae iPhone 6 Plus 6S Plus Wallet Case,Women leaf style Leather Wallet Flip Cover Stand Case with Strap for iPhone 6 6s Plus [Brown]",
+            "normalizedName": "Cornmi\u00ae iPhone 6 Plus 6S Plus Wallet Case,Women leaf style Leather Wallet Flip Cover Stand Case with Strap for iPhone 6 6s Plus [Brown]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

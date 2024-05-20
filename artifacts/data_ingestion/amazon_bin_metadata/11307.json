@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003HFG07M": {
+            "asin": "B003HFG07M",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Glad ForceFlex Tall Kitchen 13 Gallon Trash Bag With Odor Shield - 120-Count",
+            "normalizedName": "Glad ForceFlex Tall Kitchen 13 Gallon Trash Bag With Odor Shield - 120-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.599999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B005T571T4": {
+            "asin": "B005T571T4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "BUD Industries NBX-10987-PL ABS Plastic Internal Panel, 14-19/64\" Length x 10-25/64\" Width x 11/64\" Thick, for NB Series NEMA Box",
+            "normalizedName": "BUD Industries NBX-10987-PL ABS Plastic Internal Panel, 14-19/64\" Length x 10-25/64\" Width x 11/64\" Thick, for NB Series NEMA Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B009ASXZHI": {
+            "asin": "B009ASXZHI",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "SE JT3405DS 25Pc Doming Punch & Dapping Block Set with a Wood Stand",
+            "normalizedName": "SE JT3405DS 25Pc Doming Punch & Dapping Block Set with a Wood Stand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E52Z2G": {
+            "asin": "B001E52Z2G",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990106
+            },
+            "name": "Planters NUT-rition Energy Mix, 9.25-Ounce Cans (Pack of 3)",
+            "normalizedName": "(Pack of 3) Planters NUT-rition Energy Mix, 9.25-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        },
+        "B018S38R1O": {
+            "asin": "B018S38R1O",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "kingtop 2x Edge Cut CNC Heel/ Toe Shifter Gear Shift Pedal Lever Arms& Shifter Peg For Harley Touring Softail Trike",
+            "normalizedName": "kingtop 2x Edge Cut CNC Heel/ Toe Shifter Gear Shift Pedal Lever Arms& Shifter Peg For Harley Touring Softail Trike",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

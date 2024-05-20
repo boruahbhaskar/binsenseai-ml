@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0057B6HEA": {
+            "asin": "B0057B6HEA",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Depo 312-5414L3EB Black Driver Side Power Non-Heated Mirror",
+            "normalizedName": "Depo 312-5414L3EB Black Driver Side Power Non-Heated Mirror",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B007L599HC": {
+            "asin": "B007L599HC",
+            "height": {
+                "unit": "IN",
+                "value": 1.749999998215
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3464566895
+            },
+            "name": "Zest Candle 12-Piece Ball Candles, 2-Inch, Blue",
+            "normalizedName": "Zest Candle 12-Piece Ball Candles, 2-Inch, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5273601868139672
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5590551155
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

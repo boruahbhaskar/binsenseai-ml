@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GBC000": {
+            "asin": "B001GBC000",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Natures Blend Nature's Blend B Complex Capsules, 100 Caps",
+            "normalizedName": "Natures Blend Nature's Blend B Complex Capsules, 100 Caps",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.16
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B00U2TQ9LS": {
+            "asin": "B00U2TQ9LS",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Ashlin\u00ae RFID Blocking Men's BI-fold Wallet - Genuine Leather wallet with Lined Currency Compartment, 10 Credit Card Pockets - Keeps Your Identity Safe, Blocks Electronic Pick Pocketing [RFID5728-07-01]",
+            "normalizedName": "Ashlin\u00ae RFID Blocking Men's BI-fold Wallet - Genuine Leather wallet with Lined Currency Compartment, 10 Credit Card Pockets - Keeps Your Identity Safe, Blocks Electronic Pick Pocketing [RFID5728-07-01]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B012Q4M3DO": {
+            "asin": "B012Q4M3DO",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9606299162
+            },
+            "name": "ArtNaturals Enhanced Vitamin C Serum with Hyaluronic Acid 1 Oz - Top Anti Wrinkle, Anti Aging & Repairs Dark Circles, Fades age spots & Sun Damage - 20% Vitamin C Super Strength - Organic ingredients",
+            "normalizedName": "ArtNaturals Enhanced Vitamin C Serum with Hyaluronic Acid 1 Oz - Top Anti Wrinkle, Anti Aging & Repairs Dark Circles, Fades age spots & Sun Damage - 20% Vitamin C Super Strength - Organic ingredients",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1763698096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3858267682
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

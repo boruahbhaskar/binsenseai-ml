@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01A961OP4": {
+            "asin": "B01A961OP4",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Star Wars Classic \"Long Time Ago\" Lightweight Fleece Throw Blanket",
+            "normalizedName": "Star Wars Classic \"Long Time Ago\" Lightweight Fleece Throw Blanket",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        },
+        "B01CH7TU1S": {
+            "asin": "B01CH7TU1S",
+            "height": {
+                "unit": "IN",
+                "value": 6.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.6
+            },
+            "name": "DII Metal, Stackable, Convenient Storage Bin For Office, Bedroom, Kitchen, & Closet, Black - Small",
+            "normalizedName": "DII Metal, Stackable, Convenient Storage Bin For Office, Bedroom, Kitchen, & Closet, Black - Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

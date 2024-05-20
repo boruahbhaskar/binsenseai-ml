@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001UHN0HM": {
+            "asin": "B001UHN0HM",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "BaByliss Pro BABP6685N Porcelain Ceramic Carrera2 Dryer",
+            "normalizedName": "BaByliss Pro BABP6685N Porcelain Ceramic Carrera2 Dryer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B003YMTJ5S": {
+            "asin": "B003YMTJ5S",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "ACDelco 18A1339A Advantage Non-Coated Rear Disc Brake Rotor",
+            "normalizedName": "ACDelco 18A1339A Advantage Non-Coated Rear Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B007V4BISQ": {
+            "asin": "B007V4BISQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Dark Pink Fairies Tapestry (58x86 Bed Sheet Throw Bed Cover Table Cloth Sofa Couch Cover)",
+            "normalizedName": "Dark Pink Fairies Tapestry (58x86 Bed Sheet Throw Bed Cover Table Cloth Sofa Couch Cover)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00SIPNTNY": {
+            "asin": "B00SIPNTNY",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "2 Pack V4INK &#174; Replacement HP CE285A 85A Toner Cartridge-2,000 Page Yield Black",
+            "normalizedName": "2 Pack  V4INK &#174; Replacement HP CE285A 85A Toner Cartridge-2,000 Page Yield Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

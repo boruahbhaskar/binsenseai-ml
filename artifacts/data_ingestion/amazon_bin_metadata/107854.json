@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003W47NII": {
+            "asin": "B003W47NII",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "IK Multimedia AmpliTube iRig guitar interface adaptor for iOS devices",
+            "normalizedName": "IK Multimedia AmpliTube iRig guitar interface adaptor for iOS devices",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00U33Q940": {
+            "asin": "B00U33Q940",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "NVIDIA SHIELD - 4K Ultra HD Streaming Media Player.  Android TV.  Great Gaming.",
+            "normalizedName": "NVIDIA SHIELD - 4K Ultra HD Streaming Media Player.  Android TV.  Great Gaming.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B0155MAUKW": {
+            "asin": "B0155MAUKW",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "AXESS CS3603-SL 720p HD Action Camera with Waterproof Housing (Silver)",
+            "normalizedName": "AXESS CS3603-SL 720p HD Action Camera with Waterproof Housing (Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

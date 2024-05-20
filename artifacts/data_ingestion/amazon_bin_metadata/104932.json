@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017D10WQ": {
+            "asin": "B0017D10WQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Panama Jack Pro Kadima Pastel",
+            "normalizedName": "Panama Jack Pro Kadima Pastel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B00ER0N3Y4": {
+            "asin": "B00ER0N3Y4",
+            "height": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Runa Amazon Guayusa Bottled Tea, Hibiscus Berry, 14 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Runa Amazon Guayusa Bottled Tea, Hibiscus Berry, 14 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00KW85P5K": {
+            "asin": "B00KW85P5K",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "The Golden Echo (2xLP)",
+            "normalizedName": "The Golden Echo (2xLP)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

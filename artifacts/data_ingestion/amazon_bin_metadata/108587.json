@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1451146701": {
+            "asin": "1451146701",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Stedman's Plus Version 2012 Medical/Pharmaceutical Spellchecker: Standard",
+            "normalizedName": "Stedman's Plus Version 2012 Medical/Pharmaceutical Spellchecker: Standard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "1891487167": {
+            "asin": "1891487167",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.79921258945
+            },
+            "name": "Crime and Punishment: Inside Views",
+            "normalizedName": "Crime and Punishment: Inside Views",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.750012615324
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B008HTI7KQ": {
+            "asin": "B008HTI7KQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "8-LED 3 Flash Mode Amber Strobe Light Lamp Bar for Emergency Car Truck Boat #72A",
+            "normalizedName": "8-LED 3 Flash Mode Amber Strobe Light Lamp Bar for Emergency Car Truck Boat #72A",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01DC4NN8G": {
+            "asin": "B01DC4NN8G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Daixers Sports Water Bottle With Leak Proof Flip Top Lid 500ml (Blue)",
+            "normalizedName": "Daixers Sports Water Bottle With Leak Proof Flip Top Lid 500ml (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22999999980712413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

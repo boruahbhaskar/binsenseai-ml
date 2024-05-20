@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003IPCUXY": {
+            "asin": "B003IPCUXY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Wilton 4 Cavity Silver Cupcake Boxes, 3 Count",
+            "normalizedName": "Wilton 4 Cavity Silver Cupcake Boxes, 3 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B0060Q1OH6": {
+            "asin": "B0060Q1OH6",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "1966 Corvette Owners Manual (With Decal)",
+            "normalizedName": "1966 Corvette Owners Manual (With Decal)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00UUJMTUK": {
+            "asin": "B00UUJMTUK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Luxor Linens Davani Heated Scarf Battery Operated Heating Fleece Scarf - Unisex Design with Built-In Heating Element Winter Scarf - 4 Colors Available - Pink - Perfect Christmas Gift! Great for Breast Cancer Awareness! Think Pink",
+            "normalizedName": "Luxor Linens Davani Heated Scarf Battery Operated Heating Fleece Scarf - Unisex Design with Built-In Heating Element Winter Scarf - 4 Colors Available - Pink - Perfect Christmas Gift! Great for Breast Cancer Awareness! Think Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01FV0HQDC": {
+            "asin": "B01FV0HQDC",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Selected Dried Black fungus, alias fungus, light fungus, cloud ear, extra premium grade",
+            "normalizedName": "Selected Dried Black fungus, alias fungus, light fungus, cloud ear, extra premium grade",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

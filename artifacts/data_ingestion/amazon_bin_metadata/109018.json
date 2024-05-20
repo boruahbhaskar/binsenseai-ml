@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001NDCGGO": {
+            "asin": "B001NDCGGO",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512
+            },
+            "name": "IronMind Sew-Easy Lifting Straps (pair)",
+            "normalizedName": "IronMind Sew-Easy Lifting Straps (pair)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B002MHFXS8": {
+            "asin": "B002MHFXS8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Farm Innovators Model CC-2 Cord Connect Water-Tight Cord Lock - Green",
+            "normalizedName": "Farm Innovators Model CC-2 Cord Connect Water-Tight Cord Lock - Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00K5OJ0TS": {
+            "asin": "B00K5OJ0TS",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "name": "CELERON G1840 2.80GHZ",
+            "normalizedName": "CELERON G1840 2.80GHZ",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800355822459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        },
+        "B014644NPI": {
+            "asin": "B014644NPI",
+            "height": {
+                "unit": "IN",
+                "value": 2.6999945972460053
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.999987993880012
+            },
+            "name": "Lenovo ideacentre Stick 300 Computer (90F20000US)",
+            "normalizedName": "Lenovo ideacentre Stick 300 Computer (90F20000US)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999926237903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999925962260085
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

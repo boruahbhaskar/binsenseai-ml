@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009HVH9V6": {
+            "asin": "B009HVH9V6",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Vktech Air Cervical Neck Traction (Style A)",
+            "normalizedName": "Vktech Air Cervical Neck Traction (Style A)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00MTAW8U4": {
+            "asin": "B00MTAW8U4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Morange 60W Magsafe 2 Power Supply adapter charger . Replacement For Mac MacBook A1435, A1425 A1502, MacBook pro 13.3 inches.",
+            "normalizedName": "Morange 60W Magsafe 2 Power Supply adapter charger . Replacement For Mac MacBook A1435, A1425 A1502, MacBook pro 13.3 inches.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0183PHF9M": {
+            "asin": "B0183PHF9M",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "iPhone 6 Leather Case, WINNETEK [Kickstand] Slim Fit iPhone 6S Case Card Slot Dual Layers Shockproof iPhone 6s Wallet Case Soft TPU Bumper Drop Protection Cover for Apple iPhone 6/6s Case 4.7\" -D/Blue",
+            "normalizedName": "iPhone 6 Leather Case, WINNETEK [Kickstand] Slim Fit iPhone 6S Case Card Slot Dual Layers Shockproof iPhone 6s Wallet Case Soft TPU Bumper Drop Protection Cover for Apple iPhone 6/6s Case 4.7\" -D/Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B018YR61IK": {
+            "asin": "B018YR61IK",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "iPhone 5S Case, WINNETEK Wallet Case with Card Slot, Dual layer Hybrid Armor Case with Hard PC + Soft rubber bumper cover Ultra Slim Anti-Scratch Protective shell for Apple iPhone 5 5s - Gold",
+            "normalizedName": "iPhone 5S Case, WINNETEK Wallet Case with Card Slot, Dual layer Hybrid Armor Case with Hard PC + Soft rubber bumper cover Ultra Slim Anti-Scratch Protective shell for Apple iPhone 5 5s - Gold",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

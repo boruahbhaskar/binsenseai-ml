@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004A2WRKU": {
+            "asin": "B004A2WRKU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Flojet 01740014A 1/2\" Pump Strainer",
+            "normalizedName": "Flojet 01740014A 1/2\" Pump Strainer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B004TSFBJO": {
+            "asin": "B004TSFBJO",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "real Techniques Blush Brush",
+            "normalizedName": "real Techniques Blush Brush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.7322834628
+            }
+        },
+        "B017NDTQ3S": {
+            "asin": "B017NDTQ3S",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "NutriBullet Superfood Protein Blend",
+            "normalizedName": "NutriBullet Superfood Protein Blend",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

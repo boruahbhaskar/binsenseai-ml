@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N26TH8": {
+            "asin": "B000N26TH8",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Lexmark 82 Black & 83 Color Ink Cartridge Combo Pack (18L0860)",
+            "normalizedName": "Lexmark 82 Black & 83 Color Ink Cartridge Combo Pack (18L0860)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00T57U810": {
+            "asin": "B00T57U810",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "LEGO Marvel's Avengers - Xbox One",
+            "normalizedName": "LEGO Marvel's Avengers - Xbox One",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B017OSHA12": {
+            "asin": "B017OSHA12",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Campbell's Star Wars Stormtrooper Label Fun Shapes Chicken & Pasta Soup Bundle, TWO 10.5 Ounce Can",
+            "normalizedName": "Campbell's Star Wars Stormtrooper Label Fun Shapes Chicken & Pasta Soup Bundle, TWO 10.5 Ounce Can",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

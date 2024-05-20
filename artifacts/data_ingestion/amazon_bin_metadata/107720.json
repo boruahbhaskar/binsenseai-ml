@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017L4DIOW": {
+            "asin": "B017L4DIOW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Impressions Striped Cotton Blanket , Twin/Twin XL 66\" x 90\" - White/Sage",
+            "normalizedName": "Impressions Striped Cotton Blanket , Twin/Twin XL 66\" x 90\" - White/Sage",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.049999997442299
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E4KLY34": {
+            "asin": "B00E4KLY34",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Baofeng UV-82 Two-Way Radio (Black)",
+            "normalizedName": "Baofeng UV-82 Two-Way Radio (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01AWGZKT2": {
+            "asin": "B01AWGZKT2",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Ever After High Epic Winter Briar Beauty Doll",
+            "normalizedName": "Ever After High Epic Winter Briar Beauty Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

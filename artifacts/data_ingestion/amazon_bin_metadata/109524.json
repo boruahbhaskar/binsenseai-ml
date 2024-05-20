@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014DEJAMM": {
+            "asin": "B014DEJAMM",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Barbie Happy Birthday Doll",
+            "normalizedName": "Barbie Happy Birthday Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645520140110475
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

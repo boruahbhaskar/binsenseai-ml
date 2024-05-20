@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H7CJAK": {
+            "asin": "B000H7CJAK",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Yuasa YUAM2S6CL YB16CL-B Battery",
+            "normalizedName": "Yuasa YUAM2S6CL YB16CL-B Battery",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B001NVXRAU": {
+            "asin": "B001NVXRAU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "GSeat - Orthopedic Memory Foam and Gel Seat Cushion for Back Pain and Sciatica Relief",
+            "normalizedName": "GSeat - Orthopedic Memory Foam and Gel Seat Cushion for Back Pain and Sciatica Relief",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00PYXSTTM": {
+            "asin": "B00PYXSTTM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Motorola MH230R Rechargeable Two Way Radio 4 Pack",
+            "normalizedName": "4 Pack Motorola MH230R Rechargeable Two Way Radio",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00U2ON9B6": {
+            "asin": "B00U2ON9B6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "EVGA GeForce GTX 970 4GB FTW+ GAMING ACX 2.0+, Whisper Silent Cooling w/ Free Installed Backplate Graphics Card 04G-P4-3978-KR",
+            "normalizedName": "EVGA GeForce GTX 970 4GB FTW+ GAMING ACX 2.0+, Whisper Silent Cooling w/ Free Installed Backplate Graphics Card 04G-P4-3978-KR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

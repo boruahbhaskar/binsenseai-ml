@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004QJREXM": {
+            "asin": "B004QJREXM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Audio-Technica ATR2500-USB Cardioid Condenser USB Microphone",
+            "normalizedName": "Audio-Technica ATR2500-USB Cardioid Condenser USB Microphone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00CFUJ3P6": {
+            "asin": "B00CFUJ3P6",
+            "height": {
+                "unit": "IN",
+                "value": 4.4094488144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "Ray-Ban Men's Wayfarer Liteforce Polarized Square Sunglasses, Matte Black & Polarized Green, 52 mm",
+            "normalizedName": "Ray-Ban Men's Wayfarer Liteforce Polarized Square Sunglasses, Matte Black & Polarized Green, 52 mm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B00NB1U6OA": {
+            "asin": "B00NB1U6OA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Aqua Sphere Kaiman Swim Goggle (Regular, Clear Lens, White / Neon Green)",
+            "normalizedName": "Aqua Sphere Kaiman Swim Goggle (Regular, Clear Lens, White / Neon Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

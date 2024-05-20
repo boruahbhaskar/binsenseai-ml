@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005OQB02C": {
+            "asin": "B005OQB02C",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Annie's Homegrown Snickerdoodle Cinnamon Sugar Bunny Cookies Peanut Free, (Gluten-Free), 6.75 Ounce",
+            "normalizedName": "Annie's Homegrown Snickerdoodle Cinnamon Sugar Bunny Cookies Peanut Free, (Gluten-Free), 6.75 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B0091J3EPE": {
+            "asin": "B0091J3EPE",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Costume Supercenter BB102095 Mickeys 1st Birthday Standard Kit Serves 8 Guests",
+            "normalizedName": "Costume Supercenter BB102095 Mickeys 1st Birthday Standard Kit Serves 8 Guests",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00K8HQ62G": {
+            "asin": "B00K8HQ62G",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Wingman Shot Glass",
+            "normalizedName": "Wingman Shot Glass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00O92R328": {
+            "asin": "B00O92R328",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "TOP ball (The Outdoor Pickleball)-ORANGE 6-pack",
+            "normalizedName": "TOP ball (The Outdoor Pickleball)-ORANGE 6-pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

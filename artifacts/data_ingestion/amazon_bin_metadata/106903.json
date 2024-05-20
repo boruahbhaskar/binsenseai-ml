@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GRA1OM": {
+            "asin": "B000GRA1OM",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987658
+            },
+            "name": "Pendaflex 62699 Pendaflex Archival Pressboard File Folders, 1/3 Cut, Top Tab, Ltr, MLA, 100/Box",
+            "normalizedName": "Pendaflex 62699 Pendaflex Archival Pressboard File Folders, 1/3 Cut, Top Tab, Ltr, MLA, 100/Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B0056QXWVM": {
+            "asin": "B0056QXWVM",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Pennington Premium Sunflower Chips for Feeding",
+            "normalizedName": "Pennington Premium Sunflower Chips for Feeding",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00SLPO7VE": {
+            "asin": "B00SLPO7VE",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "GoPro Surfboard Mount by ProGearX (PGXUBK01) Universal Board Mount for GoPro HERO Board Mount with Adhesive Anchor Backdoor Floaty Tether Adjustable Camera Angle for all GoPro HERO 4 3 3+ 2 1 and HD",
+            "normalizedName": "GoPro Surfboard Mount by ProGearX (PGXUBK01) Universal Board Mount for GoPro HERO Board Mount with Adhesive Anchor Backdoor Floaty Tether Adjustable Camera Angle for all GoPro HERO 4 3 3+ 2 1 and HD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

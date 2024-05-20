@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OQRAF9O": {
+            "asin": "B00OQRAF9O",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Greenco Stainless Steel Apple Peeler, Slicer, and Corer, Strong Suction Base, Works for Apples, Potatoes, Pears, and More (Red)",
+            "normalizedName": "Greenco Stainless Steel Apple Peeler, Slicer, and Corer, Strong Suction Base, Works for Apples, Potatoes, Pears, and More (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00PAIZQTM": {
+            "asin": "B00PAIZQTM",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Elonbo TM 8.6 x 7 inches / 220 x 180 mm Wood Stripe Design Waterproof Neoprene Soft Mouse Pad",
+            "normalizedName": "Elonbo TM 8.6 x 7 inches / 220 x 180 mm Wood Stripe Design Waterproof Neoprene Soft Mouse Pad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00RBA9WBU": {
+            "asin": "B00RBA9WBU",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Elonbo 8.6 x 7 inches / 220 x 180 mm Pink Tribal Stripe Colorful Elephant Design Waterproof Neoprene Soft Mouse Pad",
+            "normalizedName": "Elonbo 8.6 x 7 inches / 220 x 180 mm Pink Tribal Stripe Colorful Elephant Design Waterproof Neoprene Soft Mouse Pad",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

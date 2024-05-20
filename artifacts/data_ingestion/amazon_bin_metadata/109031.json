@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002MHFXS8": {
+            "asin": "B002MHFXS8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Farm Innovators Model CC-2 Cord Connect Water-Tight Cord Lock - Green",
+            "normalizedName": "Farm Innovators Model CC-2 Cord Connect Water-Tight Cord Lock - Green",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00G47DEGU": {
+            "asin": "B00G47DEGU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Beistle 55293-RWG 1-Pack Tissue Fan, 25-Inch",
+            "normalizedName": "1-Pack Beistle 55293-RWG Tissue Fan, 25-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.49999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012XIUP6": {
+            "asin": "B0012XIUP6",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "5 lb. Kettlebell",
+            "normalizedName": "5 lb. Kettlebell",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B002JOVUO0": {
+            "asin": "B002JOVUO0",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "3M 03614 Scotch-Mount  1/2\" x 15' Molding Tape",
+            "normalizedName": "3M 03614 Scotch-Mount  1/2\" x 15' Molding Tape",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0312502990": {
+            "asin": "0312502990",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Bilingual Bright Baby Trucks (Spanish Edition)",
+            "normalizedName": "Bilingual Bright Baby Trucks (Spanish Edition)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00JNZ7VNW": {
+            "asin": "B00JNZ7VNW",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Tanors Ceramic Coffee Dripper",
+            "normalizedName": "Tanors Ceramic Coffee Dripper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

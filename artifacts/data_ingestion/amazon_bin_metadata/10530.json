@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002SXMH3K": {
+            "asin": "B002SXMH3K",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Fisher-Price Drillin' Action Tool Set",
+            "normalizedName": "Fisher-Price Drillin' Action Tool Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.649999997777735
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B00JE9Y20W": {
+            "asin": "B00JE9Y20W",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Asobu Flavor It Infuser Water Bottle Pure Fruit Flavour 2 Go, Yellow",
+            "normalizedName": "Asobu Flavor It Infuser Water Bottle Pure Fruit Flavour 2 Go, Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01C4SXVLK": {
+            "asin": "B01C4SXVLK",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Super Absorbent, Quick-Drying Kitchen Dish Cloths (Set of 5) | Premium Microfiber & Cotton Blend Towels for Cleaning, Scrubbing, Washing, and Drying | Durable Reinforced Edges | 12\" X 12\" Blue",
+            "normalizedName": "(Set of 5) Super Absorbent, Quick-Drying Kitchen Dish Cloths | Premium Microfiber & Cotton Blend Towels for Cleaning, Scrubbing, Washing, and Drying | Durable Reinforced Edges | 12\" X 12\" Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LLIM5L2": {
+            "asin": "B00LLIM5L2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Disney Royal Princess 11 Piece Tea Set",
+            "normalizedName": "Disney Royal Princess 11 Piece Tea Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

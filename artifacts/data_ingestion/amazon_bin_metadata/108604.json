@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0064WIKWI": {
+            "asin": "B0064WIKWI",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Harry S Truman Bobblehead",
+            "normalizedName": "Harry S Truman Bobblehead",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

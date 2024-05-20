@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1438076371": {
+            "asin": "1438076371",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Barron's ACT with CD-ROM, 2nd Edition (Barron's Act (Book & CD-Rom))",
+            "normalizedName": "Barron's ACT with CD-ROM, 2nd Edition (Barron's Act (Book & CD-Rom))",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.849999997610017
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00OV9JT0I": {
+            "asin": "B00OV9JT0I",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "EVGA GeForce GTX 970 4GB SC+ GAMING ACX 2.0, 26% Cooler and 36% Quieter Cooling Graphics Card 04G-P4-2977-KR",
+            "normalizedName": "EVGA GeForce GTX 970 4GB SC+ GAMING ACX 2.0, 26% Cooler and 36% Quieter Cooling Graphics Card 04G-P4-2977-KR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

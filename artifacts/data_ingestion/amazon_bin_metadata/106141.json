@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008LXRB7S": {
+            "asin": "B008LXRB7S",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Guardian Fall Protection 1703 Velocity Economy Harness HUV Pass Thru Chest and Tongue Buckle Legs, Small/Large",
+            "normalizedName": "Guardian Fall Protection 1703 Velocity Economy Harness HUV Pass Thru Chest and Tongue Buckle Legs, Small/Large",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B015JPB36K": {
+            "asin": "B015JPB36K",
+            "height": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Selk'bag Youth Marvel Iron Man Sleeping Bag, Red, Medium",
+            "normalizedName": "Selk'bag Youth Marvel Iron Man Sleeping Bag, Red, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

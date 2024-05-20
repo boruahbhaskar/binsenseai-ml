@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I0396E": {
+            "asin": "B000I0396E",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Nintendo 64 Controller - Red",
+            "normalizedName": "Nintendo 64 Controller - Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00EKPHGQM": {
+            "asin": "B00EKPHGQM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Tea Fort\u00e9\u00ae KATI Cup Loose Leaf Tea Brewing System, Birch Forest",
+            "normalizedName": "Tea Fort\u00e9\u00ae KATI Cup Loose Leaf Tea Brewing System, Birch Forest",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00HRSWRHW": {
+            "asin": "B00HRSWRHW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Kate Spade New York Vienna Lane Ringholder Silver/Black",
+            "normalizedName": "Kate Spade New York Vienna Lane Ringholder Silver/Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

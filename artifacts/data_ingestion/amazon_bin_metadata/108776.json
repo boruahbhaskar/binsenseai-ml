@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E3W5PII": {
+            "asin": "B00E3W5PII",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "128oz Fresh and Clean Scent Ready to Use Refill. Kleen Free Naturally, Natural, Non-Toxic, Enzyme Solution and Multi-Purpose Product, Cleaner, Laundry Additive and more.",
+            "normalizedName": "128oz Fresh and Clean Scent Ready to Use Refill. Kleen Free Naturally, Natural, Non-Toxic, Enzyme Solution and Multi-Purpose Product, Cleaner, Laundry Additive and more.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00WX1BGYS": {
+            "asin": "B00WX1BGYS",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Bath & Relax Bath Body Brush Natural Bristles Back Scrubber For Shower Long Handle Back Brush Dual Head Exfoliating Skin Brush - Back Shower Brush - Dry or Wet Skin Brushing - For Men and Women Perfect For Fathers day Gift",
+            "normalizedName": "Bath & Relax Bath Body Brush Natural Bristles Back Scrubber For Shower Long Handle Back Brush Dual Head Exfoliating Skin Brush - Back Shower Brush - Dry or Wet Skin Brushing - For Men and Women Perfect For Fathers day Gift",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B01A6BYWNI": {
+            "asin": "B01A6BYWNI",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Ohuhu 12-Slot Leather Watch Box / Watch Case / Jewelry Box /Watch Jewelry Display Storage, Gray & Black",
+            "normalizedName": "Ohuhu 12-Slot Leather Watch Box / Watch Case / Jewelry Box /Watch Jewelry Display Storage, Gray & Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999976519456
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

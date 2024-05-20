@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00062YMXS": {
+            "asin": "B00062YMXS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "K&N E-4210 High Performance Replacement Industrial Air Filter",
+            "normalizedName": "K&N E-4210 High Performance Replacement Industrial Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00FMHPX62": {
+            "asin": "B00FMHPX62",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "DEWALT DWA4214 Oscillating Multi-Material Blade",
+            "normalizedName": "DEWALT DWA4214 Oscillating Multi-Material Blade",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00NLOLOXO": {
+            "asin": "B00NLOLOXO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Hubbell 2083B4 Strap, EMT, 3/4-Inch Trade Size, (1) Hole, Steel, 4-Pack, ,",
+            "normalizedName": "4-Pack Hubbell 2083B4 Strap, EMT, 3/4-Inch Trade Size, (1) Hole, Steel, , ,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00NSIF5EM": {
+            "asin": "B00NSIF5EM",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "Portable Bluetooth Stereo Speaker. Wireless Stereo Player Subwoofer for All Bluetooth Enabled Smart Phones and Tablet Pc .Is a powerful technological grenade ready to explode with music. it is perfect to carry.",
+            "normalizedName": "Portable Bluetooth Stereo Speaker. Wireless Stereo Player Subwoofer for All Bluetooth Enabled Smart Phones and Tablet Pc .Is a powerful technological grenade ready to explode with music. it is perfect to carry.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.485012026093647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

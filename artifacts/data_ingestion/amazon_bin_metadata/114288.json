@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GZH6GUA": {
+            "asin": "B00GZH6GUA",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Kel-Toy RDJB162-30 Sparkle Faux Burlap Ribbon, 2.5-Inch by 10-Yard, Fuchsia",
+            "normalizedName": "Kel-Toy RDJB162-30 Sparkle Faux Burlap Ribbon, 2.5-Inch by 10-Yard, Fuchsia",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00K6XZ78Q": {
+            "asin": "B00K6XZ78Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "The Gripper Glove | Callus Guard Workout Gloves by Fit Four for Weightlifting & Cross Training Athletes - Enhanced Silicone Grip Palm (Black, Medium)",
+            "normalizedName": "The Gripper Glove | Callus Guard Workout Gloves by Fit Four for Weightlifting & Cross Training Athletes - Enhanced Silicone Grip Palm (Black, Medium)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B010OL38PS": {
+            "asin": "B010OL38PS",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Goldistock 3/4\" Tyvek Wristbands VIP Deluxe - Neon Purple 500 Count - Event Identification Bands (Paper - Like Texture)",
+            "normalizedName": "Goldistock 3/4\" Tyvek Wristbands VIP Deluxe - Neon Purple 500 Count - Event Identification Bands (Paper - Like Texture)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B0181XUHA0": {
+            "asin": "B0181XUHA0",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Activated Charcoal Shoe Deodorizer Inserts By Sagano - 2x Extra Large Size Shoe Odor Eliminators to Keep Your Feet and Shoes Fresh and Dry - Eliminates Moisture and Odor in Purses and Bags",
+            "normalizedName": "Activated Charcoal Shoe Deodorizer Inserts By Sagano - 2x Extra Large Size Shoe Odor Eliminators to Keep Your Feet and Shoes Fresh and Dry - Eliminates Moisture and Odor in Purses and Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004BP1DAG": {
+            "asin": "B004BP1DAG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Susan Bates Easy Wrap Pom Pon Maker",
+            "normalizedName": "Susan Bates Easy Wrap Pom Pon Maker",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00XJJV1FM": {
+            "asin": "B00XJJV1FM",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Mpow Bright LED Solar light, Security Lighting Outdoor Motion Sensor Lighting for Garden Patio Fencing Pool",
+            "normalizedName": "Mpow Bright LED Solar light, Security Lighting Outdoor Motion Sensor Lighting for Garden Patio Fencing Pool",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B010K8L8ES": {
+            "asin": "B010K8L8ES",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Activated Charcoal Natural Air Purifying Bag, Absorb Car Odors, Closet Wardrobe Fresheners and more",
+            "normalizedName": "Activated Charcoal Natural Air Purifying Bag, Absorb Car Odors, Closet Wardrobe Fresheners and more",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.17
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

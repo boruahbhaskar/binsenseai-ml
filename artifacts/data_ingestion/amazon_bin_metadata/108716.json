@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IDB6J0S": {
+            "asin": "B00IDB6J0S",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Concept Board Game",
+            "normalizedName": "Concept Board Game",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B016NIEIAU": {
+            "asin": "B016NIEIAU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Plugged Crown Series Headphones, White/Rose",
+            "normalizedName": "Plugged Crown Series Headphones, White/Rose",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

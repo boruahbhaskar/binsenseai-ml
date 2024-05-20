@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DKKBUG": {
+            "asin": "B005DKKBUG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",
+            "normalizedName": "Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00MW8WN6W": {
+            "asin": "B00MW8WN6W",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "12\"x36\" Smooth Heat Transfer - White",
+            "normalizedName": "12\"x36\" Smooth Heat Transfer - White",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

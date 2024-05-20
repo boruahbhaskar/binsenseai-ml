@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CQHYX08": {
+            "asin": "B00CQHYX08",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Fisher-Price Brilliant Basics Rock-a-Stack",
+            "normalizedName": "Fisher-Price Brilliant Basics Rock-a-Stack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00JZV58E8": {
+            "asin": "B00JZV58E8",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "iXCC 10ft Extra Long Apple MFi Certified Lightning 8pin to USB Charge and Sync Cable for iPhone SE/5/5s/6/6s/Plus/iPad Mini/Air/Pro - Black",
+            "normalizedName": "iXCC 10ft Extra Long Apple MFi Certified Lightning 8pin to USB Charge and Sync Cable for iPhone SE/5/5s/6/6s/Plus/iPad Mini/Air/Pro - Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

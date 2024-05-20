@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OUPBVN6": {
+            "asin": "B00OUPBVN6",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Soundance\u00ae Bluetooth Speakers with FM Radio, Alarm Clock, Built-in Mic, LED Display, Support 3.5 mm Audio Jack, Micro SD Card & USB Input, Model SDY019(Blue)",
+            "normalizedName": "Soundance\u00ae Bluetooth Speakers with FM Radio, Alarm Clock, Built-in Mic, LED Display, Support 3.5 mm Audio Jack, Micro SD Card & USB Input, Model SDY019(Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00P48EKCC": {
+            "asin": "B00P48EKCC",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Banshee Bungee 10 Foot Board Bungee Package(includes handle, 30' lead line and carry bag)",
+            "normalizedName": "Banshee Bungee 10 Foot Board Bungee Package(includes handle, 30' lead line and carry bag)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

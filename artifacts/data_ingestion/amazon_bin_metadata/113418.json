@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "111823071X": {
+            "asin": "111823071X",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Fundamentals of Physics",
+            "normalizedName": "Fundamentals of Physics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B00BY6EZIM": {
+            "asin": "B00BY6EZIM",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Marley's Mellow Mood Sodas, Citrus, 12 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Marley's Mellow Mood Sodas, Citrus, 12 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B014697C38": {
+            "asin": "B014697C38",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "ZJKC\u00ae Solar Outdoor LED Light Fixture Exterior Wall Sconce Lantern , Pole/Post/Wall Mount Kit, Black",
+            "normalizedName": "ZJKC\u00ae Solar Outdoor LED Light Fixture Exterior Wall Sconce Lantern , Pole/Post/Wall Mount Kit, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

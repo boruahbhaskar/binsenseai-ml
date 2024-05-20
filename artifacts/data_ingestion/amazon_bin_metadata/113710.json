@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S1LRUVW": {
+            "asin": "B00S1LRUVW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Nintendo New 3DS XL Red",
+            "normalizedName": "Nintendo New 3DS XL Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01F6P6EK8": {
+            "asin": "B01F6P6EK8",
+            "height": {
+                "unit": "IN",
+                "value": 2.749999997195
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.249999993625
+            },
+            "name": "Soucolor Gel Pens for Adult Coloring Books, Set of 60, Color Gel Pens with Case Ideal for Writing and Drawing",
+            "normalizedName": "Set of 60 Soucolor Gel Pens for Adult Coloring Books, , Color Gel Pens with Case Ideal for Writing and Drawing",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1249999937525
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

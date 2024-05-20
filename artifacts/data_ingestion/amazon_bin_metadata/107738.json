@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002JAKRAM": {
+            "asin": "B002JAKRAM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1811023508
+            },
+            "name": "Frigidaire ULTRAWF Refrigerator Water Filter",
+            "normalizedName": "Frigidaire ULTRAWF Refrigerator Water Filter",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960303572697
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4409448794
+            }
+        },
+        "B009V0Z4HY": {
+            "asin": "B009V0Z4HY",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Giovanni 2chic Brazilian Keratin and Argan Oil Ultra-Sleek Conditioner, 24 Fluid Ounce",
+            "normalizedName": "Giovanni 2chic Brazilian Keratin and Argan Oil Ultra-Sleek Conditioner, 24 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B0162AHDMY": {
+            "asin": "B0162AHDMY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "StarPack Holiday Cookie Cutters Set (18 Piece) \u2013 Favorite Winter Shapes including Gingerbread Man, Star and Snowflake - Bonus 101 Cooking Tips",
+            "normalizedName": "StarPack Holiday Cookie Cutters Set (18 Piece) \u2013 Favorite Winter Shapes including Gingerbread Man, Star and Snowflake - Bonus 101 Cooking Tips",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

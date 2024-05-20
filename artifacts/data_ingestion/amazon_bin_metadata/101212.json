@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GKTQTHS": {
+            "asin": "B00GKTQTHS",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "name": "SUP3R PCT Complete Post Cycle Therapy Protection, 300 capsules, by Olympus Labs",
+            "normalizedName": "SUP3R PCT Complete Post Cycle Therapy Protection, 300 capsules, by Olympus Labs",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5196850368
+            }
+        },
+        "B00Q30JU7U": {
+            "asin": "B00Q30JU7U",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Bluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (White) \tBluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (White)",
+            "normalizedName": "Bluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (White) \tBluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

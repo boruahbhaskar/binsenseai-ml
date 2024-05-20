@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MCC373G": {
+            "asin": "B00MCC373G",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Disney INFINITY: Toy Box Starter Pack (2.0 Edition) - PlayStation 4",
+            "normalizedName": "Disney INFINITY: Toy Box Starter Pack (2.0 Edition) - PlayStation 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B00WVSM534": {
+            "asin": "B00WVSM534",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Carmelina 'e San Marzano Petite Peeled Date Tomatoes, 14.28 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Carmelina 'e San Marzano Petite Peeled Date Tomatoes, 14.28 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.249999988888675
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

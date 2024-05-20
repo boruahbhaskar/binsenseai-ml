@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BSEQKI2": {
+            "asin": "B01BSEQKI2",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Rubie's Men's Batman v Superman: Dawn of Justice Deluxe Batman Costume, Multi, X-Large",
+            "normalizedName": "Rubie's Men's Batman v Superman: Dawn of Justice Deluxe Batman Costume, Multi, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

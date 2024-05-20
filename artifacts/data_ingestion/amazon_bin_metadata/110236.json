@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002B56CUY": {
+            "asin": "B002B56CUY",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "Stanley 12-137 No.62 Low Angle Jack Plane",
+            "normalizedName": "Stanley 12-137 No.62 Low Angle Jack Plane",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01CCHHOIE": {
+            "asin": "B01CCHHOIE",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "LisaKitchen- Premium Mandoline Slicer- Vegetables, Fruit, Cheese, Stainless 3 Steel Blades",
+            "normalizedName": "LisaKitchen- Premium Mandoline Slicer- Vegetables, Fruit, Cheese, Stainless 3 Steel Blades",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

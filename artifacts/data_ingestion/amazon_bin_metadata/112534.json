@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027IOGNA": {
+            "asin": "B0027IOGNA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Zing Helirang",
+            "normalizedName": "Zing Helirang",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128
+            }
+        },
+        "B004W906O0": {
+            "asin": "B004W906O0",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "Spyder Auto Nissan Hardbody Black Altezza Tail Light",
+            "normalizedName": "Spyder Auto Nissan Hardbody Black Altezza Tail Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B015QZNF28": {
+            "asin": "B015QZNF28",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Hot Wheels Star Wars Starkiller Base Getaway Track Set",
+            "normalizedName": "Hot Wheels Star Wars Starkiller Base Getaway Track Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

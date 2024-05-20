@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FMZ57G": {
+            "asin": "B000FMZ57G",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "330 Brass Machine Screw, Plain Finish, Round Head, Slotted Drive, 1/2\" Length, #0-80 Threads (Pack of 100)",
+            "normalizedName": "(Pack of 100) 330 Brass Machine Screw, Plain Finish, Round Head, Slotted Drive, 1/2\" Length, #0-80 Threads",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01DDSDFTI": {
+            "asin": "B01DDSDFTI",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "MTEAM Light Downlight Lamp, 9 Watts 4 inch 5000k Daylight Ceiling Light, White Light LED Bathroom Kitchen Lighting, AC85-265V LED Driver Include",
+            "normalizedName": "MTEAM Light Downlight Lamp, 9 Watts 4 inch 5000k Daylight Ceiling Light, White Light LED Bathroom Kitchen Lighting, AC85-265V LED Driver Include",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004L7QKT8": {
+            "asin": "B004L7QKT8",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Achim Home Furnishings FTVGM32620 Nexus 12-Inch Vinyl Tile, Geo Rustic Slate, 20-Pack",
+            "normalizedName": "20-Pack Achim Home Furnishings FTVGM32620 Nexus 12-Inch Vinyl Tile, Geo Rustic Slate,",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        },
+        "B00T62RK1U": {
+            "asin": "B00T62RK1U",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Auxbeam&reg; 2Pcs 4\" 18W CREE LED Work Light Bar Flood Beam 60 degree Waterproof for Off-road Truck Car ATV SUV Jeep Boat 4WD ATV Auxiliary Driving Lamp",
+            "normalizedName": "Auxbeam&reg; 2Pcs 4\" 18W CREE LED Work Light Bar Flood Beam 60 degree Waterproof for Off-road Truck Car ATV SUV Jeep Boat 4WD ATV Auxiliary Driving Lamp",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.58999999782805
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

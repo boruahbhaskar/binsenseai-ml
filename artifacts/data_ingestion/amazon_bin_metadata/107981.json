@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZB7W4QU": {
+            "asin": "B00ZB7W4QU",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Microsoft Xbox Wireless Adapter for Windows",
+            "normalizedName": "Microsoft Xbox Wireless Adapter for Windows",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B012Q4M3DO": {
+            "asin": "B012Q4M3DO",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9606299162
+            },
+            "name": "ArtNaturals Enhanced Vitamin C Serum with Hyaluronic Acid 1 Oz - Top Anti Wrinkle, Anti Aging & Repairs Dark Circles, Fades age spots & Sun Damage - 20% Vitamin C Super Strength - Organic ingredients",
+            "normalizedName": "ArtNaturals Enhanced Vitamin C Serum with Hyaluronic Acid 1 Oz - Top Anti Wrinkle, Anti Aging & Repairs Dark Circles, Fades age spots & Sun Damage - 20% Vitamin C Super Strength - Organic ingredients",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1763698096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3858267682
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

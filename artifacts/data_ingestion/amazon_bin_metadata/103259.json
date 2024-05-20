@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01AKX0WJU": {
+            "asin": "B01AKX0WJU",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "TA Ultimate Survival Kit - 26 Piece Paracord Survival Kit with Thermal Blanket, Fishing Kit, Fire Starter, Emergency Whistle, and More!",
+            "normalizedName": "TA Ultimate Survival Kit - 26 Piece Paracord Survival Kit with Thermal Blanket, Fishing Kit, Fire Starter, Emergency Whistle, and More!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BCA41R0": {
+            "asin": "B00BCA41R0",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "OmniMount OC40FMX Full Motion with Extra Extension TV Mount for 13-Inch to 37-Inch TVs",
+            "normalizedName": "OmniMount OC40FMX Full Motion with Extra Extension TV Mount for 13-Inch to 37-Inch TVs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01F13KDAC": {
+            "asin": "B01F13KDAC",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Impulse Heat Sealer / Plastic Bag Sealer, 8\" (200mm) /12\" (300mm) (8\" (200mm))",
+            "normalizedName": "Impulse Heat Sealer / Plastic Bag Sealer, 8\" (200mm) /12\" (300mm) (8\" (200mm))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

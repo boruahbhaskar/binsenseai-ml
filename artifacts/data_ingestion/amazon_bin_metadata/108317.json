@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1465414053": {
+            "asin": "1465414053",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Ultimate Sticker Book: Frozen (Ultimate Sticker Books)",
+            "normalizedName": "Ultimate Sticker Book: Frozen (Ultimate Sticker Books)",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

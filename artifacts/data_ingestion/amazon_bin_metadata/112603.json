@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001BJKO3M": {
+            "asin": "B001BJKO3M",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Canon KP-108IN Color Ink and 108 Sheet 4 x 6 Paper Set",
+            "normalizedName": "Canon KP-108IN Color Ink and 108 Sheet 4 x 6 Paper Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00GM9NPIW": {
+            "asin": "B00GM9NPIW",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Orthopedic Short Air Orthopedic Walking Boot (XLarge)",
+            "normalizedName": "Orthopedic Short Air Orthopedic Walking Boot (XLarge)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

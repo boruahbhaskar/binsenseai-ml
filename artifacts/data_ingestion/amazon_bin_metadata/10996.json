@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0075W8E4A": {
+            "asin": "B0075W8E4A",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Coby Kyros 10.1-Inch Android 4.0 8 GB 16:9 Capacitive Multi-Touchscreen Widescreen Internet Tablet with Built-In Camera, Black MID1042-8",
+            "normalizedName": "Coby Kyros 10.1-Inch Android 4.0 8 GB 16:9 Capacitive Multi-Touchscreen Widescreen Internet Tablet with Built-In Camera, Black MID1042-8",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00F8C10NG": {
+            "asin": "B00F8C10NG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "Classic Accessories 55-202-012401-EC Hickory Heavy Duty Kettle Grill Cover",
+            "normalizedName": "Classic Accessories 55-202-012401-EC Hickory Heavy Duty Kettle Grill Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

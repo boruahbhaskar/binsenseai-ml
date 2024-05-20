@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014D0ZC1O": {
+            "asin": "B014D0ZC1O",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Disney/Pixar Cars Chase and Change Frank",
+            "normalizedName": "Disney/Pixar Cars Chase and Change Frank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8099999984821509
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B014DEJAMM": {
+            "asin": "B014DEJAMM",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Barbie Happy Birthday Doll",
+            "normalizedName": "Barbie Happy Birthday Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645520140110475
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

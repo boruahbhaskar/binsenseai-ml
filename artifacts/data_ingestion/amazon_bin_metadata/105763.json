@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012ZTI1VS": {
+            "asin": "B012ZTI1VS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "[Qualcomm Certified]Aukey Quick Charge 2.0 18W Power-All USB Car Charger Adapter for iPhone 6, iPhone 6 Plus,Samsung Galaxy S6, S6 Edge, and more(2.4A for Android, 2.0A for iPhone and iPad;FREE Extra Long 3.3FT Micro USB Cord Cable)- Black",
+            "normalizedName": "[Qualcomm Certified]Aukey Quick Charge 2.0 18W Power-All USB Car Charger Adapter for iPhone 6, iPhone 6 Plus,Samsung Galaxy S6, S6 Edge, and more(2.4A for Android, 2.0A for iPhone and iPad;FREE Extra Long 3.3FT Micro USB Cord Cable)- Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01AW7VJY6": {
+            "asin": "B01AW7VJY6",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Mini Drone for Beginner GoolRC T10 Nano RC Quadcopter with Headless Mode and One Key Return Function",
+            "normalizedName": "Mini Drone for Beginner GoolRC T10 Nano RC Quadcopter with Headless Mode and One Key Return Function",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

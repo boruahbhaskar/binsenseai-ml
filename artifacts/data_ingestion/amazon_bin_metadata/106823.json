@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E1ZY6A": {
+            "asin": "B000E1ZY6A",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Rothco 9'' Steel Toe Combat Boot, Black, 5.5",
+            "normalizedName": "Rothco 9'' Steel Toe Combat Boot, Black, 5.5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B000RZOG1W": {
+            "asin": "B000RZOG1W",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Crucifixes Fontanini Crucifix Features a Hand Painted Body of Christ on a Wood Cross, 12-Inch",
+            "normalizedName": "Crucifixes Fontanini Crucifix Features a Hand Painted Body of Christ on a Wood Cross, 12-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

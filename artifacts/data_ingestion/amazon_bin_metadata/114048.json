@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S72BR6O": {
+            "asin": "B00S72BR6O",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "MODONA Four Pronged Robe & Towel Hook with Concealed Screws - Satin Nickel",
+            "normalizedName": "MODONA Four Pronged Robe & Towel Hook with Concealed Screws - Satin Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00Y7D9QBU": {
+            "asin": "B00Y7D9QBU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.199999982456
+            },
+            "name": "Grey/black Bagpack",
+            "normalizedName": "Grey/black Bagpack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.199999985516
+            }
+        },
+        "B01AXBI1HO": {
+            "asin": "B01AXBI1HO",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Guidecraft G8312 Grippies Builders - 30 Piece Playset",
+            "normalizedName": "Guidecraft G8312 Grippies Builders - 30 Piece Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.549999997023003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

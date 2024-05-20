@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01B03FAN2": {
+            "asin": "B01B03FAN2",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 21.599999977968
+            },
+            "name": "Diaper Bag by Hip Cub - Designer Messenger - W/ Stylish Stripe Baby Changing Pad",
+            "normalizedName": "Diaper Bag by Hip Cub - Designer Messenger - W/ Stylish Stripe Baby Changing Pad",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.099999985618
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

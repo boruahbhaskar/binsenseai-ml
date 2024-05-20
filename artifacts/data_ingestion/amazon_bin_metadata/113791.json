@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008BOW5VO": {
+            "asin": "B008BOW5VO",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Powerstroke ACPC005T Paint Care Airless Reversible Tip Saddle Seals",
+            "normalizedName": "Powerstroke ACPC005T Paint Care Airless Reversible Tip Saddle Seals",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00BQKQ1EW": {
+            "asin": "B00BQKQ1EW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "name": "Mehron Celebre Pro-HD Cream Makeup (Medium 3)",
+            "normalizedName": "Mehron Celebre Pro-HD Cream Makeup (Medium 3)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B01FKV3T38": {
+            "asin": "B01FKV3T38",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "ZAGG Foam for All Electronic Devices ZAGGFOAM 2 pack",
+            "normalizedName": "ZAGG Foam for All Electronic Devices ZAGGFOAM 2 pack",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

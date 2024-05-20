@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01EIUJPS0": {
+            "asin": "B01EIUJPS0",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Apple MacBook MMGM2LL/A 12-Inch Laptop with Retina Display (Rose Gold, 512 GB) NEWEST VERSION",
+            "normalizedName": "Apple MacBook MMGM2LL/A 12-Inch Laptop with Retina Display (Rose Gold, 512 GB) NEWEST VERSION",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.539999996192798
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

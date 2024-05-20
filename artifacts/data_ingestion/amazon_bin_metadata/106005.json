@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V3MJUDM": {
+            "asin": "B00V3MJUDM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Techege Bright Orange Toy Coach Touring Bus, Illuminates Beautiful Flashing Colorful Lights while playing Music, - Moves Around on Its Own and Changes Directions When It Touches Something - Great Gift Idea Sure to Keep Kids Entertained for Hours",
+            "normalizedName": "Techege Bright Orange Toy Coach Touring Bus, Illuminates Beautiful Flashing Colorful Lights while playing Music, - Moves Around on Its Own and Changes Directions When It Touches Something - Great Gift Idea Sure to Keep Kids Entertained for Hours",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

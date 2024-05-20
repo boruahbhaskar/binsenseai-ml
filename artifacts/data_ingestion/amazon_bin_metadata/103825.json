@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0983824398": {
+            "asin": "0983824398",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7086614064
+            },
+            "name": "The Super Duper Princess Heroes: How It All Started",
+            "normalizedName": "The Super Duper Princess Heroes: How It All Started",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0582080569315935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2125984158
+            }
+        },
+        "B00CN5Y0IS": {
+            "asin": "B00CN5Y0IS",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "LEGO Architecture United Nations Headquarters",
+            "normalizedName": "LEGO Architecture United Nations Headquarters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1626360944": {
+            "asin": "1626360944",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Jimmy Stewart: The Truth Behind the Legend",
+            "normalizedName": "Jimmy Stewart: The Truth Behind the Legend",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B00BQYCK8O": {
+            "asin": "B00BQYCK8O",
+            "height": {
+                "unit": "IN",
+                "value": 4.1732283422
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.6692913226
+            },
+            "name": "Chemical Guys MIC_506_03 Professional Grade Premium Microfiber Towels, Gold (16 in. x 16 in.) (Pack of 3)",
+            "normalizedName": "(Pack of 3) Chemical Guys MIC_506_03 Professional Grade Premium Microfiber Towels, Gold (16 in. x 16 in.)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.3700787306
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

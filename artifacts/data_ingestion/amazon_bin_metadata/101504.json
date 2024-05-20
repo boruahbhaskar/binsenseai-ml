@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HKA79C0": {
+            "asin": "B00HKA79C0",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.699999981946
+            },
+            "name": "SmartSign Two-Sided Aluminum Sign, Legend \"Slow Down - Speed Limit 5 MPH\", 18\" high x 12\" wide, Black on Yellow",
+            "normalizedName": "SmartSign Two-Sided Aluminum Sign, Legend \"Slow Down - Speed Limit 5 MPH\", 18\" high x 12\" wide, Black on Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B00OIIJOIO": {
+            "asin": "B00OIIJOIO",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.399999982252
+            },
+            "name": "TOP-BAG Men/Women's Vintage Canvas Leather Schoolbag Shoulder Crossbody Messenger Bag,MC6807 (Grey)",
+            "normalizedName": "TOP-BAG Men/Women's Vintage Canvas Leather Schoolbag Shoulder Crossbody Messenger Bag,MC6807 (Grey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B012DTDBI8": {
+            "asin": "B012DTDBI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Microsoft Surface 3 Tablet (10.8-Inch, 64 GB, Intel Atom, Windows 10)",
+            "normalizedName": "Microsoft Surface 3 Tablet (10.8-Inch, 64 GB, Intel Atom, Windows 10)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B0184NPI74": {
+            "asin": "B0184NPI74",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Party Animal Organic Cuddly Chicken Cat Canned Food 5.5oz (24 Pack)",
+            "normalizedName": "(24 Pack) Party Animal Organic Cuddly Chicken Cat Canned Food 5.5oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.249999991404446
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E1ZY6A": {
+            "asin": "B000E1ZY6A",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Rothco 9'' Steel Toe Combat Boot, Black, 5.5",
+            "normalizedName": "Rothco 9'' Steel Toe Combat Boot, Black, 5.5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B000RZOG1W": {
+            "asin": "B000RZOG1W",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Crucifixes Fontanini Crucifix Features a Hand Painted Body of Christ on a Wood Cross, 12-Inch",
+            "normalizedName": "Crucifixes Fontanini Crucifix Features a Hand Painted Body of Christ on a Wood Cross, 12-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B006L2UZTW": {
+            "asin": "B006L2UZTW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Darice 14-Inch by 8.5-Inch by 1.875-Inch Adjustable Organizer with 4 Removable Sections",
+            "normalizedName": "Darice 14-Inch by 8.5-Inch by 1.875-Inch Adjustable Organizer with 4 Removable Sections",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00AA7V1N8": {
+            "asin": "B00AA7V1N8",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.992125971
+            },
+            "name": "Ravensburger Outdoor Mandala-Designer Flowers and Butterflies Kit",
+            "normalizedName": "Ravensburger Outdoor Mandala-Designer Flowers and Butterflies Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640403265454
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.417322823
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

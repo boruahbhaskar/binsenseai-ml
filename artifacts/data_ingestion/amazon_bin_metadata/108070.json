@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000P6TLYU": {
+            "asin": "B000P6TLYU",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Raider SM-12165 Deluxe Mini Snowmobile Dolly",
+            "normalizedName": "Raider SM-12165 Deluxe Mini Snowmobile Dolly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00YI79BNI": {
+            "asin": "B00YI79BNI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Skylanders SuperChargers Racing Starter Pack - Nintendo 3DS",
+            "normalizedName": "Skylanders SuperChargers Racing Starter Pack - Nintendo 3DS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

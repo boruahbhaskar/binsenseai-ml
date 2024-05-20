@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FWLC5XW": {
+            "asin": "B00FWLC5XW",
+            "height": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.1181102208
+            },
+            "name": "DEWALT DCK296M2 20V XR Lithium Ion Brushless Premium Hammerdrill and Impact Driver Combo Kit",
+            "normalizedName": "DEWALT DCK296M2 20V XR Lithium Ion Brushless Premium Hammerdrill and Impact Driver Combo Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.69999999018849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6062992028
+            }
+        },
+        "B01DFOKE1W": {
+            "asin": "B01DFOKE1W",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "10\" X 10\" Rainbow Construction Base Plates - 24 Pack Bundle - LEGO\u00ae Compatible",
+            "normalizedName": "24 Pack 10\" X 10\" Rainbow Construction Base Plates - Bundle - LEGO\u00ae Compatible",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.049999994087935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

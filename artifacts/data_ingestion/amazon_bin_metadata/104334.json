@@ -1,0 +1,18 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014RBSMCU": {
+            "asin": "B014RBSMCU",
+            "height": null,
+            "length": null,
+            "name": "NCAA Illinois Chicago Flames Stacked Vintage Long Sleeve T-Shirt, Small, Navy",
+            "normalizedName": "NCAA Illinois Chicago Flames Stacked Vintage Long Sleeve T-Shirt, Small, Navy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": null
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

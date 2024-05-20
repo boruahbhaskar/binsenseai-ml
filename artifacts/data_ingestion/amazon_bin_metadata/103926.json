@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KI11P96": {
+            "asin": "B00KI11P96",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "NEW TECUMSEH CARBURETOR FOR H25 H30 H35 520-918 631245 631820 631921 632284",
+            "normalizedName": "NEW TECUMSEH CARBURETOR FOR H25 H30 H35 520-918 631245 631820 631921 632284",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0155MAUKW": {
+            "asin": "B0155MAUKW",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "AXESS CS3603-SL 720p HD Action Camera with Waterproof Housing (Silver)",
+            "normalizedName": "AXESS CS3603-SL 720p HD Action Camera with Waterproof Housing (Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

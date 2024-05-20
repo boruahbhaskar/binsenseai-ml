@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OV9JT0I": {
+            "asin": "B00OV9JT0I",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "EVGA GeForce GTX 970 4GB SC+ GAMING ACX 2.0, 26% Cooler and 36% Quieter Cooling Graphics Card 04G-P4-2977-KR",
+            "normalizedName": "EVGA GeForce GTX 970 4GB SC+ GAMING ACX 2.0, 26% Cooler and 36% Quieter Cooling Graphics Card 04G-P4-2977-KR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B00X6OKA0M": {
+            "asin": "B00X6OKA0M",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.599999982048004
+            },
+            "name": "Vaulia Lightweight Cotton Blend Duvet Cover Sets, Bright Print Pattern Design - King Size",
+            "normalizedName": "Vaulia Lightweight Cotton Blend Duvet Cover Sets, Bright Print Pattern Design - King Size",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        },
+        "B015Y34EC2": {
+            "asin": "B015Y34EC2",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Coach OTL Signature J Small Kelsey - Black/Smoke/Black",
+            "normalizedName": "Coach OTL Signature J Small Kelsey - Black/Smoke/Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

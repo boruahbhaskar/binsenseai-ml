@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C2O8UE": {
+            "asin": "B000C2O8UE",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "Four Seasons 26743 O-Ring & Gasket Air Conditioning System Seal Kit",
+            "normalizedName": "Four Seasons 26743 O-Ring & Gasket Air Conditioning System Seal Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B017SJKYQ0": {
+            "asin": "B017SJKYQ0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "1byone Easy Chime Wireless Doorbell Operating at 500 feet with 1 Plug-in Receivers and 2 Push Button, CD Quality Sound and LED Flash, 36 Melodies to Choose, White",
+            "normalizedName": "1byone Easy Chime Wireless Doorbell Operating at 500 feet with 1 Plug-in Receivers and 2 Push Button, CD Quality Sound and LED Flash, 36 Melodies to Choose, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

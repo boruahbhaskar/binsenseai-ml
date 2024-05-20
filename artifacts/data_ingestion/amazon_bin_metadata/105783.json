@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B7BRXLA": {
+            "asin": "B00B7BRXLA",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Cottonelle Fresh Care Flushable Cleansing Cloths, 504 Cloths",
+            "normalizedName": "Cottonelle Fresh Care Flushable Cleansing Cloths, 504 Cloths",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01GCHU2BQ": {
+            "asin": "B01GCHU2BQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "CRDC Life Portable Wireless Bluetooth Speaker with Dual 3W Drivers 4.0 Stereo MP3 Music Phone Speaker (Yellow)",
+            "normalizedName": "CRDC Life Portable Wireless Bluetooth Speaker with Dual 3W Drivers 4.0 Stereo MP3 Music Phone Speaker (Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.639999997786121
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002HICVCS": {
+            "asin": "B002HICVCS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Safco Products  2162BL Onyx Mesh Desktop Tub File, Letter Size (Qty. 1), Black",
+            "normalizedName": "Safco Products  2162BL Onyx Mesh Desktop Tub File, Letter Size (Qty. 1), Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B01FIRDDP8": {
+            "asin": "B01FIRDDP8",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Eva Medical Shower Tub Stool",
+            "normalizedName": "Eva Medical Shower Tub Stool",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1499999973584396
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

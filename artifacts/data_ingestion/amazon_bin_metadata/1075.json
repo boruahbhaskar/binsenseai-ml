@@ -1,0 +1,69 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00567FWAA": {
+            "asin": "B00567FWAA",
+            "height": {
+                "unit": "IN",
+                "value": 3.1000000000000005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.400000000000002
+            },
+            "name": "Roma Costume Women's Faux Fur Leg Warmer, White, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.7
+            }
+        },
+        "B005AV0RVQ": {
+            "asin": "B005AV0RVQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.2
+            },
+            "name": "Mastrad A64601 Top Chips Maker and Slicer Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.2
+            }
+        },
+        "B00ZBGFVN4": {
+            "asin": "B00ZBGFVN4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1000000000000005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.400000000000002
+            },
+            "name": "MAGMAGIC 30PCS Construction Building Toy Intelligence Mega Block Magnetic Smart DIY Toys Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.8
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1075.jpg"
+}

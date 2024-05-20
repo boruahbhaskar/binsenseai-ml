@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B80JSHC": {
+            "asin": "B00B80JSHC",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Swimline 15030R - Sunsoft Mattress, Red",
+            "normalizedName": "Swimline 15030R - Sunsoft Mattress, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B01BA1KY1W": {
+            "asin": "B01BA1KY1W",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "EASY ARTIST ACRYLIC PAINT SET - 18 Color Professional Quality Art Supplies Painting Kit For Vibrant Arts and Crafts - Beautiful Acrylics Painter Sets for Canvas, Fabric, Wood and Nail - 100% GUARANTEE",
+            "normalizedName": "EASY ARTIST ACRYLIC PAINT SET - 18 Color Professional Quality Art Supplies Painting Kit For Vibrant Arts and Crafts - Beautiful Acrylics Painter Sets for Canvas, Fabric, Wood and Nail - 100% GUARANTEE",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

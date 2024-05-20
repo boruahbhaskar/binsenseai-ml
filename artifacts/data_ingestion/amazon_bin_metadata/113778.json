@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00028LZ0Y": {
+            "asin": "B00028LZ0Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Swisspers Premium Multi Care Cotton Swabs, White Plastic Sticks, 300 Count",
+            "normalizedName": "Swisspers Premium Multi Care Cotton Swabs, White Plastic Sticks, 300 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00QG55080": {
+            "asin": "B00QG55080",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "SHOOT Jaws Flex Clamp Mount + 8 joint Adjustable Goose Neck for Gopro Hero 4 hero 3+ hero 3 hero 2 hero 1 Camera",
+            "normalizedName": "SHOOT Jaws Flex Clamp Mount + 8 joint Adjustable Goose Neck for Gopro Hero 4 hero 3+ hero 3 hero 2 hero 1 Camera",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B015FH11ZA": {
+            "asin": "B015FH11ZA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Vstorm Remote Control 16 Color LED Spotlight Bulb 3W E27 Socket Type Lifespan 25000 Hours",
+            "normalizedName": "Vstorm Remote Control 16 Color LED Spotlight Bulb 3W E27 Socket Type Lifespan 25000 Hours",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01CTD1DIS": {
+            "asin": "B01CTD1DIS",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "2 PACK High-Speed HDMI to HDMI type A-A (15 Feet) Cable Supports 3D & 4K Resolution, Ethernet, 1080P and Audio Return - Black",
+            "normalizedName": "2 PACK High-Speed HDMI to HDMI type A-A (15 Feet) Cable Supports 3D & 4K Resolution, Ethernet, 1080P and Audio Return - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

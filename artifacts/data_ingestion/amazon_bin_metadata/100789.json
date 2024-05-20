@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VX9F566": {
+            "asin": "B00VX9F566",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.9527558872
+            },
+            "name": "Nerf Rival Apollo XV-700 (Blue)",
+            "normalizedName": "Nerf Rival Apollo XV-700 (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1605081144235547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B0108TJ9FY": {
+            "asin": "B0108TJ9FY",
+            "height": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Value Security Seals - Orange - Case of 1000",
+            "normalizedName": "Case of 1000 Value Security Seals - Orange -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.29999999639406
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

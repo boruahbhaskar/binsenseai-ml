@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RY0C9IK": {
+            "asin": "B00RY0C9IK",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Happy Lunchboxes 3-compartment Leak Proof Bento Lunch Box Containers for Kids - Set of 4 (Small)",
+            "normalizedName": "Set of 4 Happy Lunchboxes 3-compartment Leak Proof Bento Lunch Box Containers for Kids - (Small)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B018YHQWES": {
+            "asin": "B018YHQWES",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Black Costume Spider-Man Marvel Super Heroes Secret Wars Micro Bobble",
+            "normalizedName": "Black Costume Spider-Man Marvel Super Heroes Secret Wars Micro Bobble",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

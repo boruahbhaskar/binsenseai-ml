@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0102ZQ3LM": {
+            "asin": "B0102ZQ3LM",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Lily's Home Beer Boot, Das Boot Beerfest Beer Glass, Large Oktoberfest Beer Stein - 1 Liter",
+            "normalizedName": "Lily's Home Beer Boot, Das Boot Beerfest Beer Glass, Large Oktoberfest Beer Stein - 1 Liter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B017L1WXD2": {
+            "asin": "B017L1WXD2",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Xbox One 500GB Console with Kinect (No Chat Headset Included)",
+            "normalizedName": "Xbox One 500GB Console with Kinect (No Chat Headset Included)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 14.109440747255869
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015S4ZJI": {
+            "asin": "B0015S4ZJI",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5826771566
+            },
+            "name": "Health Enterprises 360 Therapy Wrist Brace",
+            "normalizedName": "Health Enterprises 360 Therapy Wrist Brace",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B0089MUDM6": {
+            "asin": "B0089MUDM6",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "A Cat in Paris",
+            "normalizedName": "A Cat in Paris",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

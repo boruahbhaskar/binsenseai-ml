@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C7W5B12": {
+            "asin": "B00C7W5B12",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Rothco Vintage Paratrooper Fatigues, Tiger Stripe, Small",
+            "normalizedName": "Rothco Vintage Paratrooper Fatigues, Tiger Stripe, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B00XJS9LIW": {
+            "asin": "B00XJS9LIW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "ReBagMe Laminated Extra Large Recycled Shopper Tote",
+            "normalizedName": "ReBagMe Laminated Extra Large Recycled Shopper Tote",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

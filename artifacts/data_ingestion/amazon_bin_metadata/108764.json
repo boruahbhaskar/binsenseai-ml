@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QJUDM0": {
+            "asin": "B000QJUDM0",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Baker's, Unsweetened Chocolate, 4 oz",
+            "normalizedName": "Baker's, Unsweetened Chocolate, 4 oz",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00B72A3UW": {
+            "asin": "B00B72A3UW",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "BEST Eye Gel - For Irresistible Eyes - Powerful Anti-Aging Formula Infused With All Natural Ingredients To Reduce Wrinkles, Under Eye Bags, Puffiness & Dark Circles - 1.7 fl ounces/50 ml",
+            "normalizedName": "BEST Eye Gel - For Irresistible Eyes - Powerful Anti-Aging Formula Infused With All Natural Ingredients To Reduce Wrinkles, Under Eye Bags, Puffiness & Dark Circles - 1.7 fl ounces/50 ml",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

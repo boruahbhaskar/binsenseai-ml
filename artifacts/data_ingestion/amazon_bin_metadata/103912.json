@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HFAL3O": {
+            "asin": "B000HFAL3O",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "STRANGE STORIES, AMAZING FACTS",
+            "normalizedName": "STRANGE STORIES, AMAZING FACTS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        },
+        "B00152TXDM": {
+            "asin": "B00152TXDM",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Conair Mega Self Holding Rollers, 9 Count",
+            "normalizedName": "Conair Mega Self Holding Rollers, 9 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00RI7GKVG": {
+            "asin": "B00RI7GKVG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Beefeaters Redbarn Choppers Bag, 9 oz.",
+            "normalizedName": "Beefeaters Redbarn Choppers Bag, 9 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B01GJIC6U8": {
+            "asin": "B01GJIC6U8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Origin Ties Men's Fashion Geometric Paisley Jacquard 100% Silk Tie Necktie Maroon",
+            "normalizedName": "Origin Ties Men's Fashion Geometric Paisley Jacquard 100% Silk Tie Necktie Maroon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1419708589": {
+            "asin": "1419708589",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Surprise Attack of Jabba the Puppett (Origami Yoda)",
+            "normalizedName": "Surprise Attack of Jabba the Puppett (Origami Yoda)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00CC4R2SK": {
+            "asin": "B00CC4R2SK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Gear Beast Sport Gym Running Armband with Key Holder and Free Strap Extender for iPhone SE, iPhone 5s, iPhone 5, iPhone 5c, iPhone 4s, iPhone 4 and iPod Touch 5G",
+            "normalizedName": "Gear Beast Sport Gym Running Armband with Key Holder and Free Strap Extender for iPhone SE, iPhone 5s, iPhone 5, iPhone 5c, iPhone 4s, iPhone 4 and iPod Touch 5G",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00O7CM12W": {
+            "asin": "B00O7CM12W",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Lifetime Warranty FDA cleared OTC HealthmateForever YK15AB TENS unit with 4 outputs, apply 8 pads at the same time, 15 modes Handheld Electrotherapy device | Electronic Pulse Massager for Electrotherapy Pain Management -- Pain Relief Therapy : Chosen by Sufferers of Tennis Elbow, Carpal Tunnel Syndrome, Arthritis, Bursitis, Tendonitis, Plantar Fasciitis, Sciatica, Back Pain, Fibromyalgia, Shin Splints, Neuropathy and other Inflammation Ailments Patent No. USD723178S",
+            "normalizedName": "Lifetime Warranty FDA cleared OTC HealthmateForever YK15AB TENS unit with 4 outputs, apply 8 pads at the same time, 15 modes Handheld Electrotherapy device | Electronic Pulse Massager for Electrotherapy Pain Management -- Pain Relief Therapy : Chosen by Sufferers of Tennis Elbow, Carpal Tunnel Syndrome, Arthritis, Bursitis, Tendonitis, Plantar Fasciitis, Sciatica, Back Pain, Fibromyalgia, Shin Splints, Neuropathy and other Inflammation Ailments Patent No. USD723178S",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B01H33F2RW": {
+            "asin": "B01H33F2RW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.3
+            },
+            "name": "PRISTINE iPhone 6/6S (4.7\") #1 NEW LATEST 2016 Trending Corners Soft Air Cushion Slim Double layer TPU/Acrylic Hybrid Bumper Drop Resistance Shockproof Protective Case Cover (Red)",
+            "normalizedName": "PRISTINE iPhone 6/6S (4.7\") #1 NEW LATEST 2016 Trending Corners Soft Air Cushion Slim Double layer TPU/Acrylic Hybrid Bumper Drop Resistance Shockproof Protective Case Cover (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2755778275
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.3
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

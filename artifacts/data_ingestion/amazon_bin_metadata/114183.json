@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T62RK1U": {
+            "asin": "B00T62RK1U",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Auxbeam&reg; 2Pcs 4\" 18W CREE LED Work Light Bar Flood Beam 60 degree Waterproof for Off-road Truck Car ATV SUV Jeep Boat 4WD ATV Auxiliary Driving Lamp",
+            "normalizedName": "Auxbeam&reg; 2Pcs 4\" 18W CREE LED Work Light Bar Flood Beam 60 degree Waterproof for Off-road Truck Car ATV SUV Jeep Boat 4WD ATV Auxiliary Driving Lamp",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.58999999782805
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B013HNYV42": {
+            "asin": "B013HNYV42",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "WD Blue 3TB  Desktop Hard Disk Drive - 5400 RPM SATA 6 Gb/s 64MB Cache 3.5 Inch  - WD30EZRZ",
+            "normalizedName": "WD Blue 3TB  Desktop Hard Disk Drive - 5400 RPM SATA 6 Gb/s 64MB Cache 3.5 Inch  - WD30EZRZ",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4550360770607615
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CAT2I30": {
+            "asin": "B01CAT2I30",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "GlowCity LED Light Up Bracelets (Green)",
+            "normalizedName": "GlowCity LED Light Up Bracelets (Green)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        },
+        "B01CY6KXZE": {
+            "asin": "B01CY6KXZE",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Winsen Swimming Goggles,Swim Goggles Plus,100% U.V. Protection,Anti-shatter, Anti-fog, Coated Lenses+Premium Silicone Long Hair Swim Cap,Quick Adjusting Head Strap,Flexible Nose Bridge For Women Red",
+            "normalizedName": "Winsen Swimming Goggles,Swim Goggles Plus,100% U.V. Protection,Anti-shatter, Anti-fog, Coated Lenses+Premium Silicone Long Hair Swim Cap,Quick Adjusting Head Strap,Flexible Nose Bridge For Women Red",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.47999999959747647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

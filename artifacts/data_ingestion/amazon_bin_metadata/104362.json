@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E9ARA96": {
+            "asin": "B00E9ARA96",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Fun Express Paper Wedding Children's Activity Placemats - 12 Pieces",
+            "normalizedName": "Fun Express Paper Wedding Children's Activity Placemats - 12 Pieces",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        },
+        "B01EO5BCR6": {
+            "asin": "B01EO5BCR6",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Tesla Motors Cable Organizer",
+            "normalizedName": "Tesla Motors Cable Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

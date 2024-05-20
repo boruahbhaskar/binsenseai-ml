@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "2259217494": {
+            "asin": "2259217494",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Dictionnaire amoureux de Paris (French Edition)",
+            "normalizedName": "Dictionnaire amoureux de Paris (French Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B0009Y6LZ0": {
+            "asin": "B0009Y6LZ0",
+            "height": {
+                "unit": "IN",
+                "value": 4.20078739729
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.90157479611
+            },
+            "name": "Poise Pantiliners, Extra Coverage, Value Pack, 44 pantiliners",
+            "normalizedName": "Poise Pantiliners, Extra Coverage, Value Pack, 44 pantiliners",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5500092512376
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.79921259251
+            }
+        },
+        "B00I2F3EBM": {
+            "asin": "B00I2F3EBM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Cetaphil Gentle Skin Cleanser, For all skin types, 16 Ounce Bottles (Pack of 3)",
+            "normalizedName": "(Pack of 3) Cetaphil Gentle Skin Cleanser, For all skin types, 16 Ounce Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01FD0YTL2": {
+            "asin": "B01FD0YTL2",
+            "height": {
+                "unit": "IN",
+                "value": 0.8267716527
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2125984158
+            },
+            "name": "Pokemon / Pikachu / rubber coat cover for New Nintendo 3DSXL",
+            "normalizedName": "Pokemon / Pikachu / rubber coat cover for New Nintendo 3DSXL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.23368761237642532
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2834645595
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

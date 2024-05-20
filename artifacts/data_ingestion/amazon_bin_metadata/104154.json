@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B7CKL1I": {
+            "asin": "B00B7CKL1I",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Bluecell Black Color 7 Pack of Microphone Windscreen Foam Cover",
+            "normalizedName": "7 Pack Bluecell Black Color of Microphone Windscreen Foam Cover",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00KVL0SIM": {
+            "asin": "B00KVL0SIM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tom Clancy's The Division - PC",
+            "normalizedName": "Tom Clancy's The Division - PC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01DFAK64G": {
+            "asin": "B01DFAK64G",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Premium Ear Protection Muffs for Shooting Range Hunting - Safety Hearing Earmuffs - Sound Blocking Protectors - Foldable Noise Cancelling Headphones - Kids & Adults - Used by Elite Military Forces!",
+            "normalizedName": "Premium Ear Protection Muffs for Shooting Range Hunting - Safety Hearing Earmuffs - Sound Blocking Protectors - Foldable Noise Cancelling Headphones - Kids & Adults - Used by Elite Military Forces!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

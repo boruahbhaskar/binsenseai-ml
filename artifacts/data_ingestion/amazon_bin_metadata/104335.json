@@ -1,0 +1,37 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014RBSMCU": {
+            "asin": "B014RBSMCU",
+            "height": null,
+            "length": null,
+            "name": "NCAA Illinois Chicago Flames Stacked Vintage Long Sleeve T-Shirt, Small, Navy",
+            "normalizedName": "NCAA Illinois Chicago Flames Stacked Vintage Long Sleeve T-Shirt, Small, Navy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": null
+        },
+        "B01GE2ZHNM": {
+            "asin": "B01GE2ZHNM",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Best Video Baby Monitor, Hellobaby Security Digital Baby Videos Camera with Night Vision /Temperature Monitoring/ 2 Way Talk Talkback System (White)",
+            "normalizedName": "Best Video Baby Monitor, Hellobaby Security Digital Baby Videos Camera with Night Vision /Temperature Monitoring/ 2 Way Talk Talkback System (White)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

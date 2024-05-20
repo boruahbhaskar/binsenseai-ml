@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000DINKPQ": {
+            "asin": "B000DINKPQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "FIAMM 72112 Freeway Blaster Horn",
+            "normalizedName": "FIAMM 72112 Freeway Blaster Horn",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00UTCYT1K": {
+            "asin": "B00UTCYT1K",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Car Holder, Breett Universal Car Windshield Mount Holder for Smart Mobile Phones,iPhone 6 plus/6/5s/4, Samsung Galaxy S6/S5/S4/S3/Note 4/3, GPS",
+            "normalizedName": "Car Holder, Breett Universal Car Windshield Mount Holder for Smart Mobile Phones,iPhone 6 plus/6/5s/4, Samsung Galaxy S6/S5/S4/S3/Note 4/3, GPS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

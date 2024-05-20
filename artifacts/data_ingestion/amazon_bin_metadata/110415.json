@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007WI0FSA": {
+            "asin": "B007WI0FSA",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Pop Secret Home Style Popcorn, 28 Count",
+            "normalizedName": "Pop Secret Home Style Popcorn, 28 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B00NW78KBO": {
+            "asin": "B00NW78KBO",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Pointehaven 170 GSM Flannel Sheet Set, King, Printed, Monet",
+            "normalizedName": "Pointehaven 170 GSM Flannel Sheet Set, King, Printed, Monet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00UH91J68": {
+            "asin": "B00UH91J68",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "ZIG ZAG KID Fun Frog Bath Toys - The BEST Toddler Bathtub Toy - Safe, Non-toxic, Bright Colors and Fun - Interactive, Educational Frog Bath Toy For Girls & Boys! Loads Of Bath Time Fun For Toddlers",
+            "normalizedName": "ZIG ZAG KID Fun Frog Bath Toys - The BEST Toddler Bathtub Toy - Safe, Non-toxic, Bright Colors and Fun - Interactive, Educational Frog Bath Toy For Girls & Boys! Loads Of Bath Time Fun For Toddlers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B019407ERI": {
+            "asin": "B019407ERI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988065999
+            },
+            "name": "Packing Tape Gun and Packing Tape Value Bundle. Comes With 1 BMG-2 Tape Dispenser and 6 Rolls of Midtape Packing Tape.",
+            "normalizedName": "Packing Tape Gun and Packing Tape Value Bundle. Comes With 1 BMG-2 Tape Dispenser and 6 Rolls of Midtape Packing Tape.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

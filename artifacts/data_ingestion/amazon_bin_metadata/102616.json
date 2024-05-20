@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BWYO0LI": {
+            "asin": "B00BWYO0LI",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Honeywell Filter R True HEPA Replacement Filter - 3 Pack, HRF-R3",
+            "normalizedName": "3 Pack Honeywell Filter R True HEPA Replacement Filter - , HRF-R3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B0195PEYE8": {
+            "asin": "B0195PEYE8",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Platinum 25' Expanding Hose, Strongest Expandable Garden Hose on the Planet. Double Latex Core, Extra Strength Fabric",
+            "normalizedName": "Platinum 25' Expanding Hose, Strongest Expandable Garden Hose on the Planet. Double Latex Core, Extra Strength Fabric",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

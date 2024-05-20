@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017SXVUSC": {
+            "asin": "B017SXVUSC",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Complete 9pc Outdoor Cooking Pot Pan Bowl Set with FREE Stainless Steel Spork - Innovative Portable and Lightweight - Camping Backpacking Hiking Trekking Fishing Picnic Cookware",
+            "normalizedName": "Complete 9pc Outdoor Cooking Pot Pan Bowl Set with FREE Stainless Steel Spork - Innovative Portable and Lightweight - Camping Backpacking Hiking Trekking Fishing Picnic Cookware",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01C05INPQ": {
+            "asin": "B01C05INPQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "LED Headlamp, Teswell CREE T6 Waterproof Headlight with 3 Zoomable Modes (High, Low, SOS) 1000 Lumens Hands-free Flashlight Torch with Rechargeable Batteries & USB Charging Cable",
+            "normalizedName": "LED Headlamp, Teswell CREE T6 Waterproof Headlight with 3 Zoomable Modes (High, Low, SOS) 1000 Lumens Hands-free Flashlight Torch with Rechargeable Batteries & USB Charging Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

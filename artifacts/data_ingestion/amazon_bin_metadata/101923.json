@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CLTC4C": {
+            "asin": "B000CLTC4C",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Hawk Performance HB325F.720 HPS Performance Ceramic Brake Pad",
+            "normalizedName": "Hawk Performance HB325F.720 HPS Performance Ceramic Brake Pad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

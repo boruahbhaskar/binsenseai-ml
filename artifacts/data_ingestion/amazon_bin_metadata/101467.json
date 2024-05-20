@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018LJZUZ6": {
+            "asin": "B018LJZUZ6",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Mentos Gum Big Bottle Curvy, Bubble Fresh Cotton Candy, 6 Count",
+            "normalizedName": "Mentos Gum Big Bottle Curvy, Bubble Fresh Cotton Candy, 6 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01A7PVTGG": {
+            "asin": "B01A7PVTGG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Silicon Devices Wireless Bluetooth Sports Headphones, Red",
+            "normalizedName": "Silicon Devices Wireless Bluetooth Sports Headphones, Red",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01FW4N77Q": {
+            "asin": "B01FW4N77Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.649999998317
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.149999990667
+            },
+            "name": "Waterproof Case,Waterproof Pouch,WOFALA Universal Dry Pouch Bag with Touch Responsive for iPhone 6S,6,6S Plus,Samsung Galaxy S7,S6 Edge,S6,S5,S4,Note5,4,HTC,LG and All Smartphones-Black",
+            "normalizedName": "Waterproof Case,Waterproof Pouch,WOFALA Universal Dry Pouch Bag with Touch Responsive for iPhone 6S,6,6S Plus,Samsung Galaxy S7,S6 Edge,S6,S5,S4,Note5,4,HTC,LG and All Smartphones-Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4549999996184413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.949999994951
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

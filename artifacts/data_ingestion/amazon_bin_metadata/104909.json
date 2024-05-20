@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008LMB5": {
+            "asin": "B00008LMB5",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.8346456562
+            },
+            "name": "Original Sun Singles 1955-1958 [Vinyl]",
+            "normalizedName": "Original Sun Singles 1955-1958 [Vinyl]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.54
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.0472440822
+            }
+        },
+        "B00C7HM818": {
+            "asin": "B00C7HM818",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Infiniti Pro by Conair Instant Heat Ceramic Flocked Rollers with Cord Reel",
+            "normalizedName": "Infiniti Pro by Conair Instant Heat Ceramic Flocked Rollers with Cord Reel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.599999996142484
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

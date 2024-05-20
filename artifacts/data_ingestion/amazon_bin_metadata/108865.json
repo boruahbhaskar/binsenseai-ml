@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J0EKV3I": {
+            "asin": "B00J0EKV3I",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Domino Sugar Packets, 500 count, Restaurant Quality",
+            "normalizedName": "Domino Sugar Packets, 500 count, Restaurant Quality",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7499999968552853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B012W688KI": {
+            "asin": "B012W688KI",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "The Bridge Direct Shopkins Kinstructions Fashion Boutique",
+            "normalizedName": "The Bridge Direct Shopkins Kinstructions Fashion Boutique",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

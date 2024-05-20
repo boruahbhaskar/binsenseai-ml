@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0042F7V1U": {
+            "asin": "B0042F7V1U",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "GBC BadgeMates Breakaway Lanyard with Bulldog Clip, Black, 10 per Pack (3747551)",
+            "normalizedName": "10 per Pack GBC BadgeMates Breakaway Lanyard with Bulldog Clip, Black, (3747551)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00TID4RY0": {
+            "asin": "B00TID4RY0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Fisher-Price Thomas the Train TrackMaster Motorized Toby Engine",
+            "normalizedName": "Fisher-Price Thomas the Train TrackMaster Motorized Toby Engine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B018Z0TE3K": {
+            "asin": "B018Z0TE3K",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "GlowBowl GB001 Motion Activated Toilet Nightlight",
+            "normalizedName": "GlowBowl GB001 Motion Activated Toilet Nightlight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

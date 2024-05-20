@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012XIUP6": {
+            "asin": "B0012XIUP6",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "5 lb. Kettlebell",
+            "normalizedName": "5 lb. Kettlebell",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

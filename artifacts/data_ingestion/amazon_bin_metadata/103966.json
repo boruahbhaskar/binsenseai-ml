@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DROOO0I": {
+            "asin": "B00DROOO0I",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Vandor 39189 South Park 13.5\" Cordless Wood Wall Clock, Multicolor",
+            "normalizedName": "Vandor 39189 South Park 13.5\" Cordless Wood Wall Clock, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        },
+        "B00HN2BUOI": {
+            "asin": "B00HN2BUOI",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Angry Birds Space Giant Action Game",
+            "normalizedName": "Angry Birds Space Giant Action Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

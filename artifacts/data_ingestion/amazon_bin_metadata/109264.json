@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B06IC76": {
+            "asin": "B00B06IC76",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.960629906
+            },
+            "name": "Lego, Castle, Dragon Mountain (70403)",
+            "normalizedName": "Lego, Castle, Dragon Mountain (70403)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.63140408776954
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.236220462
+            }
+        },
+        "B00Y8CWEKK": {
+            "asin": "B00Y8CWEKK",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Power Rangers Dino Charge - Ptera Charge Megazord Action Figure",
+            "normalizedName": "Power Rangers Dino Charge - Ptera Charge Megazord Action Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

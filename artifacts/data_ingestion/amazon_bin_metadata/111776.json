@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "007184872X": {
+            "asin": "007184872X",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Case Files Obstetrics and Gynecology, Fifth Edition",
+            "normalizedName": "Case Files Obstetrics and Gynecology, Fifth Edition",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B005HRZPY2": {
+            "asin": "B005HRZPY2",
+            "height": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5275590454
+            },
+            "name": "Plantronics CS510 - Over-the-Head monaural Wireless Headset System \u2013 DECT 6.0",
+            "normalizedName": "Plantronics CS510 - Over-the-Head monaural Wireless Headset System \u2013 DECT 6.0",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2440944808
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <form action="/predict" method="post">
+    <div class="form-row-total">
+      <div class="form-row">
+        <label for="input_list">Input List for the Bin#:</label>
+        <input type="text" name="input_list" id="input_list" class="input-text" placeholder="input_list" required>
+      </div>
+    </div>
+    <div class="form-row-last">
+      <input type="submit" name="register" class="register" value="Predict">
+    </div>
+    <h1>V1.0.0</h1>
+  </form>
+
+  <!-- <script>
+    const textField = document.getElementById('input_list');
+    const text = textField.value;
+
+    fetch('predict_bin', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: text
+    })
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(error => console.error(error));
+  </script> -->
+
+
+</body>
+</html>

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003V5V5J6": {
+            "asin": "B003V5V5J6",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Annie's Homegrown Organic Bunny Fruit Snacks Variety Pack 0.8 Oz (24 ct)",
+            "normalizedName": "Annie's Homegrown Organic Bunny Fruit Snacks Variety Pack 0.8 Oz (24 ct)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B018WWO2SS": {
+            "asin": "B018WWO2SS",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Bento Lunch Boxes With 10 Bonus Sets Of Cutlery By Ready Foody\u2013 Includes 10 Meal Prep & Food Storage Containers With 3 Food Slots Each & 10 Extra Knives, Forks & Spoons \u2013 Dishwasher, Microwave Safe",
+            "normalizedName": "Bento Lunch Boxes With 10 Bonus Sets Of Cutlery By Ready Foody\u2013 Includes 10 Meal Prep & Food Storage Containers With 3 Food Slots Each & 10 Extra Knives, Forks & Spoons \u2013 Dishwasher, Microwave Safe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B01FWPZDWM": {
+            "asin": "B01FWPZDWM",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Dorco Pace 6 Plus - Six Blade Disposable Razors with Trimmer - Value Pack (9 Disposable Razors)",
+            "normalizedName": "Dorco Pace 6 Plus - Six Blade Disposable Razors with Trimmer - Value Pack (9 Disposable Razors)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

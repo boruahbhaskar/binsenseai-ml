@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005VPS2UE": {
+            "asin": "B005VPS2UE",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Dorman 923-206 Tail Lamp Circuit Board",
+            "normalizedName": "Dorman 923-206 Tail Lamp Circuit Board",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B007TMWRRG": {
+            "asin": "B007TMWRRG",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Melissa & Doug Grocery Basket",
+            "normalizedName": "Melissa & Doug Grocery Basket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

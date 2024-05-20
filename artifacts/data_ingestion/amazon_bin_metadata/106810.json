@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005T3GRNW": {
+            "asin": "B005T3GRNW",
+            "height": {
+                "unit": "IN",
+                "value": 3.3464566895
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Seagate 1TB Desktop HDD SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST1000DM003)",
+            "normalizedName": "Seagate 1TB Desktop HDD SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST1000DM003)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1464037624
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

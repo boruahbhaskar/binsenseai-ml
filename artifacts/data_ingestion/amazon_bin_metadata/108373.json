@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DHLLNCI": {
+            "asin": "B00DHLLNCI",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Tervis 1080690 NFL Denver Broncos Emblem Individual Tumbler with Navy lid, 24 oz, Citrine",
+            "normalizedName": "Tervis 1080690 NFL Denver Broncos Emblem Individual Tumbler with Navy lid, 24 oz, Citrine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00JQGVZ44": {
+            "asin": "B00JQGVZ44",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "method Smarty Dishwasher Detergent, Free of Dyes and Perfumes, 20 Count",
+            "normalizedName": "method Smarty Dishwasher Detergent, Free of Dyes and Perfumes, 20 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00OYQ5ET8": {
+            "asin": "B00OYQ5ET8",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Original Kinven\u00ae Mosquito Repellent Bracelet Natural DEET FREE Insect Repellent Bands, Mosquito Killer up to 360Hrs Protection Outdoor and Indoor, for Adults & Kids, 4 bracelets, Color: Brown",
+            "normalizedName": "Original Kinven\u00ae Mosquito Repellent Bracelet Natural DEET FREE Insect Repellent Bands, Mosquito Killer up to 360Hrs Protection Outdoor and Indoor, for Adults & Kids, 4 bracelets, Color: Brown",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00RMKVGBS": {
+            "asin": "B00RMKVGBS",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "CK-mall Three Groups Green Tree Leaf Pattern Desk Paper Note Pads , Sticky Note, Memo Pad ,Notepad\uff0c20 Pages",
+            "normalizedName": "CK-mall Three Groups Green Tree Leaf Pattern Desk Paper Note Pads , Sticky Note, Memo Pad ,Notepad\uff0c20 Pages",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

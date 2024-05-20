@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UUR7NZS": {
+            "asin": "B00UUR7NZS",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Wooden Spoon Utensil Set with Bonus Tongs - 6 Piece High Quality Bamboo Kitchen Cookware Spatulas \u2013 Environmental",
+            "normalizedName": "Wooden Spoon Utensil Set with Bonus Tongs - 6 Piece High Quality Bamboo Kitchen Cookware Spatulas \u2013 Environmental",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01ADY2YIS": {
+            "asin": "B01ADY2YIS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Bartelli Vacuum Food Sealer Valve System - For use with any bag or foods original packaging. Reusable bundle includes Pump, Seals, Valves, and Unnecessary Bags",
+            "normalizedName": "Bartelli Vacuum Food Sealer Valve System - For use with any bag or foods original packaging. Reusable bundle includes Pump, Seals, Valves, and Unnecessary Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01AG4F8ZQ": {
+            "asin": "B01AG4F8ZQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "name": "Nikon MB-D17 Multi Battery Power Pack",
+            "normalizedName": "Nikon MB-D17 Multi Battery Power Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345886672
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

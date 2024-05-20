@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KN959I": {
+            "asin": "B001KN959I",
+            "height": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Tetra 26332 Whisper EX Carbon Filter Cartridges, Large, 4-Pack",
+            "normalizedName": "4-Pack Tetra 26332 Whisper EX Carbon Filter Cartridges, Large,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280210165713
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B00IT6HKXM": {
+            "asin": "B00IT6HKXM",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Cute Hello Kitty Trophy Cups Birthday Party Favors, Multi",
+            "normalizedName": "Cute Hello Kitty Trophy Cups Birthday Party Favors, Multi",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01DVD8G2G": {
+            "asin": "B01DVD8G2G",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Portable Garment Steamer V2 by Deneve\u00ae, Steamer, Handheld Steamer, Fabric Steamer, Portable Steamer, Garment Steamer, Portable Garment Steamer, Household Steamer with Nearly 1,000 Watts of Power",
+            "normalizedName": "Portable Garment Steamer V2 by Deneve\u00ae, Steamer, Handheld Steamer, Fabric Steamer, Portable Steamer, Garment Steamer, Portable Garment Steamer, Household Steamer with Nearly 1,000 Watts of Power",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00488I8PE": {
+            "asin": "B00488I8PE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Fighting Sports Nylon Sauna Suit, Black, Large",
+            "normalizedName": "Fighting Sports Nylon Sauna Suit, Black, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B004YXWXYU": {
+            "asin": "B004YXWXYU",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Siemens 3ZS1 312-4CC10-0YA5 SIMOCODE ES 2007 Basic, Floating License For One User",
+            "normalizedName": "Siemens 3ZS1 312-4CC10-0YA5 SIMOCODE ES 2007 Basic, Floating License For One User",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00NIWR5KU": {
+            "asin": "B00NIWR5KU",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "YS Eco Bee Farms RAW HONEY - Raw, Unfiltered, Unpasteurized - Kosher (3 Lb (2 Pack))",
+            "normalizedName": "(2 Pack) YS Eco Bee Farms RAW HONEY - Raw, Unfiltered, Unpasteurized - Kosher (3 Lb )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.449999994591091
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B01488541O": {
+            "asin": "B01488541O",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Quicken WillMaker Plus 2016",
+            "normalizedName": "Quicken WillMaker Plus 2016",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

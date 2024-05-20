@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0181MMZUG": {
+            "asin": "B0181MMZUG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Air Travel Pillow: Relaxation Set - Best Memory Foam Pillows for Plane Travel with Free Sleep Mask & Custom Pillow Carry Bag",
+            "normalizedName": "Air Travel Pillow: Relaxation Set - Best Memory Foam Pillows for Plane Travel with Free Sleep Mask & Custom Pillow Carry Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B01AFLDIRK": {
+            "asin": "B01AFLDIRK",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Ohuhu Shiatsu Deep Kneading Massage Pillow with Heat",
+            "normalizedName": "Ohuhu Shiatsu Deep Kneading Massage Pillow with Heat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

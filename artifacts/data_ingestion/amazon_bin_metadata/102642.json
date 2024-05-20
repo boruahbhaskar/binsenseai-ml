@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006ZPU6GW": {
+            "asin": "B006ZPU6GW",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "18 Gauge Round Dead Soft 1/10 Sterling Silver Filled Wire - 5FT",
+            "normalizedName": "18 Gauge Round Dead Soft 1/10 Sterling Silver Filled Wire - 5FT",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00CDB8AXS": {
+            "asin": "B00CDB8AXS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "6-LED Cool White Submersible Fountain Ring",
+            "normalizedName": "6-LED Cool White Submersible Fountain Ring",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00FFJ5WAO": {
+            "asin": "B00FFJ5WAO",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Goody - Ouchless Cushion Brush, Gel Handle, Comfort Flex",
+            "normalizedName": "Goody - Ouchless Cushion Brush, Gel Handle, Comfort Flex",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B01C7QC5J8": {
+            "asin": "B01C7QC5J8",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Sea Turtle Salt and Pepper Shaker Set",
+            "normalizedName": "Sea Turtle Salt and Pepper Shaker Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1421584492": {
+            "asin": "1421584492",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "My Love Story!!, Vol. 8",
+            "normalizedName": "My Love Story!!, Vol. 8",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B007TNSM0G": {
+            "asin": "B007TNSM0G",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Ovation Child Heart & Horse Gloves,Black/grey,size B 12-14",
+            "normalizedName": "Ovation Child Heart & Horse Gloves,Black/grey,size B 12-14",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

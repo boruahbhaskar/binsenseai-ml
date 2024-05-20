@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HT6GFX4": {
+            "asin": "B00HT6GFX4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "OtterBox Defender Series Case for iPhone 5/5s/SE - Black - Frustration Free Packaging",
+            "normalizedName": "OtterBox Defender Series Case for iPhone 5/5s/SE - Black - Frustration Free Packaging",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B015QWHXWE": {
+            "asin": "B015QWHXWE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "UP2 by Jawbone Activity + Sleep Tracker, Light Grey Hex (Silver), Classic Flat Strap",
+            "normalizedName": "UP2 by Jawbone Activity + Sleep Tracker, Light Grey Hex (Silver), Classic Flat Strap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B018E3UZRW": {
+            "asin": "B018E3UZRW",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Outdoor Laser Landscape Projector Light Red and Green Waterproof Landscape Spotlights Holiday Light For Christmas Decoration and Outdoor Decorating (Without Remote Control)",
+            "normalizedName": "Outdoor Laser Landscape Projector Light Red and Green Waterproof Landscape Spotlights Holiday Light For Christmas Decoration and Outdoor Decorating (Without Remote Control)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

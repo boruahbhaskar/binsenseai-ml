@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004PUJTXK": {
+            "asin": "B004PUJTXK",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Kohler K-37054-BN Alteo Pivoting Toilet Tissue Holder, Vibrant Brushed Nickel",
+            "normalizedName": "Kohler K-37054-BN Alteo Pivoting Toilet Tissue Holder, Vibrant Brushed Nickel",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00CQ857YS": {
+            "asin": "B00CQ857YS",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Nugenix Natural Testosterone Booster Capsules, 90 Count",
+            "normalizedName": "Nugenix Natural Testosterone Booster Capsules, 90 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00EB3OCW4": {
+            "asin": "B00EB3OCW4",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.8346456562
+            },
+            "name": "The Orb Factory Sticky Mosaics Jungle Adventure",
+            "normalizedName": "The Orb Factory Sticky Mosaics Jungle Adventure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.970024052187294
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.7086614064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

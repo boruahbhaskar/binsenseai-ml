@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1118875869": {
+            "asin": "1118875869",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Matter and Interactions",
+            "normalizedName": "Matter and Interactions",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B0036WEBLI": {
+            "asin": "B0036WEBLI",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Transfer Stencil Paper 15 Sheets",
+            "normalizedName": "Transfer Stencil Paper 15 Sheets",
+            "quantity": 46,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 47
+}

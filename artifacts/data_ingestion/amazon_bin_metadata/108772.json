@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HS2LMD2": {
+            "asin": "B00HS2LMD2",
+            "height": {
+                "unit": "IN",
+                "value": 2.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.6
+            },
+            "name": "Labrada Nutrition Jamie Eason Lean Body for Her Advanced Anti Bloat and Detox Formula Capsule, 90 Count",
+            "normalizedName": "Labrada Nutrition Jamie Eason Lean Body for Her Advanced Anti Bloat and Detox Formula Capsule, 90 Count",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5
+            }
+        },
+        "B00JMXDT7W": {
+            "asin": "B00JMXDT7W",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Premium Samsung Galaxy S5 S 5 Leather Case Belt Clip Pouch Cover Holster (Fits Samsung Galaxy S 5 V with otterbox case / Lifeproof case on / Hybrid Case on)",
+            "normalizedName": "Premium Samsung Galaxy S5 S 5 Leather Case Belt Clip Pouch Cover Holster (Fits Samsung Galaxy S 5 V with otterbox case / Lifeproof case on / Hybrid Case on)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

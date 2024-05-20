@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GDJGJQ": {
+            "asin": "B001GDJGJQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Hopkins INTORG-BLA Go Gear Black Console Organizer",
+            "normalizedName": "Hopkins INTORG-BLA Go Gear Black Console Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        },
+        "B001T4UMM2": {
+            "asin": "B001T4UMM2",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Checkups- Dental Dog Treats, 24ct 48 oz. for dogs 20+ pounds",
+            "normalizedName": "Checkups- Dental Dog Treats, 24ct 48 oz. for dogs 20+ pounds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00R8FSIR2": {
+            "asin": "B00R8FSIR2",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Francois et Mimi Large Ceramic Coffee Mugs, 16-Ounce, White Polka Dots, Set of 6",
+            "normalizedName": "Set of 6 Francois et Mimi Large Ceramic Coffee Mugs, 16-Ounce, White Polka Dots,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.649999994423372
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

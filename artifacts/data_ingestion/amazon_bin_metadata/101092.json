@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00017IJO6": {
+            "asin": "B00017IJO6",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Fellowes Powershred Shredder Bags for All Personal Models, 100 Bags & Ties (36052)",
+            "normalizedName": "Fellowes Powershred Shredder Bags for All Personal Models, 100 Bags & Ties (36052)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B002O06N8C": {
+            "asin": "B002O06N8C",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Forney 54300 Welding Ground Clamp, 200-Amp, Brass",
+            "normalizedName": "Forney 54300 Welding Ground Clamp, 200-Amp, Brass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B006OZRLQ6": {
+            "asin": "B006OZRLQ6",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Aqua Sphere Stationary Swimmer Ankle Straps",
+            "normalizedName": "Aqua Sphere Stationary Swimmer Ankle Straps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00N20LPA4": {
+            "asin": "B00N20LPA4",
+            "height": {
+                "unit": "IN",
+                "value": 4.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "BDC Toy Assortment Stocking Stuffers, 100 Pieces",
+            "normalizedName": "BDC Toy Assortment Stocking Stuffers, 100 Pieces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.10231131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

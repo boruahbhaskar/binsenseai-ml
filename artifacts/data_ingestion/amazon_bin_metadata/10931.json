@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KN2AP6Y": {
+            "asin": "B00KN2AP6Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "1 X Glass Hydrometer Test Jar",
+            "normalizedName": "1 X Glass Hydrometer Test Jar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01EJUP0LA": {
+            "asin": "B01EJUP0LA",
+            "height": {
+                "unit": "IN",
+                "value": 3.0499999968889995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.149999986586998
+            },
+            "name": "Professional Electric Straightener Brush By Magnifeko- Ceramic Hair straightening Comb With Bonus Detangler Brush & Traveling Bag -LCD Display- For Silky Hair",
+            "normalizedName": "Professional Electric Straightener Brush By Magnifeko- Ceramic Hair straightening Comb With Bonus Detangler Brush & Traveling Bag -LCD Display- For Silky Hair",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.909999998398292
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

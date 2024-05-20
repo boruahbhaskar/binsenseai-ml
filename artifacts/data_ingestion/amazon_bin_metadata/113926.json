@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007IS3EMI": {
+            "asin": "B007IS3EMI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Marware AHHB1P C.E.O. Hybrid for the\u00a0 iPad (4th Generation), iPad 3 &amp; iPad 2, Carbon Fiber",
+            "normalizedName": "Marware AHHB1P C.E.O. Hybrid for the\u00a0 iPad (4th Generation), iPad 3 &amp; iPad 2, Carbon Fiber",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

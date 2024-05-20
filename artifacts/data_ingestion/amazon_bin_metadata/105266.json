@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00452V1WA": {
+            "asin": "B00452V1WA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "GiiNii GN-705W 7-Inch Artforme Digital Picture Frame with Real Wood Frame (Brown)",
+            "normalizedName": "GiiNii GN-705W 7-Inch Artforme Digital Picture Frame with Real Wood Frame (Brown)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

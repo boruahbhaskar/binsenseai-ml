@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000LXCGT4": {
+            "asin": "B000LXCGT4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "PC24 Patio Protective Cover",
+            "normalizedName": "PC24 Patio Protective Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B00H33SFJU": {
+            "asin": "B00H33SFJU",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "EVGA 500 W1 80+, 500W Continuous Power, 3 Year Warranty Power Supply 100-W1-0500-KR",
+            "normalizedName": "EVGA 500 W1 80+, 500W Continuous Power, 3 Year Warranty Power Supply 100-W1-0500-KR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B019XCLINI": {
+            "asin": "B019XCLINI",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "4 Pc Bundle Includes: Espresso and Coffee Candy, Black Handpainted Coffee/tea Mug, Black Gift Box",
+            "normalizedName": "4 Pc Bundle Includes: Espresso and Coffee Candy, Black Handpainted Coffee/tea Mug, Black Gift Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1999999973165107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

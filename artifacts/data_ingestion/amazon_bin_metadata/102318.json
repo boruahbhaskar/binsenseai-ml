@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GWKK02": {
+            "asin": "B000GWKK02",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Bulbrite 60G25HM Half Chrome 60W Globe Shape Bulb, Pack of 1",
+            "normalizedName": "Pack of 1 Bulbrite 60G25HM Half Chrome 60W Globe Shape Bulb,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00K7AJGQM": {
+            "asin": "B00K7AJGQM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Tough 1 Insulated Horn Bag in Prints, Timber",
+            "normalizedName": "Tough 1 Insulated Horn Bag in Prints, Timber",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.899999994213725
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00KLL8INE": {
+            "asin": "B00KLL8INE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Polar Loop Activity Tracker",
+            "normalizedName": "Polar Loop Activity Tracker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

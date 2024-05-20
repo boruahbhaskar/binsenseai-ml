@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013LR7LK": {
+            "asin": "B0013LR7LK",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Zantac 150 Maximum Strength Tablets, 50 Count",
+            "normalizedName": "Zantac 150 Maximum Strength Tablets, 50 Count",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B007TG5EG8": {
+            "asin": "B007TG5EG8",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Antec Bias Lighting for HDTV with 51.1-Inch Cable (Reduce eye fatigue and increase image clarity)",
+            "normalizedName": "Antec Bias Lighting for HDTV with 51.1-Inch Cable (Reduce eye fatigue and increase image clarity)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00FZQGC1U": {
+            "asin": "B00FZQGC1U",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Ortho Molecular - Ortho Digestzyme - 90 Capsules",
+            "normalizedName": "Ortho Molecular - Ortho Digestzyme - 90 Capsules",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

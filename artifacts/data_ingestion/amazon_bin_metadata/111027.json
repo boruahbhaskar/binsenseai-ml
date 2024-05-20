@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00567FWAA": {
+            "asin": "B00567FWAA",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Roma Costume Women's Faux Fur Leg Warmer, White, One Size",
+            "normalizedName": "Roma Costume Women's Faux Fur Leg Warmer, White, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00GUBORW0": {
+            "asin": "B00GUBORW0",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1574803046
+            },
+            "name": "Caspari Square Dinner Plates, Bretagne Blue",
+            "normalizedName": "Caspari Square Dinner Plates, Bretagne Blue",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0787401472
+            }
+        },
+        "B01AQMB352": {
+            "asin": "B01AQMB352",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "HTC 10 Case, OEAGO HTC 10 Hard Case Hybrid Dual Layer Defender Protective Case Cover for HTC 10 / HTC One M10 (2016 Release) - White",
+            "normalizedName": "HTC 10 Case, OEAGO HTC 10 Hard Case Hybrid Dual Layer Defender Protective Case Cover for HTC 10 / HTC One M10 (2016 Release) - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

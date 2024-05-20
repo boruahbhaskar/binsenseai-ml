@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006DR2BQU": {
+            "asin": "B006DR2BQU",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Schick Hydro Silk Shower Ready Moisturizing Razor Blade Refills for Women - 4 Count (Packaging May Vary)",
+            "normalizedName": "Schick Hydro Silk Shower Ready Moisturizing Razor Blade Refills for Women - 4 Count (Packaging May Vary)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B0095ZBUGY": {
+            "asin": "B0095ZBUGY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Brother Printer LC103BK High Yield Ink Cartridge, Black",
+            "normalizedName": "Brother Printer LC103BK High Yield Ink Cartridge, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01AOAW5I0": {
+            "asin": "B01AOAW5I0",
+            "height": {
+                "unit": "IN",
+                "value": 0.1181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.9527559025
+            },
+            "name": "BUDWEISER PKW Auto NASCAR Dodge USA V8 Racing Team Formula 1 F1 Racing Race jacket t shirt Polo Patch Sew Iron on Embroidered",
+            "normalizedName": "BUDWEISER PKW Auto NASCAR Dodge USA V8 Racing Team Formula 1 F1 Racing Race jacket t shirt Polo Patch Sew Iron on Embroidered",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.574803148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

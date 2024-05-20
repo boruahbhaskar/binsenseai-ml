@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0051B4MDO": {
+            "asin": "B0051B4MDO",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "1 X 6\" X 12\" Cylinder Vase for Use with Flower or Candle Wedding Centerpieces",
+            "normalizedName": "1 X 6\" X 12\" Cylinder Vase for Use with Flower or Candle Wedding Centerpieces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00QMDVSIW": {
+            "asin": "B00QMDVSIW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.322834628
+            },
+            "name": "DC Fix 346-0647 Spring Chapel Window Film",
+            "normalizedName": "DC Fix 346-0647 Spring Chapel Window Film",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.181102361
+            }
+        },
+        "B01CUSC0S4": {
+            "asin": "B01CUSC0S4",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Stainless Steel Water Bottle - Insulated - Gorgeous Gift Box Included - Hot 24 hours - Cold 12 hours - 17 oz",
+            "normalizedName": "Stainless Steel Water Bottle - Insulated - Gorgeous Gift Box Included - Hot 24 hours - Cold 12 hours - 17 oz",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 21
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001334UNQ": {
+            "asin": "B001334UNQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Fat Daddio's Anodized Aluminum Round Cake Pan, 6-Inch x 2-Inch",
+            "normalizedName": "Fat Daddio's Anodized Aluminum Round Cake Pan, 6-Inch x 2-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00WFDWAEY": {
+            "asin": "B00WFDWAEY",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Nutricost Pure Ascorbic Acid Powder (Vitamin C) 1LB",
+            "normalizedName": "Nutricost Pure Ascorbic Acid Powder (Vitamin C) 1LB",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

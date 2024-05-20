@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006HWRK8": {
+            "asin": "B0006HWRK8",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "TOPS The Legal Pad Legal Pad, 8-1/2 x 11-3/4 Inches, Perforated, Canary, Legal/Wide Rule, 50 Sheets per Pad, 12 Pads per Pack (7532)",
+            "normalizedName": "TOPS The Legal Pad Legal Pad, 8-1/2 x 11-3/4 Inches, Perforated, Canary, Legal/Wide Rule, 50 Sheets per Pad, 12 Pads per Pack (7532)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B009A3AAH6": {
+            "asin": "B009A3AAH6",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0708661284
+            },
+            "name": "Romantic Bridge Jigsaw Puzzle, 500-Piece",
+            "normalizedName": "Romantic Bridge Jigsaw Puzzle, 500-Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.1338582584
+            }
+        },
+        "B009XDWUCQ": {
+            "asin": "B009XDWUCQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Creative Sound Blaster Zx PCIe Gaming Sound Card with High Performance Headphone Amp and Desktop Audio Control Module",
+            "normalizedName": "Creative Sound Blaster Zx PCIe Gaming Sound Card with High Performance Headphone Amp and Desktop Audio Control Module",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006WAGGUK": {
+            "asin": "B006WAGGUK",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Ballistix Sport 8GB Kit (4GBx2) DDR3 1600 MT/s (PC3-12800) CL9 @1.5V UDIMM 240-Pin Memory BLS2KIT4G3D1609DS1S00",
+            "normalizedName": "Ballistix Sport 8GB Kit (4GBx2) DDR3 1600 MT/s (PC3-12800) CL9 @1.5V UDIMM 240-Pin Memory BLS2KIT4G3D1609DS1S00",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B0145GMT0S": {
+            "asin": "B0145GMT0S",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Disney Planes Racing Dusty Crophopper Collectible Diecast",
+            "normalizedName": "Disney Planes Racing Dusty Crophopper Collectible Diecast",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

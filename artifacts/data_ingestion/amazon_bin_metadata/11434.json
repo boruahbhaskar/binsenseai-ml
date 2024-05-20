@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "157731400X": {
+            "asin": "157731400X",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Stillness Speaks",
+            "normalizedName": "Stillness Speaks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "1619020041": {
+            "asin": "1619020041",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "An Absorbing Errand: How Artists and Craftsmen Make Their Way to Mastery",
+            "normalizedName": "An Absorbing Errand: How Artists and Craftsmen Make Their Way to Mastery",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00WJ6K9M2": {
+            "asin": "B00WJ6K9M2",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Uberpakk 30 L Foldable Backpack Bundle with Travel Microfiber Towel",
+            "normalizedName": "Uberpakk 30 L Foldable Backpack Bundle with Travel Microfiber Towel",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

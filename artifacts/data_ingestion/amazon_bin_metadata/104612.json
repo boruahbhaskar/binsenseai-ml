@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321909100": {
+            "asin": "0321909100",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Conceptual Physics (12th Edition)",
+            "normalizedName": "Conceptual Physics (12th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "0761908943": {
+            "asin": "0761908943",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Evaluation: A Systematic Approach, 7th Edition",
+            "normalizedName": "Evaluation: A Systematic Approach, 7th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        },
+        "1305084764": {
+            "asin": "1305084764",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Engineering Fundamentals: An Introduction to Engineering (Activate Learning with these NEW titles from Engineering!)",
+            "normalizedName": "Engineering Fundamentals: An Introduction to Engineering (Activate Learning with these NEW titles from Engineering!)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B019U00D7K": {
+            "asin": "B019U00D7K",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Cowin E-7 Active Noise Cancelling Bluetooth Headphones Wireless with Mic Stereo Headset, Volume Control, 30 Hours Playtime - Black",
+            "normalizedName": "Cowin E-7 Active Noise Cancelling Bluetooth Headphones Wireless with Mic Stereo Headset, Volume Control, 30 Hours Playtime - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

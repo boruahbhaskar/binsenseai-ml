@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001RO8MNK": {
+            "asin": "B001RO8MNK",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "evian Facial Spray Mineral Water Facial Spray, 10 Ounce",
+            "normalizedName": "evian Facial Spray Mineral Water Facial Spray, 10 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00ZZN57D2": {
+            "asin": "B00ZZN57D2",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "D&P iPhone 6 plus / iphone 6s plus 5.5 inch privacy Anti-spy Ballistic tempered Glass Screen Protector, High transparency and anti peep technology toughened glass screen protector [1+1 pack] 1 pack privacy glass for front side + 1 pack frosted for back side (D&P series protect your phone on both side) for Apple iPhone 6 plus / iphone 6s plus 5.5 inch [Lifetime Warranty support by DP Tech USA], anti peep / anti oil / anti-scratch / easy-installation / D&P Privacy glass keep your cell phone information privacy",
+            "normalizedName": "D&P iPhone 6 plus / iphone 6s plus 5.5 inch privacy Anti-spy Ballistic tempered Glass Screen Protector, High transparency and anti peep technology toughened glass screen protector [1+1 pack] 1 pack privacy glass for front side + 1 pack frosted for back side (D&P series protect your phone on both side) for Apple iPhone 6 plus / iphone 6s plus 5.5 inch [Lifetime Warranty support by DP Tech USA], anti peep / anti oil / anti-scratch / easy-installation / D&P Privacy glass keep your cell phone information privacy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B010NE3HUM": {
+            "asin": "B010NE3HUM",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "D&P Samsung S6 edge full screen tempered glass Protection cover 100% of your S6 edge screen, Premium full coverage tempered glass screen protector with original frame color, edge to edge cover + One Free full coverage film for backside of S6 Edge (D&P series protect your phone on both side)[Protection from cutting / keys / bumper / dropping / Bubble-free, Easy-clean technology, olephobic coating on surface, super easy Installation][Lifetime Warranty support by DP Tech USA] [Black frame, 1+1 pack ]",
+            "normalizedName": "D&P Samsung S6 edge full screen tempered glass Protection cover 100% of your S6 edge screen, Premium full coverage tempered glass screen protector with original frame color, edge to edge cover + One Free full coverage film for backside of S6 Edge (D&P series protect your phone on both side)[Protection from cutting / keys / bumper / dropping / Bubble-free, Easy-clean technology, olephobic coating on surface, super easy Installation][Lifetime Warranty support by DP Tech USA] [Black frame, 1+1 pack ]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01B7P0MRM": {
+            "asin": "B01B7P0MRM",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Finding Dory Swigglefish Bailey Figure",
+            "normalizedName": "Finding Dory Swigglefish Bailey Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

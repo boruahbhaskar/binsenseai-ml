@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00400R22A": {
+            "asin": "B00400R22A",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Hjc Helmets Hj-17 Base Plate Kit 954-100",
+            "normalizedName": "Hjc Helmets Hj-17 Base Plate Kit 954-100",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00LLHNNSM": {
+            "asin": "B00LLHNNSM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Smoke Odor Exterminator 13oz Jar Candle, Enchanted Sea",
+            "normalizedName": "Smoke Odor Exterminator 13oz Jar Candle, Enchanted Sea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

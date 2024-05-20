@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002DUD6TW": {
+            "asin": "B002DUD6TW",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "CytoSport Muscle Milk Light, Cookies and Creme, 1.65 Pound",
+            "normalizedName": "CytoSport Muscle Milk Light, Cookies and Creme, 1.65 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00Q25KMB4": {
+            "asin": "B00Q25KMB4",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Contemporary Art Seascape Framed Canvas Print for Home Decorations Wall Decor  Giclee Artwork Sea Beach Paintings for Living Room Dining Room Bathroom Office",
+            "normalizedName": "Contemporary Art Seascape Framed Canvas Print for Home Decorations Wall Decor  Giclee Artwork Sea Beach Paintings for Living Room Dining Room Bathroom Office",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001FY0D8O": {
+            "asin": "B001FY0D8O",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Earth & Vine Pineapple Sake Teriyaki Marinade",
+            "normalizedName": "Earth & Vine Pineapple Sake Teriyaki Marinade",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.62
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00ATBRJRC": {
+            "asin": "B00ATBRJRC",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Stabilo 8830-1 88 Point 30 Color Wallet",
+            "normalizedName": "Stabilo 8830-1 88 Point 30 Color Wallet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.48501202568692053
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

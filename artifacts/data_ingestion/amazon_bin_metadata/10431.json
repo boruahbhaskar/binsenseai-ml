@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FI6T7NM": {
+            "asin": "B00FI6T7NM",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "String-A-Long 100-Light Green Wire Clear String Light Set-GE-60216HD",
+            "normalizedName": "String-A-Long 100-Light Green Wire Clear String Light Set-GE-60216HD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01ATYIK7G": {
+            "asin": "B01ATYIK7G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Vergiano Super Bright Flexible Dual Head Clip on LED Reading Light - Clamp Lamp Sensitive Eye Care - Rechargeable USB Desk or Table Lamp - Music Stand Light (BLACK)",
+            "normalizedName": "Vergiano Super Bright Flexible Dual Head Clip on LED Reading Light - Clamp Lamp Sensitive Eye Care - Rechargeable USB Desk or Table Lamp - Music Stand Light (BLACK)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

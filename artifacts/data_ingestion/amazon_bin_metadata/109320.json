@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006IX878": {
+            "asin": "B0006IX878",
+            "height": {
+                "unit": "IN",
+                "value": 0.09842519675
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.79921258945
+            },
+            "name": "Camco 22703 Flexible Hose Protector - Lead Free",
+            "normalizedName": "Camco 22703 Flexible Hose Protector - Lead Free",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.500008410216
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00S5M1CIO": {
+            "asin": "B00S5M1CIO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "UDTEE 1PCS Durable/High-quality/Practical Large Non-woven Fabric Boots Storage/Protector/Bag with Double Compartment,Black",
+            "normalizedName": "UDTEE 1PCS Durable/High-quality/Practical Large Non-woven Fabric Boots Storage/Protector/Bag with Double Compartment,Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00VPVNHJY": {
+            "asin": "B00VPVNHJY",
+            "height": {
+                "unit": "IN",
+                "value": 2.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1
+            },
+            "name": "Nine West Jaya Cross Body Bag, Black, One Size",
+            "normalizedName": "Nine West Jaya Cross Body Bag, Black, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

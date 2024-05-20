@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R0T04ZK": {
+            "asin": "B00R0T04ZK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "MLB Pittsburgh Pirates Youth Big Logo Pullover Hood, Black, Large",
+            "normalizedName": "MLB Pittsburgh Pirates Youth Big Logo Pullover Hood, Black, Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B018KAMSQ0": {
+            "asin": "B018KAMSQ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.9842519675
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.779527545
+            },
+            "name": "The Ghosts of Highway 20",
+            "normalizedName": "The Ghosts of Highway 20",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.395084179808443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.992125971
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

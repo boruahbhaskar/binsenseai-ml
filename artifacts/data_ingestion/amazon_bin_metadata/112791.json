@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002UCPBVY": {
+            "asin": "B002UCPBVY",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Tombow Mono Permanent Adhesive Refills, 3 Pack (62207)",
+            "normalizedName": "3 Pack Tombow Mono Permanent Adhesive Refills, (62207)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00FH497AI": {
+            "asin": "B00FH497AI",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Monster High Freaky Fab Beauty Set Lips Nails And Eyes",
+            "normalizedName": "Monster High Freaky Fab Beauty Set Lips Nails And Eyes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

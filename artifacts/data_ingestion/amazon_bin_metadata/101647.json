@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MFZ1DT0": {
+            "asin": "B00MFZ1DT0",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Kegco KC LH-54S-2 Pro Series Two Product Secondary Regulator, Chrome",
+            "normalizedName": "Kegco KC LH-54S-2 Pro Series Two Product Secondary Regulator, Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.29999999555547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B0175TCKYM": {
+            "asin": "B0175TCKYM",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Topcarlight 12 \u2013 Inch 72W Cree Led Light Bar, 24 Piece",
+            "normalizedName": "Topcarlight 12 \u2013 Inch 72W Cree Led Light Bar, 24 Piece",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

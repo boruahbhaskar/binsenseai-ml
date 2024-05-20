@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0553385097": {
+            "asin": "0553385097",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "The New Mediterranean Diet Cookbook: A Delicious Alternative for Lifelong Health",
+            "normalizedName": "The New Mediterranean Diet Cookbook: A Delicious Alternative for Lifelong Health",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B007V60A38": {
+            "asin": "B007V60A38",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "GMT: Reds, the Russian Civil War 1918-1921, Board Game, 2nd Edition",
+            "normalizedName": "GMT: Reds, the Russian Civil War 1918-1921, Board Game, 2nd Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B010LRJC3M": {
+            "asin": "B010LRJC3M",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Balichun Luxury Polar Fleece Blanket Super Soft Warm Fuzzy Lightweight Bed Blankets Couch Throw Twin/Queen/King Size(King,Ivory)",
+            "normalizedName": "Balichun Luxury Polar Fleece Blanket Super Soft Warm Fuzzy Lightweight Bed Blankets Couch Throw Twin/Queen/King Size(King,Ivory)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

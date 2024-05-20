@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RAG7Z9Q": {
+            "asin": "B00RAG7Z9Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Fisher-Price Thomas the Train Take-n-Play Diesel 10 Vehicle",
+            "normalizedName": "Fisher-Price Thomas the Train Take-n-Play Diesel 10 Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

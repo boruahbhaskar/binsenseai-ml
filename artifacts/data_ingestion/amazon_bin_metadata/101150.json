@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0071833102": {
+            "asin": "0071833102",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7086614064
+            },
+            "name": "LANGE Q&A Radiography Examination, Tenth Edition (Lange Q&A Allied Health)",
+            "normalizedName": "LANGE Q&A Radiography Examination, Tenth Edition (Lange Q&A Allied Health)",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0282321074180314
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.4251968418
+            }
+        },
+        "B000J0C9VE": {
+            "asin": "B000J0C9VE",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Prang Classic Tempera Cakes, 9 Color Set with Brush, Assorted Colors (80900)",
+            "normalizedName": "Prang Classic Tempera Cakes, 9 Color Set with Brush, Assorted Colors (80900)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

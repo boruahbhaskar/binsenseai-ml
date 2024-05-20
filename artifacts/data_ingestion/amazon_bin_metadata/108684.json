@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008F4NBB8": {
+            "asin": "B008F4NBB8",
+            "height": {
+                "unit": "IN",
+                "value": 3.4645669256
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Zing Anything Aqua Zinger - Blue",
+            "normalizedName": "Zing Anything Aqua Zinger - Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.146392061675893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6220472404
+            }
+        },
+        "B00IJZPZLC": {
+            "asin": "B00IJZPZLC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Marvel Guardians of The Galaxy Rocket Raccoon Figure, 6-Inch",
+            "normalizedName": "Marvel Guardians of The Galaxy Rocket Raccoon Figure, 6-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00T28FWVS": {
+            "asin": "B00T28FWVS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Stunning Flameless LED Tea Light Candles - Realistic Battery-Powered Flameless Candles - Beautiful and Elegant Unscented LED Candles - The Perfect Decoration - (24 Pack) - Fake Candles / Tealights - Divine LEDs",
+            "normalizedName": "(24 Pack) Stunning Flameless LED Tea Light Candles - Realistic Battery-Powered Flameless Candles - Beautiful and Elegant Unscented LED Candles - The Perfect Decoration - - Fake Candles / Tealights - Divine LEDs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

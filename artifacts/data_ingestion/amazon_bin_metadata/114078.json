@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GTQU5E": {
+            "asin": "B000GTQU5E",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Kidde AccessPoint 001795 Combination TouchPoint Entry Key Locker, Clay, 30 Key",
+            "normalizedName": "Kidde AccessPoint 001795 Combination TouchPoint Entry Key Locker, Clay, 30 Key",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B0163J8HJC": {
+            "asin": "B0163J8HJC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Homemade Natural Dog Treats Oven-Baked Cranberry Cookies for Standard and Large Breed Dogs By Kim's Barkery (1 14oz Box)",
+            "normalizedName": "Homemade Natural Dog Treats Oven-Baked Cranberry Cookies for Standard and Large Breed Dogs By Kim's Barkery (1 14oz Box)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

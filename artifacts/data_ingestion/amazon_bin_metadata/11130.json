@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133352013": {
+            "asin": "0133352013",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Evaluating Research in Communication Disorders (7th Edition) (Pearson Communication Sciences and Disorders)",
+            "normalizedName": "Evaluating Research in Communication Disorders (7th Edition) (Pearson Communication Sciences and Disorders)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00PG91SSI": {
+            "asin": "B00PG91SSI",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Home Pro Odor Eliminating Dog Pads, 50 Count",
+            "normalizedName": "Home Pro Odor Eliminating Dog Pads, 50 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B01A7PVTGG": {
+            "asin": "B01A7PVTGG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Silicon Devices Wireless Bluetooth Sports Headphones, Red",
+            "normalizedName": "Silicon Devices Wireless Bluetooth Sports Headphones, Red",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

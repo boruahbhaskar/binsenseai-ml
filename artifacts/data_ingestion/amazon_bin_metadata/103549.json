@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I3L4LF8": {
+            "asin": "B00I3L4LF8",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Ivation Automatic Single Watch Winder | Built In IC Timer & LED Alarm Clock",
+            "normalizedName": "Ivation Automatic Single Watch Winder | Built In IC Timer & LED Alarm Clock",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00PF8ACFU": {
+            "asin": "B00PF8ACFU",
+            "height": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "Philips AVENT Classic Plus Newborn Starter Set",
+            "normalizedName": "Philips AVENT Classic Plus Newborn Starter Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520723904125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.4015747956
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

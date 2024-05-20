@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VTTZVEQ": {
+            "asin": "B00VTTZVEQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Phitz Bass Guitar Case, Mocha - PH42324SFB",
+            "normalizedName": "Phitz Bass Guitar Case, Mocha - PH42324SFB",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        },
+        "B01CHZXXR2": {
+            "asin": "B01CHZXXR2",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "iSuperb\u00ae Hanging Toiletry Bag Roomy Waterproof Organizer Travel Bag Toiletbag Wash Bag Cosmetic Bag Makeup Handbag for Travelling Men Women (Green)",
+            "normalizedName": "iSuperb\u00ae Hanging Toiletry Bag Roomy Waterproof Organizer Travel Bag Toiletbag Wash Bag Cosmetic Bag Makeup Handbag for Travelling Men Women (Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

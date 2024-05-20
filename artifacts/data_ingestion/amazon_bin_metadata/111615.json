@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "007145151X": {
+            "asin": "007145151X",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1338582584
+            },
+            "name": "Speak Like a CEO: Secrets for Commanding Attention and Getting Results",
+            "normalizedName": "Speak Like a CEO: Secrets for Commanding Attention and Getting Results",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B00JMERECW": {
+            "asin": "B00JMERECW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Citrus II Cpap Mask Wipes Qty: 62 Wipes - Pack of 3",
+            "normalizedName": "Pack of 3 Citrus II Cpap Mask Wipes Qty: 62 Wipes -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00NCA87FA": {
+            "asin": "B00NCA87FA",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Skylanders Trap Team: Trap Master Knight Light Character Pack",
+            "normalizedName": "Skylanders Trap Team: Trap Master Knight Light Character Pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BITSHS4": {
+            "asin": "B00BITSHS4",
+            "height": {
+                "unit": "IN",
+                "value": 5.99
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.75
+            },
+            "name": "StealStreet SS-G-54259 Tan Lion Walking on Branch Figurine, 11.75\"",
+            "normalizedName": "StealStreet SS-G-54259 Tan Lion Walking on Branch Figurine, 11.75\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99
+            }
+        },
+        "B01AQSOYIY": {
+            "asin": "B01AQSOYIY",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Learning Resources Counterpillar",
+            "normalizedName": "Learning Resources Counterpillar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

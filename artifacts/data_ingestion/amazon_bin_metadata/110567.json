@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I1JWWXU": {
+            "asin": "B00I1JWWXU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Legacy of Clean Prewash Liquid 16.9 fl.oz. New Formula",
+            "normalizedName": "Legacy of Clean Prewash Liquid 16.9 fl.oz. New Formula",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00X6E65D8": {
+            "asin": "B00X6E65D8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "12 Pack - Tall Square Shape Clear Glass Empty Reffilable Bottle with Black Cap 1/4 oz- Bulk",
+            "normalizedName": "12 Pack  - Tall Square Shape Clear Glass Empty Reffilable Bottle with Black Cap 1/4 oz- Bulk",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

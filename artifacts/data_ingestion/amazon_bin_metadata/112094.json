@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0155A9YRO": {
+            "asin": "B0155A9YRO",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6062992028
+            },
+            "name": "Mega Bloks Halo Covenant Storm Lance",
+            "normalizedName": "Mega Bloks Halo Covenant Storm Lance",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B01D8EMXIQ": {
+            "asin": "B01D8EMXIQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Habor Digital Kitchen Timer Electric Fitness Timers LCD Display Digital Clock Second Timer",
+            "normalizedName": "Habor Digital Kitchen Timer Electric Fitness Timers LCD Display Digital Clock Second Timer",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

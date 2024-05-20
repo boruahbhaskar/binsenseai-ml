@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DGA7Y2S": {
+            "asin": "B00DGA7Y2S",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Barsony Gun Concealment Inside The Waistband Holster for Kel-Tec .32 P3AT .380 right",
+            "normalizedName": "Barsony Gun Concealment Inside The Waistband Holster for Kel-Tec .32 P3AT .380 right",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01868XG30": {
+            "asin": "B01868XG30",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Kair Air Cushioned Bath Visor with Adjustable Strap, Yellow",
+            "normalizedName": "Kair Air Cushioned Bath Visor with Adjustable Strap, Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B019C0QJBM": {
+            "asin": "B019C0QJBM",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "name": "Fuzzy Puppy Pet Products CCCH-20 Coop Cup Pet Bowl with Clamp Holder, 20 oz",
+            "normalizedName": "Fuzzy Puppy Pet Products CCCH-20 Coop Cup Pet Bowl with Clamp Holder, 20 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

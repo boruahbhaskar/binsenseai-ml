@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NCMH0JC": {
+            "asin": "B00NCMH0JC",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Ceweal PRO USB Stereo Headphone Microphone MIC Game Gaming Headset for PS3 PS 3 Laptop",
+            "normalizedName": "Ceweal PRO USB Stereo Headphone Microphone MIC Game Gaming Headset for PS3 PS 3 Laptop",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01DD1JKRG": {
+            "asin": "B01DD1JKRG",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Fresh Wave 7 oz. Odor Removing Candle",
+            "normalizedName": "Fresh Wave 7 oz. Odor Removing Candle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

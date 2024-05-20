@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003SQSUHI": {
+            "asin": "B003SQSUHI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Kwikset Cove Bed/Bath Knob in Venetian Bronze",
+            "normalizedName": "Kwikset Cove Bed/Bath Knob in Venetian Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00DP3QMYW": {
+            "asin": "B00DP3QMYW",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "NutraBio 100% Whey Protein Isolate - 2 pounds dutch Chocolate \u2013 NO Soy, NO Whey Concentrate, NO Amino Acid Spiking just 100% Pure WPI.",
+            "normalizedName": "NutraBio 100% Whey Protein Isolate - 2 pounds dutch Chocolate \u2013 NO Soy, NO Whey Concentrate, NO Amino Acid Spiking just 100% Pure WPI.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01FJJO8C2": {
+            "asin": "B01FJJO8C2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "iPhone 6S Case, Lensun [GENUINE COWHIDE LEATHER] Premium Stand Wallet Case with Card Slots & Bill Compartment Case for iPhone 6 / 6S 4.7\" (Wine red)",
+            "normalizedName": "iPhone 6S Case, Lensun [GENUINE COWHIDE LEATHER] Premium Stand Wallet Case with Card Slots & Bill Compartment Case for iPhone 6 / 6S 4.7\" (Wine red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

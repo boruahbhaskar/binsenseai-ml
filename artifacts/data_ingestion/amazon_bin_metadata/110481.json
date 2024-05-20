@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000F5DRC8": {
+            "asin": "B000F5DRC8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Infiniti Pro by Conair Nano Tourmaline Ceramic 1-1/4-Inch Curling Iron",
+            "normalizedName": "Infiniti Pro by Conair Nano Tourmaline Ceramic 1-1/4-Inch Curling Iron",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01ARGBB72": {
+            "asin": "B01ARGBB72",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Mega Bloks SpongeBob SquarePants Block Construction Set",
+            "normalizedName": "Mega Bloks SpongeBob SquarePants Block Construction Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VHBOD2": {
+            "asin": "B002VHBOD2",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Moen YB8801CH 90-Degree Toilet Tank Lever Chrome",
+            "normalizedName": "Moen YB8801CH 90-Degree Toilet Tank Lever Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01DP871OG": {
+            "asin": "B01DP871OG",
+            "height": {
+                "unit": "IN",
+                "value": 2.79921259557
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "WisePrimate Boomer Portable Bluetooth Speakers for iPhone cellphone, iPod touch, Samsung Galaxy S3, S4, S5, S6, Galaxy, Kindle Fire HD, All Ipads, Microsoft Surface, Windows Tablet - BLACK",
+            "normalizedName": "WisePrimate Boomer Portable Bluetooth Speakers for iPhone cellphone, iPod touch, Samsung Galaxy S3, S4, S5, S6, Galaxy, Kindle Fire HD, All Ipads, Microsoft Surface, Windows Tablet - BLACK",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.10231131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.09842519369
+            }
+        },
+        "B01FVPOWD4": {
+            "asin": "B01FVPOWD4",
+            "height": {
+                "unit": "IN",
+                "value": 3.2999999932679995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999976132
+            },
+            "name": "Leather Toiletry Bag travel compact men women sale Leather Dopp Kit Travel Kit Small (Moss Green)",
+            "normalizedName": "Leather Toiletry Bag travel compact men women sale Leather Dopp Kit Travel Kit Small (Moss Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

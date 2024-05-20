@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0032Z8KH0": {
+            "asin": "B0032Z8KH0",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Envizen Digital ED8850B Duo Box II 7\" Portable DVD & TV Player with ATSC TV",
+            "normalizedName": "Envizen Digital ED8850B Duo Box II 7\" Portable DVD & TV Player with ATSC TV",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B01EFCZ1IE": {
+            "asin": "B01EFCZ1IE",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "iDudu VR, Virtual Reality Headset with Headphone for 4.0 - 6.2 inch Smartphone",
+            "normalizedName": "iDudu VR, Virtual Reality Headset with Headphone for 4.0 - 6.2 inch Smartphone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

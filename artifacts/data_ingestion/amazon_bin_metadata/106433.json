@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0047Z4GOU": {
+            "asin": "B0047Z4GOU",
+            "height": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.385826758
+            },
+            "name": "Cricut Cuttlebug Machine, V2 Green",
+            "normalizedName": "Cricut Cuttlebug Machine, V2 Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.41
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.1811023508
+            }
+        },
+        "B00ZTRWX7C": {
+            "asin": "B00ZTRWX7C",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "HP Chromebook 11-2210nr 11.6-Inch Laptop",
+            "normalizedName": "HP Chromebook 11-2210nr 11.6-Inch Laptop",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

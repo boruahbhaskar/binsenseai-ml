@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FA4JNZE": {
+            "asin": "B00FA4JNZE",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Muscle Pharm Arnold Schwarzenegger Series Iron Mass Weight Gainer, Chocolate Malt, 5 Pound",
+            "normalizedName": "Muscle Pharm Arnold Schwarzenegger Series Iron Mass Weight Gainer, Chocolate Malt, 5 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B011SU175M": {
+            "asin": "B011SU175M",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Lil\u2019 Jumbl Toddler Urinal Wheel Spin Child Choice Potty Trainer (Dark Blue)",
+            "normalizedName": "Lil\u2019 Jumbl Toddler Urinal Wheel Spin Child Choice Potty Trainer (Dark Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

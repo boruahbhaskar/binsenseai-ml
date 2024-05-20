@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004LKRRBU": {
+            "asin": "B004LKRRBU",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Barbie Collector 2011 Holiday Doll",
+            "normalizedName": "Barbie Collector 2011 Holiday Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        },
+        "B0192ZH6PU": {
+            "asin": "B0192ZH6PU",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Kingibon Wood Gymnastic Rings for home and professional crossfit strength training",
+            "normalizedName": "Kingibon Wood Gymnastic Rings for home and professional crossfit strength training",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.849999997610017
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B01BSO9QWY": {
+            "asin": "B01BSO9QWY",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Sof Sole Men's Canvas Comfort Shoe Insoles, Black, Large/8-12 M US",
+            "normalizedName": "Sof Sole Men's Canvas Comfort Shoe Insoles, Black, Large/8-12 M US",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

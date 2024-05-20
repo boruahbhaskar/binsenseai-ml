@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0054NFWH4": {
+            "asin": "B0054NFWH4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Hot Shot 20177 No-Mess! Fogger, 3-Count",
+            "normalizedName": "Hot Shot 20177 No-Mess! Fogger, 3-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00VSBU1ZY": {
+            "asin": "B00VSBU1ZY",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "MistPiggy Essential Oil Diffuser (Pink)",
+            "normalizedName": "MistPiggy Essential Oil Diffuser (Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01FCY5ZR6": {
+            "asin": "B01FCY5ZR6",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "name": "100% Natural Female Libido Enhancer | Sexual Enhancement Formula for Women to Boost Sex Drive, Pleasure, Low Libido & Arousal - Made in USA (FDA Registered Facility) (120 Capsules)",
+            "normalizedName": "100% Natural Female Libido Enhancer | Sexual Enhancement Formula for Women to Boost Sex Drive, Pleasure, Low Libido & Arousal - Made in USA (FDA Registered Facility) (120 Capsules)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

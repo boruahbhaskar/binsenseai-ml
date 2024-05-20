@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0078YA3HQ": {
+            "asin": "B0078YA3HQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "POWERTEC 13151X Band Saw Blade with 59-1/4-Inch x 3/8-Inch x18 TPI",
+            "normalizedName": "POWERTEC 13151X Band Saw Blade with 59-1/4-Inch x 3/8-Inch x18 TPI",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00NOZ1EI0": {
+            "asin": "B00NOZ1EI0",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0078740086
+            },
+            "name": "Canon Battery Pack NB-13L",
+            "normalizedName": "Canon Battery Pack NB-13L",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5984251942
+            }
+        },
+        "B017AGN1XO": {
+            "asin": "B017AGN1XO",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Fitbit Charge HR, Blue, Large",
+            "normalizedName": "Fitbit Charge HR, Blue, Large",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

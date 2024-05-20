@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009T8IMS6": {
+            "asin": "B009T8IMS6",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "100 Pcs Car Fender Push in Type Plastic Rivets Fastener 15 x 12 x 6mm",
+            "normalizedName": "100 Pcs Car Fender Push in Type Plastic Rivets Fastener 15 x 12 x 6mm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00X48M8NM": {
+            "asin": "B00X48M8NM",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Love Lakeside-Women's Impressionist Watercolor Crinkle Scarf Denim Blue",
+            "normalizedName": "Love Lakeside-Women's Impressionist Watercolor Crinkle Scarf Denim Blue",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

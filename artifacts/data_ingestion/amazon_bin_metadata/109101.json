@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0037XARA0": {
+            "asin": "B0037XARA0",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "ROYAL CANIN FELINE HEALTH NUTRITION Adult Instinctive thin slices in gravy canned cat food, 3-Ounces, 24-Pack",
+            "normalizedName": "24-Pack ROYAL CANIN FELINE HEALTH NUTRITION Adult Instinctive thin slices in gravy canned cat food, 3-Ounces,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.34999999551354
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00LLJ1SAU": {
+            "asin": "B00LLJ1SAU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "US Art Supply 24 piece Oil & Acrylic Paint Long Handle Artist Paint Brush Set with Canvas Roll-Up Storage Wrap",
+            "normalizedName": "US Art Supply 24 piece Oil & Acrylic Paint Long Handle Artist Paint Brush Set with Canvas Roll-Up Storage Wrap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

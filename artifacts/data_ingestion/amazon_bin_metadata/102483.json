@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001UWVIAI": {
+            "asin": "B001UWVIAI",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Generic Claritin - Loratadine (10mg) - 100 Tablets",
+            "normalizedName": "Generic Claritin - Loratadine (10mg) - 100 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B008CEDY5O": {
+            "asin": "B008CEDY5O",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "**2016 TOP SELLER** 180 Cosmetics Hyaluronic Acid and Vitamin C Serum. Best facial Serum to Reduce Wrinkles. Younger Looking Skin with our powerful anti aging Hyaluronic Serum, 0.5 oz DEAL OF THE DAY",
+            "normalizedName": "**2016 TOP SELLER** 180 Cosmetics Hyaluronic Acid and Vitamin C Serum. Best facial Serum to Reduce Wrinkles. Younger Looking Skin with our powerful anti aging Hyaluronic Serum, 0.5 oz DEAL OF THE DAY",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

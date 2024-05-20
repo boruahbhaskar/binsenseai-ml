@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0093SYK7E": {
+            "asin": "B0093SYK7E",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "uGems\u00ae 4\" X 6\" 8 mil Extra Heavy-Duty Puncture Resistant Clear Reclosable Resealable Zipper Bags, 36",
+            "normalizedName": "uGems\u00ae 4\" X 6\" 8 mil Extra Heavy-Duty Puncture Resistant Clear Reclosable Resealable Zipper Bags, 36",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00RW6OPHE": {
+            "asin": "B00RW6OPHE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Contigo Autospout Sheffield Vacuum-Insulated Stainless Steel Water Bottle, 22-Ounce (Lemon)",
+            "normalizedName": "Contigo Autospout Sheffield Vacuum-Insulated Stainless Steel Water Bottle, 22-Ounce (Lemon)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B0148GWSHY": {
+            "asin": "B0148GWSHY",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Tracy's Dog\u00ae Playboy 6.5 Inch Lifelike Flesh Simulation Dildo Flexible Realistic Silicone Dildo Suction Cup Harness Compatible",
+            "normalizedName": "Tracy's Dog\u00ae Playboy 6.5 Inch Lifelike Flesh Simulation Dildo Flexible Realistic Silicone Dildo Suction Cup Harness Compatible",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        },
+        "B01DXWZR9A": {
+            "asin": "B01DXWZR9A",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "Portable Wireless Bluetooth Speaker Waterproof with Power Bank, Powerful Surround Hi-fi Sound with Enhanced Bass for Music Streaming, Built-in 7000mAh Rechargeable Battery, 20 Hours Playtime (Orange)",
+            "normalizedName": "Portable Wireless Bluetooth Speaker Waterproof with Power Bank, Powerful Surround Hi-fi Sound with Enhanced Bass for Music Streaming, Built-in 7000mAh Rechargeable Battery, 20 Hours Playtime (Orange)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

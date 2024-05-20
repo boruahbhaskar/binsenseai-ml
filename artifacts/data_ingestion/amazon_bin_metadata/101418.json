@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C984SE": {
+            "asin": "B000C984SE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "ACDelco 15-20676 Professional Air Conditioning Drive Belt Idler Pulley",
+            "normalizedName": "ACDelco 15-20676 Professional Air Conditioning Drive Belt Idler Pulley",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B0096HUKZS": {
+            "asin": "B0096HUKZS",
+            "height": {
+                "unit": "IN",
+                "value": 3.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9
+            },
+            "name": "Instaflex Joint Support, 90 Count",
+            "normalizedName": "Instaflex Joint Support, 90 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.4
+            }
+        },
+        "B00EPLFAD2": {
+            "asin": "B00EPLFAD2",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Nora Fleming Sailboat Mini - Nora Fleming Sail Me Away Mini A136",
+            "normalizedName": "Nora Fleming Sailboat Mini - Nora Fleming Sail Me Away Mini A136",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00J56XG8S": {
+            "asin": "B00J56XG8S",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "SINOLLC 10M 100LEDs USB DC 5V Light String DIY Novelty LED lights for Celebration Music Concert Wedding Birthday Party Kitchen Dinning Room Festival Decoration Cool White USB Port USB Interface LED Flexbile Copper Wire Strip String Light",
+            "normalizedName": "SINOLLC 10M 100LEDs USB DC 5V Light String DIY Novelty LED lights for Celebration Music Concert Wedding Birthday Party Kitchen Dinning Room Festival Decoration Cool White USB Port USB Interface LED Flexbile Copper Wire Strip String Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

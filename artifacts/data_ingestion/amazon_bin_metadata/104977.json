@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T5TUCTQ": {
+            "asin": "B00T5TUCTQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "C.R. Gibson File Folders, 9-Count, Sardinia (COCF-14090)",
+            "normalizedName": "C.R. Gibson File Folders, 9-Count, Sardinia (COCF-14090)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

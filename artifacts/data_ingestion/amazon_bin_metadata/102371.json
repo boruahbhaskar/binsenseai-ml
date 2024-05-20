@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001QA4F40": {
+            "asin": "B001QA4F40",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Hubbell Wiring Systems S1TFCAL Aluminum Finish System One Universal Tile Cover, 5-5/8\" Diameter",
+            "normalizedName": "Hubbell Wiring Systems S1TFCAL Aluminum Finish System One Universal Tile Cover, 5-5/8\" Diameter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B0196LFDKA": {
+            "asin": "B0196LFDKA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "iPad mini Case,iPad mini 2 Case,iPad mini 3 Case,iPad mini Retina Case, Robot Shock-Absorption High Impact Resistant Hybrid Three Layer Armor Protective Case Cover for iPad mini [Black]",
+            "normalizedName": "iPad mini Case,iPad mini 2 Case,iPad mini 3 Case,iPad mini Retina Case, Robot Shock-Absorption High Impact Resistant Hybrid Three Layer Armor Protective Case Cover for iPad mini [Black]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B019Z44B74": {
+            "asin": "B019Z44B74",
+            "height": {
+                "unit": "IN",
+                "value": 3.249999996685
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "SinoPro GT08 Bluetooth Smart Watch Wrist Watch Phone with Camera SIM Card Slot Anti-lost NFC Information Synchronized Function for iOS iPhone Samsung and Other Smart Phones (Black)",
+            "normalizedName": "SinoPro GT08 Bluetooth Smart Watch Wrist Watch Phone with Camera SIM Card Slot Anti-lost NFC Information Synchronized Function for iOS iPhone Samsung and Other Smart Phones (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

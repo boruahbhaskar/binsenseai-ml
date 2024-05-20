@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001Y1F0HW": {
+            "asin": "B001Y1F0HW",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "StarTech.com 16 Inch (40cm) 9 P Inch Serial Male to 10 P Inch Motherboard Header Slot Plate (PLATE9M16)",
+            "normalizedName": "StarTech.com 16 Inch (40cm) 9 P Inch Serial Male to 10 P Inch Motherboard Header Slot Plate (PLATE9M16)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B002NMICB2": {
+            "asin": "B002NMICB2",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "3M Professional Multi-purpose Respirator,Medium",
+            "normalizedName": "3M Professional Multi-purpose Respirator,Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B0032J1KAK": {
+            "asin": "B0032J1KAK",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Total View 360 Adjustabe Blind Spot Mirror",
+            "normalizedName": "Total View 360 Adjustabe Blind Spot Mirror",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01EM94ROE": {
+            "asin": "B01EM94ROE",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5
+            },
+            "name": "FCS Surfboard Fin Key and FCS Fins Grub Screw Bundle",
+            "normalizedName": "FCS Surfboard Fin Key and FCS Fins Grub Screw Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001AJQGNU": {
+            "asin": "B001AJQGNU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Snap-N-Store File Box, Letter/Legal Size, Glossy Black (SNS01536)",
+            "normalizedName": "Snap-N-Store File Box, Letter/Legal Size, Glossy Black (SNS01536)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B00VFVGFWU": {
+            "asin": "B00VFVGFWU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "GLW\u00ae 50w Outdoor LED Flood Lights Daylight White Security Light, Waterproof Floodlight Lamp 3700lm 350w Halogen Bulb Equivalent [Added Plug]",
+            "normalizedName": "GLW\u00ae 50w Outdoor LED Flood Lights Daylight White Security Light, Waterproof Floodlight Lamp 3700lm 350w Halogen Bulb Equivalent [Added Plug]",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2499999972745806
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B00YP823NA": {
+            "asin": "B00YP823NA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "MAXOAK 50000mAh 6 Port(5/12/20v) Portable Charger External Battery Power Bank for Laptop & Notebook\u2013Most of Sony Dell Hp Toshiba Samsung Lenovo Acer IBM NEC Mobile,Tablet(not for Apple Laptop)",
+            "normalizedName": "MAXOAK 50000mAh 6 Port(5/12/20v) Portable Charger External Battery Power Bank for Laptop & Notebook\u2013Most of Sony Dell Hp Toshiba Samsung Lenovo Acer IBM NEC Mobile,Tablet(not for Apple Laptop)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.649999996100553
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

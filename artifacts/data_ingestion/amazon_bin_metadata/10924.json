@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000063NDY": {
+            "asin": "B000063NDY",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "4",
+            "normalizedName": "4",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B0006O4AK6": {
+            "asin": "B0006O4AK6",
+            "height": {
+                "unit": "IN",
+                "value": 1.249999998725
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Brooklyn Peddler 4-Tone Pinewood Train Whistle",
+            "normalizedName": "Brooklyn Peddler 4-Tone Pinewood Train Whistle",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B000M86VIK": {
+            "asin": "B000M86VIK",
+            "height": {
+                "unit": "IN",
+                "value": 0.049999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "General Tools 711125 Precision Screwdriver",
+            "normalizedName": "General Tools 711125 Precision Screwdriver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.009999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        },
+        "B00FRDPNA2": {
+            "asin": "B00FRDPNA2",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Fekkai Technician Color Care Conditioner, 8 fl. Oz.",
+            "normalizedName": "Fekkai Technician Color Care Conditioner, 8 fl. Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

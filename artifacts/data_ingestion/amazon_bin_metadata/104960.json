@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004QQ9LVS": {
+            "asin": "B004QQ9LVS",
+            "height": {
+                "unit": "IN",
+                "value": 3.0699999968686
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5099999943798
+            },
+            "name": "SmartyPants Kids Complete Gummy Vitamins: Multivitamin, Vitamin D3, B12 (Methylcobalamin), AND Omega 3 DHA / EPA Fish Oil, 120 count",
+            "normalizedName": "SmartyPants Kids Complete Gummy Vitamins: Multivitamin, Vitamin D3, B12 (Methylcobalamin), AND Omega 3 DHA / EPA Fish Oil, 120 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291276
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0699999968686
+            }
+        },
+        "B00A2S7ZGW": {
+            "asin": "B00A2S7ZGW",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Mundial KP-1 Knife Protector, Black",
+            "normalizedName": "Mundial KP-1 Knife Protector, Black",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01B508K8M": {
+            "asin": "B01B508K8M",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Hydrotac Stick-on Bifocal Lenses (OPTX 20/20) - +1.50 Diopter, Pack of 2",
+            "normalizedName": "Pack of 2 Hydrotac Stick-on Bifocal Lenses (OPTX 20/20) - +1.50 Diopter,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

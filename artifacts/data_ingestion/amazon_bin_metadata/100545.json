@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01EIO7LLO": {
+            "asin": "B01EIO7LLO",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Shires Performance Fly Sheet (White/Navy, US 87\"+XL)",
+            "normalizedName": "Shires Performance Fly Sheet (White/Navy, US 87\"+XL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.649999994423372
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

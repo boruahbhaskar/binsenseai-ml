@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0102ZQ3LM": {
+            "asin": "B0102ZQ3LM",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Lily's Home Beer Boot, Das Boot Beerfest Beer Glass, Large Oktoberfest Beer Stein - 1 Liter",
+            "normalizedName": "Lily's Home Beer Boot, Das Boot Beerfest Beer Glass, Large Oktoberfest Beer Stein - 1 Liter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B014NT0QUW": {
+            "asin": "B014NT0QUW",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "#1 Largest Rectangular Mosquito Net for Double Bed by EVEN Naturals\u00ae | Screen Netting Curtains | Insect Malaria Zika Repellent | Money-back Guarantee | Free Carry Pouch, Hanging Kit & eBook",
+            "normalizedName": "#1 Largest Rectangular Mosquito Net for Double Bed by EVEN Naturals\u00ae | Screen Netting Curtains | Insect Malaria Zika Repellent | Money-back Guarantee | Free Carry Pouch, Hanging Kit & eBook",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B017L1WXD2": {
+            "asin": "B017L1WXD2",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Xbox One 500GB Console with Kinect (No Chat Headset Included)",
+            "normalizedName": "Xbox One 500GB Console with Kinect (No Chat Headset Included)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 14.109440747255869
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

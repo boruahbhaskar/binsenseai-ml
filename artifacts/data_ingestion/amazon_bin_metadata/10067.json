@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000078CQA": {
+            "asin": "B000078CQA",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Columbian CO797 10x13-Inch Clasp Brown Kraft Envelopes, 100 Count",
+            "normalizedName": "Columbian CO797 10x13-Inch Clasp Brown Kraft Envelopes, 100 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B002DUD6TW": {
+            "asin": "B002DUD6TW",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "CytoSport Muscle Milk Light, Cookies and Creme, 1.65 Pound",
+            "normalizedName": "CytoSport Muscle Milk Light, Cookies and Creme, 1.65 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

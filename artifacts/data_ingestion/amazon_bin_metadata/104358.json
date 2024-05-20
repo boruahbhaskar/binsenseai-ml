@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003SQSUHI": {
+            "asin": "B003SQSUHI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Kwikset Cove Bed/Bath Knob in Venetian Bronze",
+            "normalizedName": "Kwikset Cove Bed/Bath Knob in Venetian Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B018V4ODMC": {
+            "asin": "B018V4ODMC",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "YI\u00ae Action Camera Kit: Camera, Selfie Stick, & Bluetooth Remote (Official U.S. Edition)",
+            "normalizedName": "YI\u00ae Action Camera Kit: Camera, Selfie Stick, & Bluetooth Remote (Official U.S. Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

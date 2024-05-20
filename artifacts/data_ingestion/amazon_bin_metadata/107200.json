@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012YSG3GA": {
+            "asin": "B012YSG3GA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Fireflyflux FFF-003B Wireless LED Night Light with Motion Sensor, Cool White Color",
+            "normalizedName": "Fireflyflux FFF-003B Wireless LED Night Light with Motion Sensor, Cool White Color",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B0186T37S8": {
+            "asin": "B0186T37S8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "QI Wireless Charging Pad, Seneo QI Mobile Phone Wireless Charger for Google Nexus 4, Nokia Lumia 920, Lg g3, Samsung Galaxy S3 and iphone 6 6S (NEED Receiver)",
+            "normalizedName": "QI Wireless Charging Pad, Seneo QI Mobile Phone Wireless Charger for Google Nexus 4, Nokia Lumia 920, Lg g3, Samsung Galaxy S3 and iphone 6 6S (NEED Receiver)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

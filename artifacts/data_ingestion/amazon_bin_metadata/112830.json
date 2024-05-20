@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "030682020X": {
+            "asin": "030682020X",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Robert's Rules of Order Newly Revised",
+            "normalizedName": "Robert's Rules of Order Newly Revised",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00KOW827M": {
+            "asin": "B00KOW827M",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "BS-MALL(TM) 10 PCS Premium Synthetic Kabuki Makeup Brush Set Cosmetics Foundation Blending Blush Eyeliner Face Powder Brush Makeup Brush Kit(10pcs, Silver Black)",
+            "normalizedName": "BS-MALL(TM) 10 PCS Premium Synthetic Kabuki Makeup Brush Set Cosmetics Foundation Blending Blush Eyeliner Face Powder Brush Makeup Brush Kit(10pcs, Silver Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0156LCR44": {
+            "asin": "B0156LCR44",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "BLU Dash L Unlocked Smartphone - US GSM - White",
+            "normalizedName": "BLU Dash L Unlocked Smartphone - US GSM - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

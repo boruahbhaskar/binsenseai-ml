@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016XBLT90": {
+            "asin": "B016XBLT90",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Samsung mini Wireless Charging Pad Qi with 2A Wall Charger - Retail Packaging - Black",
+            "normalizedName": "Samsung mini Wireless Charging Pad Qi with 2A Wall Charger - Retail Packaging - Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.40999999965617784
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01CGPUWS6": {
+            "asin": "B01CGPUWS6",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "1 ounce Clear Plastic Shot Glasses - Box of 250 (1 oz)",
+            "normalizedName": "1 ounce Clear Plastic Shot Glasses - Box of 250 (1 oz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

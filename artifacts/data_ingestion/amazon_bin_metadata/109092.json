@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1503948927": {
+            "asin": "1503948927",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Christmas in Vermont: A Very White Christmas",
+            "normalizedName": "Christmas in Vermont: A Very White Christmas",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B001D13V8S": {
+            "asin": "B001D13V8S",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.6456692866
+            },
+            "name": "Edz Kidz - Kids Ear Defenders (Pink)",
+            "normalizedName": "Edz Kidz - Kids Ear Defenders (Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291094288
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        },
+        "B00QSJXAVI": {
+            "asin": "B00QSJXAVI",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Darn Tough Heady Stripe Micro Crew Light Cushion Sock - Men's Ash Medium",
+            "normalizedName": "Darn Tough Heady Stripe Micro Crew Light Cushion Sock - Men's Ash Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

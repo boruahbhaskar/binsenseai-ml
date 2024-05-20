@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0045U1YWE": {
+            "asin": "B0045U1YWE",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "BIC Twin Select, Sensitive Skin, Disposable Shaver for Men, 10-Count Packages (Pack of 3)",
+            "normalizedName": "(Pack of 3) BIC Twin Select, Sensitive Skin, Disposable Shaver for Men, 10-Count Packages",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00RY0C9IK": {
+            "asin": "B00RY0C9IK",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Happy Lunchboxes 3-compartment Leak Proof Bento Lunch Box Containers for Kids - Set of 4 (Small)",
+            "normalizedName": "Set of 4 Happy Lunchboxes 3-compartment Leak Proof Bento Lunch Box Containers for Kids - (Small)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133417336": {
+            "asin": "0133417336",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "GO! with Microsoft Excel 2013 Comprehensive",
+            "normalizedName": "GO! with Microsoft Excel 2013 Comprehensive",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "1285453549": {
+            "asin": "1285453549",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Macroeconomics: Private and Public Choice (MindTap for Economics)",
+            "normalizedName": "Macroeconomics: Private and Public Choice (MindTap for Economics)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00FQH7MQ2": {
+            "asin": "B00FQH7MQ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "Seagate 4TB Gaming SSHD(Solid State Hybrid Drive)  SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST4000DX001)",
+            "normalizedName": "Seagate 4TB Gaming SSHD(Solid State Hybrid Drive)  SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST4000DX001)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.543235834
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B00ZCFVTRQ": {
+            "asin": "B00ZCFVTRQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Litup Green LED Strip 5M IP65 300leds 5050SMD Waterproof Flexible Led Strip Light Kit with Power Supply - Green",
+            "normalizedName": "Litup Green LED Strip 5M IP65 300leds 5050SMD Waterproof Flexible Led Strip Light Kit with Power Supply - Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0175TCKYM": {
+            "asin": "B0175TCKYM",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Topcarlight 12 \u2013 Inch 72W Cree Led Light Bar, 24 Piece",
+            "normalizedName": "Topcarlight 12 \u2013 Inch 72W Cree Led Light Bar, 24 Piece",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

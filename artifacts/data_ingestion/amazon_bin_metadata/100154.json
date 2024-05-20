@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WVW6YK": {
+            "asin": "B000WVW6YK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "NOW Foods True Focus, 90 Vcaps",
+            "normalizedName": "NOW Foods True Focus, 90 Vcaps",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.30999999974003695
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00857GFJU": {
+            "asin": "B00857GFJU",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.4094488042
+            },
+            "name": "Diamond Select Toys Knight Rider 1:15 Scale KITT Electronic Vehicle",
+            "normalizedName": "Diamond Select Toys Knight Rider 1:15 Scale KITT Electronic Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0078740086
+            }
+        },
+        "B00BF50JJ6": {
+            "asin": "B00BF50JJ6",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "AMT Pump 5541-95 Rotary Drum Pump, Cast Iron, 1\" NPT Suction x 1\" NPT Discharge Port",
+            "normalizedName": "AMT Pump 5541-95 Rotary Drum Pump, Cast Iron, 1\" NPT Suction x 1\" NPT Discharge Port",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 17.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R0P3JFG": {
+            "asin": "B00R0P3JFG",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "New 077 Navy Skin Tights Compression Base Layer Sports Sleeveless Top Mens (2XL)",
+            "normalizedName": "New 077 Navy Skin Tights Compression Base Layer Sports Sleeveless Top Mens (2XL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

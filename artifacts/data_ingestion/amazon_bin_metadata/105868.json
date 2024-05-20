@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1451635117": {
+            "asin": "1451635117",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "And Then All Hell Broke Loose: Two Decades in the Middle East",
+            "normalizedName": "And Then All Hell Broke Loose: Two Decades in the Middle East",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B007Q2KZU0": {
+            "asin": "B007Q2KZU0",
+            "height": {
+                "unit": "IN",
+                "value": 1.79921259659
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "BigMouth Inc Gigantic Donut Pool Float (Strawberry Frosted with Sprinkles)",
+            "normalizedName": "BigMouth Inc Gigantic Donut Pool Float (Strawberry Frosted with Sprinkles)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5873282864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.20078739423
+            }
+        },
+        "B00NJ1NX7E": {
+            "asin": "B00NJ1NX7E",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Amish Country Popcorn, Hulless & Non GMO, 1 Pound Bags (Pack of 3) (Ladyfinger)",
+            "normalizedName": "(Pack of 3) Amish Country Popcorn, Hulless & Non GMO, 1 Pound Bags (Ladyfinger)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

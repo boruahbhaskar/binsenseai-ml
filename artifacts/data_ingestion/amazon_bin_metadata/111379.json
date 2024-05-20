@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0014CV606": {
+            "asin": "B0014CV606",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Colgate Sensitive Maximum Strength Sensitive Toothpaste, Plus Whitening and Fresh Stripe, 6 oz",
+            "normalizedName": "Colgate Sensitive Maximum Strength Sensitive Toothpaste, Plus Whitening and Fresh Stripe, 6 oz",
+            "quantity": 25,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00CI6J3HA": {
+            "asin": "B00CI6J3HA",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Crayola Ultimate Crayon Case, 152-Crayons",
+            "normalizedName": "Crayola Ultimate Crayon Case, 152-Crayons",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 27
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001QVMTKQ": {
+            "asin": "B001QVMTKQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Gerber Remix Knife, Serrated Edge [22-41969]",
+            "normalizedName": "Gerber Remix Knife, Serrated Edge [22-41969]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0043DSGX8": {
+            "asin": "B0043DSGX8",
+            "height": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "SmartParts 120250 2.5\" Butt Joint Aluminized Steel Exhaust Clamp with I Block",
+            "normalizedName": "SmartParts 120250 2.5\" Butt Joint Aluminized Steel Exhaust Clamp with I Block",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00CHHKRDE": {
+            "asin": "B00CHHKRDE",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Suave Kids 2 In 1 Shampoo and Conditioner, Purely Awesome Strawberry, 12 Ounce",
+            "normalizedName": "Suave Kids 2 In 1 Shampoo and Conditioner, Purely Awesome Strawberry, 12 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B019XA5714": {
+            "asin": "B019XA5714",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "VANORIG\u00ae Breathable Abdominal Binder, Elastic Maternity Belt, Pregnancy Belly Brace Support Belt, Maternity Back Support, One Size Fits All (Beige, X-Large)",
+            "normalizedName": "VANORIG\u00ae Breathable Abdominal Binder, Elastic Maternity Belt, Pregnancy Belly Brace Support Belt, Maternity Back Support, One Size Fits All (Beige, X-Large)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

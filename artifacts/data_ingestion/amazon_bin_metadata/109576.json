@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005MICFTO": {
+            "asin": "B005MICFTO",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.249999987505001
+            },
+            "name": "NCAA Stanford Cardinal Free Throw 12-1/2-Inch Cutting Board",
+            "normalizedName": "NCAA Stanford Cardinal Free Throw 12-1/2-Inch Cutting Board",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.249999987505001
+            }
+        },
+        "B00JS4WNLI": {
+            "asin": "B00JS4WNLI",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "iMBAPrice\u00ae - 15ft Cat5e Network Ethernet Patch Cable (10 Pack) - Red",
+            "normalizedName": "(10 Pack) iMBAPrice\u00ae - 15ft Cat5e Network Ethernet Patch Cable - Red",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4899999979119096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B00KR4CZIY": {
+            "asin": "B00KR4CZIY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Hefty Slider Storage Bags, Gallon, 80 Count",
+            "normalizedName": "Hefty Slider Storage Bags, Gallon, 80 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01F48R1O0": {
+            "asin": "B01F48R1O0",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Studio Works Women's Dot Print Polo Shirt Large Navy Dot",
+            "normalizedName": "Studio Works Women's Dot Print Polo Shirt Large Navy Dot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

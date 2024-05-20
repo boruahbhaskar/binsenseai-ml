@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016XBLT90": {
+            "asin": "B016XBLT90",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Samsung mini Wireless Charging Pad Qi with 2A Wall Charger - Retail Packaging - Black",
+            "normalizedName": "Samsung mini Wireless Charging Pad Qi with 2A Wall Charger - Retail Packaging - Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.40999999965617784
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

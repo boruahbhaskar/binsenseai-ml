@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O5YEV84": {
+            "asin": "B00O5YEV84",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Coats Yarn Red Heart Soft Touch Yarn, True Green",
+            "normalizedName": "Coats Yarn Red Heart Soft Touch Yarn, True Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B015FH11ZA": {
+            "asin": "B015FH11ZA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Vstorm Remote Control 16 Color LED Spotlight Bulb 3W E27 Socket Type Lifespan 25000 Hours",
+            "normalizedName": "Vstorm Remote Control 16 Color LED Spotlight Bulb 3W E27 Socket Type Lifespan 25000 Hours",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01BE5UL4Y": {
+            "asin": "B01BE5UL4Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "802.3af to 24 volt gigabit PoE Splitter for Ubiquiti and Mikrotik From PoE Switches with 24 Volt 15 Watts Output WT-AF-24v15w",
+            "normalizedName": "802.3af to 24 volt gigabit PoE Splitter for Ubiquiti and Mikrotik From PoE Switches with 24 Volt 15 Watts Output WT-AF-24v15w",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01EUQYHAI": {
+            "asin": "B01EUQYHAI",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "StarSide 4Pcs HSS Flute Countersink Drill Bit Set Carpentry Reamer Woodworking Chamfer End Milling 3mm-6mm",
+            "normalizedName": "StarSide 4Pcs HSS Flute Countersink Drill Bit Set Carpentry Reamer Woodworking Chamfer End Milling 3mm-6mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0802650838
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

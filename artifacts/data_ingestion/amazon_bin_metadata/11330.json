@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BITTGMA": {
+            "asin": "B00BITTGMA",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.417322823
+            },
+            "name": "Embroidex Large Hoop for Brother SE350 SE400 LB6770 LB6800 SE270D HE1 HE120 HE240 NV500D NV900D NV950D PE300 PE400D PE500 PE 540D PE525 PE SE270D Babylock Intrigue BLI Embroidery Machine (SA434)",
+            "normalizedName": "Embroidex Large Hoop for Brother SE350 SE400 LB6770 LB6800 SE270D HE1 HE120 HE240 NV500D NV900D NV950D PE300 PE400D PE500 PE 540D PE525 PE SE270D Babylock Intrigue BLI Embroidery Machine (SA434)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        },
+        "B00KJ6R364": {
+            "asin": "B00KJ6R364",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Covidien 3085 Kerlix Super Sponge, Medium, Sterile 5's in Soft Pouch (Pack of 50)",
+            "normalizedName": "(Pack of 50) Covidien 3085 Kerlix Super Sponge, Medium, Sterile 5's in Soft Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00TGO8K30": {
+            "asin": "B00TGO8K30",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Engineer Triangular Scale Ruler 1:100 1:200 1:250 1:300 1:400 1:500",
+            "normalizedName": "Engineer Triangular Scale Ruler 1:100 1:200 1:250 1:300 1:400 1:500",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.199999998776
+            }
+        },
+        "B01AO5YX4E": {
+            "asin": "B01AO5YX4E",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Swiffer Sweeper 3 in 1 Mop and Broom Floor Cleaner 1 Sweeper, 9 Dry Sweeping Cloths, 3 Wet Mopping Cloths, and 1 Swiffer Duster",
+            "normalizedName": "Swiffer Sweeper 3 in 1 Mop and Broom Floor Cleaner 1 Sweeper, 9 Dry Sweeping Cloths, 3 Wet Mopping Cloths, and 1 Swiffer Duster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EDQQCY": {
+            "asin": "B000EDQQCY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Camco 40033 Replace All Plumbing Vent Kit (Polar White)",
+            "normalizedName": "Camco 40033 Replace All Plumbing Vent Kit (Polar White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00THGCHGS": {
+            "asin": "B00THGCHGS",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Professional Compression Crimping Tool Kit for RG6/RG59/RG11",
+            "normalizedName": "Professional Compression Crimping Tool Kit for RG6/RG59/RG11",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B014JN1JX0": {
+            "asin": "B014JN1JX0",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "O'Neill Wetsuits UV Sun Protection Womens Skins Long Sleeve Crew Sun Shirt Rash Guard, White/Deep Teal/White, Large",
+            "normalizedName": "O'Neill Wetsuits UV Sun Protection Womens Skins Long Sleeve Crew Sun Shirt Rash Guard, White/Deep Teal/White, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0181ES16G": {
+            "asin": "B0181ES16G",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Funko POP! Disney Cars Green Ramone Target Exclusive #131",
+            "normalizedName": "Funko POP! Disney Cars Green Ramone Target Exclusive #131",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

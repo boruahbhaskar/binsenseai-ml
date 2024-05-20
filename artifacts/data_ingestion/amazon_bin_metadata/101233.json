@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0078DP5XE": {
+            "asin": "B0078DP5XE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Stevia In The Raw, 100 count",
+            "normalizedName": "Stevia In The Raw, 100 count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

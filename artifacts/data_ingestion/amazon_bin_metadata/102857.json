@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008BR9TZG": {
+            "asin": "B008BR9TZG",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "name": "AM Conservation Group, Inc. FA012CPB1-WS-2 Simply Conserve Two Pack of Low Flow 1.5 GPM WaterSense Standard Faucet Aerators",
+            "normalizedName": "AM Conservation Group, Inc. FA012CPB1-WS-2 Simply Conserve Two Pack of Low Flow 1.5 GPM WaterSense Standard Faucet Aerators",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B017ZHBR7U": {
+            "asin": "B017ZHBR7U",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Monsoon G1/4\" 90\u00b0 Rotary Fitting with Light Port, 5/8\" OD Matched Body, Red, 4-pack",
+            "normalizedName": "Monsoon G1/4\" 90\u00b0 Rotary Fitting with Light Port, 5/8\" OD Matched Body, Red, 4-pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01G96KXFK": {
+            "asin": "B01G96KXFK",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Premium Probiotic Supplement for Men & Women 60 Vegetarian Capsules 2 Month Supply Improves Digestion Boosts Energy Lifts Mood Natural Gluten Free Sourced & Manufactured in USA",
+            "normalizedName": "Premium Probiotic Supplement for Men & Women 60 Vegetarian Capsules 2 Month Supply Improves Digestion Boosts Energy Lifts Mood Natural Gluten Free Sourced & Manufactured in USA",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01G9ZWONU": {
+            "asin": "B01G9ZWONU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Stand Flip Magnetic PU Leather Wallet Phone Cover Pouch Case For Samsung Galaxy S7 SM-G930 (Moon Couple)",
+            "normalizedName": "Stand Flip Magnetic PU Leather Wallet Phone Cover Pouch Case For Samsung Galaxy S7 SM-G930 (Moon Couple)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002RL8J8U": {
+            "asin": "B002RL8J8U",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "3M Gold Privacy Filter for Widescreen Laptop 14.0\" (GPF14.0W9)",
+            "normalizedName": "3M Gold Privacy Filter for Widescreen Laptop 14.0\" (GPF14.0W9)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3099968354774894
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B019ZG5SWY": {
+            "asin": "B019ZG5SWY",
+            "height": {
+                "unit": "IN",
+                "value": 4.4094488144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.8661417212
+            },
+            "name": "1800 Series Egyptian Collection 3 Line Microfiber 4 Piece Bed Sheet Set (King, Spa Mint)",
+            "normalizedName": "1800 Series Egyptian Collection 3 Line Microfiber 4 Piece Bed Sheet Set (King, Spa Mint)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1999999973165107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.842519675
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VAU9DU": {
+            "asin": "B002VAU9DU",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Green Mountain Coffee Roasters Gourmet Single Cup Coffee Breakfast Blend 12 K-Cups Green Mountain Coffee - (Pack of 6)",
+            "normalizedName": "(Pack of 6) Green Mountain Coffee Roasters Gourmet Single Cup Coffee Breakfast Blend 12 K-Cups Green Mountain Coffee -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0050QJHTO": {
+            "asin": "B0050QJHTO",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Remington CI9538 T|Studio Salon Collection Pearl Digital Ceramic Curling Wand, 1-1 1/2 Inch, Pink",
+            "normalizedName": "Remington CI9538 T|Studio Salon Collection Pearl Digital Ceramic Curling Wand, 1-1 1/2 Inch, Pink",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00Q7HI6M4": {
+            "asin": "B00Q7HI6M4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Mt Massage Disposable Fitted Table Cover(Pack of 10) for Massage Table",
+            "normalizedName": "(Pack of 10) Mt Massage Disposable Fitted Table Cover for Massage Table",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001MBUHJK": {
+            "asin": "B001MBUHJK",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Dr Seuss Ball Point Pen Assortment, 12-Pack(66874)",
+            "normalizedName": "12-Pack Dr Seuss Ball Point Pen Assortment, (66874)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00Z7SI21O": {
+            "asin": "B00Z7SI21O",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "OtterBox DEFENDER SERIES Case for Samsung Galaxy S7 - Frustration Free Packaging - REGAL (TEMPEST BLUE/FLAME RED)",
+            "normalizedName": "OtterBox DEFENDER SERIES Case for Samsung Galaxy S7 - Frustration Free Packaging - REGAL (TEMPEST BLUE/FLAME RED)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B013SL2GJ0": {
+            "asin": "B013SL2GJ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "TAFLY Temporary Tattoo Fashion Fake Tattooing Stickers Metallic Golden Tribe Transfer Temporary Tattoo 5 Sheets",
+            "normalizedName": "TAFLY Temporary Tattoo Fashion Fake Tattooing Stickers Metallic Golden Tribe Transfer Temporary Tattoo 5 Sheets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B018NOPNV0": {
+            "asin": "B018NOPNV0",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Galaxy Note 5 Case, SHIELDON Genuine Leather Wallet Cases, Vintage Slim Fit Flip Case Cover with Card Slots [Stand Feature] for Samsung Galaxy Note 5, Classic Tan Brown",
+            "normalizedName": "Galaxy Note 5 Case, SHIELDON Genuine Leather Wallet Cases, Vintage Slim Fit Flip Case Cover with Card Slots [Stand Feature] for Samsung Galaxy Note 5, Classic Tan Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

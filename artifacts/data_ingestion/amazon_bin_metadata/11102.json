@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062388142": {
+            "asin": "0062388142",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Because of Miss Bridgerton",
+            "normalizedName": "Because of Miss Bridgerton",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968320716
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B004LK2DKU": {
+            "asin": "B004LK2DKU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "1 X Laminated Tape Cartridge, For TZ Models, 3/8 quot;, White/Black",
+            "normalizedName": "1 X Laminated Tape Cartridge, For TZ Models, 3/8 quot;, White/Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00AI7ELDW": {
+            "asin": "B00AI7ELDW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Doc Mcstuffins 886144900020 Lambie 6 Small Plush Doll",
+            "normalizedName": "Doc Mcstuffins 886144900020 Lambie 6 Small Plush Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00XZEV22S": {
+            "asin": "B00XZEV22S",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Stainless Steel Pineapple Easy Slicer and De-corer Kitchen Gadget",
+            "normalizedName": "Stainless Steel Pineapple Easy Slicer and De-corer Kitchen Gadget",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

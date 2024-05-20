@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00007GQLU": {
+            "asin": "B00007GQLU",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Canon EF 85mm f/1.8 USM Medium Telephoto Lens for Canon SLR Cameras - Fixed",
+            "normalizedName": "Canon EF 85mm f/1.8 USM Medium Telephoto Lens for Canon SLR Cameras - Fixed",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00KB87RPC": {
+            "asin": "B00KB87RPC",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs Nerd? I Prefer the Term Intellectual Bad Ass Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Nerd? I Prefer the Term Intellectual Bad Ass Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01873ZACY": {
+            "asin": "B01873ZACY",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "QLIPP Tennis Sensor",
+            "normalizedName": "QLIPP Tennis Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01BUURG3C": {
+            "asin": "B01BUURG3C",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Trichome DankTank - 5-Ounce Airtight Smell Proof Container Storage Stash Jar and Herbal Container - Black",
+            "normalizedName": "Trichome DankTank - 5-Ounce Airtight Smell Proof Container Storage Stash Jar and Herbal Container - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

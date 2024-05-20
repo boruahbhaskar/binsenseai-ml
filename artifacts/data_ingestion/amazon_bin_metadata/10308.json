@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ZT12NK": {
+            "asin": "B000ZT12NK",
+            "height": {
+                "unit": "IN",
+                "value": 4.8818897588
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.6771653414
+            },
+            "name": "Hershey's chocolate flavored milk , 21- 8 Ounce Aseptic Boxes",
+            "normalizedName": "Hershey's chocolate flavored milk , 21- 8 Ounce Aseptic Boxes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2913385732
+            }
+        },
+        "B011MIZMSS": {
+            "asin": "B011MIZMSS",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Nerf Sports Dude Perfect PerfectShot Hoops",
+            "normalizedName": "Nerf Sports Dude Perfect PerfectShot Hoops",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.149999996519849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005JERLSG": {
+            "asin": "B005JERLSG",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Weaver Flat Leather Curb Straps - Color:Honey Leather:Bridle",
+            "normalizedName": "Weaver Flat Leather Curb Straps - Color:Honey Leather:Bridle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00RJM2GX6": {
+            "asin": "B00RJM2GX6",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Mountain House, Italian Style Pepper Steak with Rice",
+            "normalizedName": "Mountain House, Italian Style Pepper Steak with Rice",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00ZMBSDN8": {
+            "asin": "B00ZMBSDN8",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Koska Plain Halva - 14.11 oz(400gr) Sade Tahin Helvasi,Turkish",
+            "normalizedName": "Koska Plain Halva - 14.11 oz(400gr) Sade Tahin Helvasi,Turkish",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160537090157
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004S5SYRE": {
+            "asin": "B004S5SYRE",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Thermatec Ridgedale Woven Blackout Tab Top Panel, 40-Inch by 84-Inch, Set of 2, Moss",
+            "normalizedName": "Set of 2 Thermatec Ridgedale Woven Blackout Tab Top Panel, 40-Inch by 84-Inch, , Moss",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B008R6Q9E0": {
+            "asin": "B008R6Q9E0",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Rawlings Men's Performance Hoodie (Black, XXX-Large)",
+            "normalizedName": "Rawlings Men's Performance Hoodie (Black, XXX-Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00WDG9XC0": {
+            "asin": "B00WDG9XC0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Geleeo Baby Stroller Cooling Gel Liner (Champagne)",
+            "normalizedName": "Geleeo Baby Stroller Cooling Gel Liner (Champagne)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

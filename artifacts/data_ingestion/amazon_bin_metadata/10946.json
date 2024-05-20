@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005A1H7": {
+            "asin": "B00005A1H7",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "DEWALT DW3106P5 60-Tooth Crosscutting and 32-Tooth General Purpose 10-Inch Saw Blade Combo Pack",
+            "normalizedName": "DEWALT DW3106P5 60-Tooth Crosscutting and 32-Tooth General Purpose 10-Inch Saw Blade Combo Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B00GSN5H2O": {
+            "asin": "B00GSN5H2O",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "LEGO Disney Princess Rapunzel's Creativity Tower 41054",
+            "normalizedName": "LEGO Disney Princess Rapunzel's Creativity Tower 41054",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B00JM5GZGW": {
+            "asin": "B00JM5GZGW",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Play Doh Mega Pack (36 Cans)",
+            "normalizedName": "Play Doh Mega Pack (36 Cans)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.349999992997768
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

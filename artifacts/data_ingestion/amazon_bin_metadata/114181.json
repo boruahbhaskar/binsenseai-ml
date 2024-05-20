@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CVK2XG": {
+            "asin": "B001CVK2XG",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Leg Avenue Women's Stretch Lace Gauntlet Arm Warmer With Scalloped Lace Ruffle Trim, Black, One Size",
+            "normalizedName": "Leg Avenue Women's Stretch Lace Gauntlet Arm Warmer With Scalloped Lace Ruffle Trim, Black, One Size",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00G6PB1L0": {
+            "asin": "B00G6PB1L0",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Ghirardelli Chocolate, White Chocolate, and Caramel Flavored Sauces,  Squeeze Bottles (Pack of 3)",
+            "normalizedName": "(Pack of 3) Ghirardelli Chocolate, White Chocolate, and Caramel Flavored Sauces,  Squeeze Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B011LRZ15E": {
+            "asin": "B011LRZ15E",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "NuPro Fire HD 8 Screen Protector Kit (2-Pack) (5th Generation - 2015 release) , Clear",
+            "normalizedName": "(2-Pack) NuPro Fire HD 8 Screen Protector Kit (5th Generation - 2015 release) , Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

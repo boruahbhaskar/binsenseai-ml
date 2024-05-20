@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P07B7R8": {
+            "asin": "B00P07B7R8",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Gooby Winter Wind Breaker Dog Parka for Small Dogs, Green, Large",
+            "normalizedName": "Gooby Winter Wind Breaker Dog Parka for Small Dogs, Green, Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004TMRV8Y": {
+            "asin": "B004TMRV8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "AHAVA Dead Sea Purifying Mud Mask, 3.4 fl oz",
+            "normalizedName": "AHAVA Dead Sea Purifying Mud Mask, 3.4 fl oz",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B007RDMWFY": {
+            "asin": "B007RDMWFY",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "name": "No Rinse Aqua Wash Gloves, Sensitive (Pouch of 12 Gloves)",
+            "normalizedName": "No Rinse Aqua Wash Gloves, Sensitive (Pouch of 12 Gloves)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400467034918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

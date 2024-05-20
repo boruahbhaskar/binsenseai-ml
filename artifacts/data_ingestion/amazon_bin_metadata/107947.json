@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H8UB8W4": {
+            "asin": "B00H8UB8W4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "New Star 58123 Slimline Stainless Steel Dinner Spoon, 7.25-Inch, Set of 12",
+            "normalizedName": "Set of 12 New Star 58123 Slimline Stainless Steel Dinner Spoon, 7.25-Inch,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00XJESJZW": {
+            "asin": "B00XJESJZW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Creative Converting 573146B 50 Count Touch of Color Beverage Napkins, 3-Ply, Coral",
+            "normalizedName": "Creative Converting 573146B 50 Count Touch of Color Beverage Napkins, 3-Ply, Coral",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01CQK5SZI": {
+            "asin": "B01CQK5SZI",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212585574804
+            },
+            "name": "Start makers\u00ae 15 Colors Ultra Contour Palette Kit - 11pcs Professional Bamboo Makeup Brushes - Cosmetics Cream Contour and Highlighting Makeup Kit - Blemish Concealer Palette Kit - Makeup Sponge",
+            "normalizedName": "Start makers\u00ae 15 Colors Ultra Contour Palette Kit - 11pcs Professional Bamboo Makeup Brushes - Cosmetics Cream Contour and Highlighting Makeup Kit - Blemish Concealer Palette Kit - Makeup Sponge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01EM1NJPA": {
+            "asin": "B01EM1NJPA",
+            "height": {
+                "unit": "IN",
+                "value": 0.87
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3
+            },
+            "name": "Anwing 5 Feet 1.5m HDMI Male to 3RCA Video Audio AV Cable For HDTV DVD and most LCD Projectors HDMI To 3-RCA (not suit for PS4 PS3 and older models) (HDMI-3RCA 5')",
+            "normalizedName": "Anwing 5 Feet 1.5m HDMI Male to 3RCA Video Audio AV Cable For HDTV DVD and most LCD Projectors HDMI To 3-RCA (not suit for PS4 PS3 and older models) (HDMI-3RCA 5')",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.71
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

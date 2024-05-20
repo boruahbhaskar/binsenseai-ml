@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005TTKC9Q": {
+            "asin": "B005TTKC9Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Eathtek New Laptop CPU Cooling Fan for HP G72-259WM series",
+            "normalizedName": "Eathtek New Laptop CPU Cooling Fan for HP G72-259WM series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00ZMQKNUO": {
+            "asin": "B00ZMQKNUO",
+            "height": {
+                "unit": "IN",
+                "value": 1.749999998215
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Retseliney Best Acne Treatment Moisturizer Cream & Oil Control + 2% Salicylic Acid & Vitamin C, for Teens, Adult & Hormonal Acne, Clear Blemishes & Acne Scars, Helps Prevent New Breakouts",
+            "normalizedName": "Retseliney Best Acne Treatment Moisturizer Cream & Oil Control + 2% Salicylic Acid & Vitamin C, for Teens, Adult & Hormonal Acne, Clear Blemishes & Acne Scars, Helps Prevent New Breakouts",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B01E9EGCEA": {
+            "asin": "B01E9EGCEA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "DRIV Wheels 6240-25 Entourage-B-001 Chrome Wheel Center Cap",
+            "normalizedName": "DRIV Wheels 6240-25 Entourage-B-001 Chrome Wheel Center Cap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01GXMFZGC": {
+            "asin": "B01GXMFZGC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Eye Mask - Sleep Mask kit includes Eye mask, Ear Plugs & Anti snore device - For Travel, Shift Work & Meditation, Adjustable Size, Best set for couples",
+            "normalizedName": "Eye Mask - Sleep Mask kit includes Eye mask, Ear Plugs & Anti snore device - For Travel, Shift Work & Meditation, Adjustable Size, Best set for couples",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

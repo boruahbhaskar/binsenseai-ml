@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009CCRK8C": {
+            "asin": "B009CCRK8C",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "4pairs Merino Wool Socks Heather Charcoal Black Large",
+            "normalizedName": "4pairs Merino Wool Socks Heather Charcoal Black Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00WFAAMQK": {
+            "asin": "B00WFAAMQK",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "2 UNITS SERIOUS SKIN CARE FANTASTIC DLC OLIVE OIL GREAT FOR SKIN HEALTHY NATURAL EXFOLIATES ANTIOXIDANT ACEITE DE OLIVA",
+            "normalizedName": "2 UNITS SERIOUS SKIN CARE FANTASTIC DLC OLIVE OIL GREAT FOR SKIN HEALTHY NATURAL EXFOLIATES ANTIOXIDANT ACEITE DE OLIVA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

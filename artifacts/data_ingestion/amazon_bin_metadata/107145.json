@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I149RW": {
+            "asin": "B004I149RW",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Depo 335-2019L-AS Chevrolet Avalanche/Silverado Driver Side Replacement Fog Light Assembly",
+            "normalizedName": "Depo 335-2019L-AS Chevrolet Avalanche/Silverado Driver Side Replacement Fog Light Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989086
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

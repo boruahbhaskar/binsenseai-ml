@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EJ3B0J4": {
+            "asin": "B00EJ3B0J4",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Pretty Sips Paper Hot Cups with Lids and Cup Sleeves, White (HOT16LS),Qty of 50",
+            "normalizedName": "Pretty Sips Paper Hot Cups with Lids and Cup Sleeves, White (HOT16LS),Qty of 50",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00OGQIQ3C": {
+            "asin": "B00OGQIQ3C",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "\"Invisible\" Acrylic Nail Polish Rack. Versatile, 3 Floating Shelves Set - Wall Mount, Holds 45 Bottles",
+            "normalizedName": "\"Invisible\" Acrylic Nail Polish Rack. Versatile, 3 Floating Shelves Set - Wall Mount, Holds 45 Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01A68JUK6": {
+            "asin": "B01A68JUK6",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "THT - 3 Piece Silicone Spatula Set, Blue",
+            "normalizedName": "THT - 3 Piece Silicone Spatula Set, Blue",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B01AMZZKFM": {
+            "asin": "B01AMZZKFM",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Finley Matelasse Shower Curtain Beige/White 72 inch by 72 inch Made in Portugal",
+            "normalizedName": "Finley Matelasse Shower Curtain Beige/White 72 inch by 72 inch Made in Portugal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

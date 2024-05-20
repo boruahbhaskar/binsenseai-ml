@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012AD4500": {
+            "asin": "B012AD4500",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Cat7 Flat Snagless Shielded (Sstp/sftp) Ethernet Patch Cable in Blue 14 Feet",
+            "normalizedName": "Cat7 Flat Snagless Shielded (Sstp/sftp) Ethernet Patch Cable in Blue 14 Feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01ANHX6M8": {
+            "asin": "B01ANHX6M8",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Tepoinn 300ml Aromatherapy Essential Oil Diffuser Portable Aroma Ionizing Ultrasonic Cool Mist Humidifier Air Purifier 7 Color LED Light Quiet Motor 4 Timer Options for large rooms, essential oils",
+            "normalizedName": "Tepoinn 300ml Aromatherapy Essential Oil Diffuser Portable Aroma Ionizing Ultrasonic Cool Mist Humidifier Air Purifier 7 Color LED Light Quiet Motor 4 Timer Options for large rooms, essential oils",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G6C1ZEG": {
+            "asin": "B00G6C1ZEG",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Yoobao&reg; YB6012 5200mAh Ultra Slim Portable Charger External Battery Pack Power Bank with LED Flashlight for Android Device, Apple iPhone 6 plus,5 5s 5c,4,4s / Samsung Galaxy S5,S4,S3 Note 4, Note 3 / Blackberry Passport and More (Silver)",
+            "normalizedName": "Yoobao&reg; YB6012 5200mAh Ultra Slim Portable Charger External Battery Pack Power Bank with LED Flashlight for Android Device, Apple iPhone 6 plus,5 5s 5c,4,4s / Samsung Galaxy S5,S4,S3 Note 4, Note 3 / Blackberry Passport and More (Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00QW6TH8M": {
+            "asin": "B00QW6TH8M",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs Best Wife Ever Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Best Wife Ever Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0049YQVHE": {
+            "asin": "B0049YQVHE",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Asus Dual-Band Wireless-N600 Gigabit Router (RT-N56U)",
+            "normalizedName": "Asus Dual-Band Wireless-N600 Gigabit Router (RT-N56U)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B014JZKH2M": {
+            "asin": "B014JZKH2M",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Bigs Lightly Salted Pumpkin Seeds (5oz) Pack of 12 With Bonus Magnet",
+            "normalizedName": "Pack of 12 Bigs Lightly Salted Pumpkin Seeds (5oz) With Bonus Magnet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

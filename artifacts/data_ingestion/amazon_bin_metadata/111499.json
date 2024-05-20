@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001EXHRO4": {
+            "asin": "B001EXHRO4",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Hayward SPX1600AA Pump and Strainer Housing Replacement for Hayward Super Series Inground Pumps",
+            "normalizedName": "Hayward SPX1600AA Pump and Strainer Housing Replacement for Hayward Super Series Inground Pumps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00H33SFJU": {
+            "asin": "B00H33SFJU",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "EVGA 500 W1 80+, 500W Continuous Power, 3 Year Warranty Power Supply 100-W1-0500-KR",
+            "normalizedName": "EVGA 500 W1 80+, 500W Continuous Power, 3 Year Warranty Power Supply 100-W1-0500-KR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

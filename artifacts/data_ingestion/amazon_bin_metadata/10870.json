@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K5R5350": {
+            "asin": "B00K5R5350",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Sincerely Nuts Whole Blue Poppy Seeds 5lb Bag",
+            "normalizedName": "Sincerely Nuts Whole Blue Poppy Seeds 5lb Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.114672275169369
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

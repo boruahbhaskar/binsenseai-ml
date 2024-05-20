@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ESM3TTA": {
+            "asin": "B00ESM3TTA",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Cable Matters Micro USB to HDMI Cable for Samsung Galaxy S3/S4 & Note 2 with Built-in USB Cable in Black 6 Feet",
+            "normalizedName": "Cable Matters Micro USB to HDMI Cable for Samsung Galaxy S3/S4 & Note 2 with Built-in USB Cable in Black 6 Feet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B01C9A8RY4": {
+            "asin": "B01C9A8RY4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Lady Patch Bladder Control Patches (Drug-Free) for Female Urinary Incontinence: Regular & Active Pack Bundle",
+            "normalizedName": "Lady Patch Bladder Control Patches (Drug-Free) for Female Urinary Incontinence: Regular & Active Pack Bundle",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01DNDLUJU": {
+            "asin": "B01DNDLUJU",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Amerzam 3D VR Virtual Reality Headset 3D Glasses VR BOX for iPhone6/SamsungGalaxy/ ios Android smartphone(white)",
+            "normalizedName": "Amerzam 3D VR Virtual Reality Headset 3D Glasses VR BOX for iPhone6/SamsungGalaxy/ ios Android smartphone(white)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FA6AV8": {
+            "asin": "B000FA6AV8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Center Enterprise CE855 \"SIGN LANGUAGE ALPHABET\" Stamp",
+            "normalizedName": "Center Enterprise CE855 \"SIGN LANGUAGE ALPHABET\" Stamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B000HZEKE0": {
+            "asin": "B000HZEKE0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Pur Minerals Eye Pencil, Chocolate Mica, 0.01 Ounce",
+            "normalizedName": "Pur Minerals Eye Pencil, Chocolate Mica, 0.01 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            }
+        },
+        "B01C2WV1VK": {
+            "asin": "B01C2WV1VK",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "3-pack KittyStick Refill",
+            "normalizedName": "3-pack KittyStick Refill",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

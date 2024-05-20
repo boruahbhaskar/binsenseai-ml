@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EG6CS4": {
+            "asin": "B000EG6CS4",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Dura Lube HL-DLOS-06 32oz Advanced Engine Treatment",
+            "normalizedName": "Dura Lube HL-DLOS-06 32oz Advanced Engine Treatment",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00705YX42": {
+            "asin": "B00705YX42",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Wild Republic Cuddlekins 12\" Bison",
+            "normalizedName": "Wild Republic Cuddlekins 12\" Bison",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B014DIPAYA": {
+            "asin": "B014DIPAYA",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "YouYee European Style Fashionable Circle PVC Tablecloth,Easy Matching,Oilproof,71 Inch,Round",
+            "normalizedName": "YouYee European Style Fashionable Circle PVC Tablecloth,Easy Matching,Oilproof,71 Inch,Round",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

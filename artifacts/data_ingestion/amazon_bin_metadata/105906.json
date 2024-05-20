@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001EU61W6": {
+            "asin": "B001EU61W6",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512
+            },
+            "name": "Case Cutlery 7054 Case Small Texas Toothpick Pocket Knife with Stainless Steel Blade, Small, Navy Blue Bone",
+            "normalizedName": "Case Cutlery 7054 Case Small Texas Toothpick Pocket Knife with Stainless Steel Blade, Small, Navy Blue Bone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00GF24C7Y": {
+            "asin": "B00GF24C7Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "21st Century Melatonin Quick Dissolve Tablets, Cherry, 10 mg, 120 Count",
+            "normalizedName": "21st Century Melatonin Quick Dissolve Tablets, Cherry, 10 mg, 120 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00IIDD0ZS": {
+            "asin": "B00IIDD0ZS",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Microsoft Wireless Mobile Mouse 1850, Black (U7Z-00001)",
+            "normalizedName": "Microsoft Wireless Mobile Mouse 1850, Black (U7Z-00001)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

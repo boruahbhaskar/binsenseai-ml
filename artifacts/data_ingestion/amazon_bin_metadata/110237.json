@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009RSYBQ": {
+            "asin": "B0009RSYBQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "Auto Meter 4303 Ultra-Lite Mechanical Boost/Vacuum Gauge",
+            "normalizedName": "Auto Meter 4303 Ultra-Lite Mechanical Boost/Vacuum Gauge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00763LZWQ": {
+            "asin": "B00763LZWQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Oral-B Pro-Health Clinical Pro-Flex Medium Toothbrush, 2 Count, (Colors May Vary)",
+            "normalizedName": "Oral-B Pro-Health Clinical Pro-Flex Medium Toothbrush, 2 Count, (Colors May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00BVS1LPS": {
+            "asin": "B00BVS1LPS",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "USC Trojans 8x8 White Die-Cut Auto Decal",
+            "normalizedName": "USC Trojans 8x8 White Die-Cut Auto Decal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01E1DPL28": {
+            "asin": "B01E1DPL28",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "TOZO&reg; RC Case for DJI Phantom\u00a04 / 3 Inspire\u00a01 /\u00a0M100 Protective Soft\u00a0remote control Silicone [High Quality] protector [with Letter] Dust Proof anti Scratch collision Cover Skin Sleeve Quadcopter",
+            "normalizedName": "TOZO&reg; RC Case for DJI Phantom\u00a04 / 3 Inspire\u00a01 /\u00a0M100 Protective Soft\u00a0remote control Silicone [High Quality] protector [with Letter] Dust Proof anti Scratch collision Cover Skin Sleeve Quadcopter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3249999997274581
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

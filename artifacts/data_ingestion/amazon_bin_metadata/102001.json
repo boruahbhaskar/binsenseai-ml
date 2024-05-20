@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001769IVI": {
+            "asin": "B001769IVI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Certified Appliance WM48SS Braided Washing Machine Connector, Stainless Steel (3/4\"FGH X 3/4\"FGH, 4 Ft)",
+            "normalizedName": "Certified Appliance WM48SS Braided Washing Machine Connector, Stainless Steel (3/4\"FGH X 3/4\"FGH, 4 Ft)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00ICRJJXW": {
+            "asin": "B00ICRJJXW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Four Halcyon 2200 mAH Lithium Ion Replacement Battery and Charger Kit for Panasonic Lumix DMC-GH3 Mirrorless Micro Four Thirds Digital Camera and Panasonic DMW-BLF19",
+            "normalizedName": "Four Halcyon 2200 mAH Lithium Ion Replacement Battery and Charger Kit for Panasonic Lumix DMC-GH3 Mirrorless Micro Four Thirds Digital Camera and Panasonic DMW-BLF19",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

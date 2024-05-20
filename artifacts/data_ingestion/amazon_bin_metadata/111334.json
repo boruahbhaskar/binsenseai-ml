@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KWLKQ38": {
+            "asin": "B00KWLKQ38",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7086614064
+            },
+            "name": "Babyganics Foaming Dish and Bottle Soap Refill, Fragrance Free, 32oz Bottle (Pack of 2)",
+            "normalizedName": "(Pack of 2) Babyganics Foaming Dish and Bottle Soap Refill, Fragrance Free, 32oz Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.806028254534031
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2440944808
+            }
+        },
+        "B00P5YWV1M": {
+            "asin": "B00P5YWV1M",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Ibagbar Vintage Canvas Messenger Bag Shoulder Bag Laptop Bag ipad Bag Bookbag Satchel Crossbody Bag Sling Bag Travel Bag Casual Bag Purse Bag Fanny Bag Handbag Daypack School Bag Work Bag Gray",
+            "normalizedName": "Ibagbar Vintage Canvas Messenger Bag Shoulder Bag Laptop Bag ipad Bag Bookbag Satchel Crossbody Bag Sling Bag Travel Bag Casual Bag Purse Bag Fanny Bag Handbag Daypack School Bag Work Bag Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00V3RIG8C": {
+            "asin": "B00V3RIG8C",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "BOSS AUDIO 638BCK Package Includes 611UAB Single-DIN AM/FM  Mechless Bluetooth Enabled/Audio Streaming Digital Media Receiver Plus One Pair of 6.5 Inch 2-Way Speakers",
+            "normalizedName": "BOSS AUDIO 638BCK Package Includes 611UAB Single-DIN AM/FM  Mechless Bluetooth Enabled/Audio Streaming Digital Media Receiver Plus One Pair of 6.5 Inch 2-Way Speakers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B017AJ0ISC": {
+            "asin": "B017AJ0ISC",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Video Surveillance Sign - No Trespassing Violators Will Be Prosecuted Legend 10 X 14 High Quality Aluminum",
+            "normalizedName": "Video Surveillance Sign - No Trespassing Violators Will Be Prosecuted Legend 10 X 14 High Quality Aluminum",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

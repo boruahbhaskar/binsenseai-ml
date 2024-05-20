@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006MMF9M4": {
+            "asin": "B006MMF9M4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Aquatop GH100 Aquarium Submersible Glass Heater, 100-Watt",
+            "normalizedName": "Aquatop GH100 Aquarium Submersible Glass Heater, 100-Watt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B011YZF04K": {
+            "asin": "B011YZF04K",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Disney Frozen Coronation Change Anna",
+            "normalizedName": "Disney Frozen Coronation Change Anna",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B0156RMBQC": {
+            "asin": "B0156RMBQC",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "VIVO TV Wall Mount Bracket Fully Articulating VESA Stand for LCD LED Plasma Screen 23\u201d to 55\u201d (MOUNT-VW03E)",
+            "normalizedName": "VIVO TV Wall Mount Bracket Fully Articulating VESA Stand for LCD LED Plasma Screen 23\u201d to 55\u201d (MOUNT-VW03E)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.19999999647792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B018EAS0JA": {
+            "asin": "B018EAS0JA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Beaumont Kitchenware Top Rated Oven Mitts | High Quality Extra Long 15\" Oven Gloves | Heat Resistant 425\u00b0F | BPA Free Top Quality Silicone | Top Quality Hand-stitched Canvas | Easy to Clean",
+            "normalizedName": "Beaumont Kitchenware Top Rated Oven Mitts | High Quality Extra Long 15\" Oven Gloves | Heat Resistant 425\u00b0F | BPA Free Top Quality Silicone | Top Quality Hand-stitched Canvas | Easy to Clean",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FRKK74M": {
+            "asin": "B00FRKK74M",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "SuperDuo Orange Luster 2.5x5mm 2 Hole Beads Czech Glass Seed Beads 100 Gram Bag",
+            "normalizedName": "SuperDuo Orange Luster 2.5x5mm 2 Hole Beads Czech Glass Seed Beads 100 Gram Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B018I2IVIE": {
+            "asin": "B018I2IVIE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Smiling Shark XB-E6 1000 Lumens Adjustable Focus Zoomable Handheld Flashlight, Super Bright CREE XML-T6 LED Flashlights, Water Resistant Camping Torch for Outdoor Sports, Black",
+            "normalizedName": "Smiling Shark XB-E6 1000 Lumens Adjustable Focus Zoomable Handheld Flashlight, Super Bright CREE XML-T6 LED Flashlights, Water Resistant Camping Torch for Outdoor Sports, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2599999997819665
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            }
+        },
+        "B01EVY4RPY": {
+            "asin": "B01EVY4RPY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "WINSOR PILATES - RESISTANCE BAND + 4 DVDS + WELLNESS PLAN - A Guaranteed Complete Body Workout",
+            "normalizedName": "WINSOR PILATES - RESISTANCE BAND + 4 DVDS + WELLNESS PLAN - A Guaranteed Complete Body Workout",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HA4XMYK": {
+            "asin": "B00HA4XMYK",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Rubies Guardians of The Galaxy Rocket Raccoon Costume, Child Small",
+            "normalizedName": "Rubies Guardians of The Galaxy Rocket Raccoon Costume, Child Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00J0EKV3I": {
+            "asin": "B00J0EKV3I",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Domino Sugar Packets, 500 count, Restaurant Quality",
+            "normalizedName": "Domino Sugar Packets, 500 count, Restaurant Quality",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7499999968552853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00XHXAX5E": {
+            "asin": "B00XHXAX5E",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Fairly Odd Treasures 14.5 x 19 Inches Poly Shipping Envelopes/Self Sealing Bags, 2.4 Mil, 100-Count (14.5x19-PM-G60-100PK)",
+            "normalizedName": "Fairly Odd Treasures 14.5 x 19 Inches Poly Shipping Envelopes/Self Sealing Bags, 2.4 Mil, 100-Count (14.5x19-PM-G60-100PK)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

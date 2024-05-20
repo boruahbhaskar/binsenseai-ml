@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00449FCCY": {
+            "asin": "B00449FCCY",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Tic Tac Toe Tactile Wooden Game",
+            "normalizedName": "Tic Tac Toe Tactile Wooden Game",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B006N3EPKE": {
+            "asin": "B006N3EPKE",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "12 Piece Precision Needle File Set",
+            "normalizedName": "12 Piece Precision Needle File Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00J7AQSYQ": {
+            "asin": "B00J7AQSYQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "H2Ocean Piercing Aftercare Spray, 4 Ounce Set of 2",
+            "normalizedName": "Set of 2 H2Ocean Piercing Aftercare Spray, 4 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

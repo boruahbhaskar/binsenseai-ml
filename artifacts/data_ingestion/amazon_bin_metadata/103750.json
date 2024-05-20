@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ABSO6VY": {
+            "asin": "B01ABSO6VY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Kingway Compatible Canon Ink Cartridge PGI-250XL CLI-251XL Replacement for Canon PIXMA IP7220 MG5420 MG5520 MG6620 MX922 Printer (4BK+2BK+2C+2M+2Y)",
+            "normalizedName": "Kingway Compatible Canon Ink Cartridge PGI-250XL CLI-251XL Replacement for Canon PIXMA IP7220 MG5420 MG5520 MG6620 MX922 Printer (4BK+2BK+2C+2M+2Y)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01AXI796G": {
+            "asin": "B01AXI796G",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            },
+            "name": "Kingway 5 Pcs Ink Cartridges Replacement for HP 932 933 932xl 933xl Use With HP Officejet 6700 6600 6100 7110 7610 7612 inkjet Printers (2BK+1C+M+1Y)",
+            "normalizedName": "Kingway 5 Pcs Ink Cartridges Replacement for HP 932 933 932xl 933xl Use With HP Officejet 6700 6600 6100 7110 7610 7612 inkjet Printers (2BK+1C+M+1Y)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

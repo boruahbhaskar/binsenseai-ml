@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014LNHTM8": {
+            "asin": "B014LNHTM8",
+            "height": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Timing Belt Kit for Chevy Chevorlet Optra Limited Suzuki Forenza Reno Part:82001006 (Belt Dongil/tensioner Daewoo (Korea)/pulley Daewoo) (Includes: 1 Water Pump 96353151)",
+            "normalizedName": "Timing Belt Kit for Chevy Chevorlet Optra Limited Suzuki Forenza Reno Part:82001006 (Belt Dongil/tensioner Daewoo (Korea)/pulley Daewoo) (Includes: 1 Water Pump 96353151)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.249999995597399
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B016OY2DH8": {
+            "asin": "B016OY2DH8",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Blankie Tails Mermaid Tail Blanket (Ages 3-12) (Ocean Blue/Aqua)",
+            "normalizedName": "Blankie Tails Mermaid Tail Blanket (Ages 3-12) (Ocean Blue/Aqua)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B01DV2OJYG": {
+            "asin": "B01DV2OJYG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Best Microfiber Cleaning Cloth, Pack of 50",
+            "normalizedName": "Pack of 50 Best Microfiber Cleaning Cloth,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

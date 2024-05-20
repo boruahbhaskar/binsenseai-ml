@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009J1WA36": {
+            "asin": "B009J1WA36",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "Nitecore MT26 CREE XM-L U2 LED 750 Lumen Multi-Task Flashlight, Black",
+            "normalizedName": "Nitecore MT26 CREE XM-L U2 LED 750 Lumen Multi-Task Flashlight, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.57
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        },
+        "B00HHLNXUE": {
+            "asin": "B00HHLNXUE",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "2.5mm Women's NeoSport XSPAN Wetsuit Vest - Front Zip in Blue - 16",
+            "normalizedName": "2.5mm Women's NeoSport XSPAN Wetsuit Vest - Front Zip in Blue - 16",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B01AVI19XW": {
+            "asin": "B01AVI19XW",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Motorola Moto X Pure Edition / Style [EpicDealz] Nylon Heavy Duty Holster Velcro Pouch+Carabiner Hook+Cleaning Cloth{Fits phone with Hybrid Kickstand/Dual Layer Protective Cover/Snap On Hard Case}",
+            "normalizedName": "Motorola Moto X Pure Edition / Style [EpicDealz] Nylon Heavy Duty Holster Velcro Pouch+Carabiner Hook+Cleaning Cloth{Fits phone with Hybrid Kickstand/Dual Layer Protective Cover/Snap On Hard Case}",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01B575MVS": {
+            "asin": "B01B575MVS",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Cocktail Boston Shaker Set By Kotai (Copper)",
+            "normalizedName": "Cocktail Boston Shaker Set By Kotai (Copper)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

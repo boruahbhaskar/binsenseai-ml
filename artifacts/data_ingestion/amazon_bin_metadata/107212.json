@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ATBRJRC": {
+            "asin": "B00ATBRJRC",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Stabilo 8830-1 88 Point 30 Color Wallet",
+            "normalizedName": "Stabilo 8830-1 88 Point 30 Color Wallet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.48501202568692053
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

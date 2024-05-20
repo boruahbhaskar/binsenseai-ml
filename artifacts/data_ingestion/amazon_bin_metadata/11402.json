@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IBWL": {
+            "asin": "B00006IBWL",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Avery-Style Premium Collated Legal Index Exhibit Dividers, A-Z and Table of Contents, Side-Tab, 8.5 x 11-Inches, 1 Set (11374)",
+            "normalizedName": "Avery-Style Premium Collated Legal Index Exhibit Dividers, A-Z and Table of Contents, Side-Tab, 8.5 x 11-Inches, 1 Set (11374)",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B000093IJY": {
+            "asin": "B000093IJY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Avery\u00ae White Shipping Labels for Laser Printers with  TrueBlock(TM) Technology, 3-1/3 inches x 4 inches, 6 Labels, 25 Sheets,  (5264)",
+            "normalizedName": "Avery\u00ae White Shipping Labels for Laser Printers with  TrueBlock(TM) Technology, 3-1/3 inches x 4 inches, 6 Labels, 25 Sheets,  (5264)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514
+            }
+        },
+        "B001JTJFO8": {
+            "asin": "B001JTJFO8",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "Planets Discovery Classic Accents\u00ae Variety Pack",
+            "normalizedName": "Planets Discovery Classic Accents\u00ae Variety Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        },
+        "B00T62RK1U": {
+            "asin": "B00T62RK1U",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Auxbeam&reg; 2Pcs 4\" 18W CREE LED Work Light Bar Flood Beam 60 degree Waterproof for Off-road Truck Car ATV SUV Jeep Boat 4WD ATV Auxiliary Driving Lamp",
+            "normalizedName": "Auxbeam&reg; 2Pcs 4\" 18W CREE LED Work Light Bar Flood Beam 60 degree Waterproof for Off-road Truck Car ATV SUV Jeep Boat 4WD ATV Auxiliary Driving Lamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.58999999782805
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

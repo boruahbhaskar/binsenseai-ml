@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R20EPLG": {
+            "asin": "B00R20EPLG",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs Caffeine PO Q4H PRN Nurse's Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Caffeine PO Q4H PRN Nurse's Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B016V4JOZA": {
+            "asin": "B016V4JOZA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Starwood Sports Exercise Resistance Loop Bands, Set of 4",
+            "normalizedName": "Set of 4 Starwood Sports Exercise Resistance Loop Bands,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01F9UBGVC": {
+            "asin": "B01F9UBGVC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Bistore - 1Box Mixed Style Round Glass Pearl Beads, Dyed, Mixed Color (6mm round - 600pcs/box, GP06-02 Mixed 10 colors)",
+            "normalizedName": "Bistore - 1Box Mixed Style Round Glass Pearl Beads, Dyed, Mixed Color (6mm round - 600pcs/box, GP06-02 Mixed 10 colors)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

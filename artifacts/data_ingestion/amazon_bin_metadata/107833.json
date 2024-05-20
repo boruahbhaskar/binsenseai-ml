@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FVI6RWG": {
+            "asin": "B00FVI6RWG",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Tombow Fudenosuke Brush Pen - soft Type & Hard Type 2 Pens Arts Value set",
+            "normalizedName": "2 Pens Tombow Fudenosuke Brush Pen - soft Type & Hard Type Arts Value set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00RMPRM48": {
+            "asin": "B00RMPRM48",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "CWK&reg; New Replacement Laptop Notebook Battery for Acer Aspire 5560 5736G 5749 5749Z 5755 AS10D56 AS10D61 Gateway NV53A NV53A38u NV53A52 NV53A52 NV53A52u AS10D51 Acer Aspire 4771G 5253 5253G 5551G 5552 5551-2805 7750G 7560 AS10D31 AS10D71 AS10D61 Acer Aspire 4551 5251 5551 5741 7741 Acer AS10G3E AS10D73 Aspire 4771 5741Z 4251 4252 4253G 4552 4625 AS10D31 Acer Aspire 5741 7551G-5821 7551G-6477 7552G-5107 7741-5137 Acer 31CR19/65-2 31CR19/66-2 Aspire 5750 5736Z 5750G 7251 7551 4741Z",
+            "normalizedName": "CWK&reg; New Replacement Laptop Notebook Battery for Acer Aspire 5560 5736G 5749 5749Z 5755 AS10D56 AS10D61 Gateway NV53A NV53A38u NV53A52 NV53A52 NV53A52u AS10D51 Acer Aspire 4771G 5253 5253G 5551G 5552 5551-2805 7750G 7560 AS10D31 AS10D71 AS10D61 Acer Aspire 4551 5251 5551 5741 7741 Acer AS10G3E AS10D73 Aspire 4771 5741Z 4251 4252 4253G 4552 4625 AS10D31 Acer Aspire 5741 7551G-5821 7551G-6477 7552G-5107 7741-5137 Acer 31CR19/65-2 31CR19/66-2 Aspire 5750 5736Z 5750G 7251 7551 4741Z",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        },
+        "B00X6A8R1U": {
+            "asin": "B00X6A8R1U",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "LEGO Star Wars 75110 Luke Skywalker Building Kit",
+            "normalizedName": "LEGO Star Wars 75110 Luke Skywalker Building Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00Z705QGQ": {
+            "asin": "B00Z705QGQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Advanced Molecular Labs Thermo Heat Multi",
+            "normalizedName": "Advanced Molecular Labs Thermo Heat Multi",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

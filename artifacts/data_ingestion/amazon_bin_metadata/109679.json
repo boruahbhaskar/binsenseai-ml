@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IOEFBKS": {
+            "asin": "B00IOEFBKS",
+            "height": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "Black+Decker BDH2000PL MAX Lithium Pivot Vacuum, 20-volt",
+            "normalizedName": "Black+Decker BDH2000PL MAX Lithium Pivot Vacuum, 20-volt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8360042031601895
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

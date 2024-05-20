@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007TJGY46": {
+            "asin": "B007TJGY46",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Coffee People Jet Fuel Coffee, Extra Bold, K-Cup Portion Count for Keurig Brewers 96-Count",
+            "normalizedName": "Coffee People Jet Fuel Coffee, Extra Bold, K-Cup Portion Count for Keurig Brewers 96-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.24999999643599
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00O1V4AAK": {
+            "asin": "B00O1V4AAK",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Adenna NPF 5.5 mil Nitrile Powder Free Exam Gloves (Blue, Large)",
+            "normalizedName": "Adenna NPF 5.5 mil Nitrile Powder Free Exam Gloves (Blue, Large)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.146392061675893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

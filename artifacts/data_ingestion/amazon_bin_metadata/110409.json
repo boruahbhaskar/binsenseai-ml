@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002E00UVI": {
+            "asin": "B002E00UVI",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Econoled Compact Electric Herb Grinder (Assorted)",
+            "normalizedName": "Econoled Compact Electric Herb Grinder (Assorted)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B0158VYYE8": {
+            "asin": "B0158VYYE8",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Candida Cleanse 120 Capsules \u2605 100% MONEY BACK GUARANTEE \u2605 With Herbs, Antifungals, Enzymes and Probiotics. Kills off Candida and Prevents Reoccurrence - Plus Free eBook on Eradicating Candida",
+            "normalizedName": "Candida Cleanse 120 Capsules \u2605 100% MONEY BACK GUARANTEE \u2605 With Herbs, Antifungals, Enzymes and Probiotics. Kills off Candida and Prevents Reoccurrence - Plus Free eBook on Eradicating Candida",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01BEMF94E": {
+            "asin": "B01BEMF94E",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            },
+            "name": "HusKitchen Stainless Steel Food Storage Container , Snack Container , Children and Adults",
+            "normalizedName": "HusKitchen Stainless Steel Food Storage Container , Snack Container , Children and Adults",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

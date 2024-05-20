@@ -1,0 +1,40 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004VLVK58": {
+            "asin": "B004VLVK58",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Bob's Red Mill Green Split Peas, 29-ounce (Pack of 4)",
+            "normalizedName": "(Pack of 4) Bob's Red Mill Green Split Peas, 29-ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B014R6HEP6": {
+            "asin": "B014R6HEP6",
+            "height": null,
+            "length": null,
+            "name": "NCAA Indiana State Sycamores Mascot Block Arch Crew Neck Sweatshirt, X-Large, White",
+            "normalizedName": "NCAA Indiana State Sycamores Mascot Block Arch Crew Neck Sweatshirt, X-Large, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.0
+            },
+            "width": null
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

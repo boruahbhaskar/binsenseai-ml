@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00168RFZS": {
+            "asin": "B00168RFZS",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Backrack 91006 Light Bar Bracket - 2 Piece",
+            "normalizedName": "Backrack 91006 Light Bar Bracket - 2 Piece",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.449934162924358
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B017LDNLIG": {
+            "asin": "B017LDNLIG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Tracfone Alcatel Onetouch Pixi Glitz A463BG",
+            "normalizedName": "Tracfone Alcatel Onetouch Pixi Glitz A463BG",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JH8M2D4": {
+            "asin": "B00JH8M2D4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Fisher-Price Loving Family Sister Figure",
+            "normalizedName": "Fisher-Price Loving Family Sister Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B014AHHYTS": {
+            "asin": "B014AHHYTS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Fisher-Price Thomas the Train Track Master Switches & Turnouts Track Pack",
+            "normalizedName": "Fisher-Price Thomas the Train Track Master Switches & Turnouts Track Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B017O894I4": {
+            "asin": "B017O894I4",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Cloth Eye Bandage 100 Ct. 3 Packs",
+            "normalizedName": "3 Pack Cloth Eye Bandage 100 Ct. s",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

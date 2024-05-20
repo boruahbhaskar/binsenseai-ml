@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CEAYWZW": {
+            "asin": "B01CEAYWZW",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Logi ZeroTouch Dashboard Cell Phone Holder with Voice-Command App for Android Phones By Logitech",
+            "normalizedName": "Logi ZeroTouch Dashboard Cell Phone Holder with Voice-Command App for Android Phones By Logitech",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01DM31O4W": {
+            "asin": "B01DM31O4W",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "[2-PACK]-Mr Shield For Samsung Galaxy S6 Active [Tempered Glass] Screen Protector with Lifetime Replacement Warranty",
+            "normalizedName": "[2-PACK]-Mr Shield For Samsung Galaxy S6 Active [Tempered Glass] Screen Protector with Lifetime Replacement Warranty",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

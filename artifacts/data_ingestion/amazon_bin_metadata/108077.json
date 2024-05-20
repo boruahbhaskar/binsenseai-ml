@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321979478": {
+            "asin": "0321979478",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "College Algebra (10th Edition)",
+            "normalizedName": "College Algebra (10th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0310920086": {
+            "asin": "0310920086",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Read with Me Bible: an NIrV Story Bible for Children",
+            "normalizedName": "Read with Me Bible: an NIrV Story Bible for Children",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B003BCLWDS": {
+            "asin": "B003BCLWDS",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Fiskars 8x8 Inch Make A Wish Clear Stamps (01-005541)",
+            "normalizedName": "Fiskars 8x8 Inch Make A Wish Clear Stamps (01-005541)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B005HRZPY2": {
+            "asin": "B005HRZPY2",
+            "height": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5275590454
+            },
+            "name": "Plantronics CS510 - Over-the-Head monaural Wireless Headset System \u2013 DECT 6.0",
+            "normalizedName": "Plantronics CS510 - Over-the-Head monaural Wireless Headset System \u2013 DECT 6.0",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2440944808
+            }
+        },
+        "B007Q4544A": {
+            "asin": "B007Q4544A",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Banzai Speed Blast Water Slide",
+            "normalizedName": "Banzai Speed Blast Water Slide",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

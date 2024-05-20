@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FX2RA8K": {
+            "asin": "B00FX2RA8K",
+            "height": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Cool Mist Humidifier, Roolen Breath Smart Ultrasonic Humidifier, Black [BR01/B]",
+            "normalizedName": "Cool Mist Humidifier, Roolen Breath Smart Ultrasonic Humidifier, Black [BR01/B]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B016W20EIM": {
+            "asin": "B016W20EIM",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Beileshi 3-in-1 Useful 2.5-10x40 Tactical Rifle Scope Dual Illuminated Mil-dot with Red Laser w/ Rail Mount & 4 Reticle Holographic Green / Red Dot Sight",
+            "normalizedName": "Beileshi 3-in-1 Useful 2.5-10x40 Tactical Rifle Scope Dual Illuminated Mil-dot with Red Laser w/ Rail Mount & 4 Reticle Holographic Green / Red Dot Sight",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I3L4LF8": {
+            "asin": "B00I3L4LF8",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Ivation Automatic Single Watch Winder | Built In IC Timer & LED Alarm Clock",
+            "normalizedName": "Ivation Automatic Single Watch Winder | Built In IC Timer & LED Alarm Clock",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00P9W4GJA": {
+            "asin": "B00P9W4GJA",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Sanabul Essentials Version 2 Ultra Light BJJ Jiu Jitsu Gi with Preshrunk Fabric (A3, White)",
+            "normalizedName": "Sanabul Essentials Version 2 Ultra Light BJJ Jiu Jitsu Gi with Preshrunk Fabric (A3, White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00PF8ACFU": {
+            "asin": "B00PF8ACFU",
+            "height": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "Philips AVENT Classic Plus Newborn Starter Set",
+            "normalizedName": "Philips AVENT Classic Plus Newborn Starter Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520723904125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.4015747956
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000THH6K6": {
+            "asin": "B000THH6K6",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Culligan PR-3 Level 2 Pitcher Filter Replacement Cartridge, 3-Pack",
+            "normalizedName": "3-Pack Culligan PR-3 Level 2 Pitcher Filter Replacement Cartridge,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00Y4QBK46": {
+            "asin": "B00Y4QBK46",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Crayola Ultra-Clean Broad Line Markers (Pack of 12, 10 Ct)",
+            "normalizedName": "Pack of 12 Crayola Ultra-Clean Broad Line Markers ( , 10 Ct)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

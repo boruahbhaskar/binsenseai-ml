@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005W1DBCQ": {
+            "asin": "B005W1DBCQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Westland Giftware Mickey InspEARations Kissing Mickey and Minnie 4-1/4-Inch Magnetic Salt and Pepper Shakers",
+            "normalizedName": "Westland Giftware Mickey InspEARations Kissing Mickey and Minnie 4-1/4-Inch Magnetic Salt and Pepper Shakers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B014AHLFJI": {
+            "asin": "B014AHLFJI",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "WWE Wrestlemania 32 Elite Undertaker Figure",
+            "normalizedName": "WWE Wrestlemania 32 Elite Undertaker Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01E4ZBWOE": {
+            "asin": "B01E4ZBWOE",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Recall the color Womens Tights Capris Yoga Pants Running Training Leggings QK2010 (M, Pink)",
+            "normalizedName": "Recall the color Womens Tights Capris Yoga Pants Running Training Leggings QK2010 (M, Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280210165713
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

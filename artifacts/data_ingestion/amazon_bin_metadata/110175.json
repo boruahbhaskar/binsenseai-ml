@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RWASBI4": {
+            "asin": "B00RWASBI4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "SentoSphere Junior Aquarellum Flower Princesses Arts and Crafts Paint Set",
+            "normalizedName": "SentoSphere Junior Aquarellum Flower Princesses Arts and Crafts Paint Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B018FQ4DR6": {
+            "asin": "B018FQ4DR6",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "\u272a LIFETIME WARRANTY \u272a YOSH\u00ae Universal Waterproof Case Bag for Apple iPhone 6s, 6 Plus, Samsung Galaxy S6 Edge. Best Water Proof, Dust Dirt Proof, Snowproof Pouch for Cell Phone up to 6 inches(Pink)",
+            "normalizedName": "\u272a LIFETIME WARRANTY \u272a YOSH\u00ae Universal Waterproof Case Bag for Apple iPhone 6s, 6 Plus, Samsung Galaxy S6 Edge. Best Water Proof, Dust Dirt Proof, Snowproof Pouch for Cell Phone up to 6 inches(Pink)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

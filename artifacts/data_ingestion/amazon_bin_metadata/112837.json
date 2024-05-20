@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003OLAZDO": {
+            "asin": "B003OLAZDO",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Premier 120478 Bayview Towel Ring, PVD Brushed Nickel",
+            "normalizedName": "Premier 120478 Bayview Towel Ring, PVD Brushed Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B007R8XGKY": {
+            "asin": "B007R8XGKY",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Celsius Raspberry Acai Green Tea, 12-Ounce Cans (Pack of 12)",
+            "normalizedName": "(Pack of 12) Celsius Raspberry Acai Green Tea, 12-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

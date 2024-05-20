@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QCHMG2": {
+            "asin": "B000QCHMG2",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Plastair SpringHose PUW825B94H-AMZ Light Polyurethane Lead Free Drinking Water Safe Recoil Garden Hose, Green, 1/2-Inch by 25-Foot",
+            "normalizedName": "Plastair SpringHose PUW825B94H-AMZ Light Polyurethane Lead Free Drinking Water Safe Recoil Garden Hose, Green, 1/2-Inch by 25-Foot",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00GF2KVLK": {
+            "asin": "B00GF2KVLK",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Travel Shoe Bags 21.5\"x 15.5\" w/ Drawstring (Black) -Set of 4 Soft Nylon Shoe Tote Bags",
+            "normalizedName": "Set of 4 Travel Shoe Bags 21.5\"x 15.5\" w/ Drawstring (Black) - Soft Nylon Shoe Tote Bags",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

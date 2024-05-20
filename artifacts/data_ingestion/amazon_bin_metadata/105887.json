@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007ZGN8Q": {
+            "asin": "B0007ZGN8Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.141732267
+            },
+            "name": "Architec Gripperwood Gourmet Sheesham Cutting Board, 10 by 15-Inch",
+            "normalizedName": "Architec Gripperwood Gourmet Sheesham Cutting Board, 10 by 15-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.453292239587123
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.992125971
+            }
+        },
+        "B0019VJ9V0": {
+            "asin": "B0019VJ9V0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Architec The Gripper Cutting Board, 11 by 14-Inch, Turquoise",
+            "normalizedName": "Architec The Gripper Cutting Board, 11 by 14-Inch, Turquoise",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989086
+            }
+        },
+        "B00OKRSMV8": {
+            "asin": "B00OKRSMV8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Nylabone Holiday Dura Chew Dental Dino, T-Rex, Red and Green 2-Pack",
+            "normalizedName": "2-Pack Nylabone Holiday Dura Chew Dental Dino, T-Rex, Red and Green",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B017HOC4A0": {
+            "asin": "B017HOC4A0",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.2283464432
+            },
+            "name": "(50) Jello Shot Syringes Multi Pack (1.5oz), Perfect Holders and Molds for Cheap Fun Party Shots!",
+            "normalizedName": "(50) Jello Shot Syringes Multi Pack (1.5oz), Perfect Holders and Molds for Cheap Fun Party Shots!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

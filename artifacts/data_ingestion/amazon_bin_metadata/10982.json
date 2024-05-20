@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BT67ITK": {
+            "asin": "B00BT67ITK",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Starbucks Coffee Mug, You Are Here Collection, Boston, 14 Oz",
+            "normalizedName": "Starbucks Coffee Mug, You Are Here Collection, Boston, 14 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00D2JN87I": {
+            "asin": "B00D2JN87I",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Baby Shusher - The Soothing Sleep Miracle for Babies",
+            "normalizedName": "Baby Shusher - The Soothing Sleep Miracle for Babies",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

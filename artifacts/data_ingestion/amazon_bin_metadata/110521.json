@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005E7SEOI": {
+            "asin": "B005E7SEOI",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The Honeymooners : Lost Episodes 1951-1957 (The Complete Restored Series)",
+            "normalizedName": "The Honeymooners : Lost Episodes 1951-1957 (The Complete Restored Series)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B005NHT5VU": {
+            "asin": "B005NHT5VU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Large Bright Canvas Drawstring Backpacks (1 dozen) - Bulk [Toy] by Fun Express",
+            "normalizedName": "Large Bright Canvas Drawstring Backpacks (1 dozen) - Bulk [Toy] by Fun Express",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

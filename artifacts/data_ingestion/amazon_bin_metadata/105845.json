@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MHLIFO8": {
+            "asin": "B00MHLIFO8",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "LE\u00ae 12V Flexible LED Strip Lights Kit, LED Tape, 6000K Daylight White, 300 Units SMD 3528 LEDs, 73 Lumens/ft, Non Waterproof, 12 Volt LED Light Strips, Pack of 16.4ft/5m, All Accessories Included",
+            "normalizedName": "Pack of 16 LE\u00ae 12V Flexible LED Strip Lights Kit, LED Tape, 6000K Daylight White, 300 Units SMD 3528 LEDs, 73 Lumens/ft, Non Waterproof, 12 Volt LED Light Strips, .4ft/5m, All Accessories Included",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00T5K665O": {
+            "asin": "B00T5K665O",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "IPhone 6/6S Case,AnyShock Durable Full Body Protection Hybrid Case With Built-In Screen Protector for IPhone 6/6S (Green)",
+            "normalizedName": "IPhone 6/6S Case,AnyShock Durable Full Body Protection Hybrid Case With Built-In Screen Protector for IPhone 6/6S (Green)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01CCGV9NG": {
+            "asin": "B01CCGV9NG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Gym Training Gloves Sahara Sailor, Half Finger Weight Lifting Gloves, Tactical Gloves, Bike Gloves, Fitness & Crossfit Training Gloves W Wraps & Straps",
+            "normalizedName": "Gym Training Gloves Sahara Sailor, Half Finger Weight Lifting Gloves, Tactical Gloves, Bike Gloves, Fitness & Crossfit Training Gloves W Wraps & Straps",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

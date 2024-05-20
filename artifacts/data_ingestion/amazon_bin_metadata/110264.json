@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IFJ7": {
+            "asin": "B00006IFJ7",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982762
+            },
+            "name": "Crayola Classpack 200ct Ultra-Clean Washable Markers",
+            "normalizedName": "Crayola Classpack 200ct Ultra-Clean Washable Markers",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B003A6H2Y8": {
+            "asin": "B003A6H2Y8",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Sigma 50-500mm f/4.5-6.3 APO DG OS HSM SLD Ultra Telephoto Zoom Lens for Nikon Digital DSLR Camera",
+            "normalizedName": "Sigma 50-500mm f/4.5-6.3 APO DG OS HSM SLD Ultra Telephoto Zoom Lens for Nikon Digital DSLR Camera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

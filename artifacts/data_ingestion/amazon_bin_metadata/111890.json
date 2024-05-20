@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01AWAGTU2": {
+            "asin": "B01AWAGTU2",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Kingway 2 PCS Patent Laser Toner Cartridge HP 83X CF283X Canon 137 Replacement for HP LaserJet Pro M201dw M255dn Canon imageCLASS MF229dw MF216n Printers",
+            "normalizedName": "Kingway 2 PCS Patent Laser Toner Cartridge HP 83X CF283X Canon 137 Replacement for HP LaserJet Pro M201dw M255dn Canon imageCLASS MF229dw MF216n Printers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324661
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

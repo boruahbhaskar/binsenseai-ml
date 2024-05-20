@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0049U493Q": {
+            "asin": "B0049U493Q",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988576
+            },
+            "name": "Biddeford Plush Throw, Demin Heated",
+            "normalizedName": "Biddeford Plush Throw, Demin Heated",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B011J4CC9W": {
+            "asin": "B011J4CC9W",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.385826758
+            },
+            "name": "AmazonBasics 11.6-Inch Laptop Sleeve - Grey",
+            "normalizedName": "AmazonBasics 11.6-Inch Laptop Sleeve - Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6850393602
+            }
+        },
+        "B01ACTJZX6": {
+            "asin": "B01ACTJZX6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Longqi Hair Good Quality Brazilian Curly Hair Weave 3 Bundles 16 18 20Inch Virgin Human Hair Extensions Unprocessed Natural Color 95-100g/pc",
+            "normalizedName": "Longqi Hair Good Quality Brazilian Curly Hair Weave 3 Bundles 16 18 20Inch Virgin Human Hair Extensions Unprocessed Natural Color 95-100g/pc",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291276
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

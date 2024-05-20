@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GLRREU": {
+            "asin": "B000GLRREU",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Waterpik Ultra Water Flosser",
+            "normalizedName": "Waterpik Ultra Water Flosser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B001ADW58Q": {
+            "asin": "B001ADW58Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Snugpak ResponsePak Travel Bag, Olive",
+            "normalizedName": "Snugpak ResponsePak Travel Bag, Olive",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400474429946
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2913385732
+            }
+        },
+        "B0084JMC9G": {
+            "asin": "B0084JMC9G",
+            "height": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.3307086468
+            },
+            "name": "Brother Printer TN720 Toner Cartridge",
+            "normalizedName": "Brother Printer TN720 Toner Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.984140106746738
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "B00MVBA42A": {
+            "asin": "B00MVBA42A",
+            "height": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Bell Segment Bike Helmet - Matte Jimbo Punker Large",
+            "normalizedName": "Bell Segment Bike Helmet - Matte Jimbo Punker Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

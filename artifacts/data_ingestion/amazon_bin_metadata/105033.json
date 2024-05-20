@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I03L3BO": {
+            "asin": "B00I03L3BO",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Fisher-Price Imaginext DC Super Friends: Bane Battle Sled",
+            "normalizedName": "Fisher-Price Imaginext DC Super Friends: Bane Battle Sled",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B0186DR9VA": {
+            "asin": "B0186DR9VA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Christmas Holiday Baking Tray Molds - Christmas Tree, Snowflake, Gingerbread Boy and More",
+            "normalizedName": "Christmas Holiday Baking Tray Molds - Christmas Tree, Snowflake, Gingerbread Boy and More",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

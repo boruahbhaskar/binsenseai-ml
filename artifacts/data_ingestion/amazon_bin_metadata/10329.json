@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IMJ2L62": {
+            "asin": "B00IMJ2L62",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Avery No-Iron Clothing Labels, White, Assorted, Pack of 45 (40700)",
+            "normalizedName": "Pack of 45 Avery No-Iron Clothing Labels, White, Assorted, (40700)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00NHQICQI": {
+            "asin": "B00NHQICQI",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "LEGO Star Wars 75074 Snowspeeder",
+            "normalizedName": "LEGO Star Wars 75074 Snowspeeder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01BVZPJ3K": {
+            "asin": "B01BVZPJ3K",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "Milwaukee Brewers BABY/Infant MLB Boot Slippers Large 6-9 Months",
+            "normalizedName": "Milwaukee Brewers BABY/Infant MLB Boot Slippers Large 6-9 Months",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        },
+        "B01FAY5KGY": {
+            "asin": "B01FAY5KGY",
+            "height": {
+                "unit": "IN",
+                "value": 0.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.5
+            },
+            "name": "10PCS Colorful silicone anti dust plug for Fitbit Surge",
+            "normalizedName": "10PCS Colorful silicone anti dust plug for Fitbit Surge",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

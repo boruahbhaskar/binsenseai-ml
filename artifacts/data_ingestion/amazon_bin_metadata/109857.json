@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00526IQ62": {
+            "asin": "B00526IQ62",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Epilady Speed Corded Epilator",
+            "normalizedName": "Epilady Speed Corded Epilator",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B005JRGH0G": {
+            "asin": "B005JRGH0G",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Dial Antibacterial Deodorant Soap, White, 10 Count (Pack of 3)",
+            "normalizedName": "(Pack of 3) Dial Antibacterial Deodorant Soap, White, 10 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.609999993618326
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00SWG2EVC": {
+            "asin": "B00SWG2EVC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Desitin Maximum Strength Original Diaper Rash Paste 4 oz tube (Pack of 3)",
+            "normalizedName": "(Pack of 3) Desitin Maximum Strength Original Diaper Rash Paste 4 oz tube",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

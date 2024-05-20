@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005BXW9O6": {
+            "asin": "B005BXW9O6",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372002
+            },
+            "name": "Dymatize Elite Gourmet Swiss Chocolate, 5 Pound",
+            "normalizedName": "Dymatize Elite Gourmet Swiss Chocolate, 5 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.749999995178104
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01DCO56PY": {
+            "asin": "B01DCO56PY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Balance Living\u00ae Fins, Mask and Snorkel Pool Toy Set (for ages 3-8)",
+            "normalizedName": "Balance Living\u00ae Fins, Mask and Snorkel Pool Toy Set (for ages 3-8)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

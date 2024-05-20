@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002N6F2UW": {
+            "asin": "B002N6F2UW",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Dymatize ISO 100 Post Workout and Recovery Supplements, Gourmet Chocolate, 5 Pound",
+            "normalizedName": "Dymatize ISO 100 Post Workout and Recovery Supplements, Gourmet Chocolate, 5 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B003YMX0W6": {
+            "asin": "B003YMX0W6",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "ACDelco 18A971A Advantage Non-Coated Front Disc Brake Rotor",
+            "normalizedName": "ACDelco 18A971A Advantage Non-Coated Front Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B00AA916UE": {
+            "asin": "B00AA916UE",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Mega Bloks First Builders Catie Convertible",
+            "normalizedName": "Mega Bloks First Builders Catie Convertible",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00PRR1VFY": {
+            "asin": "B00PRR1VFY",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "YardDesign Primitive Welcome Yard Sign #71115",
+            "normalizedName": "YardDesign Primitive Welcome Yard Sign #71115",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

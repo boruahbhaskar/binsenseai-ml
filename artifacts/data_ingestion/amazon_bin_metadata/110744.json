@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001L1REDI": {
+            "asin": "B001L1REDI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Smead Pressboard Classification File Folder with SafeSHIELD\u00ae Fasteners, 3 Dividers, 3\" Expansion, Letter Size, Red, 10 per Box (14092)",
+            "normalizedName": "Smead Pressboard Classification File Folder with SafeSHIELD\u00ae Fasteners, 3 Dividers, 3\" Expansion, Letter Size, Red, 10 per Box (14092)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00SY48CU4": {
+            "asin": "B00SY48CU4",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "1x Large Super Bright 24 LED Solar Garden Pathway Outdoor Light. Ideal for Path Patio Deck Driveway and Garden",
+            "normalizedName": "1x Large Super Bright 24 LED Solar Garden Pathway Outdoor Light. Ideal for Path Patio Deck Driveway and Garden",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

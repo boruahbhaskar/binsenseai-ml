@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LLHNNSM": {
+            "asin": "B00LLHNNSM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Smoke Odor Exterminator 13oz Jar Candle, Enchanted Sea",
+            "normalizedName": "Smoke Odor Exterminator 13oz Jar Candle, Enchanted Sea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00QAVJT32": {
+            "asin": "B00QAVJT32",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7401574714
+            },
+            "name": "MeasuPro All-In-One Instant Read Digital Meat Cooking Thermometer for Oven, Grill and BBQ, with Timer and Stainless Steel Probe, Silver",
+            "normalizedName": "MeasuPro All-In-One Instant Read Digital Meat Cooking Thermometer for Oven, Grill and BBQ, with Timer and Stainless Steel Probe, Silver",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6141732216
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

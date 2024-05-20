@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DAZG2VS": {
+            "asin": "B00DAZG2VS",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "name": "Norvell Sunless Tanning Norvell Amber Sun Renewing Sunless Exfoliator- Body Scrub",
+            "normalizedName": "Norvell Sunless Tanning Norvell Amber Sun Renewing Sunless Exfoliator- Body Scrub",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.32999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        },
+        "B00P8ZAWK0": {
+            "asin": "B00P8ZAWK0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Kirkland Signature Adults 50+ Mature Multi, 400 Tablets",
+            "normalizedName": "Kirkland Signature Adults 50+ Mature Multi, 400 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

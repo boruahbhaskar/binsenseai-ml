@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007RDMWFY": {
+            "asin": "B007RDMWFY",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "name": "No Rinse Aqua Wash Gloves, Sensitive (Pouch of 12 Gloves)",
+            "normalizedName": "No Rinse Aqua Wash Gloves, Sensitive (Pouch of 12 Gloves)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400467034918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        },
+        "B00D9NV2D4": {
+            "asin": "B00D9NV2D4",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Unrefined Shea Butter by Better Shea Butter - African, Raw, Pure - Use Alone or in DIY Body Butters, Lotions, Soap, Eczema & Stretch Marks Products, Lotion Bars, Lip Balms and More! - 1 lb (16 oz)",
+            "normalizedName": "Unrefined Shea Butter by Better Shea Butter - African, Raw, Pure - Use Alone or in DIY Body Butters, Lotions, Soap, Eczema & Stretch Marks Products, Lotion Bars, Lip Balms and More! - 1 lb (16 oz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00RY3MXAG": {
+            "asin": "B00RY3MXAG",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Maytag Whirlpool Water Drain Pump Motor Only P/n 8181684 ONLY MOTOR",
+            "normalizedName": "Maytag Whirlpool Water Drain Pump Motor Only P/n 8181684 ONLY MOTOR",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00ZKAE1GY": {
+            "asin": "B00ZKAE1GY",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "YONGNUO YN600EX-RT 600EX-RT Auto TTL HSS Flash Speedlite with Radio Slave for Canon",
+            "normalizedName": "YONGNUO YN600EX-RT 600EX-RT Auto TTL HSS Flash Speedlite with Radio Slave for Canon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

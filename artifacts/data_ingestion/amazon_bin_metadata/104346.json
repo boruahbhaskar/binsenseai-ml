@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003ZZY8NM": {
+            "asin": "B003ZZY8NM",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "9\" x 12\", 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, Case of 1000",
+            "normalizedName": "Case of 1000 9\" x 12\", 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 16.04999998654062
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

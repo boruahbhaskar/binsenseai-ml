@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011HAWZ2W": {
+            "asin": "B011HAWZ2W",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Pumice Cleaning Stone with Handle - High Density, Sturdy, Fine Grit",
+            "normalizedName": "Pumice Cleaning Stone with Handle - High Density, Sturdy, Fine Grit",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B01BBJB7CI": {
+            "asin": "B01BBJB7CI",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "ForLazzy \u00ae Universal Flexible Gooseneck Long Arms Clamp Based Cell Phone Holder Lazy Bracket Mobile Stand Support all Smartphone iPhone Galaxy for Bedroom, Bathroom, Office, Study, Kitchen (White)",
+            "normalizedName": "ForLazzy \u00ae Universal Flexible Gooseneck Long Arms Clamp Based Cell Phone Holder Lazy Bracket Mobile Stand Support all Smartphone iPhone Galaxy for Bedroom, Bathroom, Office, Study, Kitchen (White)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

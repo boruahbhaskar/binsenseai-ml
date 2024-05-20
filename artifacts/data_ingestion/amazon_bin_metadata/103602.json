@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BUOSC0": {
+            "asin": "B000BUOSC0",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Camco 22735 TastePURE Drinking Water Hose (1/2\"ID x 25') - Lead Free",
+            "normalizedName": "Camco 22735 TastePURE Drinking Water Hose (1/2\"ID x 25') - Lead Free",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.399975502483482
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00GWCEZ60": {
+            "asin": "B00GWCEZ60",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "Renogy 1000W 12V Off-Grid Pure-Sine Wave Battery Inverter w/ Cables",
+            "normalizedName": "Renogy 1000W 12V Off-Grid Pure-Sine Wave Battery Inverter w/ Cables",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

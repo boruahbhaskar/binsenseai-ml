@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007UVZ1WO": {
+            "asin": "B007UVZ1WO",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "6.50 Inch Ceramic Emergency Fund Savings Piggy/Coin/Money Bank",
+            "normalizedName": "6.50 Inch Ceramic Emergency Fund Savings Piggy/Coin/Money Bank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00F3BG028": {
+            "asin": "B00F3BG028",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "C&C Metal Products 5351 Rope Edge Dome Metal Button, Size 36 Ligne, Gold, 36-Pack",
+            "normalizedName": "36-Pack C&C Metal Products 5351 Rope Edge Dome Metal Button, Size 36 Ligne, Gold,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00FPQQKI0": {
+            "asin": "B00FPQQKI0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Franklin Sports Birdies Shuttlecock (6-Pack)",
+            "normalizedName": "(6-Pack) Franklin Sports Birdies Shuttlecock",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IWU5MDK": {
+            "asin": "B00IWU5MDK",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Disney Parks Finding Nemo Ears Hat NEW",
+            "normalizedName": "Disney Parks Finding Nemo Ears Hat NEW",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00W9AH4CQ": {
+            "asin": "B00W9AH4CQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.2598425082
+            },
+            "name": "Y-Ply Multifunctional portable outdoor beach chair relaxation and resting device - Lay on the beach in comfort use this as a back rest, head rest, neck rest, pillow, foot rest, small foldable chair \u2013 Light Blue",
+            "normalizedName": "Y-Ply Multifunctional portable outdoor beach chair relaxation and resting device - Lay on the beach in comfort use this as a back rest, head rest, neck rest, pillow, foot rest, small foldable chair \u2013 Light Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200830252405
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "B01BFC7RWU": {
+            "asin": "B01BFC7RWU",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Shoe Slotz Space Saver, 6 piece set",
+            "normalizedName": "Shoe Slotz Space Saver, 6 piece set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

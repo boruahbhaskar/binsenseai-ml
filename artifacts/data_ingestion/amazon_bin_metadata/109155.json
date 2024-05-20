@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1572595906": {
+            "asin": "1572595906",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Psychology",
+            "normalizedName": "Psychology",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514
+            }
+        },
+        "B00IA2BH70": {
+            "asin": "B00IA2BH70",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Giromax Skylanders Super Pack",
+            "normalizedName": "Giromax Skylanders Super Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007PM4KPW": {
+            "asin": "B007PM4KPW",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Racor LDL-1B Ladder Lift",
+            "normalizedName": "Racor LDL-1B Ladder Lift",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00MJYDIGS": {
+            "asin": "B00MJYDIGS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "LEGO Minecraft 21114 The Farm",
+            "normalizedName": "LEGO Minecraft 21114 The Farm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B0186GDCPO": {
+            "asin": "B0186GDCPO",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Kidsthrill Bump And Go Electric Rescue Fire Engine Ladder Truck \u2013 Kids Action Toy With Lights And Sounds",
+            "normalizedName": "Kidsthrill Bump And Go Electric Rescue Fire Engine Ladder Truck \u2013 Kids Action Toy With Lights And Sounds",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

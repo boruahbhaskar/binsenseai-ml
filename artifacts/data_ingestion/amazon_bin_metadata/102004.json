@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UUWBL6": {
+            "asin": "B000UUWBL6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Neatnix Round Stuff Bucket, Hot Pink and Black",
+            "normalizedName": "Neatnix Round Stuff Bucket, Hot Pink and Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0012XIUP6": {
+            "asin": "B0012XIUP6",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "5 lb. Kettlebell",
+            "normalizedName": "5 lb. Kettlebell",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B012D0JJPQ": {
+            "asin": "B012D0JJPQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "SoundBot\u00ae SB271 Stereo Bluetooth 4.1 (Latest Version) Wireless Headphone for Music Streaming & Hands-Free Calling w/ 12Hrs Talk Time, 250Hrs Standby Time, Built-in Mic, Noise Reduction Ear-cup (BLACK)",
+            "normalizedName": "SoundBot\u00ae SB271 Stereo Bluetooth 4.1 (Latest Version) Wireless Headphone for Music Streaming & Hands-Free Calling w/ 12Hrs Talk Time, 250Hrs Standby Time, Built-in Mic, Noise Reduction Ear-cup (BLACK)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

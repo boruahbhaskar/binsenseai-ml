@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ANL563W": {
+            "asin": "B00ANL563W",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Goody's Back and Body Pain Formula, 24 Count",
+            "normalizedName": "Goody's Back and Body Pain Formula, 24 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00O3ZEBX0": {
+            "asin": "B00O3ZEBX0",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Bare Minerals READY Foundation Broad Spectrum SPF20 R170 (Formerly Fairly Light) 0.49 oz",
+            "normalizedName": "Bare Minerals READY Foundation Broad Spectrum SPF20 R170 (Formerly Fairly Light) 0.49 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400467034919
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01B1GE6KG": {
+            "asin": "B01B1GE6KG",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Laser Lights Outdoor Starry Projector Red and Green Blinking Christmas light Decoration for House Valentine Wedding Party Nightclub",
+            "normalizedName": "Laser Lights Outdoor Starry Projector Red and Green Blinking Christmas light Decoration for House Valentine Wedding Party Nightclub",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

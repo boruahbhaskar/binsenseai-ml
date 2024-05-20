@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JR8K8DA": {
+            "asin": "B00JR8K8DA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Mazuri Rat & Mouse Food, 2 lbs.",
+            "normalizedName": "Mazuri Rat & Mouse Food, 2 lbs.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00YX3LWNE": {
+            "asin": "B00YX3LWNE",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Sleep Mask - This Satin Sleeping Mask Is the Best Eye Mask for Men Women and Kids. It Has an Extremely Comfortable Design That Blocks All Light and Is Odorless Guaranteed! Nightowl REM Sleep Mask Is the Best Product for Your Travel and Sleep Needs!",
+            "normalizedName": "Sleep Mask - This Satin Sleeping Mask Is the Best Eye Mask for Men Women and Kids. It Has an Extremely Comfortable Design That Blocks All Light and Is Odorless Guaranteed! Nightowl REM Sleep Mask Is the Best Product for Your Travel and Sleep Needs!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00Z7RQA3W": {
+            "asin": "B00Z7RQA3W",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Lifeproof FRE SERIES iPhone 6/6s Waterproof Case (4.7\" Version) - Retail Packaging - AVALANCHE (BRIGHT WHITE/COOL GRAY)",
+            "normalizedName": "Lifeproof FRE SERIES iPhone 6/6s Waterproof Case (4.7\" Version) - Retail Packaging - AVALANCHE (BRIGHT WHITE/COOL GRAY)",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B011WNKWII": {
+            "asin": "B011WNKWII",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "String lights,Addlon Solar LED Christmas Lights ,72ft(22m) 200 LED Novelty Fairy String Lights,Ambiance lighting for Outdoor, Patio, Lawn, Landscape, Fairy Garden, Home, Wedding, Holiday, Christmas Party, ,waterproof (Multicolor)",
+            "normalizedName": "String lights,Addlon Solar LED Christmas Lights ,72ft(22m) 200 LED Novelty Fairy String Lights,Ambiance lighting for Outdoor, Patio, Lawn, Landscape, Fairy Garden, Home, Wedding, Holiday, Christmas Party, ,waterproof (Multicolor)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

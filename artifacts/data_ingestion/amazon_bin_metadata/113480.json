@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0018HJ8LQ": {
+            "asin": "B0018HJ8LQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Red Heart E728.9518 Soft Yarn, Teal",
+            "normalizedName": "Red Heart E728.9518 Soft Yarn, Teal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B004HKITXY": {
+            "asin": "B004HKITXY",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Koch 7641040 Roller Chain Offset Link, 4-Pack, #41",
+            "normalizedName": "4-Pack Koch 7641040 Roller Chain Offset Link, , #41",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00FEKQZE6": {
+            "asin": "B00FEKQZE6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Skylanders SWAP Force: Stink Bomb (SWAP-able)",
+            "normalizedName": "Skylanders SWAP Force: Stink Bomb (SWAP-able)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01D8YBSOG": {
+            "asin": "B01D8YBSOG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Ole's Pancake & Waffle Mix (pack of 3)",
+            "normalizedName": "Ole's Pancake & Waffle Mix (pack of 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

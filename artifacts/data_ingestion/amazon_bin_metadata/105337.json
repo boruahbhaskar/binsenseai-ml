@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004MNO8HC": {
+            "asin": "B004MNO8HC",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Samsung DA29-00003G Aqua-Pure Plus Refrigerator Water Filter, 2-Pack",
+            "normalizedName": "2-Pack Samsung DA29-00003G Aqua-Pure Plus Refrigerator Water Filter,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B0085JN42Y": {
+            "asin": "B0085JN42Y",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Beneful Wet Dog Food, Prepared Meals, Stew Variety Pack, 10-Ounce Tub, Pack of 6",
+            "normalizedName": "Pack of 6 Beneful Wet Dog Food, Prepared Meals, Stew Variety Pack, 10-Ounce Tub,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

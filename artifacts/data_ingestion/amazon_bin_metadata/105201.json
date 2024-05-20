@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JKQ81ZQ": {
+            "asin": "B00JKQ81ZQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Nature's Bounty Co Q-10, Extra Strength, 200mg Bonus (value Size), 80 Softgels (3)",
+            "normalizedName": "Nature's Bounty Co Q-10, Extra Strength, 200mg Bonus (value Size), 80 Softgels (3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B018DWZS12": {
+            "asin": "B018DWZS12",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Goliath Games Rocket Fishing Rod Bobbers",
+            "normalizedName": "Goliath Games Rocket Fishing Rod Bobbers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

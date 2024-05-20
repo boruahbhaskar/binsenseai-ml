@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CWK2G4Y": {
+            "asin": "B00CWK2G4Y",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Funny Guy Mugs Mooning Gnome Statue",
+            "normalizedName": "Funny Guy Mugs Mooning Gnome Statue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01BJM71S6": {
+            "asin": "B01BJM71S6",
+            "height": {
+                "unit": "IN",
+                "value": 0.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0
+            },
+            "name": "Denver Broncos Super Bowl 50 Champs Beyond Victory Navy Long Sleeve T-shirt Large",
+            "normalizedName": "Denver Broncos Super Bowl 50 Champs Beyond Victory Navy Long Sleeve T-shirt Large",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 12.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

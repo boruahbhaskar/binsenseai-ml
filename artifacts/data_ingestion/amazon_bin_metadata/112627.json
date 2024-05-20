@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004Q3SBYO": {
+            "asin": "B004Q3SBYO",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Playtex Gentle Glide Tampons with Triple Layer Protection, Regular and Super  Multi-Pack, Unscented - 50 Count",
+            "normalizedName": "Playtex Gentle Glide Tampons with Triple Layer Protection, Regular and Super  Multi-Pack, Unscented - 50 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B008WN4QTS": {
+            "asin": "B008WN4QTS",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Cute Bear Comfy Dog Pajams Dog Shirt Stripes Dog Jumpsuit Pet Dog Clothes Free Shipping,Pink,XL",
+            "normalizedName": "Cute Bear Comfy Dog Pajams Dog Shirt Stripes Dog Jumpsuit Pet Dog Clothes Free Shipping,Pink,XL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00AGCHVS6": {
+            "asin": "B00AGCHVS6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Ryobi P102 18 Volt One Lithium Ion Compact Battery",
+            "normalizedName": "Ryobi P102 18 Volt One Lithium Ion Compact Battery",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0299999991362516
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00GO4OHBE": {
+            "asin": "B00GO4OHBE",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Oyster Shells Stainless Steel Reusable",
+            "normalizedName": "Oyster Shells Stainless Steel Reusable",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8224374971949715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

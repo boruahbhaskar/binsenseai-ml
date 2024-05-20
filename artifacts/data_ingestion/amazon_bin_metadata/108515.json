@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007KIFK0": {
+            "asin": "B0007KIFK0",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Hogan's Heroes - The Complete First Season",
+            "normalizedName": "Hogan's Heroes - The Complete First Season",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B012D2X1LC": {
+            "asin": "B012D2X1LC",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "Hape The Little Prince Exclusive Figurines - Adventure Toy Figure",
+            "normalizedName": "Hape The Little Prince Exclusive Figurines - Adventure Toy Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1905662335": {
+            "asin": "1905662335",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Photograph",
+            "normalizedName": "Photograph",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.24999999643599
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00LGPI4L0": {
+            "asin": "B00LGPI4L0",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Savoy House 8-232-1-109, Downing 1-Light Bath Bar, Polished Nickel",
+            "normalizedName": "Savoy House 8-232-1-109, Downing 1-Light Bath Bar, Polished Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

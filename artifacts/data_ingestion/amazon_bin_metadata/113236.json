@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TW72M94": {
+            "asin": "B00TW72M94",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Nespresso Compatible Capsules - Variety Pack (60 Pods) - Fit to All Nespresso Original Line Machine -By Rosso Caffe - 60 Days Satisfaction Guarantee",
+            "normalizedName": "Nespresso Compatible Capsules - Variety Pack (60 Pods) - Fit to All Nespresso Original Line Machine -By Rosso Caffe - 60 Days Satisfaction Guarantee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01DIFF7NI": {
+            "asin": "B01DIFF7NI",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Hotel Quality Waffle Weave 100% Cotton Shower Curtain - 72\" Wide x 72\" Long - Black",
+            "normalizedName": "Hotel Quality Waffle Weave 100% Cotton Shower Curtain - 72\" Wide x 72\" Long - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

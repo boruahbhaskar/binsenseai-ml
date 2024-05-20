@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VPXIZS": {
+            "asin": "B000VPXIZS",
+            "height": {
+                "unit": "IN",
+                "value": 3.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3
+            },
+            "name": "Clear Care Cleaning & Disinfecting Solution (2 X 16fl Oz Packs)",
+            "normalizedName": "Clear Care Cleaning & Disinfecting Solution (2 X 16fl Oz Packs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8
+            }
+        },
+        "B00OLA0HIU": {
+            "asin": "B00OLA0HIU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "\"BEACH\" French Country Burlap Accent Pillow - White Print with Starfish - 6-in x 12-in",
+            "normalizedName": "\"BEACH\" French Country Burlap Accent Pillow - White Print with Starfish - 6-in x 12-in",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DQGCTA4": {
+            "asin": "B00DQGCTA4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Pyle PBTW20BL Surf Sound 2-In-1 Waterproof Bluetooth Shower Speaker and  Call Answering Microphone, Blue",
+            "normalizedName": "Pyle PBTW20BL Surf Sound 2-In-1 Waterproof Bluetooth Shower Speaker and  Call Answering Microphone, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01C3RRDPW": {
+            "asin": "B01C3RRDPW",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Bedtime Sleeper Bed Risers or Furniture Riser in Heights of 8, 5 or 3 Inches Heavy Duty Set of 4",
+            "normalizedName": "Set of 4 Bedtime Sleeper Bed Risers or Furniture Riser in Heights of 8, 5 or 3 Inches Heavy Duty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.099999995723188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01GLS0C2K": {
+            "asin": "B01GLS0C2K",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Shuttle Art 120 Unique Colors Gel Pen Set \u2605 The Most Colors Set (120 COLORS) \u2605 No Duplicates \u2605 9 Types Of Ink \u2605 Perfect For Adult Coloring Books",
+            "normalizedName": "Shuttle Art 120 Unique Colors Gel Pen Set \u2605 The Most Colors Set (120 COLORS) \u2605 No Duplicates \u2605 9 Types Of Ink \u2605 Perfect For Adult Coloring Books",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

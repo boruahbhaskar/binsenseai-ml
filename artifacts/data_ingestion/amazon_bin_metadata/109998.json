@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003L1ZYZ6": {
+            "asin": "B003L1ZYZ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.3779527545
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "AmazonBasics Wireless Remote Control for Nikon Digital SLR Cameras",
+            "normalizedName": "AmazonBasics Wireless Remote Control for Nikon Digital SLR Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B00KDKSZ8Q": {
+            "asin": "B00KDKSZ8Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Playskool Heroes Marvel Super Hero Adventures Spiderman and Green Goblin Figures",
+            "normalizedName": "Playskool Heroes Marvel Super Hero Adventures Spiderman and Green Goblin Figures",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

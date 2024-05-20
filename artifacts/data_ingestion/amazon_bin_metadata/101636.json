@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008L1113A": {
+            "asin": "B008L1113A",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Fee Brothers Celery Bitters 5oz",
+            "normalizedName": "Fee Brothers Celery Bitters 5oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B010MIEJKG": {
+            "asin": "B010MIEJKG",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "NCAA Nebraska Cornhuskers Hybrid Case for iPhone 6, Black, One 6",
+            "normalizedName": "NCAA Nebraska Cornhuskers Hybrid Case for iPhone 6, Black, One 6",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01COYYPPU": {
+            "asin": "B01COYYPPU",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Pawliss 2.5\" Mini Cute Emoji Keychain Plush Toy Bag Accessory Pack of 8",
+            "normalizedName": "Pack of 8 Pawliss 2.5\" Mini Cute Emoji Keychain Plush Toy Bag Accessory",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01CVA1618": {
+            "asin": "B01CVA1618",
+            "height": {
+                "unit": "IN",
+                "value": 0.749999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Toddler PILLOW CASE - 100% Cotton, Hypoallergenic and Machine washable - Fits 13\"x18\" and 14\"x19\" Toddler Pillows - Premium quality kids bedding - Pink",
+            "normalizedName": "Toddler PILLOW CASE - 100% Cotton, Hypoallergenic and Machine washable - Fits 13\"x18\" and 14\"x19\" Toddler Pillows - Premium quality kids bedding - Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13999999988259734
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.249999992605
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

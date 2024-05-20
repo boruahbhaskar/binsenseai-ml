@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012ENWG48": {
+            "asin": "B012ENWG48",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Cross 2016 Year of The Monkey, Brushed Tibetan Teal & 23KT Gold Ballpoint Pen (AT0312-22)",
+            "normalizedName": "Cross 2016 Year of The Monkey, Brushed Tibetan Teal & 23KT Gold Ballpoint Pen (AT0312-22)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B015MA5J3K": {
+            "asin": "B015MA5J3K",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Running Belt (Black, Extra Large 35\"-38\")",
+            "normalizedName": "Running Belt (Black, Extra Large 35\"-38\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B019EOIIJM": {
+            "asin": "B019EOIIJM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "1:1:1 Ratio BCAA Powder | AMRAP Nutrition - Branched Chain Amino Acid Recovery Powder",
+            "normalizedName": "1:1:1 Ratio BCAA Powder | AMRAP Nutrition - Branched Chain Amino Acid Recovery Powder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

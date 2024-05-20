@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J657ZI": {
+            "asin": "B000J657ZI",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Staedtler Triplus Textsurfer Highlighter, 4 Color Set (362 SB4)",
+            "normalizedName": "Staedtler Triplus Textsurfer Highlighter, 4 Color Set (362 SB4)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.6535433054
+            }
+        },
+        "B011EJNY9O": {
+            "asin": "B011EJNY9O",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Samsung USB Data Cable for Galaxy S3/S4/Note 2 & Other Smartphones, 5 Pack - Non-Retail Packaging - White",
+            "normalizedName": "5 Pack Samsung USB Data Cable for Galaxy S3/S4/Note 2 & Other Smartphones, - Non-Retail Packaging - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B014GUKH7A": {
+            "asin": "B014GUKH7A",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Staedtler Triplus Fineliner 0.3mm - Pack of Six (6 Black)",
+            "normalizedName": "Staedtler Triplus Fineliner 0.3mm - Pack of Six (6 Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01CMKA3OS": {
+            "asin": "B01CMKA3OS",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "iPhone 5S Case, iPhone 5 Case, Apoptech Dual Layer Shockproof iPhone 5s Protective Shell Soft TPU Bumper + Hard Back Cover Hybrid Impact Resistant Case for Apple iPhone 5/5S - Blue",
+            "normalizedName": "iPhone 5S Case, iPhone 5 Case, Apoptech Dual Layer Shockproof iPhone 5s Protective Shell Soft TPU Bumper + Hard Back Cover Hybrid Impact Resistant Case for Apple iPhone 5/5S - Blue",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

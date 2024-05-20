@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BO0Y24": {
+            "asin": "B000BO0Y24",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "MSA Safety Works 10059484 Expandable Foam Ear Plugs in Counter Display, 100-Pair",
+            "normalizedName": "MSA Safety Works 10059484 Expandable Foam Ear Plugs in Counter Display, 100-Pair",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B002665ZTC": {
+            "asin": "B002665ZTC",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Rat Zapper Classic RZC001",
+            "normalizedName": "Rat Zapper Classic RZC001",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

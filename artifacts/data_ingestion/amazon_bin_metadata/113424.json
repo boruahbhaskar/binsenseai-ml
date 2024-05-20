@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003FDG4K4": {
+            "asin": "B003FDG4K4",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Orgain Creamy Chocolate Fudge, 11-Ounce Container (Pack of 12)(Packaging may vary)",
+            "normalizedName": "(Pack of 12) Orgain Creamy Chocolate Fudge, 11-Ounce Container (Packaging may vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.949999991656023
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00B3MRU8O": {
+            "asin": "B00B3MRU8O",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.4015747854
+            },
+            "name": "1 X Smith & Wesson - Hostiles Metal Tin Sign 12.5\" X 16\"",
+            "normalizedName": "1 X Smith & Wesson - Hostiles Metal Tin Sign 12.5\" X 16\"",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.7559054988
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

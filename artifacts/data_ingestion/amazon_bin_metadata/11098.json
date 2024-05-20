@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008RHBJ8K": {
+            "asin": "B008RHBJ8K",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "INNOVA 3130c Diagnostic Scan Tool/Code Reader with Fix Assist for OBD2 Vehicles",
+            "normalizedName": "INNOVA 3130c Diagnostic Scan Tool/Code Reader with Fix Assist for OBD2 Vehicles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B011L1YHH8": {
+            "asin": "B011L1YHH8",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Exlight Solar Powered Rechargeable Mosaic Border Garden Post Lights for Garden Decoration Christmas Gift Blue Purple and Yellow Mosaic Lantern Auto Sensor Easy Installation Pack of 6",
+            "normalizedName": "Pack of 6 Exlight Solar Powered Rechargeable Mosaic Border Garden Post Lights for Garden Decoration Christmas Gift Blue Purple and Yellow Mosaic Lantern Auto Sensor Easy Installation",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

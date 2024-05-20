@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003OOS7C2": {
+            "asin": "B003OOS7C2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Type G/N Airclean Filterbags, 1 Box",
+            "normalizedName": "Type G/N Airclean Filterbags, 1 Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01CRILWGS": {
+            "asin": "B01CRILWGS",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "B&O PLAY by Bang & Olufsen BeoPlay H3 In-Ear Headphones 2nd. Generation, Natural (1643246)",
+            "normalizedName": "B&O PLAY by Bang & Olufsen BeoPlay H3 In-Ear Headphones 2nd. Generation, Natural (1643246)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.48501202568692053
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

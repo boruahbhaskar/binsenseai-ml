@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DNGZ4CM": {
+            "asin": "B00DNGZ4CM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "PylePro PDWM3375 Premier Series Professional 2-Channel UHF Wireless Handheld Microphone System with Selectable Frequencies",
+            "normalizedName": "PylePro PDWM3375 Premier Series Professional 2-Channel UHF Wireless Handheld Microphone System with Selectable Frequencies",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00FDM87IW": {
+            "asin": "B00FDM87IW",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Wild Planet Wild Anchovies in Water,  4.375 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Wild Planet Wild Anchovies in Water,  4.375 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.549999996184413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

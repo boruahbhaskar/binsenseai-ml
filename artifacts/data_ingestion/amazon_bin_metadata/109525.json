@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014DEJAMM": {
+            "asin": "B014DEJAMM",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Barbie Happy Birthday Doll",
+            "normalizedName": "Barbie Happy Birthday Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645520140110475
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B01BVJBTAI": {
+            "asin": "B01BVJBTAI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "(2016 New Arrival) Tribord Easybreath Surface Snorkelling Mask for Diving (Blue, M/L)",
+            "normalizedName": "(2016 New Arrival) Tribord Easybreath Surface Snorkelling Mask for Diving (Blue, M/L)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

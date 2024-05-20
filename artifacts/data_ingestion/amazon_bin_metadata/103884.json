@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00512J84G": {
+            "asin": "B00512J84G",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Colorescience Skin Calming Face SPF 20 Primer, 1 fl. oz.",
+            "normalizedName": "Colorescience Skin Calming Face SPF 20 Primer, 1 fl. oz.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B017J4XSNK": {
+            "asin": "B017J4XSNK",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Durable Color-Your-Own Holiday Stocking with 6 Premium Fabric Markers. Christmas Tree Design. A Unique Arts & Crafts Keepsake. Makes a Great Gift. Satisfaction Guaranteed",
+            "normalizedName": "Durable Color-Your-Own Holiday Stocking with 6 Premium Fabric Markers. Christmas Tree Design. A Unique Arts & Crafts Keepsake. Makes a Great Gift. Satisfaction Guaranteed",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

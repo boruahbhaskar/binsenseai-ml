@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Y20CUVG": {
+            "asin": "B00Y20CUVG",
+            "height": {
+                "unit": "IN",
+                "value": 0.1099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "\u2605 3 Bottles of SD-200 at 30% Off (Limited Quantity) \u2605 Genuine Tongkat Ali Extract 200:1 \u00b7 Natural Testosterone Booster \u00b7 Tongkat Ali Is Also Known As Longjack or Eurycoma Longifolia Jack",
+            "normalizedName": "\u2605 3 Bottles of SD-200 at 30% Off (Limited Quantity) \u2605 Genuine Tongkat Ali Extract 200:1 \u00b7 Natural Testosterone Booster \u00b7 Tongkat Ali Is Also Known As Longjack or Eurycoma Longifolia Jack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

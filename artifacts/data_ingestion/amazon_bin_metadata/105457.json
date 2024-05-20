@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EVX0ZH0": {
+            "asin": "B00EVX0ZH0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Barbie Careers Pet Vet Playset",
+            "normalizedName": "Barbie Careers Pet Vet Playset",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

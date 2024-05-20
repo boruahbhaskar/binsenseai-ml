@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZKEMBUS": {
+            "asin": "B00ZKEMBUS",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Hostess Cup Cakes, Orange, 8 Cupcakes (Pack of 6)",
+            "normalizedName": "(Pack of 6) Hostess Cup Cakes, Orange, 8 Cupcakes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.599999994465302
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B01DPUFUDI": {
+            "asin": "B01DPUFUDI",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "12-Pc. Rustic Melamine Dinnerware Set",
+            "normalizedName": "12-Pc. Rustic Melamine Dinnerware Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.34999999551354
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

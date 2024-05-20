@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V3RIG8C": {
+            "asin": "B00V3RIG8C",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "BOSS AUDIO 638BCK Package Includes 611UAB Single-DIN AM/FM  Mechless Bluetooth Enabled/Audio Streaming Digital Media Receiver Plus One Pair of 6.5 Inch 2-Way Speakers",
+            "normalizedName": "BOSS AUDIO 638BCK Package Includes 611UAB Single-DIN AM/FM  Mechless Bluetooth Enabled/Audio Streaming Digital Media Receiver Plus One Pair of 6.5 Inch 2-Way Speakers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B016YFCTLC": {
+            "asin": "B016YFCTLC",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Clara Clark\u00ae Camouflage Collection Gray CAMO Printed 4 Piece Bed Sheet Set Natural, Queen Size",
+            "normalizedName": "Clara Clark\u00ae Camouflage Collection Gray CAMO Printed 4 Piece Bed Sheet Set Natural, Queen Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003F2QD2Y": {
+            "asin": "B003F2QD2Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "StealStreet SS-G-155.06 5-Ring Polyresin Charm Turtle Hanging Garden Decoration Wind Chime",
+            "normalizedName": "StealStreet SS-G-155.06 5-Ring Polyresin Charm Turtle Hanging Garden Decoration Wind Chime",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B012MGT7IA": {
+            "asin": "B012MGT7IA",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Marvel Legends Series Agents of Shield Mockingbird",
+            "normalizedName": "Marvel Legends Series Agents of Shield Mockingbird",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0196HUMCS": {
+            "asin": "B0196HUMCS",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "SmartSpeed&reg; Wireless Bluetooth Speakers Portable Wireless Rechargeable Stereo HIFI Outdoor Indoor Bluetooth 4.0 Speaker Touch Control with Built-in Mic for iPhone iPad Sumsang Laptop MP3 Player",
+            "normalizedName": "SmartSpeed&reg; Wireless Bluetooth Speakers Portable Wireless Rechargeable Stereo HIFI Outdoor Indoor Bluetooth 4.0 Speaker Touch Control with Built-in Mic for iPhone iPad Sumsang Laptop MP3 Player",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

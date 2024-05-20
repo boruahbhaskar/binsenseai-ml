@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0014291SA": {
+            "asin": "B0014291SA",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "American Health Original Papaya Enzyme Chewable Tablets, 600 Count",
+            "normalizedName": "American Health Original Papaya Enzyme Chewable Tablets, 600 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00OKIFV3Y": {
+            "asin": "B00OKIFV3Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "The Cube: Turns Quicker and More Precisely Than Original; Super-durable With Vivid Colors; Best-selling 3x3 Cube; 100% Money Back Guarantee!",
+            "normalizedName": "The Cube: Turns Quicker and More Precisely Than Original; Super-durable With Vivid Colors; Best-selling 3x3 Cube; 100% Money Back Guarantee!",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01EFFHI14": {
+            "asin": "B01EFFHI14",
+            "height": {
+                "unit": "IN",
+                "value": 0.1181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "ASHANKS 360 Degree Rotation Camera Hand Strap Camera Wrist Strap Belt Band Holder With Mount for GoPro Hero 3 2 1",
+            "normalizedName": "ASHANKS 360 Degree Rotation Camera Hand Strap Camera Wrist Strap Belt Band Holder With Mount for GoPro Hero 3 2 1",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.574803148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

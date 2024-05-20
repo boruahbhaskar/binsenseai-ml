@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0060RZ5OI": {
+            "asin": "B0060RZ5OI",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.716535415
+            },
+            "name": "WWE Tag Team Championship Belt",
+            "normalizedName": "WWE Tag Team Championship Belt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.9763779436
+            }
+        },
+        "B008NDSMT2": {
+            "asin": "B008NDSMT2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Wabash Valley Farms Popcorn All-Inclusive Popping Kits - Real Theater Less Salt & Less Oil Popcorn - 5 Pack - 25oz",
+            "normalizedName": "5 Pack Wabash Valley Farms Popcorn All-Inclusive Popping Kits - Real Theater Less Salt & Less Oil Popcorn - - 25oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

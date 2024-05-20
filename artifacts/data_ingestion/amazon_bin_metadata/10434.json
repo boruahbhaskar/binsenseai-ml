@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004AKHOXW": {
+            "asin": "B004AKHOXW",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Best Home Fashion Wide Width Thermal Insulated Blackout Curtain - Antique Bronze Grommet Top - Beige - 100\"W x 84\"L - (1 Panel)",
+            "normalizedName": "Best Home Fashion Wide Width Thermal Insulated Blackout Curtain - Antique Bronze Grommet Top - Beige - 100\"W x 84\"L - (1 Panel)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00TTX5T64": {
+            "asin": "B00TTX5T64",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Aquarius Friday the 13th Large Tin Fun Box",
+            "normalizedName": "Aquarius Friday the 13th Large Tin Fun Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

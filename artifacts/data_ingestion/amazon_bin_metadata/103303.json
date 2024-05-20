@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1880156067": {
+            "asin": "1880156067",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Basic Statistics: Tools for Continuous Improvement 4th Edition",
+            "normalizedName": "Basic Statistics: Tools for Continuous Improvement 4th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B0000VLIH8": {
+            "asin": "B0000VLIH8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Fat Daddio's Anodized Aluminum Round Cake Pan, 6-Inch x 3-Inch",
+            "normalizedName": "Fat Daddio's Anodized Aluminum Round Cake Pan, 6-Inch x 3-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

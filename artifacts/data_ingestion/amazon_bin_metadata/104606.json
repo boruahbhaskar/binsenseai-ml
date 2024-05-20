@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002CQU596": {
+            "asin": "B002CQU596",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Nordic Naturals - Omega-3 Pet, Promotes Optimal Pet Health and Wellness, 180 Soft Gels",
+            "normalizedName": "Nordic Naturals - Omega-3 Pet, Promotes Optimal Pet Health and Wellness, 180 Soft Gels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B003SQSUHI": {
+            "asin": "B003SQSUHI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Kwikset Cove Bed/Bath Knob in Venetian Bronze",
+            "normalizedName": "Kwikset Cove Bed/Bath Knob in Venetian Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00HXPIPOS": {
+            "asin": "B00HXPIPOS",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7165354252
+            },
+            "name": "MoKo Galaxy S6 Edge Case - [Scratch Resistant] Halo Series Hybrid Cover with TPU Anti drop & Scratch Technology Corners + Clear Back Panel Bumper Cover for Samsung Galaxy S6 Edge 2015, Crystal Clear",
+            "normalizedName": "MoKo Galaxy S6 Edge Case - [Scratch Resistant] Halo Series Hybrid Cover with TPU Anti drop & Scratch Technology Corners + Clear Back Panel Bumper Cover for Samsung Galaxy S6 Edge 2015, Crystal Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2913385783
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JS2CXWE": {
+            "asin": "B00JS2CXWE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "SeattleTech Universal Standard 2 Port USB Car Charger Adapter for iPhone iPad Mobile Phones Black Pack of 3",
+            "normalizedName": "Pack of 3 SeattleTech Universal Standard 2 Port USB Car Charger Adapter for iPhone iPad Mobile Phones Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01BUURG3C": {
+            "asin": "B01BUURG3C",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Trichome DankTank - 5-Ounce Airtight Smell Proof Container Storage Stash Jar and Herbal Container - Black",
+            "normalizedName": "Trichome DankTank - 5-Ounce Airtight Smell Proof Container Storage Stash Jar and Herbal Container - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01D7PEB5O": {
+            "asin": "B01D7PEB5O",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "ALERT PLUS 10-Year Extended Battery Life Home Smoke Detector Fire Alarm with Photoelectric Sensor",
+            "normalizedName": "ALERT PLUS 10-Year Extended Battery Life Home Smoke Detector Fire Alarm with Photoelectric Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

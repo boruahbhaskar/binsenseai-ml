@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FGWBH4": {
+            "asin": "B000FGWBH4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Designs for Health Ferrochel Iron Chelate Capsules, 120 Count",
+            "normalizedName": "Designs for Health Ferrochel Iron Chelate Capsules, 120 Count",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B008ATHE16": {
+            "asin": "B008ATHE16",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Philips 415273 Work Light 75-Watt A21 Light Bulb",
+            "normalizedName": "Philips 415273 Work Light 75-Watt A21 Light Bulb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B016IXHZLO": {
+            "asin": "B016IXHZLO",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Drinkwel for Hangovers, Nutrient Replenishment & Liver Support (30 Vegetarian Capsules with Organic Milk Thistle, N-acetyl Cysteine, Alpha Lipoic Acid, and DHM) (Travel Size Bottle)",
+            "normalizedName": "Drinkwel for Hangovers, Nutrient Replenishment & Liver Support (30 Vegetarian Capsules with Organic Milk Thistle, N-acetyl Cysteine, Alpha Lipoic Acid, and DHM) (Travel Size Bottle)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B01AD9DN4W": {
+            "asin": "B01AD9DN4W",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Vmargera USB Double Shock Controller GamePad for PC Computer Laptop - Black",
+            "normalizedName": "Vmargera USB Double Shock Controller GamePad for PC Computer Laptop - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

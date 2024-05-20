@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P3XWIS6": {
+            "asin": "B00P3XWIS6",
+            "height": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Peppa Pig Family Campervan",
+            "normalizedName": "Peppa Pig Family Campervan",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B019IXWBUG": {
+            "asin": "B019IXWBUG",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Duck River Textiles Maldon Linen-Textured Sheer Pair Panel In Taupe, 54 X 84 Inch Each, Solid",
+            "normalizedName": "Duck River Textiles Maldon Linen-Textured Sheer Pair Panel In Taupe, 54 X 84 Inch Each, Solid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B01D7V9AKO": {
+            "asin": "B01D7V9AKO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "10 Inch Asus ZenPad Transformer Pad Vivo Tab Asus Eee Pad T100 Tablet Sleeve Protective Cover Cases",
+            "normalizedName": "10 Inch Asus ZenPad Transformer Pad Vivo Tab Asus Eee Pad T100 Tablet Sleeve Protective Cover Cases",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

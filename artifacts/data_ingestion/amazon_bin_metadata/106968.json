@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XKOLGQU": {
+            "asin": "B00XKOLGQU",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425196850394
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.858267716535435
+            },
+            "name": "Roma Costume Women's 1 Piece Webbed Warrior, Black, Medium",
+            "normalizedName": "Roma Costume Women's 1 Piece Webbed Warrior, Black, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.779527559055119
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

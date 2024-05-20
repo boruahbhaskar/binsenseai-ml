@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007TOKUNM": {
+            "asin": "B007TOKUNM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Miracle Skin Transformer Hydroactive Cleanser 3.33oz",
+            "normalizedName": "Miracle Skin Transformer Hydroactive Cleanser 3.33oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B01DOIAFD6": {
+            "asin": "B01DOIAFD6",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5
+            },
+            "name": "HearTek Safety Kids Earmuffs Hearing Protection with Travel Bag- Junior Earmuffs For Children, Padded Baby Ear Protection, Infants, Small Adults, Women - Adjustable Protector Noise Reduction Ear Muffs",
+            "normalizedName": "HearTek Safety Kids Earmuffs Hearing Protection with Travel Bag- Junior Earmuffs For Children, Padded Baby Ear Protection, Infants, Small Adults, Women - Adjustable Protector Noise Reduction Ear Muffs",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

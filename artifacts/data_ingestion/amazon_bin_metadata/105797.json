@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005QU55EA": {
+            "asin": "B005QU55EA",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.999999999999999
+            },
+            "name": "Kiscords Baby Safety Cabinet Locks For Knobs Child Safety Cabinet Latches For Home Safety Strap For Baby Proofing Cabinets Kitchen Door RV No Drill No Screw No Adhesive / Color White/ 5 Pack",
+            "normalizedName": "5 Pack Kiscords Baby Safety Cabinet Locks For Knobs Child Safety Cabinet Latches For Home Safety Strap For Baby Proofing Cabinets Kitchen Door RV No Drill No Screw No Adhesive / Color White/",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        },
+        "B00EUZSEAE": {
+            "asin": "B00EUZSEAE",
+            "height": {
+                "unit": "IN",
+                "value": 0.1574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "name": "Otis M-16 Chamber Brush",
+            "normalizedName": "Otis M-16 Chamber Brush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0236220462
+            }
+        },
+        "B00MEXP2SQ": {
+            "asin": "B00MEXP2SQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "The Voice Bundle with Microphone - Xbox 360",
+            "normalizedName": "The Voice Bundle with Microphone - Xbox 360",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0124H32TC": {
+            "asin": "B0124H32TC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Bluetooth Headphones, Primed4U\u00ae Bluetooth Earbuds V5.1 [Black] Wireless Headset with [Mic] In-Ear AptX Stereo Sweatproof Sports Running Gym Outdoor Commute Relaxation Cordless Headphones [for Bluetooth Devices 4.x and higher]",
+            "normalizedName": "Bluetooth Headphones, Primed4U\u00ae Bluetooth Earbuds V5.1 [Black] Wireless Headset with [Mic] In-Ear AptX Stereo Sweatproof Sports Running Gym Outdoor Commute Relaxation Cordless Headphones [for Bluetooth Devices 4.x and higher]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

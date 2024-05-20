@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M6BTOMG": {
+            "asin": "B00M6BTOMG",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Vintage Newborn Pound Purries Plush 7\" Kitten - Light Brown with Brown Stripes",
+            "normalizedName": "Vintage Newborn Pound Purries Plush 7\" Kitten - Light Brown with Brown Stripes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00NHPGW8Y": {
+            "asin": "B00NHPGW8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Fisher-Price Little People See n' Say Farmer Eddie Says",
+            "normalizedName": "Fisher-Price Little People See n' Say Farmer Eddie Says",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960887366348
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8976377862
+            }
+        },
+        "B019Q6TLDK": {
+            "asin": "B019Q6TLDK",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Coocheer JJRC H98 2.4Ghz 4CH 6-Axis Gyro RC Quadcopter with 0.3MP Camera 3D Flip",
+            "normalizedName": "Coocheer JJRC H98 2.4Ghz 4CH 6-Axis Gyro RC Quadcopter with 0.3MP Camera 3D Flip",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

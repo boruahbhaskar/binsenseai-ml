@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007A0PWQ": {
+            "asin": "B0007A0PWQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Yamamotoyama - Original Unsweetened Iced Green Tea Mix 1.4 Oz.",
+            "normalizedName": "Yamamotoyama - Original Unsweetened Iced Green Tea Mix 1.4 Oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00GKTQTHS": {
+            "asin": "B00GKTQTHS",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "name": "SUP3R PCT Complete Post Cycle Therapy Protection, 300 capsules, by Olympus Labs",
+            "normalizedName": "SUP3R PCT Complete Post Cycle Therapy Protection, 300 capsules, by Olympus Labs",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5196850368
+            }
+        },
+        "B00ILD580U": {
+            "asin": "B00ILD580U",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Nerf Zombie Strike Doublestrike Blaster",
+            "normalizedName": "Nerf Zombie Strike Doublestrike Blaster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

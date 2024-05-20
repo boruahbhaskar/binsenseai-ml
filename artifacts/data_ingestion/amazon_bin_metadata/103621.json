@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017HA3SQ8": {
+            "asin": "B017HA3SQ8",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "EVGA 650 GQ 80+ GOLD, 650W ECO Mode Semi Modular NVIDIA SLI and Crossfire Ready 5 Year Warranty 210-GQ-0650-V1",
+            "normalizedName": "EVGA 650 GQ 80+ GOLD, 650W ECO Mode Semi Modular NVIDIA SLI and Crossfire Ready 5 Year Warranty 210-GQ-0650-V1",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.699999994381443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B01B03FAN2": {
+            "asin": "B01B03FAN2",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 21.599999977968
+            },
+            "name": "Diaper Bag by Hip Cub - Designer Messenger - W/ Stylish Stripe Baby Changing Pad",
+            "normalizedName": "Diaper Bag by Hip Cub - Designer Messenger - W/ Stylish Stripe Baby Changing Pad",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.099999985618
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

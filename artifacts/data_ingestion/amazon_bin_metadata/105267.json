@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00452V1WA": {
+            "asin": "B00452V1WA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "GiiNii GN-705W 7-Inch Artforme Digital Picture Frame with Real Wood Frame (Brown)",
+            "normalizedName": "GiiNii GN-705W 7-Inch Artforme Digital Picture Frame with Real Wood Frame (Brown)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B01F69GHWY": {
+            "asin": "B01F69GHWY",
+            "height": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Mainstay Standard Plastic Adult Hangers (3)",
+            "normalizedName": "Mainstay Standard Plastic Adult Hangers (3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.349999996352131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

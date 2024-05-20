@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YIWS9Y": {
+            "asin": "B000YIWS9Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Coastal Pet Products CCP7001SSO Nylon Safe Cat Adjustable Breakaway Collar with Bells, Sunset Orange",
+            "normalizedName": "Coastal Pet Products CCP7001SSO Nylon Safe Cat Adjustable Breakaway Collar with Bells, Sunset Orange",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B007P56GA6": {
+            "asin": "B007P56GA6",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "SCP 00304 Wee Scapes Petunias Plant, 0.375-Inch, Red/Pink/Yellow/Purple, 16-Pack",
+            "normalizedName": "16-Pack SCP 00304 Wee Scapes Petunias Plant, 0.375-Inch, Red/Pink/Yellow/Purple,",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00PH4QNE6": {
+            "asin": "B00PH4QNE6",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "name": "B+W 58mm XS-Pro HTC Kaesemann Circular Polarizer with Multi-Resistant Nano Coating",
+            "normalizedName": "B+W 58mm XS-Pro HTC Kaesemann Circular Polarizer with Multi-Resistant Nano Coating",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6220472404
+            }
+        },
+        "B01ATIFSF4": {
+            "asin": "B01ATIFSF4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Boom Optics Lighted Magnifying Glass (7-Piece Set), 2.5X, 5X, 16X Zoom Lenses & Travel Pocket Magnifier, For Reading, Hobbies, Crafts, Electronics, Inspection",
+            "normalizedName": "(7-Piece Set) Boom Optics Lighted Magnifying Glass , 2.5X, 5X, 16X Zoom Lenses & Travel Pocket Magnifier, For Reading, Hobbies, Crafts, Electronics, Inspection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

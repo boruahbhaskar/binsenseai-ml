@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004Y9GTYE": {
+            "asin": "B004Y9GTYE",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Maybelline New York Instant Age Rewind Eraser Dark Circles Treatment Concealer, Light 120, 0.2-fluid Ounce",
+            "normalizedName": "Maybelline New York Instant Age Rewind Eraser Dark Circles Treatment Concealer, Light 120, 0.2-fluid Ounce",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B010LMLIA2": {
+            "asin": "B010LMLIA2",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "lederTEK Battery Operated String Lights 50 LED 13.1ft Fairy Christmas Lighting D\u00e9cor with 8 Modes Automatic Timer For Outdoor, Indoor, Garden, Patio, Lawn, Valentine's Day Decorations(Multi Color)",
+            "normalizedName": "lederTEK Battery Operated String Lights 50 LED 13.1ft Fairy Christmas Lighting D\u00e9cor with 8 Modes Automatic Timer For Outdoor, Indoor, Garden, Patio, Lawn, Valentine's Day Decorations(Multi Color)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0175B6NSY": {
+            "asin": "B0175B6NSY",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "name": "Titanium Bracelet (Light Blue/Black/White, 9 inch)",
+            "normalizedName": "Titanium Bracelet (Light Blue/Black/White, 9 inch)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.03125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

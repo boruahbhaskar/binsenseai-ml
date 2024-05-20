@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007CM0T4Q": {
+            "asin": "B007CM0T4Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "name": "415gX2 pieces Heinz baked beans",
+            "normalizedName": "415gX2 pieces Heinz baked beans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05820805604419
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.9133858238
+            }
+        },
+        "B010CFCJ9W": {
+            "asin": "B010CFCJ9W",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "EVB Heat Resistant Glove for Flat Iron Hair Straighteners, Curling Irons and Wands",
+            "normalizedName": "EVB Heat Resistant Glove for Flat Iron Hair Straighteners, Curling Irons and Wands",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01A9HXLL8": {
+            "asin": "B01A9HXLL8",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Oberhaus Premium Collapsible Silicone Colander/Strainer with Stainless Steel Base (Red)",
+            "normalizedName": "Oberhaus Premium Collapsible Silicone Colander/Strainer with Stainless Steel Base (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

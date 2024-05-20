@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JKQC9R2": {
+            "asin": "B00JKQC9R2",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Fleurville Stretch Carrier, Black, Large",
+            "normalizedName": "Fleurville Stretch Carrier, Black, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01055A1D0": {
+            "asin": "B01055A1D0",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Plano Molding 5231 Double Cover Stow N Go Organizer, Black with Orange Latches - Custom Color Run With No LOGO On Lid To Look More Like Gaming Box",
+            "normalizedName": "Plano Molding 5231 Double Cover Stow N Go Organizer, Black with Orange Latches - Custom Color Run With No LOGO On Lid To Look More Like Gaming Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B01C3RRDPW": {
+            "asin": "B01C3RRDPW",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Bedtime Sleeper Bed Risers or Furniture Riser in Heights of 8, 5 or 3 Inches Heavy Duty Set of 4",
+            "normalizedName": "Set of 4 Bedtime Sleeper Bed Risers or Furniture Riser in Heights of 8, 5 or 3 Inches Heavy Duty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.099999995723188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

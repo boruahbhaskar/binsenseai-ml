@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EFL6SQ": {
+            "asin": "B000EFL6SQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Five Star Spiral Notebook, College Ruled, 2 Subject, 6 x 9.5 Inches, 100 Sheets, Assorted Colors (06180)",
+            "normalizedName": "Five Star Spiral Notebook, College Ruled, 2 Subject, 6 x 9.5 Inches, 100 Sheets, Assorted Colors (06180)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B002C5W3KQ": {
+            "asin": "B002C5W3KQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Rothco 8 Point Police/Security Cap, Navy Blue, 7.125",
+            "normalizedName": "Rothco 8 Point Police/Security Cap, Navy Blue, 7.125",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.448818888
+            }
+        },
+        "B01BYBPUQW": {
+            "asin": "B01BYBPUQW",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "ACDelco ATX20CHBS AGM Powersports Battery",
+            "normalizedName": "ACDelco ATX20CHBS AGM Powersports Battery",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.99999998825973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

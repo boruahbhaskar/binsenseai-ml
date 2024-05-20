@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000068OEO": {
+            "asin": "B000068OEO",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Hosa CYX-402M 3.5 mm TRS to Dual XLR3M Stereo Breakout Cable, 6.6 feet",
+            "normalizedName": "Hosa CYX-402M 3.5 mm TRS to Dual XLR3M Stereo Breakout Cable, 6.6 feet",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00YUWUPMM": {
+            "asin": "B00YUWUPMM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Contigo AUTOSEAL West Loop Stainless Steel Travel Mug with Easy-Clean Lid, 16-Ounce, Stormy Weather Trans Matte",
+            "normalizedName": "Contigo AUTOSEAL West Loop Stainless Steel Travel Mug with Easy-Clean Lid, 16-Ounce, Stormy Weather Trans Matte",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01EOFUJE8": {
+            "asin": "B01EOFUJE8",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "NHL Detroit Wings Patch (White on Black)embroidered Iron on Hat Jacket Hoodie Backpack iron on patch",
+            "normalizedName": "NHL Detroit Wings Patch (White on Black)embroidered Iron on Hat Jacket Hoodie Backpack iron on patch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

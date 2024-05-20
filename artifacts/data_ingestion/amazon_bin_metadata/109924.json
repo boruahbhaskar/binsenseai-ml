@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PVKNC0E": {
+            "asin": "B00PVKNC0E",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Dermasil Dry Skin Treatment Set",
+            "normalizedName": "Dermasil Dry Skin Treatment Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B015IH9J42": {
+            "asin": "B015IH9J42",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Essential Oil Diffuser, [New Version]Amir 100ml Cool Mist Aroma Humidifier Ultrasonic Aromatherapy Oil Diffuser - Portable for Home, Yoga, Office, Spa, Bedroom, Baby Room, Etc",
+            "normalizedName": "Essential Oil Diffuser, [New Version]Amir 100ml Cool Mist Aroma Humidifier Ultrasonic Aromatherapy Oil Diffuser - Portable for Home, Yoga, Office, Spa, Bedroom, Baby Room, Etc",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

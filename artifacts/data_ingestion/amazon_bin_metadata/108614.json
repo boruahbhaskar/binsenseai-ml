@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XESY010": {
+            "asin": "B00XESY010",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Premium Electric Eraser Kit with Eraser Refill Pack by Merite - Battery Operable - Includes 20 High Quality Refill Erasers",
+            "normalizedName": "Premium Electric Eraser Kit with Eraser Refill Pack by Merite - Battery Operable - Includes 20 High Quality Refill Erasers",
+            "quantity": 20,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 20
+}

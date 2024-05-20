@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00694XO0Y": {
+            "asin": "B00694XO0Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "African Royale Brx Braid Spray On Shampoo, 12 Ounce",
+            "normalizedName": "African Royale Brx Braid Spray On Shampoo, 12 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00MP08AI2": {
+            "asin": "B00MP08AI2",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "iPhone 6 Case, Maxboost [Vibrance Series] Protective Slider Case for Apple iPhone 6 (4.7)[Lifetime Warranty] SOFT-Interior Scratch Protection with Vibrant Color - Peaches N&rsquo; Cream/Champagne Gold",
+            "normalizedName": "iPhone 6 Case, Maxboost [Vibrance Series] Protective Slider Case for Apple iPhone 6 (4.7)[Lifetime Warranty] SOFT-Interior Scratch Protection with Vibrant Color - Peaches N&rsquo; Cream/Champagne Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B010AH61G4": {
+            "asin": "B010AH61G4",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "WenTop\u00ae 7 Day Digital Programmable Timer Socket Plug Wall Home Plug-in Switch Energy-saving for Home Lights, Fish Tank Heater and all Household Appliances (Manual Has Been Updated. Easier to Setting)",
+            "normalizedName": "WenTop\u00ae 7 Day Digital Programmable Timer Socket Plug Wall Home Plug-in Switch Energy-saving for Home Lights, Fish Tank Heater and all Household Appliances (Manual Has Been Updated. Easier to Setting)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01EKBKFWM": {
+            "asin": "B01EKBKFWM",
+            "height": {
+                "unit": "IN",
+                "value": 1.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2
+            },
+            "name": "Phone Charger, USB Car - Fast Power C224A - Unique Stylish Design - Duel Port, 24 Watt, 4.8 Amp - Charges Best range of Devices, iPhone, Android, Samsung Galaxy, LG, HTC (30 Day Money Back Guarantee)",
+            "normalizedName": "Phone Charger, USB Car - Fast Power C224A - Unique Stylish Design - Duel Port, 24 Watt, 4.8 Amp - Charges Best range of Devices, iPhone, Android, Samsung Galaxy, LG, HTC (30 Day Money Back Guarantee)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

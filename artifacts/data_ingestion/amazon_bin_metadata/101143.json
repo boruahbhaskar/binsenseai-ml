@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1629053856": {
+            "asin": "1629053856",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Marilyn Monroe Wall Calendar (2016)",
+            "normalizedName": "Marilyn Monroe Wall Calendar (2016)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B001UHN0HM": {
+            "asin": "B001UHN0HM",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "BaByliss Pro BABP6685N Porcelain Ceramic Carrera2 Dryer",
+            "normalizedName": "BaByliss Pro BABP6685N Porcelain Ceramic Carrera2 Dryer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B005THAO28": {
+            "asin": "B005THAO28",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Irish Stone Advent Candleholder",
+            "normalizedName": "Irish Stone Advent Candleholder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B00TASOOP0": {
+            "asin": "B00TASOOP0",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "500 Thread Count 100% Cotton, Single Ply, 3-Piece King/California King Duvet Cover Set, Solid, Taupe",
+            "normalizedName": "500 Thread Count 100% Cotton, Single Ply, 3-Piece King/California King Duvet Cover Set, Solid, Taupe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.099999995723188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

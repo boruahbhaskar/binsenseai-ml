@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002FTSTL6": {
+            "asin": "B002FTSTL6",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Saunders Recycled Aluminum Snapak Form Holder, Memo Size, Fits Paper Size up to 6 x 10 inches (10507)",
+            "normalizedName": "Saunders Recycled Aluminum Snapak Form Holder, Memo Size, Fits Paper Size up to 6 x 10 inches (10507)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00IOFDKMS": {
+            "asin": "B00IOFDKMS",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Samurai Bride Complete",
+            "normalizedName": "Samurai Bride Complete",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00JXBLIJY": {
+            "asin": "B00JXBLIJY",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Uta No Prince Sama 2000%: Complete Collection",
+            "normalizedName": "Uta No Prince Sama 2000%: Complete Collection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00TV0SMEG": {
+            "asin": "B00TV0SMEG",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Miles From Tomorrowland Questcom",
+            "normalizedName": "Miles From Tomorrowland Questcom",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

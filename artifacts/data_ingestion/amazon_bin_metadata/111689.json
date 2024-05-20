@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00187PN38": {
+            "asin": "B00187PN38",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "Big Band Sides 1930-1932",
+            "normalizedName": "Big Band Sides 1930-1932",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.49
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        },
+        "B0018Z26NA": {
+            "asin": "B0018Z26NA",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "Water Snakes - Family of Six",
+            "normalizedName": "Water Snakes - Family of Six",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B00F6WTZU8": {
+            "asin": "B00F6WTZU8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "For Pro Poly-Cotton Face Space Cover, Natural",
+            "normalizedName": "For Pro Poly-Cotton Face Space Cover, Natural",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

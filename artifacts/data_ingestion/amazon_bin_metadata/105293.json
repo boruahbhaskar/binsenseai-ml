@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008UQINX2": {
+            "asin": "B008UQINX2",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Grove Square Cappuccino Variety Pack, 72 Single Serve Cups",
+            "normalizedName": "Grove Square Cappuccino Variety Pack, 72 Single Serve Cups",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.529999997039775
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00KX7VW2U": {
+            "asin": "B00KX7VW2U",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Rocktape Knee Caps, Manifesto, 5 mm/Medium",
+            "normalizedName": "Rocktape Knee Caps, Manifesto, 5 mm/Medium",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

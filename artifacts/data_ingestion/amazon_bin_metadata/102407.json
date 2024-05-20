@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0393912671": {
+            "asin": "0393912671",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "America: A Narrative History (Brief Ninth Edition)  (Vol. 2)",
+            "normalizedName": "America: A Narrative History (Brief Ninth Edition)  (Vol. 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1608935760": {
+            "asin": "1608935760",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Got Here As Soon As I Could: Discovering the Way Life Should Be",
+            "normalizedName": "Got Here As Soon As I Could: Discovering the Way Life Should Be",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B007BHLUWM": {
+            "asin": "B007BHLUWM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Honeywell RTH2300B1012/A 5-2 Day Programmable Thermostat",
+            "normalizedName": "Honeywell RTH2300B1012/A 5-2 Day Programmable Thermostat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00FTTZ17Y": {
+            "asin": "B00FTTZ17Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Lavoris Mouthwash, Original Cinnamon, 18oz. (20% bonus)",
+            "normalizedName": "Lavoris Mouthwash, Original Cinnamon, 18oz. (20% bonus)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999867305118864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

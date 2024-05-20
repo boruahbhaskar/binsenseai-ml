@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CBPAPZW": {
+            "asin": "B00CBPAPZW",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "TSSS LED RGB Crystal Ball Sound Active Stage Light for Children Birthday Party Wedding Lighting Show Celebrations",
+            "normalizedName": "TSSS LED RGB Crystal Ball Sound Active Stage Light for Children Birthday Party Wedding Lighting Show Celebrations",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291094288
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3070866108
+            }
+        },
+        "B00DP5KX72": {
+            "asin": "B00DP5KX72",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Whipline Solid Sand/Black 3\" Alpha-Numeric Registration Identification Numbers Stickers Decals for Boats & Personal Watercraft",
+            "normalizedName": "Whipline Solid Sand/Black 3\" Alpha-Numeric Registration Identification Numbers Stickers Decals for Boats & Personal Watercraft",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00Z9O205K": {
+            "asin": "B00Z9O205K",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Brightech - BTX Ultra - 2 in 1 Bluetooth Receiver and Transmitter with aptX Low Latency for Lag Free Transmission between Audio and Video",
+            "normalizedName": "Brightech - BTX Ultra - 2 in 1 Bluetooth Receiver and Transmitter with aptX Low Latency for Lag Free Transmission between Audio and Video",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B011W0SQB6": {
+            "asin": "B011W0SQB6",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Whipline Solid Black/Yellow 3\" Alpha-Numeric Registration Identification Numbers Stickers Decals for Boats & Personal Watercraft",
+            "normalizedName": "Whipline Solid Black/Yellow 3\" Alpha-Numeric Registration Identification Numbers Stickers Decals for Boats & Personal Watercraft",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

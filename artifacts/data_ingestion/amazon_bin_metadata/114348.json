@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HR0I7XS": {
+            "asin": "B00HR0I7XS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "cnomg 100pcs Party Wedding Favor Dress & Tuxedo Bride and Candy Box",
+            "normalizedName": "cnomg 100pcs Party Wedding Favor Dress & Tuxedo Bride and Candy Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00WH1QCMA": {
+            "asin": "B00WH1QCMA",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Funny Guy Mugs Happy To Help Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Happy To Help Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

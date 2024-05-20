@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00418V2X6": {
+            "asin": "B00418V2X6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Irwin Naturals Living Green Multi Liquid-Gel for Men, 120 Count",
+            "normalizedName": "Irwin Naturals Living Green Multi Liquid-Gel for Men, 120 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00LA10KJ4": {
+            "asin": "B00LA10KJ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "NEWEIGHTS Ukulele Strap Pure Cotton Light Colors Colorful Strap with Leather End Free Uke Strap Button & Ebook Fits Hawaiian Uke Soprano Concert Tenor & Baritone",
+            "normalizedName": "NEWEIGHTS Ukulele Strap Pure Cotton Light Colors Colorful Strap with Leather End Free Uke Strap Button & Ebook Fits Hawaiian Uke Soprano Concert Tenor & Baritone",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00TZF8EJK": {
+            "asin": "B00TZF8EJK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Meccano Multimodels, Rescue Squad 3 Model Set",
+            "normalizedName": "Meccano Multimodels, Rescue Squad 3 Model Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B018I8LMX4": {
+            "asin": "B018I8LMX4",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Smiling Shark SS-K13 2000 Lumens CREE XML T6 LED Headlamp, 3 Modes Adjustable Focus Zoomable Headlight Waterproof for Outdoor+2 X 18650 Rechargeable Batteries+Charger",
+            "normalizedName": "Smiling Shark SS-K13 2000 Lumens CREE XML T6 LED Headlamp, 3 Modes Adjustable Focus Zoomable Headlight Waterproof for Outdoor+2 X 18650 Rechargeable Batteries+Charger",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

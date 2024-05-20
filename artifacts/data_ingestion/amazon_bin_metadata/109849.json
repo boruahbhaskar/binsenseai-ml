@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "160699879X": {
+            "asin": "160699879X",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Megg & Mogg In Amsterdam (And Other Stories)",
+            "normalizedName": "Megg & Mogg In Amsterdam (And Other Stories)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1463920607145395
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4960629855
+            }
+        },
+        "B00RW6OPHE": {
+            "asin": "B00RW6OPHE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Contigo Autospout Sheffield Vacuum-Insulated Stainless Steel Water Bottle, 22-Ounce (Lemon)",
+            "normalizedName": "Contigo Autospout Sheffield Vacuum-Insulated Stainless Steel Water Bottle, 22-Ounce (Lemon)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

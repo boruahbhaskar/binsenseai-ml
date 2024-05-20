@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003VST2VG": {
+            "asin": "B003VST2VG",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "SECURE Denture Adhesive, Sensitive, 1.4 Ounce",
+            "normalizedName": "SECURE Denture Adhesive, Sensitive, 1.4 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B005FA3TB2": {
+            "asin": "B005FA3TB2",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Electrified XL-5200 Replacement Bulb Only / 69374 for Sony Televisions",
+            "normalizedName": "Electrified XL-5200 Replacement Bulb Only / 69374 for Sony Televisions",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00N2M5EDQ": {
+            "asin": "B00N2M5EDQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "TORCHSTAR LED Multi-color RGB Home Theater TV Backlight Kit, 4pcs of ETL listed LED Waterproof Strip Lights for Monitor, Screen, Background Accent lighting with UL adapter, 24-key Remote and Connectors",
+            "normalizedName": "TORCHSTAR LED Multi-color RGB Home Theater TV Backlight Kit, 4pcs of ETL listed LED Waterproof Strip Lights for Monitor, Screen, Background Accent lighting with UL adapter, 24-key Remote and Connectors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

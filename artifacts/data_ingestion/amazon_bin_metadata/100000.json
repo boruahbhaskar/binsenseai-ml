@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001UHN0HM": {
+            "asin": "B001UHN0HM",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "BaByliss Pro BABP6685N Porcelain Ceramic Carrera2 Dryer",
+            "normalizedName": "BaByliss Pro BABP6685N Porcelain Ceramic Carrera2 Dryer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B003WDEYPE": {
+            "asin": "B003WDEYPE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Schumacher EC-25 25' Cable Connector Extension Cord",
+            "normalizedName": "Schumacher EC-25 25' Cable Connector Extension Cord",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00MWI4HW0": {
+            "asin": "B00MWI4HW0",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Motorola Moto G (2nd generation) Unlocked Cellphone, 8GB, Black",
+            "normalizedName": "Motorola Moto G (2nd generation) Unlocked Cellphone, 8GB, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.597297680324456
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0054NFWH4": {
+            "asin": "B0054NFWH4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Hot Shot 20177 No-Mess! Fogger, 3-Count",
+            "normalizedName": "Hot Shot 20177 No-Mess! Fogger, 3-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01AXAPTNY": {
+            "asin": "B01AXAPTNY",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Obiqo Refreshing Body & Hand Wash with Marine Extracts and Sea Lavender 16.9 oz",
+            "normalizedName": "Obiqo Refreshing Body & Hand Wash with Marine Extracts and Sea Lavender 16.9 oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

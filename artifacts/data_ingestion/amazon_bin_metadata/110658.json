@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0052EKFAE": {
+            "asin": "B0052EKFAE",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "American Valve M76QT 3/4\" Quarter Turn Hose Bibb FIP, 3/4-Inch",
+            "normalizedName": "American Valve M76QT 3/4\" Quarter Turn Hose Bibb FIP, 3/4-Inch",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00XT8MP4E": {
+            "asin": "B00XT8MP4E",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "Nadolina Skin Bleach Extra Strength 2.25 Oz.",
+            "normalizedName": "Nadolina Skin Bleach Extra Strength 2.25 Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B016MBOMB8": {
+            "asin": "B016MBOMB8",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "name": "Car Mount ,Ubegood [Car Mount Holder] Magnetic Cradle-less Universal Car Air Vent Mount Holder for Nexus 5x / Nexus 6P / iPhone 6s / 6/6s Plus and Andriod Cellphones (Silver)",
+            "normalizedName": "Car Mount ,Ubegood [Car Mount Holder] Magnetic Cradle-less Universal Car Air Vent Mount Holder for Nexus 5x / Nexus 6P / iPhone 6s / 6/6s Plus and Andriod Cellphones (Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.968503935
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

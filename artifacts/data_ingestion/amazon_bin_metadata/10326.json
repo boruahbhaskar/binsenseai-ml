@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005PC6WRS": {
+            "asin": "B005PC6WRS",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Pop Secret Movie Theater Butter Value Size 30 Pack",
+            "normalizedName": "30 Pack Pop Secret Movie Theater Butter Value Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.849999993417064
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B00YWD4V5Q": {
+            "asin": "B00YWD4V5Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Dorman 923-263 Third Brake Light Assembly for BMW Z4",
+            "normalizedName": "Dorman 923-263 Third Brake Light Assembly for BMW Z4",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7799999993458994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

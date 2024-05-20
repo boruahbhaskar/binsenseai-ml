@@ -1,0 +1,69 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N30EC8": {
+            "asin": "B000N30EC8",
+            "height": {
+                "unit": "IN",
+                "value": 4.200000000000001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5
+            },
+            "name": "Erin Baker's Breakfast Cookie Caramel Apple, 3-Ounce Individually Wrapped Cookies,12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8
+            }
+        },
+        "B00B9H4YGY": {
+            "asin": "B00B9H4YGY",
+            "height": {
+                "unit": "IN",
+                "value": 3.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Dorman 91099 Ford Front Driver Side Chrome Exterior Replacement Door Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.500000000000001
+            }
+        },
+        "B012T97SDQ": {
+            "asin": "B012T97SDQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.7
+            },
+            "name": "Solgar Magnesium Citrate Tablets, 120 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.3
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5,
+    "image_fname": "1057.jpg"
+}

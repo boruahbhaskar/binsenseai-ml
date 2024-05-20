@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E9DQFI": {
+            "asin": "B000E9DQFI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Copag Poker Size Jumbo Index 1546 Playing Cards (Green Burgundy Setup)",
+            "normalizedName": "Copag Poker Size Jumbo Index 1546 Playing Cards (Green Burgundy Setup)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00LXCKR6Q": {
+            "asin": "B00LXCKR6Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Transformers Robots in Disguise Legion Class Grimlock 4-Inch Figure",
+            "normalizedName": "Transformers Robots in Disguise Legion Class Grimlock 4-Inch Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01B25Q4MY": {
+            "asin": "B01B25Q4MY",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Fitbit Alta Classic Accessory Band, Teal Large",
+            "normalizedName": "Fitbit Alta Classic Accessory Band, Teal Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7795275552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

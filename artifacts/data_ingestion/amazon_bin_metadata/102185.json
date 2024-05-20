@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0842528539": {
+            "asin": "0842528539",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Teachings of the Pearl of Great Price",
+            "normalizedName": "Teachings of the Pearl of Great Price",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00OZZ595M": {
+            "asin": "B00OZZ595M",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Aimee Wilder DJ Headphones - Birds (HP6396-BR)",
+            "normalizedName": "Aimee Wilder DJ Headphones - Birds (HP6396-BR)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

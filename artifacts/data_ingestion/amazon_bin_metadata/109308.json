@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01DCO56PY": {
+            "asin": "B01DCO56PY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Balance Living\u00ae Fins, Mask and Snorkel Pool Toy Set (for ages 3-8)",
+            "normalizedName": "Balance Living\u00ae Fins, Mask and Snorkel Pool Toy Set (for ages 3-8)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

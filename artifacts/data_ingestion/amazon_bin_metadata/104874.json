@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WFS9G0": {
+            "asin": "B000WFS9G0",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Zuke's Hip Action Dog Treats, Roasted Beef Recipe, 1 pound",
+            "normalizedName": "Zuke's Hip Action Dog Treats, Roasted Beef Recipe, 1 pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00M1VN1MA": {
+            "asin": "B00M1VN1MA",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "BlenderBottle Classic Loop Top Shaker Bottle, Black, 28 Ounce",
+            "normalizedName": "BlenderBottle Classic Loop Top Shaker Bottle, Black, 28 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B011HILGLK": {
+            "asin": "B011HILGLK",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Sliding Glass Safety Drawer Silverware Show Case Window Lock w Keys",
+            "normalizedName": "Sliding Glass Safety Drawer Silverware Show Case Window Lock w Keys",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01EXYXM94": {
+            "asin": "B01EXYXM94",
+            "height": {
+                "unit": "IN",
+                "value": 2.5590551155
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.842519675
+            },
+            "name": "Gizcam GZ10 Plus Action Camera 2K 1080P 16MP Sony Sensor 173 Degree Wide Angle Lens WiFi 2.0 Inch FHD Screen HDMI Output Waterproof DVR Camcorder Sports DV with Accessories Kits",
+            "normalizedName": "Gizcam GZ10 Plus Action Camera 2K 1080P 16MP Sony Sensor 173 Degree Wide Angle Lens WiFi 2.0 Inch FHD Screen HDMI Output Waterproof DVR Camcorder Sports DV with Accessories Kits",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

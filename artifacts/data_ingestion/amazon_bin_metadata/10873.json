@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00474R48G": {
+            "asin": "B00474R48G",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Absorbine ShowSheen Finishing Mist",
+            "normalizedName": "Absorbine ShowSheen Finishing Mist",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B012AD4500": {
+            "asin": "B012AD4500",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Cat7 Flat Snagless Shielded (Sstp/sftp) Ethernet Patch Cable in Blue 14 Feet",
+            "normalizedName": "Cat7 Flat Snagless Shielded (Sstp/sftp) Ethernet Patch Cable in Blue 14 Feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B016O6UJSQ": {
+            "asin": "B016O6UJSQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Avolare [2Pcs 10Ft] Long Lightning to USB Charging Cable, Tangle-Free Charger Cord Flat Charging Cable Syncing Cord for iPhone 6S / 6S Plus,6 / 6 Plus, 5S 5C 5, iPad Air/Mini, iPad 4th, iPod (Black)",
+            "normalizedName": "Avolare [2Pcs 10Ft] Long Lightning to USB Charging Cable, Tangle-Free Charger Cord Flat Charging Cable Syncing Cord for iPhone 6S / 6S Plus,6 / 6 Plus, 5S 5C 5, iPad Air/Mini, iPad 4th, iPod (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

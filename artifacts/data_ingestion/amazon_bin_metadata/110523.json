@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IUTQ": {
+            "asin": "B00006IUTQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Melitta Cone Coffee Filters Natural Brown #4 100 count",
+            "normalizedName": "Melitta Cone Coffee Filters Natural Brown #4 100 count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0088PUEPK": {
+            "asin": "B0088PUEPK",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch Desktop Hard Drive (WD10EZEX)",
+            "normalizedName": "WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch Desktop Hard Drive (WD10EZEX)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760653848885
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B015N3GKWU": {
+            "asin": "B015N3GKWU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.249999989545
+            },
+            "name": "Waterproof Case YOSH\u00ae Universal Dry Bag for Apple iPhone 6s, 6 Plus, Samsung Galaxy S6 Edge. Best Water Proof, Dust Dirt Proof, Snowproof Pouch for Cell Phone up to 6 inches- Lifetime Warranty(Black)",
+            "normalizedName": "Waterproof Case YOSH\u00ae Universal Dry Bag for Apple iPhone 6s, 6 Plus, Samsung Galaxy S6 Edge. Best Water Proof, Dust Dirt Proof, Snowproof Pouch for Cell Phone up to 6 inches- Lifetime Warranty(Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.249999993625
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

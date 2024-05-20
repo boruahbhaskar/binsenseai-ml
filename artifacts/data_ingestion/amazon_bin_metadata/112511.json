@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008UQINX2": {
+            "asin": "B008UQINX2",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Grove Square Cappuccino Variety Pack, 72 Single Serve Cups",
+            "normalizedName": "Grove Square Cappuccino Variety Pack, 72 Single Serve Cups",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.529999997039775
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01A7YRDYY": {
+            "asin": "B01A7YRDYY",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Flaska Glass Water Bottle 16.9 - 33 Ounce Programmed Glass Water Bottle with Cork Cap and Many different Sleeve Designs (Neo - Black Daisy, .5 - Liter)",
+            "normalizedName": "Flaska Glass Water Bottle 16.9 - 33 Ounce Programmed Glass Water Bottle with Cork Cap and Many different Sleeve Designs (Neo - Black Daisy, .5 - Liter)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

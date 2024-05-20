@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000088O9Y": {
+            "asin": "B000088O9Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Coleman Water Carrier, 5-Gallon",
+            "normalizedName": "Coleman Water Carrier, 5-Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B005E7SEOI": {
+            "asin": "B005E7SEOI",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The Honeymooners : Lost Episodes 1951-1957 (The Complete Restored Series)",
+            "normalizedName": "The Honeymooners : Lost Episodes 1951-1957 (The Complete Restored Series)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

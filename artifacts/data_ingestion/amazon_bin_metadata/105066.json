@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0050I7KQ4": {
+            "asin": "B0050I7KQ4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Board Dudes SRX Dry Erase Markers, Medium Point, 10-Count, Assorted Colors. Packaging May Vary from Image (DDC99)",
+            "normalizedName": "Board Dudes SRX Dry Erase Markers, Medium Point, 10-Count, Assorted Colors. Packaging May Vary from Image (DDC99)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00GJ1ZNXI": {
+            "asin": "B00GJ1ZNXI",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Scala Beauty AS-0826A Body Slimmer",
+            "normalizedName": "Scala Beauty AS-0826A Body Slimmer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FYHYGBS": {
+            "asin": "B00FYHYGBS",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Wee Believers Lil' Prayer Buddy Louie the Lamb 3 Prayer Spanish and English",
+            "normalizedName": "Wee Believers Lil' Prayer Buddy Louie the Lamb 3 Prayer Spanish and English",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00MZGTB2U": {
+            "asin": "B00MZGTB2U",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Pictures on canvas 6605 length 4 x 12\" height 12\" New York USA ready to hang, brand original Visario !",
+            "normalizedName": "Pictures on canvas 6605 length 4 x 12\" height 12\" New York USA ready to hang, brand original Visario !",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

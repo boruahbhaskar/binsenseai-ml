@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FRVOPI": {
+            "asin": "B000FRVOPI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "R&M Teddy Bear 3\" Cookie Cutter in Durable, Economical, Tinplated Steel",
+            "normalizedName": "R&M Teddy Bear 3\" Cookie Cutter in Durable, Economical, Tinplated Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B000GG2HOU": {
+            "asin": "B000GG2HOU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "L'Oreal Paris Sublime Bronze Self-Tanning Body Towelettes, 6 Count",
+            "normalizedName": "L'Oreal Paris Sublime Bronze Self-Tanning Body Towelettes, 6 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

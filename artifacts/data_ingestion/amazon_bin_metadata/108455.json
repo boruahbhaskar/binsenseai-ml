@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1259294099": {
+            "asin": "1259294099",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Vander's Human Physiology",
+            "normalizedName": "Vander's Human Physiology",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B000C9TBS6": {
+            "asin": "B000C9TBS6",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862
+            },
+            "name": "WIX Filters - 42486 Air Filter Panel, Pack of 1",
+            "normalizedName": "Pack of 1 WIX Filters - 42486 Air Filter Panel,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01C494FT6": {
+            "asin": "B01C494FT6",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Fisher-Price Little People Dump Truck",
+            "normalizedName": "Fisher-Price Little People Dump Truck",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0073403253": {
+            "asin": "0073403253",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Business and Administrative Communication",
+            "normalizedName": "Business and Administrative Communication",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5799928130036134
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B00PV0FTIM": {
+            "asin": "B00PV0FTIM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Minecraft Figure Set Overworld Saddle Pack (Steve w/whip Chestnut Horse , Pig w/saddle , 2 x hay bale , 2 x grass blocks)",
+            "normalizedName": "Minecraft Figure Set Overworld Saddle Pack (Steve w/whip Chestnut Horse , Pig w/saddle , 2 x hay bale , 2 x grass blocks)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.83
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B013SUNQT0": {
+            "asin": "B013SUNQT0",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Dowan Porcelain Soup/Salad Bowl, 6-inch Winter Frost White (Set of 6) ,White",
+            "normalizedName": "(Set of 6) Dowan Porcelain Soup/Salad Bowl, 6-inch Winter Frost White ,White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B01EKCR16O": {
+            "asin": "B01EKCR16O",
+            "height": {
+                "unit": "IN",
+                "value": 4.1732283422
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2125984158
+            },
+            "name": "Kitchen Maestro 3 in 1 Laser-Cut Stainless Steel Grater",
+            "normalizedName": "Kitchen Maestro 3 in 1 Laser-Cut Stainless Steel Grater",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

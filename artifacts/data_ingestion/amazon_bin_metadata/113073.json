@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0145GMV7Y": {
+            "asin": "B0145GMV7Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Pictionary Game",
+            "normalizedName": "Pictionary Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B01DM3UAKQ": {
+            "asin": "B01DM3UAKQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Excelvan Wake-Up Light with Sunrise Simulation Alarm Clock FM Radio,White",
+            "normalizedName": "Excelvan Wake-Up Light with Sunrise Simulation Alarm Clock FM Radio,White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008X6RGZK": {
+            "asin": "B008X6RGZK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Gerber Graduates Kiddy Cutlery Forks in Neutral Colors, 3-count",
+            "normalizedName": "Gerber Graduates Kiddy Cutlery Forks in Neutral Colors, 3-count",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00B43LKV0": {
+            "asin": "B00B43LKV0",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Clarion Mobile Electronics XC1410 D-Class 4-Channel Amplifier",
+            "normalizedName": "Clarion Mobile Electronics XC1410 D-Class 4-Channel Amplifier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00SFX2VXI": {
+            "asin": "B00SFX2VXI",
+            "height": {
+                "unit": "IN",
+                "value": 0.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "Vinyl Decal Sticker for Computer Wall Car Mac Macbook and More - Inspriational Quote - Live with No Excuses, Love With No Regrets",
+            "normalizedName": "Vinyl Decal Sticker for Computer Wall Car Mac Macbook and More - Inspriational Quote - Live with No Excuses, Love With No Regrets",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        },
+        "B01EG9M9MC": {
+            "asin": "B01EG9M9MC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "InflatblesGiant Gigantic Donut Pool Float (Strawberry)",
+            "normalizedName": "InflatblesGiant Gigantic Donut Pool Float (Strawberry)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.749999992095
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

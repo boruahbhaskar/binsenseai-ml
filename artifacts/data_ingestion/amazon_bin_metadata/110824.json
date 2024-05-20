@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NIG2FG": {
+            "asin": "B000NIG2FG",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Power Bright PW1100-12 Power Inverter 1100 Watt 12 Volt DC To 110 Volt AC",
+            "normalizedName": "Power Bright PW1100-12 Power Inverter 1100 Watt 12 Volt DC To 110 Volt AC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B001B59LCQ": {
+            "asin": "B001B59LCQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "EXEDY KSA05 OEM Replacement Clutch Kit",
+            "normalizedName": "EXEDY KSA05 OEM Replacement Clutch Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B01COPZ6KC": {
+            "asin": "B01COPZ6KC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Grazing 12\" Vintage Arabic Numerals ,Shabby Beach, Weathered Beachy Boards Design ,Ocean Colors Old Paint Boards Printed Image, Rustic Mediterranean Style Wooden Decorative Round Wall Clock (Sky)",
+            "normalizedName": "Grazing 12\" Vintage Arabic Numerals ,Shabby Beach, Weathered Beachy Boards Design ,Ocean Colors Old Paint Boards Printed Image, Rustic Mediterranean Style Wooden Decorative Round Wall Clock (Sky)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00107I9XM": {
+            "asin": "B00107I9XM",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Oster Professional 103 Stim-U-Lax Massager",
+            "normalizedName": "Oster Professional 103 Stim-U-Lax Massager",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B019O3V228": {
+            "asin": "B019O3V228",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "#1 Parachute Camping Double Hammock By Bear Butt *START UP COMPANY \"Shaking The Eagle Out Of The Nest Since 2015\" (Blue)",
+            "normalizedName": "#1 Parachute Camping Double Hammock By Bear Butt *START UP COMPANY \"Shaking The Eagle Out Of The Nest Since 2015\" (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

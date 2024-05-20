@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P8ZAWK0": {
+            "asin": "B00P8ZAWK0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Kirkland Signature Adults 50+ Mature Multi, 400 Tablets",
+            "normalizedName": "Kirkland Signature Adults 50+ Mature Multi, 400 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00X650PME": {
+            "asin": "B00X650PME",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Disturbed Friends - This game should be banned.",
+            "normalizedName": "Disturbed Friends - This game should be banned.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

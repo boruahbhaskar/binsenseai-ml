@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007R8XGKY": {
+            "asin": "B007R8XGKY",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Celsius Raspberry Acai Green Tea, 12-Ounce Cans (Pack of 12)",
+            "normalizedName": "(Pack of 12) Celsius Raspberry Acai Green Tea, 12-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.20999999143799
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00K1LRDXK": {
+            "asin": "B00K1LRDXK",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "3-pack OnePurify MWF Water Filter Replacement Cartridge for Kenmore, GE, Aqua Fresh, Swift Green, Water Sentinel, Brita, Hotpoint",
+            "normalizedName": "3-pack OnePurify MWF Water Filter Replacement Cartridge for Kenmore, GE, Aqua Fresh, Swift Green, Water Sentinel, Brita, Hotpoint",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

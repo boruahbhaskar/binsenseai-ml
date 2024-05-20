@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AWKJPOA": {
+            "asin": "B00AWKJPOA",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "FujiFilm Instax Mini 8 with Strap and Batteries (Blue)",
+            "normalizedName": "FujiFilm Instax Mini 8 with Strap and Batteries (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00HQ5J5NA": {
+            "asin": "B00HQ5J5NA",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "StealStreet SS-G-54386 White Tiger Cub Stretching Figurine With Light Blue Eyes, 8.25\"",
+            "normalizedName": "StealStreet SS-G-54386 White Tiger Cub Stretching Figurine With Light Blue Eyes, 8.25\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

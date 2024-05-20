@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ZRV3AU": {
+            "asin": "B004ZRV3AU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Diamond Tech Crafts G2 Bottle Cutter",
+            "normalizedName": "Diamond Tech Crafts G2 Bottle Cutter",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00CUB6UCE": {
+            "asin": "B00CUB6UCE",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "Teenage Mutant Ninja Turtles Shredder #2 Action Figure",
+            "normalizedName": "Teenage Mutant Ninja Turtles Shredder #2 Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601897719786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.480314953
+            }
+        },
+        "B019CXXZ2U": {
+            "asin": "B019CXXZ2U",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "The Original GORILLA GRIP (TM) Non-Slip Spa Bath Pillow Featuring Powerful Gripping Technology, 19.5\" x 15\", Luxury 3-Panel Design.",
+            "normalizedName": "The Original GORILLA GRIP (TM) Non-Slip Spa Bath Pillow Featuring Powerful Gripping Technology, 19.5\" x 15\", Luxury 3-Panel Design.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

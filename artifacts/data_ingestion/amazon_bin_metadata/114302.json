@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VGFUEE": {
+            "asin": "B000VGFUEE",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Dr. Bob's - Neck Wrap Heating Pad - 24\" x 23\", 4 - Heat Settings, Dry / Moist Heat",
+            "normalizedName": "Dr. Bob's - Neck Wrap Heating Pad - 24\" x 23\", 4 - Heat Settings, Dry / Moist Heat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B0051B4MDO": {
+            "asin": "B0051B4MDO",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "1 X 6\" X 12\" Cylinder Vase for Use with Flower or Candle Wedding Centerpieces",
+            "normalizedName": "1 X 6\" X 12\" Cylinder Vase for Use with Flower or Candle Wedding Centerpieces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00QMDVSIW": {
+            "asin": "B00QMDVSIW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.322834628
+            },
+            "name": "DC Fix 346-0647 Spring Chapel Window Film",
+            "normalizedName": "DC Fix 346-0647 Spring Chapel Window Film",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.181102361
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YQVWQS8": {
+            "asin": "B00YQVWQS8",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Neewer&reg; 8\"/20cm Black Iron Base Desk Microphone Stand with Microphone Clip",
+            "normalizedName": "Neewer&reg; 8\"/20cm Black Iron Base Desk Microphone Stand with Microphone Clip",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640403265454
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B01B8N9L2A": {
+            "asin": "B01B8N9L2A",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "RR Dog-Toy-Owl",
+            "normalizedName": "RR Dog-Toy-Owl",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

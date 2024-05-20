@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EXUB3E": {
+            "asin": "B000EXUB3E",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "NuGo All-Natural Nutrition Bar, Vanilla Yogurt, 1.76-Ounce Bars (Pack of 15)",
+            "normalizedName": "(Pack of 15) NuGo All-Natural Nutrition Bar, Vanilla Yogurt, 1.76-Ounce Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00WHDN3BQ": {
+            "asin": "B00WHDN3BQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999999999998
+            },
+            "name": "ZERDSKY Men's Slim Fit Solid Color French Cuff Dress Shirt(Cufflinks Included) 8871",
+            "normalizedName": "ZERDSKY Men's Slim Fit Solid Color French Cuff Dress Shirt(Cufflinks Included) 8871",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0064WIKWI": {
+            "asin": "B0064WIKWI",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Harry S Truman Bobblehead",
+            "normalizedName": "Harry S Truman Bobblehead",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01AXAMPMM": {
+            "asin": "B01AXAMPMM",
+            "height": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.3622047118
+            },
+            "name": "Educational Insights Design & Drill Power Play Vehicles Race Car",
+            "normalizedName": "Educational Insights Design & Drill Power Play Vehicles Race Car",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.763698096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        },
+        "B01B4R9O9K": {
+            "asin": "B01B4R9O9K",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Zikee Laptop Sleeve Case Bag 13 13.3 14 inch Canvas Fabric Notebook Computer Briefcase Carrying Cover with pocket&handle, for Acer Chromebook 14/Asus Zenbook&Asus VivoBook/Dell/Lenovo/HP stream 13.3",
+            "normalizedName": "Zikee Laptop Sleeve Case Bag 13 13.3 14 inch Canvas Fabric Notebook Computer Briefcase Carrying Cover with pocket&handle, for Acer Chromebook 14/Asus Zenbook&Asus VivoBook/Dell/Lenovo/HP stream 13.3",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DD6OD92": {
+            "asin": "B00DD6OD92",
+            "height": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Rola-Chem TB-1-24-02 Scum Bug Oil Absorbing Sponge for Swimming Pools (2 Pack)",
+            "normalizedName": "(2 Pack) Rola-Chem TB-1-24-02 Scum Bug Oil Absorbing Sponge for Swimming Pools",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00VTTZVEQ": {
+            "asin": "B00VTTZVEQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Phitz Bass Guitar Case, Mocha - PH42324SFB",
+            "normalizedName": "Phitz Bass Guitar Case, Mocha - PH42324SFB",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

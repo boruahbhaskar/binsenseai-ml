@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DMPGFSQ": {
+            "asin": "B00DMPGFSQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Comfortable Travel Pillows - Comfort Master Travel Neck Pillow - Made From High Quality Memory Foam For Neck Pain And Travel - The Neck Pillow Comes With A Soft Washable Velvet Cover, Purple",
+            "normalizedName": "Comfortable Travel Pillows - Comfort Master Travel Neck Pillow - Made From High Quality Memory Foam For Neck Pain And Travel - The Neck Pillow Comes With A Soft Washable Velvet Cover, Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00LV0ZQ52": {
+            "asin": "B00LV0ZQ52",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "ALEX Toys Artist Studio 12-Piece Wooden Dough Tools Set",
+            "normalizedName": "ALEX Toys Artist Studio 12-Piece Wooden Dough Tools Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

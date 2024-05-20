@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GC3CPBQ": {
+            "asin": "B00GC3CPBQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Tough 1 Nylon Hay Tote Bag in Prints, Tooled Leather Black",
+            "normalizedName": "Tough 1 Nylon Hay Tote Bag in Prints, Tooled Leather Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00SSXNGB6": {
+            "asin": "B00SSXNGB6",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.599999981028002
+            },
+            "name": "Rubie's Men's Avengers 2 Age of Ultron Vision Top Cape and Mask, Multi, Standard",
+            "normalizedName": "Rubie's Men's Avengers 2 Age of Ultron Vision Top Cape and Mask, Multi, Standard",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

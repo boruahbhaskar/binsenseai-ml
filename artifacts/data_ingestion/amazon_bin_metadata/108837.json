@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013WDJQPQ": {
+            "asin": "B013WDJQPQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "RipaFire\u00ae Apple Shape Anion Humidifier Mini USB Mist Air Humidifier Purifier for Bedrooms Living Rooms Car Home and Office (Yellow)",
+            "normalizedName": "RipaFire\u00ae Apple Shape Anion Humidifier Mini USB Mist Air Humidifier Purifier for Bedrooms Living Rooms Car Home and Office (Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.529104028022095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01D8BC1DG": {
+            "asin": "B01D8BC1DG",
+            "height": {
+                "unit": "IN",
+                "value": 0.7874015731968504
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "UNMCORE 3.5MM Stereo Male To Female AUX Extension Audio Cable for All 3.5mm-Enabled Devices (1M) - Black",
+            "normalizedName": "UNMCORE 3.5MM Stereo Male To Female AUX Extension Audio Cable for All 3.5mm-Enabled Devices (1M) - Black",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.749999992095
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

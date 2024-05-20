@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009B7U7FQ": {
+            "asin": "B009B7U7FQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "SAN Rawfusion, Vanilla Bean, .99 Pound",
+            "normalizedName": "SAN Rawfusion, Vanilla Bean, .99 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00F9IWWIQ": {
+            "asin": "B00F9IWWIQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Dog Waste Poop Bags, 300 Count Blue, by Bark+",
+            "normalizedName": "Dog Waste Poop Bags, 300 Count Blue, by Bark+",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008OME2QE": {
+            "asin": "B008OME2QE",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "PUNT SURF Ripper Traction Pad [Black] - 3 Piece Stomp Grip Track Pad For Surfing and Skimboarding with the Stickiest 3M Adhesive. Fits All Boards - Surfboards, Shortboards, Longboards, Skim Boards",
+            "normalizedName": "PUNT SURF Ripper Traction Pad [Black] - 3 Piece Stomp Grip Track Pad For Surfing and Skimboarding with the Stickiest 3M Adhesive. Fits All Boards - Surfboards, Shortboards, Longboards, Skim Boards",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B013DEC1YM": {
+            "asin": "B013DEC1YM",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Golden Retrievers 2016 Wall Calendar",
+            "normalizedName": "Golden Retrievers 2016 Wall Calendar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

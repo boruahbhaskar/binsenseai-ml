@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003U07CNK": {
+            "asin": "B003U07CNK",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Thermos Star Wars Novelty Lunch Kit - Clone Trooper",
+            "normalizedName": "Thermos Star Wars Novelty Lunch Kit - Clone Trooper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00763LZWQ": {
+            "asin": "B00763LZWQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Oral-B Pro-Health Clinical Pro-Flex Medium Toothbrush, 2 Count, (Colors May Vary)",
+            "normalizedName": "Oral-B Pro-Health Clinical Pro-Flex Medium Toothbrush, 2 Count, (Colors May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00X7TEHAU": {
+            "asin": "B00X7TEHAU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.749999989035
+            },
+            "name": "Cable Matters 10Gb 40Gb Multimode OM3 Duplex 50/125 OFNP Fiber Patch Cable LC to LC - 15m",
+            "normalizedName": "Cable Matters 10Gb 40Gb Multimode OM3 Duplex 50/125 OFNP Fiber Patch Cable LC to LC - 15m",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.249999990565
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

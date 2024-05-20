@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006U2HD2": {
+            "asin": "B0006U2HD2",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Farm Innovators Model TC-3 Cold Weather Thermo Cube Thermostatically Controlled Outlet - On at 35-Degrees/Off at 45-Degrees",
+            "normalizedName": "Farm Innovators Model TC-3 Cold Weather Thermo Cube Thermostatically Controlled Outlet - On at 35-Degrees/Off at 45-Degrees",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B002BH3N2C": {
+            "asin": "B002BH3N2C",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Sonic & Sega All-Stars Racing",
+            "normalizedName": "Sonic & Sega All-Stars Racing",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00OKCRZ7A": {
+            "asin": "B00OKCRZ7A",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Adafruit Assembled Data Logging shield for Arduino [ADA1141]",
+            "normalizedName": "Adafruit Assembled Data Logging shield for Arduino [ADA1141]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

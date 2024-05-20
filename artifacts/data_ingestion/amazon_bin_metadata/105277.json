@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KAWSJUQ": {
+            "asin": "B00KAWSJUQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Zipfizz Healthy Energy Drink Mix, Orange Cream, 20-count",
+            "normalizedName": "Zipfizz Healthy Energy Drink Mix, Orange Cream, 20-count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01F36HZZI": {
+            "asin": "B01F36HZZI",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Stella Artois Chalice Glass, 33 cl",
+            "normalizedName": "Stella Artois Chalice Glass, 33 cl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

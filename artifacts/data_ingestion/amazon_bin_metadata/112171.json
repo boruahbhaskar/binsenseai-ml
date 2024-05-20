@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F46300M": {
+            "asin": "B00F46300M",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Disney Mickey Mouse Clubhouse Clubhouse Pals",
+            "normalizedName": "Disney Mickey Mouse Clubhouse Clubhouse Pals",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00KMTB8K0": {
+            "asin": "B00KMTB8K0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "ZJchao Long Stem Dipped 24k Gold Trim Red Rose in Gold Gift Box with Stand (Yellow Rose with Stand)",
+            "normalizedName": "ZJchao Long Stem Dipped 24k Gold Trim Red Rose in Gold Gift Box with Stand (Yellow Rose with Stand)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

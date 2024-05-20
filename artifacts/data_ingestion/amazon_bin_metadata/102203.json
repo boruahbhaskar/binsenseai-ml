@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002TJAXM": {
+            "asin": "B0002TJAXM",
+            "height": {
+                "unit": "IN",
+                "value": 3.249999996685
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Hill's Science Diet Adult Optimal Care Savory Salmon Entree Minced Cat Food, 3-Ounce Can, 24-Pack",
+            "normalizedName": "24-Pack Hill's Science Diet Adult Optimal Care Savory Salmon Entree Minced Cat Food, 3-Ounce Can,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00UBMO2VA": {
+            "asin": "B00UBMO2VA",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.3307086468
+            },
+            "name": "HP 201A (CF402A) Yellow Original LaserJet Toner Cartridge",
+            "normalizedName": "HP 201A (CF402A) Yellow Original LaserJet Toner Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200830252405
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B01BSEQKI2": {
+            "asin": "B01BSEQKI2",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Rubie's Men's Batman v Superman: Dawn of Justice Deluxe Batman Costume, Multi, X-Large",
+            "normalizedName": "Rubie's Men's Batman v Superman: Dawn of Justice Deluxe Batman Costume, Multi, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

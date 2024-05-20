@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0078112699": {
+            "asin": "0078112699",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Contemporary Management",
+            "normalizedName": "Contemporary Management",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.799999996813355
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "0716758407": {
+            "asin": "0716758407",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989086
+            },
+            "name": "Biochemistry: A Short Course",
+            "normalizedName": "Biochemistry: A Short Course",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B004L6Q2UQ": {
+            "asin": "B004L6Q2UQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "60 Whirls (black)    (5/Pkg)",
+            "normalizedName": "60 Whirls (black)    (5/Pkg)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01C6WE640": {
+            "asin": "B01C6WE640",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "DAYBETTER SMD5050 Flexible Changing Color LED Strip Light Kits 300LEDs 5M/16.4Ft DC12V Waterproof With 24Key IR Remote Controller And 5A Power Supply",
+            "normalizedName": "DAYBETTER SMD5050 Flexible Changing Color LED Strip Light Kits 300LEDs 5M/16.4Ft DC12V Waterproof With 24Key IR Remote Controller And 5A Power Supply",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

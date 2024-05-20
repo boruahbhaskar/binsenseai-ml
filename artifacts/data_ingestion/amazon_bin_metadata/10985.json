@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003XGH0YC": {
+            "asin": "B003XGH0YC",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Funko Joker POP Heroes",
+            "normalizedName": "Funko Joker POP Heroes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        },
+        "B0098ZSOX8": {
+            "asin": "B0098ZSOX8",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Seaflo 2000 GPH 12v Boat Marine Plumbing Electric Bilge Pumps",
+            "normalizedName": "Seaflo 2000 GPH 12v Boat Marine Plumbing Electric Bilge Pumps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00BGA9Y3W": {
+            "asin": "B00BGA9Y3W",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Destiny - Standard Edition - PlayStation 4",
+            "normalizedName": "Destiny - Standard Edition - PlayStation 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01DWG3I1Q": {
+            "asin": "B01DWG3I1Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Sugar Skull Pet Odor Exterminator 13 Ounce Jar Candle",
+            "normalizedName": "Sugar Skull Pet Odor Exterminator 13 Ounce Jar Candle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

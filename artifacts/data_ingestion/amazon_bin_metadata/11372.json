@@ -1,0 +1,37 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MRXSH9E": {
+            "asin": "B00MRXSH9E",
+            "height": null,
+            "length": null,
+            "name": "See Design Ikat Grey Twin Quilt",
+            "normalizedName": "See Design Ikat Grey Twin Quilt",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        },
+        "B01BTNMGHG": {
+            "asin": "B01BTNMGHG",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Organic Lavender Flowers (Extra Grade - Dried) - 16oz Resealable Bag (1lb) - 100% Raw From France - by Feel Good Organics",
+            "normalizedName": "Organic Lavender Flowers (Extra Grade - Dried) - 16oz Resealable Bag (1lb) - 100% Raw From France - by Feel Good Organics",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XLVBL4O": {
+            "asin": "B00XLVBL4O",
+            "height": {
+                "unit": "IN",
+                "value": 4.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.25
+            },
+            "name": "Strength of God, Michael the Angel Collectible Figurine",
+            "normalizedName": "Strength of God, Michael the Angel Collectible Figurine",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        },
+        "B017J9IDC6": {
+            "asin": "B017J9IDC6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "#1 Jump Rope - 100% Lifetime Guarantee - ITEMporia&reg; Fast Speed Cable for Cross Fitness Training, Boxing, Exercise and Workouts - Designed to Increase RPMs, Master Double Unders",
+            "normalizedName": "#1 Jump Rope - 100% Lifetime Guarantee - ITEMporia&reg; Fast Speed Cable for Cross Fitness Training, Boxing, Exercise and Workouts - Designed to Increase RPMs, Master Double Unders",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

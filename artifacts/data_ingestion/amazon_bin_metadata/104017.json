@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WYANAG": {
+            "asin": "B000WYANAG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Phil Wood 3-Ounce Grease Tube",
+            "normalizedName": "Phil Wood 3-Ounce Grease Tube",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00M3P7KEE": {
+            "asin": "B00M3P7KEE",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "name": "2014 SHOPKINS FIGURES - POPSI COOL #122 SEASON 1 - (SPECIAL EDITION) by Shopkins",
+            "normalizedName": "2014 SHOPKINS FIGURES - POPSI COOL #122 SEASON 1 - (SPECIAL EDITION) by Shopkins",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.49999999949
+            }
+        },
+        "B00O7TS1H4": {
+            "asin": "B00O7TS1H4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "GE Microwave Light Bulb AP4380308 Halogen Light Bulb Genuine PS2351821 by GFP",
+            "normalizedName": "GE Microwave Light Bulb AP4380308 Halogen Light Bulb Genuine PS2351821 by GFP",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B00U8ZZLVK": {
+            "asin": "B00U8ZZLVK",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Black Packable UV Ribbon Straw Sun Hat, Large 4.75 In Brim, Foldable UPF 50",
+            "normalizedName": "Black Packable UV Ribbon Straw Sun Hat, Large 4.75 In Brim, Foldable UPF 50",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

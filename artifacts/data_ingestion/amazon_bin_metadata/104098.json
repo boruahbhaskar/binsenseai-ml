@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001G7R3P6": {
+            "asin": "B001G7R3P6",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Palmer's Cocoa Butter Formula Cream Soap with Vitamin E, 3.5-Ounce Bars (Pack of 12)",
+            "normalizedName": "(Pack of 12) Palmer's Cocoa Butter Formula Cream Soap with Vitamin E, 3.5-Ounce Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00PS1FA8S": {
+            "asin": "B00PS1FA8S",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Jurassic World Bashers & Biters Pachycephalosaurus Figure",
+            "normalizedName": "Jurassic World Bashers & Biters Pachycephalosaurus Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01CJ27PWC": {
+            "asin": "B01CJ27PWC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "Pokemon Jirachi Mythical Collection Box",
+            "normalizedName": "Pokemon Jirachi Mythical Collection Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

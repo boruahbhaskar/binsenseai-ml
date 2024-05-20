@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DVEGCK4": {
+            "asin": "B00DVEGCK4",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Rubbermaid LunchBlox Kids Tall Lunch Kit, Blue/Orange/Green, 1866739",
+            "normalizedName": "Rubbermaid LunchBlox Kids Tall Lunch Kit, Blue/Orange/Green, 1866739",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00GIF9YMQ": {
+            "asin": "B00GIF9YMQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Tervis 1060862 Georgia University Emblem Individual Tumbler with Red lid, 24 oz, Clear",
+            "normalizedName": "Tervis 1060862 Georgia University Emblem Individual Tumbler with Red lid, 24 oz, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        },
+        "B00MZX4WRC": {
+            "asin": "B00MZX4WRC",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Philips 452466 65 Watt Equivalent Slim Style BR30 LED Dimmable Daylight Light Bulb",
+            "normalizedName": "Philips 452466 65 Watt Equivalent Slim Style BR30 LED Dimmable Daylight Light Bulb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.009999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

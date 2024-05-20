@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FY80WAG": {
+            "asin": "B00FY80WAG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Dorman 923-255 Third Brake Lamp Assembly",
+            "normalizedName": "Dorman 923-255 Third Brake Lamp Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B017TR1L5E": {
+            "asin": "B017TR1L5E",
+            "height": {
+                "unit": "IN",
+                "value": 2.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.4
+            },
+            "name": "Stfantasy Fashion Short Straight Brown Synthetic Wig for Men",
+            "normalizedName": "Stfantasy Fashion Short Straight Brown Synthetic Wig for Men",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5180863157
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O66G1KM": {
+            "asin": "B00O66G1KM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "BeoPlay H6 with DJ Khaled - Red Golden",
+            "normalizedName": "BeoPlay H6 with DJ Khaled - Red Golden",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01CSVBEF8": {
+            "asin": "B01CSVBEF8",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "MLB Men's Synthetic Official Logo T-Shirt (Small, Seattle Mariners)",
+            "normalizedName": "MLB Men's Synthetic Official Logo T-Shirt (Small, Seattle Mariners)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01F36Q608": {
+            "asin": "B01F36Q608",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Max and Neo Reflective Nylon Metal Buckle Dog Collar - We Donate a Collar to a Dog Rescue for Every Collar Sold (LARGE, PINK)",
+            "normalizedName": "Max and Neo Reflective Nylon Metal Buckle Dog Collar - We Donate a Collar to a Dog Rescue for Every Collar Sold (LARGE, PINK)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

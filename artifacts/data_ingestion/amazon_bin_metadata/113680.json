@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RAG7Z9Q": {
+            "asin": "B00RAG7Z9Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Fisher-Price Thomas the Train Take-n-Play Diesel 10 Vehicle",
+            "normalizedName": "Fisher-Price Thomas the Train Take-n-Play Diesel 10 Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01EV69QQC": {
+            "asin": "B01EV69QQC",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Micro USB Cable Braided, 6Ft 2-Pack Long High Speed Gold-Plated Premium Quick Nylon USB A To Micro B Male Data Charger Cable Cord for Samsung Galaxy S6/S7/Edge, Note 4/5 LG HTC ZTE BLU Android Phones",
+            "normalizedName": "2-Pack Micro USB Cable Braided, 6Ft Long High Speed Gold-Plated Premium Quick Nylon USB A To Micro B Male Data Charger Cable Cord for Samsung Galaxy S6/S7/Edge, Note 4/5 LG HTC ZTE BLU Android Phones",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

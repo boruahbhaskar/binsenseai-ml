@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0053XYM12": {
+            "asin": "B0053XYM12",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Kwikset Katara Right-Handed Half-Dummy Lever in Polished Chrome",
+            "normalizedName": "Kwikset Katara Right-Handed Half-Dummy Lever in Polished Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.71
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00GXKUROK": {
+            "asin": "B00GXKUROK",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Compression Socks Mojo Recovery Socks White Medium",
+            "normalizedName": "Compression Socks Mojo Recovery Socks White Medium",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00OILMEI8": {
+            "asin": "B00OILMEI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Swingline Stapler, Optima 40, Compact, Low Force, 40 Sheets, Black/Silver (S7087842)",
+            "normalizedName": "Swingline Stapler, Optima 40, Compact, Low Force, 40 Sheets, Black/Silver (S7087842)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

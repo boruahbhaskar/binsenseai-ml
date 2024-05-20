@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009F6Q752": {
+            "asin": "B009F6Q752",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "Monarch Flat Black Powder Coated Aluminum Hammer Rain Chain, 8.5-Feet",
+            "normalizedName": "Monarch Flat Black Powder Coated Aluminum Hammer Rain Chain, 8.5-Feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B00TI7QILG": {
+            "asin": "B00TI7QILG",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "GPTOYS F2C Aviax Remote Control Quadcopter Drone Helicopter with Transmitter & Gyro System & HD Camera & LED Lights & 4G SD Card & SD Card Reader",
+            "normalizedName": "GPTOYS F2C Aviax Remote Control Quadcopter Drone Helicopter with Transmitter & Gyro System & HD Camera & LED Lights & 4G SD Card & SD Card Reader",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B014P0K2A8": {
+            "asin": "B014P0K2A8",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Clorox Toilet Wand Disinfecting Refills, Rainforest Rush, 30 Count",
+            "normalizedName": "Clorox Toilet Wand Disinfecting Refills, Rainforest Rush, 30 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

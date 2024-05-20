@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004H1P7IS": {
+            "asin": "B004H1P7IS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "MONSTER 114014 700 SERIESTHX HDMI(R) CABLE, 8 FT",
+            "normalizedName": "MONSTER 114014 700 SERIESTHX HDMI(R) CABLE, 8 FT",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01E6RNTFA": {
+            "asin": "B01E6RNTFA",
+            "height": {
+                "unit": "IN",
+                "value": 3.90157479917
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.20078739117
+            },
+            "name": "GVESS Comfortable Baby Wrap Sling Carrier Toddler Natural Cotton Nursing Baby Wrap Great Suitable for Newborns Wrap and Discrete Easy Breastfeeding(Gray)",
+            "normalizedName": "GVESS Comfortable Baby Wrap Sling Carrier Toddler Natural Cotton Nursing Baby Wrap Great Suitable for Newborns Wrap and Discrete Easy Breastfeeding(Gray)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668660244
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.90157479815
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008LMB5": {
+            "asin": "B00008LMB5",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.8346456562
+            },
+            "name": "Original Sun Singles 1955-1958 [Vinyl]",
+            "normalizedName": "Original Sun Singles 1955-1958 [Vinyl]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.54
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.0472440822
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

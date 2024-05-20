@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0095ZBUGY": {
+            "asin": "B0095ZBUGY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Brother Printer LC103BK High Yield Ink Cartridge, Black",
+            "normalizedName": "Brother Printer LC103BK High Yield Ink Cartridge, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00BNQWCWY": {
+            "asin": "B00BNQWCWY",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Stanley Proto J1210H-T500 Full Polish Combination Wrench, 5/16-Inch, 6 Point",
+            "normalizedName": "Stanley Proto J1210H-T500 Full Polish Combination Wrench, 5/16-Inch, 6 Point",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            }
+        },
+        "B00I9ICJWM": {
+            "asin": "B00I9ICJWM",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Riley & Company Funny Bones Cling Mounted Stamp, 2.75 by 1-Inch, I Wanted to Go Camping",
+            "normalizedName": "Riley & Company Funny Bones Cling Mounted Stamp, 2.75 by 1-Inch, I Wanted to Go Camping",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00MHVPICK": {
+            "asin": "B00MHVPICK",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Field Logic IQ Pro 5-Pin Bowsight (Left Hand Model)",
+            "normalizedName": "Field Logic IQ Pro 5-Pin Bowsight (Left Hand Model)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

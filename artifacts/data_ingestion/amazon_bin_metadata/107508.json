@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L32K734": {
+            "asin": "B00L32K734",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "MENDA 34440 Shop Traveler Variety Pack, 5 Colors with Reclosable Zipper, Holds \"A\" Size 8 1/2\" x 11\" Documents, Vinyl (Pack of 25)",
+            "normalizedName": "(Pack of 25) MENDA 34440 Shop Traveler Variety Pack, 5 Colors with Reclosable Zipper, Holds \"A\" Size 8 1/2\" x 11\" Documents, Vinyl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00LSU4QD8": {
+            "asin": "B00LSU4QD8",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Rain Design iLevel 2 Adjustable Height Notebook Stand (12031)",
+            "normalizedName": "Rain Design iLevel 2 Adjustable Height Notebook Stand (12031)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B011L1VNHU": {
+            "asin": "B011L1VNHU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Mercer Culinary 7 Piece Plating Spoon Kit",
+            "normalizedName": "Mercer Culinary 7 Piece Plating Spoon Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B018R4C8L4": {
+            "asin": "B018R4C8L4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "iTinte 126XL Compatible Ink Cartridges (2 Black,1 Cyan,1 Magenta,1 Yellow) for Epson Workforce 845, Workforce 645, Epson Workforce 545, Epson Stylus NX430 and more Epson printers",
+            "normalizedName": "iTinte 126XL Compatible Ink Cartridges (2 Black,1 Cyan,1 Magenta,1 Yellow) for Epson Workforce 845, Workforce 645, Epson Workforce 545, Epson Stylus NX430 and more Epson printers",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

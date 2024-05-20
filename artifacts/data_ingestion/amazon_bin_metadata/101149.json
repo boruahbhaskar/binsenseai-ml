@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000PCMCJ0": {
+            "asin": "B000PCMCJ0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Turtle Play a 500-Piece Jigsaw Puzzle by Sunsout Inc.",
+            "normalizedName": "Turtle Play a 500-Piece Jigsaw Puzzle by Sunsout Inc.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B005DVUU06": {
+            "asin": "B005DVUU06",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Campbell's Slow Kettle Style, Tuscan-Style Chicken & White Bean, 15.5 Ounce (Pack of 8)",
+            "normalizedName": "(Pack of 8) Campbell's Slow Kettle Style, Tuscan-Style Chicken & White Bean, 15.5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00SQIEHNO": {
+            "asin": "B00SQIEHNO",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "Elegant Comfort \u00ae 1500 Thread Count - WRINKLE RESISTANT - Egyptian Quality 3pc Duvet Cover Set, Solid, King/Cal-King, White",
+            "normalizedName": "Elegant Comfort \u00ae 1500 Thread Count - WRINKLE RESISTANT - Egyptian Quality 3pc Duvet Cover Set, Solid, King/Cal-King, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.81
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}
