@@ -45,8 +45,8 @@ def verify_item_quantity(image,asin,input_quantity):
     with torch.no_grad():
         output = model(image)
 # Forward pass through the model
-    with torch.no_grad():
-        output = model(image)
+    # with torch.no_grad():
+    #     output = model(image)
 
     # Make predictions using the trained model
 
