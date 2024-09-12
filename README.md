@@ -1,4 +1,4 @@
-# Binsense AI Capstone project
+# Binsense AI project
 
 
 ## Workflows
@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/bmsg7/binsenseai
+https://github.com/boruahbhaskar/binsenseai-ml
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -62,7 +62,7 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/bmsg7/binsenseai.mlflow \
+MLFLOW_TRACKING_URI=https://dagshub.com/boruahbhaskar/binsenseai-ml.mlflow \
 MLFLOW_TRACKING_USERNAME= \
 MLFLOW_TRACKING_PASSWORD= \
 python script.py
